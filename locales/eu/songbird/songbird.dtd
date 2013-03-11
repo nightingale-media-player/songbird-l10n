@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Jarraitu">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Ondorengo luzapena duten musika fitxategiak kopiatu gailuan:">
+<!ENTITY menu.errorconsole "Errore kontsola">
+<!ENTITY menu.edit.paste "Itsatsi">
+<!ENTITY tooltip.hide "Ezkutatu">
+<!ENTITY tooltip.browser.subscription "Orri honetara harpidetu">
+<!ENTITY smart.playlistcondition.library "Liburutegia">
+<!ENTITY menu.help.bugz "Errore baten berri eman">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Karpeta hau zelatu aldaketen zain">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Momentu honetako tamaina">
+<!ENTITY trackeditor.title "Metadatu editorea">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Aukeratu guztia">
+<!ENTITY device.tools.restore_device.label "Lehenetsitako ezarpenak berrezarri gailuan">
+<!ENTITY addMediaToPlaylistCmd.label "Erreprodukzio-zerrendara gehitu">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "artista">
+<!ENTITY menu.file.metadata.accesskey "M">
+<!ENTITY menu.edit.redo.accesskey "B">
+<!ENTITY mediacore.error.preface "&brandShortName;ek ondorengo erreprodukzio erroreak aurkitu ditu:">
+<!ENTITY hotkeys.set "Ezarri">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "Kodegailurik eztago eskuragai gailu honentzako">
+<!ENTITY fetch_album_art.dialog.title "Albumaren azala lortu">
+<!ENTITY menu.controls "Kontrolak">
+<!ENTITY tooltip.control.resume "Berrabiarazi">
+<!ENTITY feedback.dialog.no "Ez">
+<!ENTITY equalizer.preset.party "Jaia">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Aukeratu gehigarri bat">
+<!ENTITY device.capacity.free.label "Askea">
+<!ENTITY playMediaCmd.accesskey "e">
+<!ENTITY hotkeys.info "Laster-tekla orokorrekin &brandShortName; kontrolatu dezakezu nahiz eta berau ez izan aktibatutako aplikazioa.  Laster-tekla konbinazio batzuek tekla aldatzaileak sartu behar dituzte beste aplikazioekin nahi ez diren interferentziak gutxiagotzeko.">
+<!ENTITY device.capacity.music.label "Musika">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "L">
+<!ENTITY tooltip.browser.stop "Arakatzailea gelditu">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "Ebaki">
+<!ENTITY cdrip.prefpane.providers.title "CD bilaketa hornitzailea">
+<!ENTITY subscribe.title "Harpidetu">
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY smart.window "Erreprodukzio-zerrenda jakituna">
+<!ENTITY openImageCmdInDefaultBrowser.label "Ireki irudia nabigatzaile lehenetsian">
+<!ENTITY menu.help.about.accesskey "S">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Gailua formateatu">
+<!ENTITY device.tools.reset_warnings.label "Ohar mezuak garbitu">
+<!ENTITY cdrip.prefpane.quality_desc "Kbps kalitate ezarpen handiagoak audio kalitate hobea eta fitxategi tamaina handiagoa dakar.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "idatzi zure posta elektronikoa egunean izateko">
+<!ENTITY trackeditor.addtag.title "Etiketa gehitu">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY prefs.security.addons.label "Gehigarri instalazioa">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa.accesskey "G">
+<!ENTITY device.tools.product_registration.label "Produktua erregistratu">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Idatzi hemen luzapenen zerrenda koma batekin banatuz">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Erreprodukzio formatuak">
+<!ENTITY smart.high_rating "puntuazio altuena">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Ezkutatu besteak">
+<!ENTITY menu.edit.find.accesskey "B">
+<!ENTITY device.info.friendly_name.label "Izena">
+<!ENTITY device.unsupported_media.dialog.title "Fitxategi bateraezinak aurkitu dira">
+<!ENTITY cdrip.mediaview.format_label "Formatua:">
+<!ENTITY about.credits.heading.translators "Itzultzaileak">
+<!ENTITY menu.view "Ikusi">
+<!ENTITY menu.preferences "Aukerak...">
+<!ENTITY command.device.canceldevicedelete "Ezabatzea gelditu">
+<!ENTITY enable_recommended_addons_update.accesskey "g">
+<!ENTITY wizard.button.finish.label "Bukatu">
+<!ENTITY menu.file.smart.accesskey "J">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; ikaragarri pertsonalizatu daitekeen ohizko multimedia erreproduzitzaileen beste aukera bat da.">
+<!ENTITY device.dialog.wait_for_completion.msg "Gailu jarduera guztiak egiteko itxaroten. Egin klik &quot;Irten&quot; botoian gelditzeko eta aplikaziotik irteteko.">
+<!ENTITY device.sync.playlist.title "Izena">
+<!ENTITY hotkeys.useglobalhotkeys "Laster-tekla orokorrak erabili">
+<!ENTITY subscribe.destinationfolder "Helburu karpeta aukeratu:">
+<!ENTITY playqueue.label "Erreprodukzio Ilara">
+<!ENTITY playqueue.instructions "Narraz eraman eta askatu pistak edo erreprodukzio zerrendak hemen momentuko entzute ilara bat sortzeko">
+<!ENTITY first_run.welcome.description.line2 "Laguntzaile hau &brandShortName; instalatuta eta erabiltzeko prest jartzeko modu bizkor eta eraginkorra da.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Ez errepikatu">
+<!ENTITY command.device.canceldevicesync.accesskey "U">
+<!ENTITY device.tools.support.description "Azken sostengu berriak, erabiltzaile gidaliburuak, dokumentazioa, galdera ohikoenak eta produktu informazioa ikusi. Sostengu zerbitzuak beraien produktua erregistratu duten bezeroentzako daude eskuragarri.">
+<!ENTITY about.version "Bertsioa">
+<!ENTITY umsd.video.video_path_desc "Bideo fitxategiak gailuan kopiatzean ondorengo karpetan kokatu:">
+<!ENTITY smart.low_rating "puntuazio txikiena">
+<!ENTITY device.capacity.other.label "Beste bat">
+<!ENTITY device.tools.update_firmware.description "Zure gailua firmware izeneko barne programa batek kontrolatzen du. Balieteke firmware bertsio berriagoak argitaratu izana gailua ordenagailura konektatu zenuenetik.">
+<!ENTITY setupprogress.cancel "Utzi">
+<!ENTITY albumart.displaypane.selected.menu.paste "Itsatsi">
+<!ENTITY cdrip.mediaview.rip.modifiers "azel maius">
+<!ENTITY command.device.rip "Erauzi CD-a">
+<!ENTITY trackeditor.prev.accesskey "A">
+<!ENTITY tabs.closeTab "Itxi fitxa">
+<!ENTITY menu.edit.undo "Desegin">
+<!ENTITY first_run.add_ons.loading.label "Gomendatutako gehigarriak berreskuratzen.">
+<!ENTITY command.device.formatdevice "Formateatu">
+<!ENTITY albumart.displaypane.selected.menu.clear "Garbitu">
+<!ENTITY import_playlists_itunes_checkbox "Inportatu erreprodukzio-zerrendak">
+<!ENTITY menu.edit.cut "Ebaki">
+<!ENTITY mediaimporter.filtered_extensions.title "Multimedia inportatze oharra">
+<!ENTITY tooltip.control.play "Erreproduzitu">
+<!ENTITY tooltip.browser.mediapages "Multimedia ikusteko moduak aldatu...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "i">
+<!ENTITY device.info.battery.label "Bateria">
+<!ENTITY menu.edit.delete "Ezabatu">
+<!ENTITY import_library.dialog.title "Liburutegi bat inportatu">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "betetzen dituztenak:">
+<!ENTITY menu.mac.exit.modifiers "azel">
+<!ENTITY device.settings.disk.management.filename "Abesti fitxategiak">
+<!ENTITY about.credits.description.champs.link.post "inor baino urrunago joan diren Songbird erabiltzaile eta jarraitzaile sutsuak dira. Gure foroetako emankorrenak dira, Songbird erabiltzaile bakoitza erabiltzaile zoriontsu bat dela ziurtatzeko beti prest daudenak.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Bideoa">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Behera">
+<!ENTITY command.device.getdeviceinfo "Informazioa lortu">
+<!ENTITY rapi.library_write_disable.label "Blokeatu webguneek nire liburutegi eta gailuetan multimedia gehitzea/editatzea">
+<!ENTITY first_run.feedback.email.description "Harpidetu gure berripaperera azken bertsio eta eguneraketa garrantzitsuak ezagutzeko.">
+<!ENTITY device.sync.images.filecount "Argazkiak">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "&brandShortName;ek gailu hau antolatzea nahi ez baduzu, posible da ">
+<!ENTITY device.sync.header.label "Sinkronizazio ezarpenak">
+<!ENTITY first_run.import_media.radio.dont_import.label "Ez inportatu multimedia">
+<!ENTITY feedback.dialog.yes "Bai">
+<!ENTITY about.buttons.credits "Kredituak">
+<!ENTITY device.firmware.wizard.check.progress.title "Firmware eguneraketak bilatzen...">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "Hemen artista eta albumaren izena erantsi dezakezu. CD erauzketako erreprodukzio-zerrendan falta den informazioa editatu dezakezu.">
+<!ENTITY umsd.music.music_path_browse_msg "Musika fitxategiak kokatuko diren gailuko karpeta aukeratu.">
+<!ENTITY tooltip.maximize "Maximizatu/Leheneratu">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "GetSatisfaction foroan">
+<!ENTITY window.save "Gorde">
+<!ENTITY window.no "Ez">
+<!ENTITY tooltip.servicepane.newnode "Erreprodukzio-zerrenda berria">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Ireki markoa nabigatzaile lehenetsian">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.new "Erreprodukzio-zerrenda berria">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "i">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY watch_folder.prefs.watch_folder_label "Karpeta:">
+<!ENTITY smart.autoupdate "Automatikoki eguneratu">
+<!ENTITY playback.prefpane.ratings.enablewriting "Puntuazioen informazioa fitxategi bakoitzaren metadatuetan gorde.">
+<!ENTITY menu.help.keyboard "Laster-teklak">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Bilatu beharreko fitxategien izenak:">
+<!ENTITY menu.control.prev "Aurreko pista">
+<!ENTITY device.firmware.wizard.support.description "Sostengu baliabideak, galdera orokorrenak eta arazoak konpontzeko aholkuak hemen aurkitu daitezke">
+<!ENTITY window.apply "Aplikatu">
+<!ENTITY menu.file.smart "Erreprodukzio-zerrenda jakitun berria...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "Erroreen xehetasunak ikusi">
+<!ENTITY device.firmware.wizard.install.title "Firmwarea instalatzen...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "G">
+<!ENTITY menu.control.pause.button "Eten">
+<!ENTITY trackeditor.tab.summary.title "Laburpena">
+<!ENTITY playMediaCmd.label "Erreproduzitu">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Joan atzera">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Ez dago erreprodukzio-zerrendarik&gt;">
+<!ENTITY equalizer.title "Ekualizadorea">
+<!ENTITY import_library.import_command "Liburutegia inportatu">
+<!ENTITY cdrip.mediaview.view_tracks_button "Pistak ikusi">
+<!ENTITY window.browse "Bilatu...">
+<!ENTITY device.tools.restore_device.title "Berrezarri gailua">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Jarri gehien nahi duzun lortzaileen zerrenda lehengo.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Falta diren kodeken inguruko informazio gehiago lortzeko ikus:">
+<!ENTITY displaypane.default.image.post " menuan edo joan">
+<!ENTITY smart.songs "elementu">
+<!ENTITY menu.tools.getartwork "Albumaren azala lortu">
+<!ENTITY window.cancel "Utzi">
+<!ENTITY smart.genre "generoa">
+<!ENTITY menu.file.playlist.accesskey "E">
+<!ENTITY hotkeys.hotkey "Laster-tekla">
+<!ENTITY first_run.feedback.header.label "Lagundu &brandShortName; hobetzen">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "Esportatu erreprodukzio-zerrenda jakitunak">
+<!ENTITY device.tools.support.label "Sostengu baliabideak ikusi">
+<!ENTITY import_library.prefs.options_group_caption "Inportazio/Esportazio aukerak">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "On">
+<!ENTITY menu.file.remote.accesskey "H">
+<!ENTITY first_run.eula.language.label "Hizkuntza:">
+<!ENTITY device.settings.disk.management.label "Karpetaren egitura pertsonalizatu">
+<!ENTITY cdrip.lookup.multiple.description "Aukeratu ondorengo bat edo zeure informazioa erantsi.">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Gomendatutako gehigarriak">
+<!ENTITY tooltip.search "Bilatu">
+<!ENTITY recommended_add_ons.title "&brandShortName;en instalazioa">
+<!ENTITY menu.file.library.accesskey "L">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Karpetak jarraitu">
+<!ENTITY rapi.whitelist.label "Salbuespenak...">
+<!ENTITY menu.updateCmd.accessKey "b">
+<!ENTITY menu.file.url "Ireki helbidea...">
+<!ENTITY menu.downloadmgr "Deskargak...">
+<!ENTITY device.settings.auto_launch.checkbox.label "&brandShortName; ireki gailu hau aurkitzean">
+<!ENTITY first_run.itunes.checkbox.import.label "Pista eta erreprodukzio-zerrendak iTunes-etik inportatu">
+<!ENTITY cdrip.lookup.info_not_found.title "Ez da aurkitu CD-ari buruzko informaziorik">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "Ez bistaratu erreprodukzio errore gehiago">
+<!ENTITY device.firmware.wizard.repair.warning "Lehenetsitako ezarpenak berrezartzean &lt;strong class=&quot;loss-of-data-text&quot;&gt;gailuko multimedia guztia ezabatuko da&lt;/strong&gt;. Mesedez, egin zure fitxategi guztien kopia seguru bat jarraitu aurretik.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Erauzi CD-a">
+<!ENTITY wizard.button.cancel.label "Utzi">
+<!ENTITY tooltip.control.shuffle "Ausazko erreproduzitu aktibatuta">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "A">
+<!ENTITY menu.control.shuf.accesskey "A">
+<!ENTITY displaypane.default.image.tooltip "Gehigarri hautatzailearen ikonoa">
+<!ENTITY first_run.import_media.scan_directories.description "&brandShortName;ek zure ordenagailuan direktorio zehatz bat eskaneatuz multimedia inportatzen saiatzea nahi duzu?">
+<!ENTITY device.tools.product_registration.title "Produktuaren erregistroa">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "azel maius">
+<!ENTITY device.settings.disk.100percent.label "&#37;100">
+<!ENTITY trackeditor.tab.edit.title "Propietateak">
+<!ENTITY rapi.playback_read_disable.label "Blokeatu webguneek erreproduzitzen ari den multimediari buruzko informazioa lortzea">
+<!ENTITY menu.tools.reveal.modifiers "azel,maius">
+<!ENTITY menu.mac.hide "&brandShortName; ezkutatu">
+<!ENTITY device.sync.sync_all.label "Multimedia guztia sinkronizatu">
+<!ENTITY cdrip.mediaview.quality_label "Kalitatea:">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopiatu">
+<!ENTITY subscribe.days "egun">
+<!ENTITY smart.least_often "gutxien erreproduzitua">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Albuma">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Lortzaile lehentasunak">
+<!ENTITY mediacore.error.stop "Erreprodukzioa gelditu">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY albumart.displaypane.not_playing_message "Ez da ari ezer erreproduzitzen">
+<!ENTITY textbox.songbird_open_url "Erreproduzitzea nahi duzun multimediaren URL edo helbidea sartu:">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Gehigarriak">
+<!ENTITY menu.view.accesskey "I">
+<!ENTITY menu.mac.preferences.modifiers "azel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Ezarpenak">
+<!ENTITY cdrip.mediaview.settings_button "Ezarpenak">
+<!ENTITY cdinfo.other.label "Zeure artista eta album informazioa erantsi">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "&brandShortName; ezin da internetera konektatu">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Gelditu">
+<!ENTITY equalizer.preset.soft_rock "Soft Rock">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Aplikatu aukera erreprodukzio-zerrenda guztiari">
+<!ENTITY menu.control.pause.accesskey "E">
+<!ENTITY umsd.video.video_files_group "Bideo fitxategiak">
+<!ENTITY tooltip.browser.fwd "Joan aurrera">
+<!ENTITY command.device.stoprip.accesskey "G">
+<!ENTITY servicepane.title.label "Zerbitzu panela">
+<!ENTITY playback.prefpane.streaming.label "Sarea eta streaming">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ez izan kontuan gailu hau">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "K">
+<!ENTITY command.device.ejectcddevice "Kanporatu CD-a">
+<!ENTITY cdrip.mediaview.eject_cd_button "Kanporatu CD-a">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "gailu hau kontuan ez hartzea">
+<!ENTITY tooltip.displaypane.options "Eduki panelaren aukerak">
+<!ENTITY menu.tools.exportmedia "Liburutegiko aldaketak esportatu">
+<!ENTITY menu.mac.preferences "Hobespenak...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Ordezkatu &brandShortName;eko erreprodukzio-zerrenda hau iTunes-eko erreprodukzio-zerrendarekin">
+<!ENTITY device.tools.reset_warnings.title "Oharrak garbitu">
+<!ENTITY about.credits.description.champs.link.pre "Songbird txapeldunak beste erabiltzaileei laguntza emateko">
+<!ENTITY menu.control.next "Hurrengo pista">
+<!ENTITY umsd.video.video_path_browse_msg "Bideo fitxategiak kokatuko diren gailuko karpeta aukeratu.">
+<!ENTITY setupprogress.pleasewait "Itxaron mesedez...">
+<!ENTITY menu.help.homepage "Songbird Webgunea">
+<!ENTITY equalizer.preset.soft "Soft">
+<!ENTITY equalizer.preset.large_hall "Areto handia">
+<!ENTITY first_run.eula.accept_checkbox.label "Lizentzia hau irakurri dut eta bere baldintzak onartzen ditut.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Gailu hau &brandShortName;ek antolatzea nahi ez baduzu bakarrik aukeratu.">
+<!ENTITY smart.most_recent "duela gutxi erreproduzitua">
+<!ENTITY command.device.ejectdevice "Kanporatu">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Ez ohartarazi berriz inportazioak dirauen bitartean sostengatzen ez diren bideoak direla eta">
+<!ENTITY first_run.connection.settings.button "Konexio ezarpenak...">
+<!ENTITY import_library.prefs.title "iTunes inportatzaile/esportatzailea">
+<!ENTITY hotkeys.action "Ekintza">
+<!ENTITY equalizer.preset.classical "Klasikoa">
+<!ENTITY device.sync.images.from.label "Hemengo argazkiak sinkronizatu:">
+<!ENTITY first_run.install_add_ons.title "Gehigarriak deskargatzen">
+<!ENTITY playback.prefpane.streaming.buffer "Buffer streaming-a:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Nire ordenagailuko direktorioak eskaneatu">
+<!ENTITY menu.control.play "Erreproduzitu">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY subscribe.minutes "minutu">
+<!ENTITY smart.any "edozein">
+<!ENTITY prefpane.content.label "Web edukiak">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Txapeldunak">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "Zuzenean">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Ohartarazi sostengatu gabeko pista edo erreprodukzio-zerrendak ez direnean inportatzen">
+<!ENTITY device.import.header.label "Inportatu">
+<!ENTITY tooltip.control.volume "Bolumena">
+<!ENTITY smart.hours "ordu">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Alboko eskuin-barra">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Jarraitzeko gailua firmware moduan konektatuta egon behar da. Mesedez, jarraitu beheko argibideak zure gailua firmware moduan ezartzeko.">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "L">
+<!ENTITY menu.file.new.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "D">
+<!ENTITY first_run.import_media.description "Aukeratu zein den &brandShortName;en inportatu nahi duzun multimedia. Behin &brandShortName; abian dela multimedia gehiago gehitzeko moduak hainbat dira.">
+<!ENTITY umsd.video.video_ext_desc "Ondorengo luzapena duten bideo fitxategiak kopiatu gailuan:">
+<!ENTITY smart.most_added "duela gutxi gehitua">
+<!ENTITY rapi.library_read_disable.accesskey "n">
+<!ENTITY open_url.title "URL-a ireki">
+<!ENTITY menu.edit.paste.accesskey "I">
+<!ENTITY first_run.eula.header.label "Lizentzia adostasuna">
+<!ENTITY device.capacity.image.label "Argazkiak">
+<!ENTITY about.credits.intro "Gustatuko litzaiguke eskerrak ematea gure emaileei, Songbird den bezalakoa egiten lagundu baitute. Pertsona hauek iturburu kodea eta dokumentazioa idazten lagundu dute, baita probak egiten ere. Produktu hau,  dagozkion garapen paketeak, konpilazio tresnak eta webgunea sortu eta mantendu dituzte. Izenen ondoan IRC ezizenak aurkitzen dira, hurbildu #songbird-era irc.mozilla.org-an eta agurtu!">
+<!ENTITY menu.mac.showall "Erakutsi guztia">
+<!ENTITY first_run.connection.description "Egiaztatu zure konexio ezarpenak edo jarraitu instalazio laguntzailearekin.">
+<!ENTITY equalizer.preset.full_bass "Guztiz grabea">
+<!ENTITY cdrip.lookup.multiple.title "Zenbait CD aurkitu dira">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Ireki lotura nabigatzaile lehenetsian">
+<!ENTITY first_run.add_ons.header.label "Gomendatutako gehigarriak">
+<!ENTITY command.device.renamedevice.accesskey "A">
+<!ENTITY first_run.feedback.metrics.label "Nire datuak bildu eta &brandShortName; taldeari bidali.">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Gailuaren instalazioa">
+<!ENTITY menu.videotofront "Bideoak aurrean">
+<!ENTITY device.management.tabs.music.label "Musika">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "Marko honetara harpidetu...">
+<!ENTITY add_on_bundle_installer.error_box.label "Xehetasunak">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "i">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.exit "Irten">
+<!ENTITY device.sync.images.all.template "Argazki guztiak (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Erosketa ziurtagiria frogatzea, produktu gehiagoren kide izateagatik onurak edo segurtasun oharrak jasotzea nahi duzu?">
+<!ENTITY first_run.import_media.header.label "Multimedia inportatu">
+<!ENTITY tooltip.browser.home "Hasierako orria">
+<!ENTITY equalizer.preset.small_speakers "Ordenagailu eramangarria/Aurikularrak">
+<!ENTITY cdrip.lookup.info_not_found.album "Albuma">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Albumaren azala metadatuetan gorde">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Bilatu beharreko fitxategien luzapenak:">
+<!ENTITY command.device.rip.accesskey "E">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "denak">
+<!ENTITY playback.prefpane.normalization.enable "Ahal bada erabili audio normalizazio datuak">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "L">
+<!ENTITY displaypane.default.link.text "gehigarri webgunera">
+<!ENTITY command.device.lookup.accesskey "B">
+<!ENTITY device.tools.support.title "Sostengua">
+<!ENTITY device.sync.auto_sync.label "Sinkronizatu">
+<!ENTITY device.info.model.label "Modeloa">
+<!ENTITY feed.subscribe.dontask "Ez erakutsi testu hau berriz automatikoki">
+<!ENTITY rapi.restore_defaults.label "Lehenetsiak berrezarri">
+<!ENTITY playback.prefpane.audio_output.label "Audio irteera">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Lehenetsitako ezarpenak berrezartzean gailuko multimedia guztia ezabatuko da, lehenetsitako firmwarea eta ezarpenak berrezartzeaz gain.">
+<!ENTITY device.dialog.wait_for_completion.title "Gailuen zain.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Albumaren azala automatikoki lortu pista bat aukeratzean edo erreproduzitzean album azala bistaratzeko panelaren arabera. Ezaugarri hau gaitzeak eragina izango du erreprodukzioan.">
+<!ENTITY device.firmware.wizard.check.already.description "Zure gailurako firmwarea dagoeneko egunean dago.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD erauzketarako ezarpenak">
+<!ENTITY videowindow.fullscreen "Pantaila osoan">
+<!ENTITY tooltip.browser.refresh "Berritu">
+<!ENTITY rapi.library_write_disable.accesskey "g">
+<!ENTITY menu.extensions "Gehigarriak...">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.full_bass_treble "Guztiz grabea eta zorrotza">
+<!ENTITY menu.edit.copy "Kopiatu">
+<!ENTITY device.repair.menuitem.default "Nire gailua konpondu">
+<!ENTITY addMediaToPlaylistCmd.accesskey "g">
+<!ENTITY tooltip.exit "Irten">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "&brandShortName;en instalazioa">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Eskuz zehaztu bit-emaria eta formatua">
+<!ENTITY tooltip.control.shuf_off "Ausazko erreprodukzioa desaktibatuta">
+<!ENTITY smart.selectedby "honen arabera">
+<!ENTITY openPageCmdInDefaultBrowser.label "Ireki orria nabigatzaile lehenetsian">
+<!ENTITY menu.control.playpause.spacebar "Hutsune-barra">
+<!ENTITY import_library.dirty_playlist_dialog.title "Erreprodukzio-zerrenda aldatu da">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "i">
+<!ENTITY menu.linux.preferences.accesskey "H">
+<!ENTITY menu.help.bugz.accesskey "E">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Momentu honetako firmware bertsioa:">
+<!ENTITY first_run.itunes.checkbox.export.description "&brandShortName;en bidez lortutako musika iTunes-era esportatu daiteke eta horrela posiblea izango da zure iPod edo iPhone-ra transferitzea.">
+<!ENTITY device.tools.update_firmware.label "Firmware eguneraketak bilatu">
+<!ENTITY device.info.icon.device "Gailua generikoaren ikonoa">
+<!ENTITY restartbox.restartlater "Berrabiarazi geroago">
+<!ENTITY first_run.app_update.finished.text "Eguneraketa &brandShortName; berrabiarazterakoan instalatuko da.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artista">
+<!ENTITY cdrip.lookup.track_name "Izena">
+<!ENTITY menu.control.pause "Eten">
+<!ENTITY menu.extensions.accesskey "G">
+<!ENTITY device.firmware.wizard.repair.time.description "Zure gailua berrezartzeak 5 minutu baino gutxiago iraun behar luke.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Albumaren azala automatikoki lortu">
+<!ENTITY command.device.canceldevicesync "Sinkronizazioa gelditu">
+<!ENTITY menu.control.rep1 "Bat errepikatu">
+<!ENTITY device.sync.playlist.video.duration "Bideoaren iraupena">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "H">
+<!ENTITY rapi.prefpane.title "Web integrazioa">
+<!ENTITY menu.equalizer "Ekualizadorea...">
+<!ENTITY first_run.add_ons.description.line1 "Gehigarriek &brandShortName;en funtzionaltasuna hedatzen dute; horrela, multimedia erreprodukzio esperientzia pertsonalizatua izanez. Beheko aukerak oso gomendagarriak dira.">
+<!ENTITY displaypane.name.servicepane "Beheko zerbitzu panela">
+<!ENTITY menu.clearprivatedata "Datu pribatuak garbitu...">
+<!ENTITY window.ok "Ados">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "Bilatu">
+<!ENTITY first_run.add_ons.description.line2 "Gehigarriak beste aplikazio eta zerbitzu batzuekin integratu daitezke, kanpoko gailuekin konektatzea ahalbidetzen dute, aplikazioen itxura aldatzen dute eta gehiago! Hainbat eta hainbat lor ditzakezu &brandShortName;en gehigarrien webgunean.">
+<!ENTITY menu.updateCmd.label "Eguneraketak bilatu...">
+<!ENTITY device.firmware.wizard.check.error.description "Errore bat izan da firmware berria bilatzean. Mesedez, egiaztatu zure sare konexioa ongi dagoela eta saiatu berriz.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bit-emaria">
+<!ENTITY displaypane.name.browser "Beheko eduki panela">
+<!ENTITY albumartpreferences.prefpane.label "Albumaren azala">
+<!ENTITY watch_folder.prefs.description "&brandShortName;ek karpeta bateko edukia jarraitu dezake eta bertako elementuak automatikoki gehitu edo ezabatu.">
+<!ENTITY umsd.no_devices_present "Ez dago biltegiratze handiko  USB gailurik konektatuta.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Sinkronizazioa">
+<!ENTITY device.dialog.wait_for_completion.quit "Irten">
+<!ENTITY tooltip.browser.mediapages.list "Zerrenda ikuspegia">
+<!ENTITY rapi.library_read_disable.label "Blokeatu webguneek nire liburutegi eta gailuetako multimediari buruzko informazioa lortzea">
+<!ENTITY feedback.dialog.sentence1 "Lagunduko zeniguke &brandShortName; hobetzen inkesta arin eta anonimo bati erantzunez?">
+<!ENTITY feed.subscribe.label "Harpidetu">
+<!ENTITY tooltip.servicepane.show "Zerbitzu panela erakutsi">
+<!ENTITY tooltip.control.stop "Gelditu">
+<!ENTITY menu.file.remote "Harpidetza berria...">
+<!ENTITY menu.file.podcast "Podcast berria...">
+<!ENTITY feedback.dialog.sentence2 "Ez bazaude interesatuta ez dizugu berriz galdetuko. Eskerrik asko kontuan hartu izana eta &brandShortName; erabiltzeagatik!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Momentu honetan ez dago inplementatuta. (Ikus 14281 bug-a)">
+<!ENTITY menu.edit "Editatu">
+<!ENTITY locale.language.accesskey "H">
+<!ENTITY videowindow.title "Bideo leihoa">
+<!ENTITY menu.fullscreen "Pantaila osoan">
+<!ENTITY menu.file.newtab "Fitxa berria">
+<!ENTITY feedback.dialog.sentence3 "Adeitasunez,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Orain erreproduzitzen ari direnak erakutsi">
+<!ENTITY albumart.displaypane.drag_and_drop "Narrastu hona albumaren azala">
+<!ENTITY command.device.cancel.accesskey "G">
+<!ENTITY smart.most_often "gehien erreproduzitua">
+<!ENTITY restartbox.restartnow "Berrabiarazi orain">
+<!ENTITY device.unsupported_media.dialog.enable "Ohartarazi fitxategi bateraezinak aurkitzean">
+<!ENTITY device.sync.images.selected.label "Aukeratutako azpi-karpetak">
+<!ENTITY command.device.canceldevicecopy "Kopiatzea gelditu">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "b">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Aukeratu &brandShortName;ek antolatu beharreko biltegiratze multimedia:">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; taldea">
+<!ENTITY smart.title "izena">
+<!ENTITY menu.tools.reveal "Erakutsi fitxategia">
+<!ENTITY menu.controllerontop "Bistaratu goikaldean">
+<!ENTITY about.credits.footer.beforeLink "Eta noski, guzti hau ezinezkoa litzateke Mozilla proiektuko">
+<!ENTITY device.management.tabs.tools.label "Tresnak">
+<!ENTITY umsd.video.tab "Bideoa">
+<!ENTITY trackeditor.addtag.tag "Etiketa:">
+<!ENTITY device.settings.music.transcoding.format.label "Kodetze formatua">
+<!ENTITY command.device.canceldeviceupdate "Eguneratzea gelditu">
+<!ENTITY mediapages.firstrun.title "Ongi etorri &brandShortName;era">
+<!ENTITY equalizer.preset.full_treble "Guztiz zorrotza">
+<!ENTITY umsd.music.tab "Musika">
+<!ENTITY tooltip.close "Itxi">
+<!ENTITY podcast.creation_dialog.url.heading "URL-a:">
+<!ENTITY menu.edit.redo "Berriz egin">
+<!ENTITY menu.edit.findagain "Berriz bilatu">
+<!ENTITY device.info.capacity.label "Edukiera">
+<!ENTITY command.device.ignoredevice.accesskey "E">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "azel maius">
+<!ENTITY device.sync.images.browse "Aukeratu karpeta...">
+<!ENTITY displaypane.default.link.post "gehiago bilatzeko.">
+<!ENTITY menu.control.play.accesskey "E">
+<!ENTITY menu.file.open "Ireki fitxategia...">
+<!ENTITY command.device.devicesync "Sinkronizatu">
+<!ENTITY menu.preferences.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "Jarraitu">
+<!ENTITY umsd.music.music_path_desc "Musika fitxategiak gailuan kopiatzean ondorengo karpetan kokatu:">
+<!ENTITY playback.prefpane.audio_output.buffer "Buffer irteera:">
+<!ENTITY menu.switchplayercontrols "Erreprodukzio kontrolak">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Momentu honetako &brandShortName;eko erreprodukzio-zerrenda mantendu (ez inportatu erreprodukzio-zerrenda hau)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Firmware eguneraketak bilatu">
+<!ENTITY menu.help.accesskey "L">
+<!ENTITY device.info.serial_number.label "Serie-zenbakia">
+<!ENTITY device.info.product.label "Produktua">
+<!ENTITY smart.minutes "minutu">
+<!ENTITY menu.help.topics "Laguntzaren edukiak">
+<!ENTITY menu.file.playlist "Inportatu erreprodukzio-zerrenda bat...">
+<!ENTITY first_run.app_update.finished.title "Eguneraketa Instalatzeko Prest.">
+<!ENTITY device.tools.format_volume.button.label "Formatua">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Gehinez">
+<!ENTITY menu.file.library "Liburutegi bat inportatu...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "J">
+<!ENTITY tooltip.control.curtrack "Bilatu uneko pista">
+<!ENTITY setupprogress.installingextensions "Gehigarriak instalatzen">
+<!ENTITY menu.mac.services "Zerbitzuak">
+<!ENTITY menu.file.open.accesskey "F">
+<!ENTITY import_library.library_file_label "Liburutegi fitxategia:">
+<!ENTITY command.device.canceldevicecopy.accesskey "G">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Hurrengo baldintzarekin bat datozenak:">
+<!ENTITY importexport_show_notifications_checkbox "Ohartarazi inportatzea/esportatzea burutu denean">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Posible da podcast-ak eta iTunes Store-n erositako musika &brandShortName;era inportatzea. Ezaugarri hau ongi dabil &brandShortName; zure musika erreproduzitzaile nagusia bada.">
+<!ENTITY device.sync.images.foldername "Karpetaren izena">
+<!ENTITY device.capacity.video.label "Bideoa">
+<!ENTITY menu.control.next.accesskey "H">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Musika fitxategiak">
+<!ENTITY trackeditor.tab.lyrics.title "Letra">
+<!ENTITY menu.mac.exit "&brandShortName;etik irten">
+<!ENTITY menu.control.play.button "Erreproduzitu">
+<!ENTITY hotkeys.prefpane "Laster-teklak">
+<!ENTITY subscribeMediaFrameCmd.accesskey "h">
+<!ENTITY subscribe.hours "ordu">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Laguntza">
+<!ENTITY menu.equalizer.accesskey "K">
+<!ENTITY command.device.ignoredevice "Ez egin kasurik">
+<!ENTITY export_subscriptions_itunes_checkbox "Esportatu harpidetzak">
+<!ENTITY mediacore.error.title "Erreprodukzio errorea">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Joan...">
+<!ENTITY menu.tools "Tresnak">
+<!ENTITY device.settings.music.transcoding.label "Musika bihurtzea">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Berrezarri">
+<!ENTITY device.info.icon.readonly "Irakurtzeko bakarrik blokeatzeko ikonoa">
+<!ENTITY command.device.lookup "CD-ari buruzko informazioa bilatu">
+<!ENTITY tabs.listAllTabs "Fitxa guztiak zerrendatu">
+<!ENTITY rapi.prefpane.access.caption "Web integrazio baimenak">
+<!ENTITY menu.file.scan "Inportatu multimedia...">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "Multimedia inportatzailea">
+<!ENTITY device.firmware.wizard.download.error.description "Errore bat izan da firmware berria deskargatzean. Mesedez, egiaztatu zure sare konexioa ongi dagoela eta saiatu berriz.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Karpeta ezarpenak jarraitu">
+<!ENTITY tooltip.minimize "Minimizatu">
+<!ENTITY smart.random "ausaz">
+<!ENTITY smart.contenttypecondition.audio "Musika">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Bertsio oharrak">
+<!ENTITY watch_folder.prefs.title "Karpetak jarraitu">
+<!ENTITY subscribe.autocheck "Automatikoki eguneratzeko maiztasuna">
+<!ENTITY menu.control.shuf "Ausaz erreproduzitu">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Gora">
+<!ENTITY device.firmware.wizard.retry.description "Mesedez, saiatu berriz gailuak momentu honetako jarduera burutu ondoren.">
+<!ENTITY first_run.connection.settings.description "Zure ordenagailua edo sarea suebaki edo proxy batek babesten du? Baliteke konexio ezarpenak sareko ohizko arazoak konpontzen laguntzea.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Karpeta honetako aldaketak automatikoki jarraitu">
+<!ENTITY menu.file.metadata "Metadatuak ikusi...">
+<!ENTITY device.info.firmware_version.label "Firmware bertsioa">
+<!ENTITY device.info.access.label "Sarrera bateragarritasuna">
+<!ENTITY tooltip.control.back "Aurreko pista">
+<!ENTITY menu.edit.cut.accesskey "E">
+<!ENTITY menu.controlleronbottom "Bistaratu behekaldean">
+<!ENTITY device.sync.sync_selected.label "Aukeratutako erreprodukzio-zerrendak sinkronizatu:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "E">
+<!ENTITY wizard.button.back.accesskey "A">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Filtro panel ikuspegia">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Idatzi hemen fitxategi izenen zerrenda koma batekin banatuz">
+<!ENTITY rapi.playback_control_disable.label "Blokeatu webguneek multimediaren erreprodukzioa kontrolatzea">
+<!ENTITY menu.file.exit.accesskey "I">
+<!ENTITY first_run.feedback.metrics.description "Datuak guztiz anonimoak dira eta ez da inolako informazio pertsonalik biltzen.">
+<!ENTITY cdrip.prefpane.label "CD erauzketa">
+<!ENTITY tooltip.control.mute "Mututu">
+<!ENTITY smart.album "albuma">
+<!ENTITY playback.prefpane.units.kilobytes "KB">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.mac.hideothers.modifiers "azel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.tools.format_device.label "Gailua formateatu">
+<!ENTITY hotkeys.remove "Ezabatu">
+<!ENTITY tooltip.fullscreen "Pantaila osoan">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Bihurtzea automatikoki konfiguratu">
+<!ENTITY jumptofile.search "Bilatu:">
+<!ENTITY albumart.displaypane.not_selected_message "Ez dago ezer aukeratuta">
+<!ENTITY wizard.button.back.label "Atzera joan">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL-a:">
+<!ENTITY smart.to "-">
+<!ENTITY rapi.prefpane.access.text "Webguneak &brandShortName;ekin integratzea baimendu dezakezu eta horrela Web-aren eta zure multimediaren arteko bateratzea zehatzagoa izango da. Mesedez, konfiguratu &brandShortName; integrazioaren hurrengo puntuak baimendu edo blokeatzeko.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Zerbitzu panela tolestu">
+<!ENTITY podcast.creation_dialog.title "Podcast berria">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Pista">
+<!ENTITY menu.errorconsole.accesskey "K">
+<!ENTITY about.credits.footer.afterLink "lan gogorra eta esfortzurik gabe.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Honek baimena emango dio &brandShortName;i album azala bateragarriak diren multimedia fitxategien etiketetan txertatzeko.">
+<!ENTITY menu.control.rep1.accesskey "B">
+<!ENTITY hotkeys.add "Gehitu">
+<!ENTITY export_playlists_itunes_checkbox "Esportatu erreprodukzio-zerrendak">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Automatikoki bilatu firmware berria">
+<!ENTITY smart.least_recent "duela asko erreproduzitua">
+<!ENTITY menu.tools.getartwork.accesskey "A">
+<!ENTITY menu.help.about "&brandShortName;i buruz...">
+<!ENTITY device.settings.general.label "Nagusia">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "I">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "CD erauzketa bukatzean kanporatu CD-a">
+<!ENTITY device.management.tabs.image.label "Argazkiak">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "K">
+<!ENTITY playqueue.inprogress "Pistak gehitzen">
+<!ENTITY device.info.vendor.label "Egilea">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY sanitize.key "Ezab">
+<!ENTITY playback.prefpane.ratings.label "Puntuazio metadatuak">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Ohartarazi soinuarekin CD erauzketa bukatzean">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY device.tools.format_device.description "Zure gailua formateatzean bertako &lt;strong class=&quot;loss-of-data-text&quot;&gt;multimedia guztia ezabatu egingo da&lt;/strong&gt;.">
+<!ENTITY jobprogress.details "Xehetasunak">
+<!ENTITY device.tools.reset_warnings.description "Ohar mezu hauek ezabatzean gauzatu beharreko hainbat eginkizuni buruz galdetuko zaizu.">
+<!ENTITY prefs.homepage.label "Hasiera orria">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Itxi fitxa">
+<!ENTITY device.firmware.wizard.title "Firmwarea eguneratu">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "Argazki guztiak">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Lehenetsitako datu irabazkinak:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Firmware berria deskargatzen...">
+<!ENTITY cdrip.prefpane.format "Formatua">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "Hobespenak...">
+<!ENTITY menu.file "Fitxategia">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY import_library.prefs.path_group_caption "iTunes-eko musika liburutegiaren helbidea">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Eten">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Ezarpenak">
+<!ENTITY copySelectionCmd.label "Kopiatu aukeratutako testua">
+<!ENTITY feed.subscribe.close "Itxi">
+<!ENTITY device.settings.disk.label "Disko antolakuntza">
+<!ENTITY first_run.feedback.email.header.label "Egunean manten nazazue">
+<!ENTITY equalizer.preset.custom "Pertsonalizatua">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Momentu honetako &brandShortName; eta iTunes erreprodukzio-zerrendak elkartu">
+<!ENTITY import_tracks_itunes_checkbox "Pistak iTunes-etik inportatu">
+<!ENTITY first_run.welcome.header.label "Ongi etorri &brandShortName;era">
+<!ENTITY feedback.dialog.title "Lagundu &brandShortName; hobeago bat egiten!">
+<!ENTITY window.yes "Bai">
+<!ENTITY subscribeMediaPageCmd.label "Orri honetara harpidetu...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Gelditu">
+<!ENTITY watchfolder.folderlist "Karpeta hauek jarraitu multimedia berrien bila:">
+<!ENTITY tooltip.control.fwd "Hurrengo pista">
+<!ENTITY restartbox.restartonplaybackend "Erreprodukzioa bukatzean berrabiarazi">
+<!ENTITY playback.prefpane.label "Erreprodukzioa">
+<!ENTITY command.device.canceldevicedelete.accesskey "G">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Orain aukeratutakoak erakutsi">
+<!ENTITY import_library.dirty_playlist_dialog.note "Oharra: elkartze eta ordezkatzea ezin da desegin.">
+<!ENTITY menu.control.repa "Guztiak errepikatu">
+<!ENTITY jumptofile.title "Joan">
+<!ENTITY prefs.homepage.url.label "URL-a:">
+<!ENTITY device.firmware.wizard.busy.description "Badirudi zure gailua lanpetuta dagoela. Firmwarea gailua eskuragarri dagoenean bakarrik instalatu daiteke.">
+<!ENTITY command.device.renamedevice "Izena aldatu">
+<!ENTITY smart.least_added "duela asko gehitua">
+<!ENTITY smart.contenttypecondition.video "Bideoa">
+<!ENTITY rapi.playback_control_disable.accesskey "m">
+<!ENTITY downloadMediaCmd.label "Deskargatu liburutegira">
+<!ENTITY command.device.stoprip "Gelditu erauzketa">
+<!ENTITY device.firmware.wizard.check.install.description "Firmware eguneraketa instalatzeak 10 minutu baino gutxiago iraungo du. Eguneraketa geroago ere egin daiteke.">
+<!ENTITY first_run.add_ons.load_failed.label "Ezin izan dira berreskuratu gomendatutako gehigarriak.">
+<!ENTITY first_run.feedback.description "Lagunduko zeniguke &brandShortName; hobetzen aplikazioaren erabilerari buruzko datu anonimoak bidaliz?">
+<!ENTITY about.credits.footer.linkText "emaileen">
+<!ENTITY device.tools.update_firmware.title "Firmwarea eguneratu">
+<!ENTITY locale.language "Hizkuntza">
+<!ENTITY cdrip.mediaview.stop_rip_button "Gelditu erauzketa">
+<!ENTITY copySelectionCmd.accesskey "k">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "Falta diren kodeken inguruko informazio gehiago lortzeko ikus:">
+<!ENTITY first_run.itunes.description "Badirudi iTunes instalatuta duzula. &brandShortName; konfiguratu dezakezu &brandShortName; eta iTunes-en artean pistak inportatu eta/edo esportatzeko, zure liburutegiak sinkronizatuta daudelarik.">
+<!ENTITY subscribeMediaPageCmd.accesskey "h">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY first_run.itunes.header.label "Inportatu/esportatu iTunes-etik">
+<!ENTITY albumart.coverpreview.title "Albumaren azala">
+<!ENTITY playback.prefpane.normalization.label "Normalizazioa">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "H">
+<!ENTITY first_run.itunes.checkbox.export.label "Pista eta erreprodukzio-zerrenda berriak iTunes-era esportatu">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Ez jarraitu karpetak musika antolatzen duzun karpeta berean. Hori egiteak bikoiztuak sortuko ditu zure liburutegian.">
+<!ENTITY smart.match "Hurrengo baldintzetatik">
+<!ENTITY export_tracks_itunes_checkbox "Pistak iTunes-era esportatu">
+<!ENTITY cdrip.prefpane.quality "Kalitatea">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Erreprodukzio-zerrenda berria">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "B">
+<!ENTITY device.settings.disk.0percent.label "&#37;0">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "azel">
+<!ENTITY command.device.ejectcddevice.accesskey "K">
+

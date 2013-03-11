@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneSecurity.title "უსაფრთხოვება">
+<!ENTITY prefWinMinSize.styleWin2 "სიგანე: 60em; min-სიმაღლე: 45em; / * გთხოვთ არ დაუხატავს, მაგრამ ადაპტაციის ზომების გატარების თქვენი ლოკალი * /">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneApplications.title "პროგრამა">
+<!ENTITY paneContent.title "შიგთავსი">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; უპირატესობის მიცემა">
+<!ENTITY prefWindow.titleWin "პარამეტრები">
+<!ENTITY paneTabs.title "თაბები">
+<!ENTITY paneAdvanced.title "დაწინაურებული გაცნობიერებული ">
+<!ENTITY panePrivacy.title "პირადი">
+<!ENTITY paneGeneral.title "მთავარი">
+

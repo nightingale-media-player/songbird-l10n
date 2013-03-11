@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Tęsti">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Į prietaisą bus kopijuojami failai su nurodytais plėtiniais:">
+<!ENTITY menu.errorconsole "Klaidų pultas">
+<!ENTITY menu.edit.paste "Įdėti">
+<!ENTITY tooltip.hide "Slėpti">
+<!ENTITY tooltip.browser.subscription "Kurti prenumeratą">
+<!ENTITY smart.playlistcondition.library "Biblioteka">
+<!ENTITY menu.help.bugz "Pranešti apie klaidą">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Stebėti aplanką dėl pokyčių">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Tikrasis dydis">
+<!ENTITY trackeditor.title "Kūrinių metaduomenų redaktorius">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Pažymėti viską">
+<!ENTITY device.tools.restore_device.label "Atkurti gamyklinius įrenginio nustatymus">
+<!ENTITY addMediaToPlaylistCmd.label "Pridėti į grojaraštį">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "atlikėjas">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "t">
+<!ENTITY mediacore.error.preface "&brandShortName; ištiko klaida grojant.">
+<!ENTITY hotkeys.set "Nustatyti">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "Šiam įrenginiui tinkančio koduotojo kol kas nėra">
+<!ENTITY fetch_album_art.dialog.title "Gauti albumo viršelį">
+<!ENTITY menu.controls "Valdymas">
+<!ENTITY tooltip.control.resume "Tęsti">
+<!ENTITY feedback.dialog.no "Ne">
+<!ENTITY equalizer.preset.party "Vakarėlio">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Pasirinkite priedą iš">
+<!ENTITY device.capacity.free.label "Laisva">
+<!ENTITY playMediaCmd.accesskey "G">
+<!ENTITY hotkeys.info "Globalūs spartieji klavišai leidžia valdyti Songbird net jei programa nėra aktyvi. Norint išvengti problemų su kitų programų sparčiaisiais klavišais, reiktų rinktis jose nenaudojamas klavišų kombinacijas.">
+<!ENTITY device.capacity.music.label "Muzika">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "Stabdyti naršyklę">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "Iškirpti">
+<!ENTITY cdrip.prefpane.providers.title "Informacijos apie CD tiekėjas">
+<!ENTITY subscribe.title "Prenumeruoti">
+<!ENTITY songbird "Songbird">
+<!ENTITY smart.window "Sumanaus grojaraščio vedlys">
+<!ENTITY openImageCmdInDefaultBrowser.label "Atverti paveiksliuką naršyklėje">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Formuoti įrenginį">
+<!ENTITY device.tools.reset_warnings.label "Iš naujo nustatyti įspėjimų pranešimus">
+<!ENTITY cdrip.prefpane.quality_desc "Aukštesnė kokybė (kbps) reiškia geresnę garso kokybę ir didesnį failo dydį.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "įveskite el. pašto adresą, į kurį bus siunčiamos naujienos">
+<!ENTITY trackeditor.addtag.title "Pridėti gairę">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY prefs.security.addons.label "Priedo diegimas">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa.accesskey "r">
+<!ENTITY device.tools.product_registration.label "Registruoti produktą">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Atkūrimo formatai">
+<!ENTITY smart.high_rating "aukščiausias įvertis">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Nerodyti kitų">
+<!ENTITY menu.edit.find.accesskey "I">
+<!ENTITY device.info.friendly_name.label "Pavadinimas">
+<!ENTITY device.unsupported_media.dialog.title "Rasta nesuderinamų failų">
+<!ENTITY cdrip.mediaview.format_label "Formatas:">
+<!ENTITY about.credits.heading.translators "Vertėjai">
+<!ENTITY menu.view "Rodymas">
+<!ENTITY menu.preferences "Nuostatos...">
+<!ENTITY command.device.canceldevicedelete "Nutraukti pašalinimą">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "Baigti">
+<!ENTITY menu.file.smart.accesskey "s">
+<!ENTITY first_run.welcome.description.line1 "„&brandShortName;“ yra grotuvas, sujungtas su internetu.">
+<!ENTITY device.dialog.wait_for_completion.msg "Laukiama visų įrenginio operacijų pabaigos.  Spauskite „Baigti darbą“, kad baigtumėte darbą su programa.">
+<!ENTITY device.sync.playlist.title "Pavadinimas">
+<!ENTITY hotkeys.useglobalhotkeys "Naudoti globalius sparčiuosius klavišus">
+<!ENTITY subscribe.destinationfolder "Rinktis aplanką:">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY first_run.welcome.description.line2 "Padėjėjas gelbsti pirmąkart konfigūruojant &brandShortName; ir trumpai pristato pagrindines programos funkcijas.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Nieko nekartoti">
+<!ENTITY command.device.canceldevicesync.accesskey "N">
+<!ENTITY device.tools.support.description "Peržiūrėkite šviežiausias paramos naujienas, vartotojo vadovus, dokumentaciją, dažniausiai užduodamus klausimus ir produkto informaciją. Paramos paslaugos yra prieinamos vartotojams užregistravusiems savąjį produktą.">
+<!ENTITY about.version "Versija">
+<!ENTITY umsd.video.video_path_desc "Kopijuojant vaizdo įrašus į įrenginį juos perkelti į šį katalogą:">
+<!ENTITY smart.low_rating "žemiausias įvertis">
+<!ENTITY device.capacity.other.label "Kita">
+<!ENTITY device.tools.update_firmware.description "Jūsų įrenginį valdo to įrenginio vidinė programa. Nuo to laiko, kai paskutinį kartą buvote prijungę šį įrenginį prie kompiuterio, galėjo būti išleista naujesnė įrenginio programa.">
+<!ENTITY setupprogress.cancel "Atšaukti">
+<!ENTITY albumart.displaypane.selected.menu.paste "Įterpti">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "Išskleisti CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Užverti kortelę">
+<!ENTITY menu.edit.undo "Atšaukti">
+<!ENTITY first_run.add_ons.loading.label "Ieškoma rekomenduojamų papildinių.">
+<!ENTITY command.device.formatdevice "Formuoti">
+<!ENTITY albumart.displaypane.selected.menu.clear "Valyti">
+<!ENTITY import_playlists_itunes_checkbox "Importuoti grojaraščius">
+<!ENTITY menu.edit.cut "Iškirpti">
+<!ENTITY mediaimporter.filtered_extensions.title "Failų importavimo pranešimas">
+<!ENTITY tooltip.control.play "Groti">
+<!ENTITY tooltip.browser.mediapages "Peržiūra...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "A">
+<!ENTITY device.info.battery.label "Baterija">
+<!ENTITY menu.edit.delete "Šalinti">
+<!ENTITY import_library.dialog.title "Įkelti biblioteką">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "iš šių sąlygų:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "">
+<!ENTITY about.credits.description.champs.link.post "Jie yra produktyviausi forumo vaikinai, nenuilstamai besidarbuojantys, kad kiekvienas Songbird vartotojas būtų laimingas Songbird vartotojas.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Vaizdo įrašai">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Į apačią">
+<!ENTITY command.device.getdeviceinfo "Gauti informaciją">
+<!ENTITY rapi.library_write_disable.label "Neleisti pridėti/redaguoti dainų bibliotekoje ar prietaisuose">
+<!ENTITY first_run.feedback.email.description "Prenumeruokite naujienlaiškį, kuriame bus pranešama apie naujas programos versijas ir svarbius atnaujinimus.">
+<!ENTITY device.sync.images.filecount "Nuotraukos">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Jei nenorite, kad &brandShortName; tvarkytų šį įrenginį, galite">
+<!ENTITY device.sync.header.label "Sinchronizacijos nustatymai">
+<!ENTITY first_run.import_media.radio.dont_import.label "Dabar failų neįtraukti">
+<!ENTITY feedback.dialog.yes "Taip">
+<!ENTITY about.buttons.credits "Kūrėjai">
+<!ENTITY device.firmware.wizard.check.progress.title "Ieškoma įrenginio programos atnaujinimų">
+<!ENTITY downloadMediaCmd.accesskey "s">
+<!ENTITY cdrip.lookup.info_not_found.descr "Čia galite pridėti atlikėjo ir albumo vardus. Likusią informaciją galite pataisyti CD kopijavimo grojaraštyje">
+<!ENTITY umsd.music.music_path_browse_msg "Nurodyk prietaiso aplanką, į kurį bus įkelti muzikiniai failai.">
+<!ENTITY tooltip.maximize "Maksimizuoti/atkurti">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction paramos forume.">
+<!ENTITY window.save "Įrašyti">
+<!ENTITY window.no "Ne">
+<!ENTITY tooltip.servicepane.newnode "Naujas grojaraštis">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Atverti rėmą naršyklėje">
+<!ENTITY menu.file.newtab.accesskey "k">
+<!ENTITY menu.file.new "Naujas grojaraštis...">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "A">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY watch_folder.prefs.watch_folder_label "Aplankas:">
+<!ENTITY smart.autoupdate "Atnaujinti">
+<!ENTITY playback.prefpane.ratings.enablewriting "Įrašyti įverčių informaciją į kiekvieno failo metaduomenų sritį.">
+<!ENTITY menu.help.keyboard "Spartieji klavišai">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Ieškoti failų tokiu pavadinimu:">
+<!ENTITY menu.control.prev "Ankstesnė daina">
+<!ENTITY device.firmware.wizard.support.description "Tokią palaikymo informaciją kaip D.U.K. ar patarimus sprendžiant problemas galite rasti">
+<!ENTITY window.apply "Taikyti">
+<!ENTITY menu.file.smart "Naujas sumanusis grojaraštis…">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "Peržiūrėti klaidų detales">
+<!ENTITY device.firmware.wizard.install.title "Diegiama įrenginio programa...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "N">
+<!ENTITY menu.control.pause.button "Pauzė">
+<!ENTITY trackeditor.tab.summary.title "Santrauka">
+<!ENTITY playMediaCmd.label "Groti">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Atgal">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Nėra grojaraščių&gt;">
+<!ENTITY equalizer.title "Ekvalaizeris">
+<!ENTITY import_library.import_command "Įkelti biblioteką">
+<!ENTITY cdrip.mediaview.view_tracks_button "Peržiūrėti takelius">
+<!ENTITY window.browse "Naršyti...">
+<!ENTITY device.tools.restore_device.title "Atkurti įrenginį">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Būdą, kuriuo norite gauti viršelius, perkelkite į viršų.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Norėdami gauti daugiau informacijos apie trūkstamus kodekus žiūrėkite">
+<!ENTITY displaypane.default.image.post "meniu arba apsilankykite">
+<!ENTITY smart.songs "el.">
+<!ENTITY menu.tools.getartwork "Gauti albumo viršelį...">
+<!ENTITY window.cancel "Atšaukti">
+<!ENTITY smart.genre "žanras">
+<!ENTITY menu.file.playlist.accesskey "g">
+<!ENTITY hotkeys.hotkey "Spartusis klavišas">
+<!ENTITY first_run.feedback.header.label "Padėkite tobulinti „Songbird“">
+<!ENTITY menu.edit.selall.accesskey "v">
+<!ENTITY export_smartplaylists_itunes_checkbox "Eksportuoti sumaniuosius grojaraščius">
+<!ENTITY device.tools.support.label "Peržiūrėti palaikymo šaltinius">
+<!ENTITY import_library.prefs.options_group_caption "Įkėlimo nustatymai">
+<!ENTITY equalizer.preset.reggae "Regio">
+<!ENTITY equalizer.on.checkbox "Įjungti">
+<!ENTITY menu.file.remote.accesskey "P">
+<!ENTITY first_run.eula.language.label "Kalba:">
+<!ENTITY device.settings.disk.management.label "Keisti aplankų struktūrą">
+<!ENTITY cdrip.lookup.multiple.description "Pasirinkite vieną iš šių arba pridėkite informaciją pats:">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Rekomenduojami priedai">
+<!ENTITY tooltip.search "Ieškoti">
+<!ENTITY recommended_add_ons.title "&brandShortName; diegimas">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Stebėti aplankus">
+<!ENTITY rapi.whitelist.label "Konfigūruoti">
+<!ENTITY menu.updateCmd.accessKey "T">
+<!ENTITY menu.file.url "Atverti adresą…">
+<!ENTITY menu.downloadmgr "Atsiuntimai…">
+<!ENTITY device.settings.auto_launch.checkbox.label "Atverti &brandShortName; kai aptinkamas šis įrenginys">
+<!ENTITY first_run.itunes.checkbox.import.label "Importuoti takelius ir grojaraščius iš iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "CD informacija nerasta">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "Daugiau neberodyti medijos branduolio klaidų">
+<!ENTITY device.firmware.wizard.repair.warning "Gamyklinių nustatymų atkūrimas įrenginyje &lt;strong class=&quot;loss-of-data-text&quot;&gt;sunaikins visus duomenis&lt;/strong&gt;. Prieš tęsdami, susikurkite visų jame esančių failų atsargines kopijas.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Išskleisti CD">
+<!ENTITY wizard.button.cancel.label "Atšaukti">
+<!ENTITY tooltip.control.shuffle "Maišyti">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "A">
+<!ENTITY menu.control.shuf.accesskey "M">
+<!ENTITY displaypane.default.image.tooltip "Plėtinio pasirinkimo piktograma">
+<!ENTITY first_run.import_media.scan_directories.description "Ar bandyti įtraukti failus į „&brandShortName;“ ieškant jų tam tikruose aplankuose?">
+<!ENTITY device.tools.product_registration.title "Produkto registracija">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Redaguoti">
+<!ENTITY rapi.playback_read_disable.label "Neleisti tinklalapiams matyti grojamo kūrinio duomenų">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "Nerodyti „&brandShortName;“">
+<!ENTITY device.sync.sync_all.label "Visa muzika, video ir grojaraščiai">
+<!ENTITY cdrip.mediaview.quality_label "Kokybė:">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopijuoti">
+<!ENTITY subscribe.days "D.">
+<!ENTITY smart.least_often "grota rečiausiai">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "albumą">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Gavimo prioritetai">
+<!ENTITY mediacore.error.stop "Stabdyti grojimą">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Šokių">
+<!ENTITY albumart.displaypane.not_playing_message "Niekas negroja">
+<!ENTITY textbox.songbird_open_url "Failo adresas:">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Priedai">
+<!ENTITY menu.view.accesskey "R">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Nuostatos">
+<!ENTITY cdrip.mediaview.settings_button "Nuostatos">
+<!ENTITY cdinfo.other.label "Pridėti atlikėjo ir albumo informaciją pačiam">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "„&brandShortName;“ nepavyko prisijungti prie interneto">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Stabdyti">
+<!ENTITY equalizer.preset.soft_rock "Švelnus rokas">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Pritaikyti pasirinkimą visiems grojaraščiams">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Vaizdo įrašai">
+<!ENTITY tooltip.browser.fwd "Pirmyn">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Palaugų skiltis">
+<!ENTITY playback.prefpane.streaming.label "Tinklas bei Transliavimas">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignoruoti šį įrenginį">
+<!ENTITY menu.control.repx.accesskey "N">
+<!ENTITY menu.controls.accesskey "V">
+<!ENTITY command.device.ejectcddevice "Išstumti CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "Išstumti CD">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignoruoti šį įrenginį">
+<!ENTITY tooltip.displaypane.options "Turinio juostos nuostatos">
+<!ENTITY menu.tools.exportmedia "Eksportuoti bibliotekos pakeitimus">
+<!ENTITY menu.mac.preferences "Nuostatos…">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Pakeisti grojaraštį &brandShortName; su dabartiniu iTunes grojaraščiu">
+<!ENTITY device.tools.reset_warnings.title "Iš naujo nustatyti įspėjimus">
+<!ENTITY about.credits.description.champs.link.pre "Songbird čempionai yra užkietėję Songbird vartotojai ir gerbėjai, atsiliepę į pareigos šauksmą padėti kitiems Songbird vartotojams mūsų">
+<!ENTITY menu.control.next "Paskesnė daina">
+<!ENTITY umsd.video.video_path_browse_msg "Pasirinkite įrenginio katalogą, į kurį perkelti vaizdo įrašus.">
+<!ENTITY setupprogress.pleasewait "Prašom palaukti...">
+<!ENTITY menu.help.homepage "Songbird tinklalapis">
+<!ENTITY equalizer.preset.soft "Minkštas">
+<!ENTITY equalizer.preset.large_hall "Didelė salė">
+<!ENTITY first_run.eula.accept_checkbox.label "Perskaičiau licenciją ir sutinku su jos sąlygomis.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Pažymėkite, jei nenorite, kad &brandShortName; valdytų šį įrenginį.">
+<!ENTITY smart.most_recent "grota seniausiai">
+<!ENTITY command.device.ejectdevice "Išstumti">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Daugiau importavimo metu nebepranešti apie nepalaikomus vaizdo įrašus">
+<!ENTITY first_run.connection.settings.button "Prisijungimo parametrai...">
+<!ENTITY import_library.prefs.title "Įkelti">
+<!ENTITY hotkeys.action "Veiksmas">
+<!ENTITY equalizer.preset.classical "Klasikinė">
+<!ENTITY device.sync.images.from.label "Sinchronizuoti nuotraukas iš:">
+<!ENTITY first_run.install_add_ons.title "Siunčiami papildiniai">
+<!ENTITY playback.prefpane.streaming.buffer "Transliavimo buferis:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Ieškoti kompiuterio aplankuose">
+<!ENTITY menu.control.play "Groti/stabdyti">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY subscribe.minutes "Min.">
+<!ENTITY smart.any "bet kurią">
+<!ENTITY prefpane.content.label "Interneto turinys">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Čempionai">
+<!ENTITY equalizer.preset.rock "Roko">
+<!ENTITY equalizer.preset.live "Gyvo koncerto">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Perspėti, kai įkeliamos nepalaikomų formatų dainos ar grojaraščiai">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY tooltip.control.volume "Garsas">
+<!ENTITY smart.hours "val.">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Šoninė juosta dešinėje">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Norint tęsti, įrenginys turi būti prijungtas taisymo rėžime. Instrukcijas, kaip tai padaryti, rasite žemiau.">
+<!ENTITY menu.edit.accesskey "T">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "A">
+<!ENTITY first_run.import_media.description "Šis puslapis padės įkelti failus į „&brandShortName;“ ieškodamas failų. Kai Songbird pasileis, failus bus galima įtraukti keliais būdais.">
+<!ENTITY umsd.video.video_ext_desc "Į prietaisą bus kopijuojami video failai su nurodytais plėtiniais:">
+<!ENTITY smart.most_added "įtraukta paskiausiai">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Atverti adresą">
+<!ENTITY menu.edit.paste.accesskey "d">
+<!ENTITY first_run.eula.header.label "Licencijos sutartis">
+<!ENTITY device.capacity.image.label "Nuotraukos">
+<!ENTITY about.credits.intro "Norėtume padėkoti mūsų kūrybinei komandai, kurios pastangomis &brandShortName; pavirto tuo, kuo yra šiandien. Šie žmonės padėjo kurdami šios programos kodą, dokumentuodami bei testuodami jį. Jų vardai surašyti IRC slapyvardžių pavidalu, tad ateik į irc.mozilla.org #songbird kanalą ir pasakyk LABAS :)">
+<!ENTITY menu.mac.showall "Rodyti viską">
+<!ENTITY first_run.connection.description "Tikrinti prisijungimo parametrus arba tęsti su diegimo vedliu.">
+<!ENTITY equalizer.preset.full_bass "Pilni žemi dažniai">
+<!ENTITY cdrip.lookup.multiple.title "Rasti keli CD įrašai">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Atverti nuorodą naršyklėje">
+<!ENTITY first_run.add_ons.header.label "Rekomenduojami papildiniai">
+<!ENTITY command.device.renamedevice.accesskey "P">
+<!ENTITY first_run.feedback.metrics.label "Rinkti ir siųsti naudojimosi „&brandShortName;“ duomenis">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Įrenginio paruošimas">
+<!ENTITY menu.videotofront "Vaizdo įrašą į priekį">
+<!ENTITY device.management.tabs.music.label "Muzika">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "Prenumeruoti šį rėmą...">
+<!ENTITY add_on_bundle_installer.error_box.label "Išsamiau">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "A">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.exit "Baigti darbą">
+<!ENTITY device.sync.images.all.template "Visos nuotraukos (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Norite užtikrinti pirkimą, gauti papildomas gaminio pirkimo privilegijas bei sužinoti saugumo perspėjimus?">
+<!ENTITY first_run.import_media.header.label "Įtraukti failus">
+<!ENTITY tooltip.browser.home "Pradinis tinklalapis">
+<!ENTITY equalizer.preset.small_speakers "Nešiojamo kompiuterio/Ausinių">
+<!ENTITY cdrip.lookup.info_not_found.album "Albumas">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Albumo viršelį įrašyti į metaduomenų sritį">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Ieškoti failų plėtinių:">
+<!ENTITY command.device.rip.accesskey "">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "visas">
+<!ENTITY playback.prefpane.normalization.enable "Naudoti garso lygio normalizavimą, jei įmanoma">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "Ž">
+<!ENTITY displaypane.default.link.text "Priedų puslapyje">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Palaikymas">
+<!ENTITY device.sync.auto_sync.label "Sinchronizuoti">
+<!ENTITY device.info.model.label "Modelis">
+<!ENTITY feed.subscribe.dontask "Daugiau nerodyti šio įrašo automatiškai">
+<!ENTITY rapi.restore_defaults.label "Atkurti numatytąją ">
+<!ENTITY playback.prefpane.audio_output.label "Garso išvestis">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Atkuriant įrenginio gamyklinius nustatymus arba diegiant seną įrenginio vidaus programą visas jame esantis turinys bus ištrintas. ">
+<!ENTITY device.dialog.wait_for_completion.title "Laukiama įrenginių.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Automatiškai atsiųsti albumo viršelį, kai kūrinys yra grojamas arba pažymimas, priklausomai nuo albumo viršelio polangio veiksenos. Šios galimybės naudojimas gali turėti įtakos našumui.">
+<!ENTITY device.firmware.wizard.check.already.description "Jūsų įrenginyje esanti programa yra naujausios versijos.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD išskleidimo nuostatos">
+<!ENTITY videowindow.fullscreen "Pilnas ekranas">
+<!ENTITY tooltip.browser.refresh "Atnaujinti">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Priedai...">
+<!ENTITY equalizer.preset.club "Klubinė">
+<!ENTITY equalizer.preset.full_bass_treble "Pilni žemi ir aukšti dažniai">
+<!ENTITY menu.edit.copy "Kopijuoti">
+<!ENTITY device.repair.menuitem.default "Pataisyti įrenginį">
+<!ENTITY addMediaToPlaylistCmd.accesskey "P">
+<!ENTITY tooltip.exit "Uždaryti">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "„&brandShortName;“ diegimas">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Nurodyti bitų srautą  ir formatą rankiniu būdu">
+<!ENTITY tooltip.control.shuf_off "Maišymas išjungtas">
+<!ENTITY smart.selectedby "parinktas pagal">
+<!ENTITY openPageCmdInDefaultBrowser.label "Atverti puslapį naršyklėje">
+<!ENTITY menu.control.playpause.spacebar "Tarpo klavišas">
+<!ENTITY import_library.dirty_playlist_dialog.title "Grojaraštis pakeistas">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "A">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "k">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Dabartinės įrenginio programos versija:">
+<!ENTITY first_run.itunes.checkbox.export.description "Muzika įsigyta naudojantis &brandShortName; gali būti eksportuota į iTunes tam, kad galėtumėte ją perkelti į savo iPod ar iPhone.">
+<!ENTITY device.tools.update_firmware.label "Ieškoti įrenginio programos atnaujinimų">
+<!ENTITY device.info.icon.device "Bendroji įrenginio piktograma">
+<!ENTITY restartbox.restartlater "Perkrauti vėliau">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Atlikėjas">
+<!ENTITY cdrip.lookup.track_name "Pavadinimas">
+<!ENTITY menu.control.pause "Pristabdyti">
+<!ENTITY menu.extensions.accesskey "P">
+<!ENTITY device.firmware.wizard.repair.time.description "Ši operacija neturėtų trukti ilgiau nei penkias minutes.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Automatiškai atsiųsti albumo viršelį">
+<!ENTITY command.device.canceldevicesync "Nutraukti sinchronizaciją">
+<!ENTITY menu.control.rep1 "Kartoti vieną">
+<!ENTITY device.sync.playlist.video.duration "Vaizdo įrašo trukmė">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "Tinklo integravimas">
+<!ENTITY menu.equalizer "Ekvalaizeris...">
+<!ENTITY first_run.add_ons.description.line1 "Papildiniais galima praplėsti „&brandShortName;“ funkcionalumą ir suderinti grotuvą, kaip tik nori.">
+<!ENTITY displaypane.name.servicepane "Paslaugų skilties apačia">
+<!ENTITY menu.clearprivatedata "Pašalinti privačius duomenis…">
+<!ENTITY window.ok "Gerai">
+<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY menu.edit.find "Ieškoti">
+<!ENTITY first_run.add_ons.description.line2 "Jie gali jungtis su kitomis programomis ir paslaugomis, palaikyti išorinius prietaisus, pakeisti programos išvaizdą ir dar daugiau!">
+<!ENTITY menu.updateCmd.label "Tikrinti ar yra naujinimų…">
+<!ENTITY device.firmware.wizard.check.error.description "Ieškant įrenginio programos atnaujinimų įvyko klaida. Patikrinkite savo interneto ryšį ir bandykite dar kartą.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitų srautas">
+<!ENTITY displaypane.name.browser "Turinio skilties apačia">
+<!ENTITY albumartpreferences.prefpane.label "Albumo viršelis">
+<!ENTITY watch_folder.prefs.description "&brandShortName; gali stebėti aplanko turinį ir automatiškai pridėti ar pašalinti jo elementus.">
+<!ENTITY umsd.no_devices_present "Neprijungta nė viena USB laikmena.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Sinchronizuoti">
+<!ENTITY device.dialog.wait_for_completion.quit "Baigti darbą">
+<!ENTITY tooltip.browser.mediapages.list "Sąrašo rodinys">
+<!ENTITY rapi.library_read_disable.label "Neleisti tinklalapiams matyti duomenų apie kūrinius Songbird">
+<!ENTITY feedback.dialog.sentence1 "Ar padėsite mums tobulinti Songbird užpildydami trumpą klausimyną?">
+<!ENTITY feed.subscribe.label "Prenumeruoti">
+<!ENTITY tooltip.servicepane.show "Rodyti paslaugų skiltį">
+<!ENTITY tooltip.control.stop "Stabdyti">
+<!ENTITY menu.file.remote "Prenumeruoti…">
+<!ENTITY menu.file.podcast "Nauja laidos prenumerata...">
+<!ENTITY feedback.dialog.sentence2 "Jeigu Jūs nenorite, daugiau nebesiūlysime. Dėkojame už nuomonę ir linkime malonaus naudojimosi Songbird! ">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Dar nerealizuota (žiūrėkite riktą 14281)">
+<!ENTITY menu.edit "Taisa">
+<!ENTITY locale.language.accesskey "l">
+<!ENTITY videowindow.title "Vaizdo įrašo langas">
+<!ENTITY menu.fullscreen "Visas ekranas">
+<!ENTITY menu.file.newtab "Nauja kortelė">
+<!ENTITY feedback.dialog.sentence3 "Pagarbiai,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Rodyti dabar grojamą">
+<!ENTITY albumart.displaypane.drag_and_drop "Čia užtempk albumo viršelį">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY smart.most_often "grota dažniausiai">
+<!ENTITY restartbox.restartnow "Perkrauti dabar">
+<!ENTITY device.unsupported_media.dialog.enable "Pranešti, kai randama nesuderinamų failų">
+<!ENTITY device.sync.images.selected.label "Pažymėti poaplankiai">
+<!ENTITY command.device.canceldevicecopy "Nutraukti kopijavimą">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "N">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Pasirinkite kaupiklį, kurį valdys &brandShortName;:">
+<!ENTITY feedback.dialog.sentence4 "Songbird komanda">
+<!ENTITY smart.title "pavadinimas">
+<!ENTITY menu.tools.reveal "Rodyti parinktą failą">
+<!ENTITY menu.controllerontop "Rodyti viršuje">
+<!ENTITY about.credits.footer.beforeLink "Žinoma, nieko nebūtų pavykę jei">
+<!ENTITY device.management.tabs.tools.label "Įrankiai">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY trackeditor.addtag.tag "Gairė:">
+<!ENTITY device.settings.music.transcoding.format.label "Kodavimo formatas">
+<!ENTITY command.device.canceldeviceupdate "Nutraukti atnaujinimą">
+<!ENTITY mediapages.firstrun.title "">
+<!ENTITY equalizer.preset.full_treble "Pilni aukšti dažniai">
+<!ENTITY umsd.music.tab "Muzika">
+<!ENTITY tooltip.close "Uždaryti">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Atkurti">
+<!ENTITY menu.edit.findagain "Ieškoti toliau">
+<!ENTITY device.info.capacity.label "Talpa">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Pasirinkite aplanką...">
+<!ENTITY displaypane.default.link.post ", kad peržiūrėti galimus priedus.">
+<!ENTITY menu.control.play.accesskey "G">
+<!ENTITY menu.file.open "Atverti failą...">
+<!ENTITY command.device.devicesync "Sinchronizuoti">
+<!ENTITY menu.preferences.accesskey "N">
+<!ENTITY menu.clearprivatedata.accesskey "š">
+<!ENTITY mediacore.error.continue "Tęsti">
+<!ENTITY umsd.music.music_path_desc "Kai į prietaisą kopijuojami muzikiniai failai, jie bus įkelti į nurodytą aplanką:">
+<!ENTITY playback.prefpane.audio_output.buffer "Išvesties buferis">
+<!ENTITY menu.switchplayercontrols "Grotuvo valdymas">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Palikti esamą &brandShortName; grojaraštį (neįkelti grojaraščio)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Ieškoti įrenginio programos atnaujinimų">
+<!ENTITY menu.help.accesskey "Ž">
+<!ENTITY device.info.serial_number.label "Serijinis numeris">
+<!ENTITY device.info.product.label "Produktas">
+<!ENTITY smart.minutes "min.">
+<!ENTITY menu.help.topics "Žinyno turinys…">
+<!ENTITY menu.file.playlist "Įkelti grojaraštį...">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY device.tools.format_volume.button.label "Formatuoti">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Riboti iki">
+<!ENTITY menu.file.library "Įkelti biblioteką...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "Rasti dabar grojamą dainą">
+<!ENTITY setupprogress.installingextensions "Diegiami priedai">
+<!ENTITY menu.mac.services "Tarnybos">
+<!ENTITY menu.file.open.accesskey "A">
+<!ENTITY import_library.library_file_label "Bibliotekos failas:">
+<!ENTITY command.device.canceldevicecopy.accesskey "N">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Atitikti sąlygą:">
+<!ENTITY importexport_show_notifications_checkbox "Rodyti pranešimus, kai importas/eksportas bus baigtas">
+<!ENTITY cdrip.mediaview.eject.key "">
+<!ENTITY first_run.itunes.checkbox.import.description "Įrašai ir muzika įsigyti iTunes parduotuvėje gali būti importuoti į &brandShortName;. Ši galimybė tikrai pravers, jei &brandShortName; žada būti jūsų pagrindiniu muzikos grotuvu.">
+<!ENTITY device.sync.images.foldername "Aplanko vardas">
+<!ENTITY device.capacity.video.label "Vaizdo įrašai">
+<!ENTITY menu.control.next.accesskey "K">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Muzikiniai failai">
+<!ENTITY trackeditor.tab.lyrics.title "Dainos žodžiai">
+<!ENTITY menu.mac.exit "Baigti „&brandShortName;“ darbą">
+<!ENTITY menu.control.play.button "Groti">
+<!ENTITY hotkeys.prefpane "Spartieji klavišai">
+<!ENTITY subscribeMediaFrameCmd.accesskey "P">
+<!ENTITY subscribe.hours "Val.">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Žinynas">
+<!ENTITY menu.equalizer.accesskey "K">
+<!ENTITY command.device.ignoredevice "Ignoruoti">
+<!ENTITY export_subscriptions_itunes_checkbox "Eksportuoti prenumeratas">
+<!ENTITY mediacore.error.title "Grojimo klaida">
+<!ENTITY prefs.homepage.url.accesskey " ">
+<!ENTITY menu.control.jumpto "Šokti į…">
+<!ENTITY menu.tools "Priemonės">
+<!ENTITY device.settings.music.transcoding.label "Muzikos perkodavimas">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Nustatyti iš naujo">
+<!ENTITY device.info.icon.readonly "Piktograma &quot;Tik skaitymui&quot;">
+<!ENTITY command.device.lookup "Ieškoti CD informacijos">
+<!ENTITY tabs.listAllTabs "Kortelių sąrašas">
+<!ENTITY rapi.prefpane.access.caption "Tinklalapis">
+<!ENTITY menu.file.scan "Ieškoti failų...">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "Failų importavimas">
+<!ENTITY device.firmware.wizard.download.error.description "Atsiunčiant naująją įrenginio programą įvyko klaida. Patikrinkite savo interneto ryšį ir bandykite dar kartą.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Stebėti aplanko nuostatas">
+<!ENTITY tooltip.minimize "Minimizuoti">
+<!ENTITY smart.random "atsitiktinai">
+<!ENTITY smart.contenttypecondition.audio "Muzika">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Laidos pastabos">
+<!ENTITY watch_folder.prefs.title "Stebimi aplankai">
+<!ENTITY subscribe.autocheck "Automatiškai atnaujinti kas">
+<!ENTITY menu.control.shuf "Maišyti">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Į viršų">
+<!ENTITY device.firmware.wizard.retry.description "Bandykite dar kartą, kai įrenginys baigs vykdyti dabartinę operaciją.">
+<!ENTITY first_run.connection.settings.description "Galbūt kompiuteris ar tinklas apsaugotas ugniasiene ar proxy serveriu? Teisingos prisijungimo nuostatos dažnai išsprendžia kilusius nesklandumus.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Automatiškai aptikti pasikietimus šiame aplanke">
+<!ENTITY menu.file.metadata "Peržiūrėti metaduomenis...">
+<!ENTITY device.info.firmware_version.label "Įrenginio programos versija">
+<!ENTITY device.info.access.label "Priėjimo suderinamumas">
+<!ENTITY tooltip.control.back "Ankstesnė daina">
+<!ENTITY menu.edit.cut.accesskey "r">
+<!ENTITY menu.controlleronbottom "Rodyti apačioje">
+<!ENTITY device.sync.sync_selected.label "Pažymėti grojaraščiai:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "š">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Filtro polangio rodinys">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "">
+<!ENTITY rapi.playback_control_disable.label "Neleisti tinklalapiams valdyti grojimo">
+<!ENTITY menu.file.exit.accesskey "B">
+<!ENTITY first_run.feedback.metrics.description "Duomenys yra visiškai anoniminiai. Nerenkami jokie asmeniniai duomenys.">
+<!ENTITY cdrip.prefpane.label "CD išskleidimas">
+<!ENTITY tooltip.control.mute "Išjungti garsą">
+<!ENTITY smart.album "albumas">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY menu.tools.accesskey "P">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.tools.format_device.label "Formuoti įrenginį">
+<!ENTITY hotkeys.remove "Šalinti">
+<!ENTITY tooltip.fullscreen "Visas ekranas">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatiškai nustatyti perkodavimą">
+<!ENTITY jumptofile.search "Paieška:">
+<!ENTITY albumart.displaypane.not_selected_message "Nieko nepasirinkta">
+<!ENTITY wizard.button.back.label "Grįžti">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "Į">
+<!ENTITY rapi.prefpane.access.text "Galite leisti tinklalapiams jungtis su &brandShortName; tam, kad sukurti glaudesnį ryšį tarp tinklo ir jūsų turinio. Prašome nustatyti &brandShortName; tam, kad leisti arba blokuoti šiuos jungimosi taškus.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Suskleisti paslaugų polangį">
+<!ENTITY podcast.creation_dialog.title "Nauja laidos prenumerata">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "dainą">
+<!ENTITY menu.errorconsole.accesskey "K">
+<!ENTITY about.credits.footer.afterLink "savo sunkiu darbu bei pastangomis nebūtų prisidėję prie Mozilla projekto.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Tai leis &brandShortName; įterpti albumų viršelius į failų žymų sritį.">
+<!ENTITY menu.control.rep1.accesskey "v">
+<!ENTITY hotkeys.add "Pridėti">
+<!ENTITY export_playlists_itunes_checkbox "Eksportuoti grojaraščius">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Automatiškai ieškoti įrenginio programos atnaujinimų">
+<!ENTITY smart.least_recent "grota seniausiai">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.help.about "Apie &brandShortName;...">
+<!ENTITY device.settings.general.label "">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "U">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "Išstumti CD, kai skleidimas baigsis">
+<!ENTITY device.management.tabs.image.label "Nuotraukos">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY device.info.vendor.label "Gamintojas">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY window.browser.titlemenuseparator " – ">
+<!ENTITY sanitize.key "Del">
+<!ENTITY playback.prefpane.ratings.label "Įverčių metaduomenys">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Pranešti garso signalu, kai CD išskleidimas bus baigtas">
+<!ENTITY menu.control.jumpto.accesskey "Š">
+<!ENTITY device.tools.format_device.description "Formuojant įrenginį failai, esantys jame, bus ištrinti.">
+<!ENTITY jobprogress.details "Išsamiau">
+<!ENTITY device.tools.reset_warnings.description "Įspėjimų nustatymas iš naujo iššauks patvirtinimo korteles tam tikriems veiksmams, kuriuos norėsite atlikti.">
+<!ENTITY prefs.homepage.label "Pradžios tinklalapis">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Užverti kortelę">
+<!ENTITY device.firmware.wizard.title "Atnaujinti įrenginio programą">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "Visos nuotraukos">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Garsą normalizuoti pagal:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Atsiunčiama nauja įrenginio programa...">
+<!ENTITY cdrip.prefpane.format "Formatas">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "Nuostatos…">
+<!ENTITY menu.file "Failas">
+<!ENTITY menu.downloadmgr.accesskey "s">
+<!ENTITY import_library.prefs.path_group_caption "Kelias iki bibliotekos">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Pauzė">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Nuostatos">
+<!ENTITY copySelectionCmd.label "Kopijuoti pažymėtą tekstą">
+<!ENTITY feed.subscribe.close "Uždaryti">
+<!ENTITY device.settings.disk.label "Disko valdymas">
+<!ENTITY first_run.feedback.email.header.label "Pranešti naujienas">
+<!ENTITY equalizer.preset.custom "Pasirinktinas">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Sulieti dabartinį &brandShortName; ir iTunes grojaraštį">
+<!ENTITY import_tracks_itunes_checkbox "Importuoti takelius iš iTunes">
+<!ENTITY first_run.welcome.header.label "Sveiki! Čia „&brandShortName;“">
+<!ENTITY feedback.dialog.title "Padėkite tobulinti Songbird!">
+<!ENTITY window.yes "Taip">
+<!ENTITY subscribeMediaPageCmd.label "Prenumeruoti šį tinklalapį…">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Atšaukti">
+<!ENTITY watchfolder.folderlist "Stebėti naujus failus aplankuose:">
+<!ENTITY tooltip.control.fwd "Paskesnė daina">
+<!ENTITY restartbox.restartonplaybackend "Perkrauti po kūrinio">
+<!ENTITY playback.prefpane.label "Perklausa">
+<!ENTITY command.device.canceldevicedelete.accesskey "N">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Rodyti dabar pasirinktą">
+<!ENTITY import_library.dirty_playlist_dialog.note "Svarbu: suliejimo ir pakeitimo anuliuoti negalima.">
+<!ENTITY menu.control.repa "Kartoti viską">
+<!ENTITY jumptofile.title "Peršokti į">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY device.firmware.wizard.busy.description "Atrodo, jog Jūsų įrenginys užsiėmęs. Įrenginio programos ieškoti galima tik tada, kai įrenginys yra ramybės būsenoje.">
+<!ENTITY command.device.renamedevice "Pervardinti">
+<!ENTITY smart.least_added "įtraukta anksčiausiai">
+<!ENTITY smart.contenttypecondition.video "Vaizdo įrašai">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Parsiųsti">
+<!ENTITY command.device.stoprip "Stabdyti išskleidimą">
+<!ENTITY device.firmware.wizard.check.install.description "Atnaujintos įrenginio programos diegimas neturėtų trukti ilgiau 10 minučių. Visada galite atnaujinimą atlikti vėliau.">
+<!ENTITY first_run.add_ons.load_failed.label "Nepavyko gauti rekomenduojamų papildinių sąrašo.">
+<!ENTITY first_run.feedback.description "Ar padėtumėte tobulinti „&brandShortName;“, siųsdami naudojimosi duomenis ir užpildydami klausimynus?">
+<!ENTITY about.credits.footer.linkText "pagalbininkai">
+<!ENTITY device.tools.update_firmware.title "Atnaujinti įrenginio programą">
+<!ENTITY locale.language "Kalba">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stabdyti išskleidimą">
+<!ENTITY copySelectionCmd.accesskey "K">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "Norėdami gauti daugiau informacijos apie trūkstamus kodekus žiūrėkite:">
+<!ENTITY first_run.itunes.description "Atrodo, jog pas jus įdiegta iTunes. &brandShortName; gali keistis takeliais tarp &brandShortName; ir iTunes tam, kad Jūsų bibliotekos būtų sinchronizuotos.">
+<!ENTITY subscribeMediaPageCmd.accesskey "P">
+<!ENTITY menu.file.scan.accesskey "I">
+<!ENTITY first_run.itunes.header.label "iTunes importas/eksportas">
+<!ENTITY albumart.coverpreview.title "Albumo viršelis">
+<!ENTITY playback.prefpane.normalization.label "Garso lygio normalizavimas">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "v">
+<!ENTITY first_run.itunes.checkbox.export.label "Eksportuoti naujus takelius bei grojaraščius į iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Nenaudokite aplankų stebėjimo tame pačiame kataloge, kuriame yra ir jūsų tvarkomos muzikos aplankas, nes tai bibliotekoje sukurs dublikatų.">
+<!ENTITY smart.match "Atitinka">
+<!ENTITY export_tracks_itunes_checkbox "Eksportuoti takelius į iTunes">
+<!ENTITY cdrip.prefpane.quality "Kokybė">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Naujas grojaraštis">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "e">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel,alt">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

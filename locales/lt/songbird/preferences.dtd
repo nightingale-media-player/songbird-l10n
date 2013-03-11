@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em;">
+<!ENTITY paneSecurity.title "Saugumas">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em;">
+<!ENTITY paneApplications.title "Programos">
+<!ENTITY paneContent.title "Turinys">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; nuostatos">
+<!ENTITY prefWindow.titleWin "Nuostatos">
+<!ENTITY paneTabs.title "Kortelės">
+<!ENTITY paneAdvanced.title "Sudėtingesnės">
+<!ENTITY panePrivacy.title "Privatumas">
+<!ENTITY paneGeneral.title "Pagrindinis">
+

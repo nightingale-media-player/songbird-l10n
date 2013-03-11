@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Continuer">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Copier les fichiers musicaux avec les extensions suivantes sur le disque :">
+<!ENTITY menu.errorconsole "Console d&apos;erreurs">
+<!ENTITY menu.edit.paste "Coller">
+<!ENTITY tooltip.hide "Masquer">
+<!ENTITY tooltip.browser.subscription "S&apos;abonner">
+<!ENTITY smart.playlistcondition.library "Bibliothèque">
+<!ENTITY menu.help.bugz "Signaler un problème">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Surveiller les changements dans ce dossier">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Taille réelle">
+<!ENTITY trackeditor.title "Éditeur de métadonnées">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Tout sélectionner">
+<!ENTITY device.tools.restore_device.label "Restaurer les paramètres d&apos;origine de l&apos;appareil">
+<!ENTITY addMediaToPlaylistCmd.label "Ajouter à la liste de lecture">
+<!ENTITY equalizer.band9.label "16k">
+<!ENTITY smart.artist "artiste">
+<!ENTITY menu.file.metadata.accesskey "d">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY mediacore.error.preface "&brandShortName; a rencontré la ou les erreurs de playback suivantes :">
+<!ENTITY hotkeys.set "Définir">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "Aucun encodeur n&apos;est disponible pour cet appareil">
+<!ENTITY fetch_album_art.dialog.title "Obtenir la pochette">
+<!ENTITY menu.controls "Contrôles">
+<!ENTITY tooltip.control.resume "Reprendre">
+<!ENTITY feedback.dialog.no "Non">
+<!ENTITY equalizer.preset.party "Fête">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Sélectionnez un module complémentaire à partir du menu">
+<!ENTITY device.capacity.free.label "Libre">
+<!ENTITY playMediaCmd.accesskey "l">
+<!ENTITY hotkeys.info "Les raccourcis clavier globaux vous permettent d&apos;accéder aux fonctionnalités de &brandShortName; même si &brandShortName; n&apos;est pas l&apos;application active.  Certaines combinaisons doivent inclure des touches spéciales (WIN, CTRL) pour éviter d&apos;éventuelles interférences avec d&apos;autres applications.">
+<!ENTITY device.capacity.music.label "Musique">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "Arrêter le chargement">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "30">
+<!ENTITY albumart.displaypane.selected.menu.cut "Couper">
+<!ENTITY cdrip.prefpane.providers.title "Fournisseur de Recherche de CD">
+<!ENTITY subscribe.title "S&apos;abonner">
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY smart.window "Outil de création de listes de lecture intelligentes">
+<!ENTITY openImageCmdInDefaultBrowser.label "Ouvrir l&apos;image dans le navigateur Web par défaut">
+<!ENTITY menu.help.about.accesskey "o">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Formater l&apos;appareil">
+<!ENTITY device.tools.reset_warnings.label "Réinitialiser les messages d&apos;alerte">
+<!ENTITY cdrip.prefpane.quality_desc "Un réglage du débit binaire plus grand donnera un fichier de meilleure qualité et de taille plus importante.">
+<!ENTITY equalizer.band6.label "2k">
+<!ENTITY first_run.feedback.email.textbox.emptytext "saisissez ici votre adresse de courriel pour rester informé">
+<!ENTITY trackeditor.addtag.title "Ajouter une balise">
+<!ENTITY first_run.DLNA.description "Songbird Media Server vous permet de partager votre bibliothèque &brandShortName; (musique et vidéos) avec des appareils sélectionnés de votre réseau domestique.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kb/s">
+<!ENTITY prefs.security.addons.label "Installation de modules complémentaires">
+<!ENTITY first_run.DLNA.point "Pour activer ou désactiver le partage des fichiers multimédias, ouvrez la boîte de dialogue en cliquant sur l&apos;icône Media Sharing (Partage des fichiers multimédias) (entourée) dans la barre d&apos;état de &brandShortName;.">
+<!ENTITY menu.control.repa.accesskey "o">
+<!ENTITY device.tools.product_registration.label "Enregistrer le produit">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Entrez une liste d&apos;extensions séparées par des virgules">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Formats de lecture">
+<!ENTITY smart.high_rating "meilleure note">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Masquer les autres">
+<!ENTITY menu.edit.find.accesskey "E">
+<!ENTITY device.info.friendly_name.label "Nom">
+<!ENTITY device.unsupported_media.dialog.title "Fichiers incompatibles détectés">
+<!ENTITY cdrip.mediaview.format_label "Format :">
+<!ENTITY about.credits.heading.translators "Traducteurs">
+<!ENTITY menu.view "Afficher">
+<!ENTITY menu.preferences "Options...">
+<!ENTITY command.device.canceldevicedelete "Annuler la suppression">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "Terminer">
+<!ENTITY menu.file.smart.accesskey "N">
+<!ENTITY first_run.welcome.description.line1 "une alternative hautement configurable aux lecteurs multimédia traditionnels.">
+<!ENTITY device.dialog.wait_for_completion.msg "En attente d&apos;achèvement de tous les échanges avec les appareils. Cliquez sur « Quitter » pour interrompre ces opérations et quitter l&apos;application.">
+<!ENTITY device.sync.playlist.title "Titre">
+<!ENTITY hotkeys.useglobalhotkeys "Utiliser les raccourcis clavier globaux">
+<!ENTITY subscribe.destinationfolder "Sélectionner le dossier">
+<!ENTITY playqueue.label "Jouer la file d&apos;attente">
+<!ENTITY playqueue.instructions "Glissez-déposez ici les pistes ou listes de lecture pour créer des files d&apos;attente à la volée.">
+<!ENTITY first_run.welcome.description.line2 "Cet assistant vous permet de démarrer efficacement et d&apos;être rapidement opérationnel.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Ne pas répéter">
+<!ENTITY command.device.canceldevicesync.accesskey "A">
+<!ENTITY device.tools.support.description "Consulter les dernières nouvelles du support, les manuels d&apos;utilisation, la documentation, la foire aux questions et les informations sur le produit. Les services de support sont disponibles pour les utilisateurs ayant enregistré leur produit.">
+<!ENTITY about.version "Version ">
+<!ENTITY umsd.video.video_path_desc "Lors de la copie de fichiers vidéo vers le disque, les placer dans le dossier suivant :">
+<!ENTITY smart.low_rating "moins bonne note">
+<!ENTITY device.capacity.other.label "Autre">
+<!ENTITY device.tools.update_firmware.description "Votre appareil est contrôlé par un programme interne nommé micrologiciel (firmware). Une nouvelle version de ce micrologiciel peut avoir été publiée depuis la dernière fois que vous avez connecté l&apos;appareil à votre ordinateur.">
+<!ENTITY setupprogress.cancel "Annuler">
+<!ENTITY albumart.displaypane.selected.menu.paste "Coller">
+<!ENTITY cdrip.mediaview.rip.modifiers "Maj">
+<!ENTITY command.device.rip "Extraire le CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Fermer l&apos;onglet">
+<!ENTITY menu.edit.undo "Annuler les modifications">
+<!ENTITY first_run.add_ons.loading.label "Récupération des modules complémentaires recommandés.">
+<!ENTITY command.device.formatdevice "Formater">
+<!ENTITY albumart.displaypane.selected.menu.clear "Effacer">
+<!ENTITY import_playlists_itunes_checkbox "Importer les listes de lecture">
+<!ENTITY menu.edit.cut "Couper">
+<!ENTITY mediaimporter.filtered_extensions.title "Notice pour l&apos;importation de médias">
+<!ENTITY tooltip.control.play "Lire">
+<!ENTITY tooltip.browser.mediapages "Affichage...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "Batterie">
+<!ENTITY menu.edit.delete "Supprimer">
+<!ENTITY import_library.dialog.title "Importer une bibliothèque">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "condition(s) suivante(s) :">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Fichiers audio">
+<!ENTITY about.credits.description.champs.link.post "Ce sont les contributeurs les plus actifs sur les forums, et qui travaillent sans relâche pour faire de chaque utilisateur de Songbird un utilisateur satisfait.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Vidéo(s)">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Descendre">
+<!ENTITY command.device.getdeviceinfo "Obtenir des informations">
+<!ENTITY rapi.library_write_disable.label "Empêcher les sites Web d&apos;ajouter/supprimer des fichiers dans ma bibliothèque et mes appareils">
+<!ENTITY first_run.feedback.email.description "Abonnez-vous à notre lettre d&apos;information pour être notifié des nouvelles versions et des informations importantes.">
+<!ENTITY device.sync.images.filecount "Photos">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Si vous ne voulez pas que &brandShortName; gère cet appareil, vous pouvez ">
+<!ENTITY device.sync.header.label "Paramètres de synchronisation">
+<!ENTITY first_run.import_media.radio.dont_import.label "Ne pas importer de média maintenant">
+<!ENTITY feedback.dialog.yes "Oui">
+<!ENTITY about.buttons.credits "Crédits">
+<!ENTITY device.firmware.wizard.check.progress.title "Recherche d&apos;une mise à jour du micrologiciel en cours...">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "Vous pouvez ajouter ici l&apos;artiste et  le nom de l&apos;album. Vous pouvez éditer les informations restantes dans la liste de lecture de l&apos;extraction de CD">
+<!ENTITY umsd.music.music_path_browse_msg "Sélectionnez le dossier dans lequel vous voulez placer les fichiers musicaux.">
+<!ENTITY tooltip.maximize "Agrandir/Restaurer">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "forum de support GetSatisfaction pour Songbird">
+<!ENTITY window.save "Enregistrer">
+<!ENTITY window.no "Non">
+<!ENTITY tooltip.servicepane.newnode "Nouvelle liste de lecture">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Ouvrir le cadre dans le navigateur Web par défaut">
+<!ENTITY menu.file.newtab.accesskey "u">
+<!ENTITY menu.file.new "Nouvelle liste de lecture...">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY watch_folder.prefs.watch_folder_label "Dossier :">
+<!ENTITY smart.autoupdate "Mettre à jour automatiquement">
+<!ENTITY playback.prefpane.ratings.enablewriting "Stockez les notes d&apos;évaluation dans les métadonnées de chaque fichier">
+<!ENTITY menu.help.keyboard "Raccourcis clavier">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Noms de fichiers cherchés :">
+<!ENTITY menu.control.prev "Piste précédente">
+<!ENTITY device.firmware.wizard.support.description "Des ressources de support telles que des foires aux questions et des conseils de dépannage peuvent être trouvées à">
+<!ENTITY window.apply "Appliquer">
+<!ENTITY menu.file.smart "Nouvelle liste de lecture intelligente...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "Voir le détail des erreurs">
+<!ENTITY device.firmware.wizard.install.title "Installation du micrologiciel...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "M">
+<!ENTITY menu.control.pause.button "Pause">
+<!ENTITY trackeditor.tab.summary.title "Résumé">
+<!ENTITY playMediaCmd.label "Lire">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Page précédente">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Aucune liste de lecture&gt;">
+<!ENTITY equalizer.title "Égaliseur">
+<!ENTITY import_library.import_command "Importer la bibliothèque">
+<!ENTITY cdrip.mediaview.view_tracks_button "Afficher les pistes">
+<!ENTITY window.browse "Parcourir...">
+<!ENTITY device.tools.restore_device.title "Restaurer l&apos;appareil">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Classez les moteurs de recherche que vous voulez utiliser en priorité au début de la liste.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Pour en savoir plus sur les codecs manquants, veuillez consulter">
+<!ENTITY displaypane.default.image.post "ou visitez le">
+<!ENTITY smart.songs "éléments">
+<!ENTITY menu.tools.getartwork "Obtenir les pochettes...">
+<!ENTITY window.cancel "Annuler">
+<!ENTITY smart.genre "genre">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY hotkeys.hotkey "Raccourci clavier">
+<!ENTITY first_run.feedback.header.label "Aidez-nous à améliorer &brandShortName;">
+<!ENTITY menu.edit.selall.accesskey "T">
+<!ENTITY export_smartplaylists_itunes_checkbox "Exporter les listes de lecture intelligentes">
+<!ENTITY device.tools.support.label "Consulter les ressources du support">
+<!ENTITY import_library.prefs.options_group_caption "Options d&apos;importation">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "Activé">
+<!ENTITY menu.file.remote.accesskey "d">
+<!ENTITY first_run.eula.language.label "Langue :">
+<!ENTITY device.settings.disk.management.label "Personnaliser la structure des dossiers">
+<!ENTITY cdrip.lookup.multiple.description "Choisissez l&apos;un des suivants ou ajoutez vos propres informations.">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Modules complémentaires recommandés">
+<!ENTITY tooltip.search "Rechercher">
+<!ENTITY recommended_add_ons.title "&brandShortName; Configuration">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Surveiller les dossiers">
+<!ENTITY rapi.whitelist.label "Exceptions...">
+<!ENTITY menu.updateCmd.accessKey "R">
+<!ENTITY menu.file.url "Ouvrir l&apos;emplacement...">
+<!ENTITY menu.downloadmgr "Téléchargements de fichiers...">
+<!ENTITY device.settings.auto_launch.checkbox.label "Ouvrir &brandShortName; lorsque cet appareil est détecté">
+<!ENTITY first_run.itunes.checkbox.import.label "Importer les morceaux et listes de lecture depuis iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "Informations du CD non trouvées">
+<!ENTITY equalizer.band2.label "120">
+<!ENTITY mediacore.error.dontshowme "Ne plus afficher d&apos;erreurs de playback">
+<!ENTITY device.firmware.wizard.repair.warning "Malheureusement, tous les contenus existants sur votre appareil &lt;strong class=&quot;loss-of-data-text&quot;&gt;seront supprimés&lt;/strong&gt;. Il vous est recommandé de re-synchroniser avec &brandShortName; une fois l&apos;opération terminée.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Extraire les pistes audio du CD">
+<!ENTITY wizard.button.cancel.label "Annuler">
+<!ENTITY tooltip.control.shuffle "Lecture aléatoire activée">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "L">
+<!ENTITY displaypane.default.image.tooltip "Icône de sélection de module complémentaire">
+<!ENTITY first_run.import_media.scan_directories.description "Voulez-vous que &brandShortName; essaie d&apos;importer des médias en analysant des dossiers précis de votre ordinateur ?">
+<!ENTITY device.tools.product_registration.title "Enregistrement du produit">
+<!ENTITY equalizer.band8.label "8k">
+<!ENTITY cdrip.mediaview.eject.modifiers "Maj">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Édition">
+<!ENTITY rapi.playback_read_disable.label "Empêcher les sites Web d&apos;accéder aux informations sur les fichiers lus">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "Masquer &brandShortName;">
+<!ENTITY device.sync.sync_all.label "Synchroniser tous les médias">
+<!ENTITY cdrip.mediaview.quality_label "Qualité :">
+<!ENTITY albumart.displaypane.selected.menu.copy "Copier">
+<!ENTITY subscribe.days "Jour(s)">
+<!ENTITY smart.least_often "moins souvent joué">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Priorité des recherches">
+<!ENTITY mediacore.error.stop "Arrêtez le Play-back">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY albumart.displaypane.not_playing_message "Aucun titre en lecture">
+<!ENTITY textbox.songbird_open_url "Saisissez l&apos;URL ou le chemin des fichiers que vous souhaitez lire :">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Modules complémentaires">
+<!ENTITY menu.view.accesskey "i">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Paramètres">
+<!ENTITY cdrip.mediaview.settings_button "Paramètres">
+<!ENTITY cdinfo.other.label "Ajouter vos propres informations Artiste et Album ">
+<!ENTITY equalizer.band5.label "1k">
+<!ENTITY first_run.connection.header.label "&brandShortName; n&apos;a pas pu se connecter à Internet">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Stop">
+<!ENTITY equalizer.preset.soft_rock "Soft rock">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Appliquer la sélection à toutes les listes de lecture">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Fichiers vidéo">
+<!ENTITY tooltip.browser.fwd "Page suivante">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Panneau de services">
+<!ENTITY playback.prefpane.streaming.label "Réseau et lecture en continu">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignorer cet appareil">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY command.device.ejectcddevice "Éjecter CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "Éjecter le CD">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignorer cet appareil">
+<!ENTITY tooltip.displaypane.options "Options du panneau">
+<!ENTITY menu.tools.exportmedia "Exporter les changements de la bibliothèque">
+<!ENTITY menu.mac.preferences "Préférences...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Remplacer la liste de lecture &brandShortName; par la liste de lecture iTunes actuelle">
+<!ENTITY device.tools.reset_warnings.title "Réinitialiser les alertes">
+<!ENTITY about.credits.description.champs.link.pre "Les Champions de Songbird sont les utilisateurs fanatiques qui sont allés bien au-delà de leur mission pour aider les autres utilisateurs de Songbird sur notre  ">
+<!ENTITY menu.control.next "Piste suivante">
+<!ENTITY umsd.video.video_path_browse_msg "Sélectionnez le dossier dans lequel vous voulez placer les fichiers vidéo.">
+<!ENTITY setupprogress.pleasewait "Merci de patienter...">
+<!ENTITY menu.help.homepage "Site Web de Songbird">
+<!ENTITY equalizer.preset.soft "Doux">
+<!ENTITY equalizer.preset.large_hall "Grande salle">
+<!ENTITY first_run.eula.accept_checkbox.label "J&apos;ai lu et j&apos;accepte les termes de cette licence.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Ne sélectionnez que si vous ne souhaitez pas que &brandShortName; gère cet appareil">
+<!ENTITY smart.most_recent "plus récemment joué">
+<!ENTITY command.device.ejectdevice "Éjecter">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Ne plus m&apos;alerter désormais lors de l&apos;importation de fichiers dans un format vidéo non pris en charge">
+<!ENTITY first_run.connection.settings.button "Paramètres de connexion...">
+<!ENTITY import_library.prefs.title "iTunes">
+<!ENTITY hotkeys.action "Action">
+<!ENTITY equalizer.preset.classical "Classique">
+<!ENTITY device.sync.images.from.label "Synchroniser les photos depuis :">
+<!ENTITY first_run.install_add_ons.title "Téléchargement de modules complémentaires">
+<!ENTITY playback.prefpane.streaming.buffer "Tampon de flux :">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Analyser les dossiers de mon ordinateur">
+<!ENTITY menu.control.play "Lecture/Pause">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Avertissement de gestion des médias">
+<!ENTITY subscribe.minutes "Minute(s)">
+<!ENTITY smart.any "n&apos;importe laquelle des">
+<!ENTITY prefpane.content.label "Contenu Web">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Champions">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "M&apos;alerter lorsque des pistes ou des listes de lecture non prises en charge ne sont pas importées">
+<!ENTITY device.import.header.label "Importer">
+<!ENTITY tooltip.control.volume "Volume">
+<!ENTITY smart.hours "heures">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Panneau latéral droit">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "L&apos;appareil doit être connecté en mode firmware (micrologiciel). Veuillez suivre les instructions ci-dessous pour mettre votre périphérique en mode firmware.">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY videowindow.bringtofront.key "V">
+<!ENTITY menu.help.keyboard.accesskey "c">
+<!ENTITY menu.file.new.accesskey "o">
+<!ENTITY menu.edit.undo.accesskey "A">
+<!ENTITY first_run.import_media.description "Sélectionnez les médias que vous voulez importer dans &brandShortName;. Une fois &brandShortName; démarré, vous pourrez ajouter d&apos;autres médias de différentes manières.">
+<!ENTITY umsd.video.video_ext_desc "Copier les fichiers vidéo avec les extensions suivantes sur le disque :">
+<!ENTITY smart.most_added "plus récemment ajouté">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Ouvrir une URL">
+<!ENTITY menu.edit.paste.accesskey "O">
+<!ENTITY first_run.eula.header.label "Contrat de licence">
+<!ENTITY device.capacity.image.label "Photos">
+<!ENTITY about.credits.intro "Nous aimerions remercier nos contributeurs, dont les efforts ont fait de Songbird ce qu&apos;il est. Ces personnes ont aidé en écrivant du code et de la documentation, et en testant. Ils ont créé et maintenu ce produit, ses kits de développement associés,  nos outils de construction et nos sites Web. Les noms sont suivis des pseudos IRC, venez faire un tour à #songbird sur irc.mozilla.org et dites bonjour !">
+<!ENTITY menu.mac.showall "Tout afficher">
+<!ENTITY first_run.connection.description "Vérifiez vos paramètres de connexion ou continuez avec l&apos;assistant d&apos;installation.">
+<!ENTITY equalizer.preset.full_bass "Maximum de grave">
+<!ENTITY cdrip.lookup.multiple.title "Plusieurs enregistrements de CD trouvés">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Ouvrir le lien dans le navigateur Web par défaut">
+<!ENTITY first_run.add_ons.header.label "Modules complémentaires recommandés">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY first_run.feedback.metrics.label "Collecter et envoyer des mesures d&apos;utilisation de &brandShortName;">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Configuration de l&apos;appareil">
+<!ENTITY menu.videotofront "Vidéo au premier plan">
+<!ENTITY device.management.tabs.music.label "Musique">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "S&apos;abonner à ce cadre...">
+<!ENTITY add_on_bundle_installer.error_box.label "Détails">
+<!ENTITY smart.gb "Go">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "A">
+<!ENTITY menu.file.exit "Fermer">
+<!ENTITY device.sync.images.all.template "Toutes les photos (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Voulez-vous obtenir un justificatif d&apos;achat, recevoir des offres supplémentaires pour les adhérents, ou recevoir des notifications de sécurité ?">
+<!ENTITY first_run.import_media.header.label "Importer des médias">
+<!ENTITY tooltip.browser.home "Accueil">
+<!ENTITY equalizer.preset.small_speakers "Portable/Ecouteurs">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Ajouter les pochettes des albums aux métadonnées de chaque fichier.">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Extensions de fichiers cherchées :">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "P">
+<!ENTITY smart.all "toutes">
+<!ENTITY playback.prefpane.normalization.enable "Utiliser les données de normalisation audio si disponible">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "A">
+<!ENTITY displaypane.default.link.text "site des modules complémentaires">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Support">
+<!ENTITY device.sync.auto_sync.label "Synchroniser automatiquement">
+<!ENTITY device.info.model.label "Modèle">
+<!ENTITY feed.subscribe.dontask "Ne plus afficher cette boîte de dialogue dorénavant">
+<!ENTITY rapi.restore_defaults.label "Restaurer les paramètres par défaut">
+<!ENTITY playback.prefpane.audio_output.label "Sortie audio">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "La restauration des paramètres d&apos;origine de votre appareil en supprimera tous les médias, de même que la restauration du micrologiciel et de ses paramètres.">
+<!ENTITY device.dialog.wait_for_completion.title "En attente des appareils.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Quand un titre est joué ou choisi, lance la recherche automatique de pochette, selon le mode d&apos;affichage du panneau. La performance peut être moindre si cette fonction est activée.">
+<!ENTITY device.firmware.wizard.check.already.description "Le micrologiciel de votre appareil est déjà à jour.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Paramètres d&apos;extraction de pistes audio de CD">
+<!ENTITY videowindow.fullscreen "Plein écran">
+<!ENTITY tooltip.browser.refresh "Actualiser">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Modules complémentaires...">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.full_bass_treble "Maximum d&apos;aigu et de grave">
+<!ENTITY menu.edit.copy "Copier">
+<!ENTITY device.repair.menuitem.default "Réparer mon appareil">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY tooltip.exit "Fermer">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "Installation de &brandShortName;">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Spécifier manuellement le débit binaire et le format">
+<!ENTITY tooltip.control.shuf_off "Lecture aléatoire désactivée">
+<!ENTITY smart.selectedby "sélectionné(e)s par">
+<!ENTITY openPageCmdInDefaultBrowser.label "Ouvrir la page dans le navigateur Web par défaut">
+<!ENTITY menu.control.playpause.spacebar "Barre d&apos;espace">
+<!ENTITY import_library.dirty_playlist_dialog.title "Liste de lecture modifiée">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "f">
+<!ENTITY menu.help.bugz.accesskey "S">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Version courante du micrologiciel :">
+<!ENTITY first_run.itunes.checkbox.export.description "La musique acquise par &brandShortName; peut être exportée vers iTunes afin d&apos;être transférée vers votre iPod ou iPhone">
+<!ENTITY device.tools.update_firmware.label "Vérifier l&apos;existence d&apos;un nouveau micrologiciel">
+<!ENTITY device.info.icon.device "Icône d&apos;appareil générique">
+<!ENTITY restartbox.restartlater "Redémarrer plus tard">
+<!ENTITY first_run.app_update.finished.text "La mise à jour sera installée au redémarrage de &brandShortName;.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artiste">
+<!ENTITY cdrip.lookup.track_name "Titre">
+<!ENTITY menu.control.pause "Pause">
+<!ENTITY menu.extensions.accesskey "M">
+<!ENTITY device.firmware.wizard.repair.time.description "Cette opération devrait durer moins de 5 minutes.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Chercher automatiquement la pochette">
+<!ENTITY command.device.canceldevicesync "Interrompre la synchronisation">
+<!ENTITY menu.control.rep1 "N&apos;en répéter qu&apos;une">
+<!ENTITY device.sync.playlist.video.duration "Durée de la vidéo">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "S">
+<!ENTITY rapi.prefpane.title "Intégration Web">
+<!ENTITY menu.equalizer "Égaliseur…">
+<!ENTITY first_run.add_ons.description.line1 "Les modules complémentaires apportent de nouvelles fonctionnalités à &brandShortName; et vous permettent de personnaliser votre expérience du lecteur média. Les options ci-dessous sont vivement recommandées.">
+<!ENTITY displaypane.name.servicepane "Bas du panneau de services">
+<!ENTITY menu.clearprivatedata "Effacer mes traces...">
+<!ENTITY window.ok "OK">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "Rechercher">
+<!ENTITY first_run.add_ons.description.line2 "Les modules complémentaires peuvent s&apos;intégrer à d&apos;autres services et applications, permettre la connexion d&apos;appareils externes, modifier l&apos;apparence du lecteur et bien d&apos;autres choses encore ! Vous pouvez en télécharger d&apos;autres sur le site des modules complémentaires de &brandShortName;.">
+<!ENTITY menu.updateCmd.label "Rechercher des mises à jour...">
+<!ENTITY device.firmware.wizard.check.error.description "Une erreur est survenue pendant la recherche de mise à jour du micrologiciel. Veuillez vérifier votre connexion au réseau et réessayez.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Débit binaire">
+<!ENTITY displaypane.name.browser "Bas du panneau de contenu">
+<!ENTITY albumartpreferences.prefpane.label "Pochettes">
+<!ENTITY watch_folder.prefs.description "&brandShortName; peut surveiller le contenu d&apos;un dossier et ajouter ou retirer automatiquement les éléments qui s&apos;y trouvent.">
+<!ENTITY umsd.no_devices_present "Aucun périphérique de stockage de masse USB n&apos;est connecté">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Synchronisation">
+<!ENTITY device.dialog.wait_for_completion.quit "Quitter">
+<!ENTITY tooltip.browser.mediapages.list "Affichage de la liste">
+<!ENTITY rapi.library_read_disable.label "Empêcher les sites Web d&apos;accéder aux informations sur les fichiers de ma librairie et de mes appareils">
+<!ENTITY feedback.dialog.sentence1 "Voudriez-vous nous aider à améliorer &brandShortName; en répondant à un court sondage anonyme ?">
+<!ENTITY feed.subscribe.label "Souscrire">
+<!ENTITY tooltip.servicepane.show "Afficher le panneau de services">
+<!ENTITY tooltip.control.stop "Stop">
+<!ENTITY menu.file.remote "Nouvelle liste de lecture distante...">
+<!ENTITY menu.file.podcast "Nouveau Podcast...">
+<!ENTITY feedback.dialog.sentence2 "Si vous n&apos;êtes pas intéressé, nous ne vous le demanderons plus. Merci de votre intérêt, nous apprécions le fait que vous utilisez &brandShortName; !">
+<!ENTITY mediacore.error.codec_not_found.text.post ".">
+<!ENTITY fetch_album_art.dialog.message "Non implémenté (Voir bogue n°14281)">
+<!ENTITY menu.edit "Éditer">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY videowindow.title "Fenêtre vidéo">
+<!ENTITY menu.fullscreen "Plein écran">
+<!ENTITY menu.file.newtab "Nouvel onglet">
+<!ENTITY feedback.dialog.sentence3 "Sincères salutations,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Afficher le titre en lecture">
+<!ENTITY albumart.displaypane.drag_and_drop "Déposer la pochette ici">
+<!ENTITY command.device.cancel.accesskey "A">
+<!ENTITY smart.most_often "plus souvent joué">
+<!ENTITY restartbox.restartnow "Redémarrer maintenant">
+<!ENTITY device.unsupported_media.dialog.enable "Me prévenir quand des fichiers incompatibles sont détectés">
+<!ENTITY device.sync.images.selected.label "Sous-dossiers choisis">
+<!ENTITY command.device.canceldevicecopy "Interrompre la copie">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choisissez le média de stockage que vous souhaitez faire prendre en charge par &brandShortName; ">
+<!ENTITY feedback.dialog.sentence4 "L&apos;équipe de &brandShortName;">
+<!ENTITY smart.title "titre">
+<!ENTITY menu.tools.reveal "Afficher le fichier sélectionné">
+<!ENTITY menu.controllerontop "Afficher au dessus">
+<!ENTITY about.credits.footer.beforeLink "Bien sûr, tout cela n&apos;aurait pu être possible sans le dur travail et les efforts">
+<!ENTITY device.management.tabs.tools.label "Outils">
+<!ENTITY umsd.video.tab "Vidéo">
+<!ENTITY trackeditor.addtag.tag "Balise :">
+<!ENTITY device.settings.music.transcoding.format.label "Format d&apos;encodage">
+<!ENTITY command.device.canceldeviceupdate "Interrompre la mise à jour">
+<!ENTITY mediapages.firstrun.title "Bienvenue sur &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "Maximum d&apos;aigu">
+<!ENTITY umsd.music.tab "Musique">
+<!ENTITY tooltip.close "Fermer">
+<!ENTITY podcast.creation_dialog.url.heading "Adresse (URL) :">
+<!ENTITY menu.edit.redo "Refaire">
+<!ENTITY menu.edit.findagain "Rechercher à nouveau">
+<!ENTITY device.info.capacity.label "Capacité">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "Maj">
+<!ENTITY device.sync.images.browse "Choisissez un dossier…">
+<!ENTITY displaypane.default.link.post "pour en parcourir la liste.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "Ouvrir un fichier...">
+<!ENTITY command.device.devicesync "Synchroniser">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.clearprivatedata.accesskey "E">
+<!ENTITY mediacore.error.continue "Continuer">
+<!ENTITY umsd.music.music_path_desc "Lors de la copie de fichiers musicaux vers le disque, les placer dans le dossier suivant :">
+<!ENTITY playback.prefpane.audio_output.buffer "Tampon de sortie :">
+<!ENTITY menu.switchplayercontrols "Contrôles du lecteur">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Conserver la liste de lecture &brandShortName; actuelle (ne pas importer la liste de lecture iTunes)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Rechercher des mises à jour du micrologiciel">
+<!ENTITY menu.help.accesskey "A">
+<!ENTITY device.info.serial_number.label "Numéro de série">
+<!ENTITY device.info.product.label "Produit">
+<!ENTITY smart.minutes "minutes">
+<!ENTITY menu.help.topics "Rubriques d&apos;aide...">
+<!ENTITY menu.file.playlist "Importer une liste de lecture...">
+<!ENTITY first_run.app_update.finished.title "Mise à jour prête à installer.">
+<!ENTITY device.tools.format_volume.button.label "Formater">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Limiter à">
+<!ENTITY menu.file.library "Importer une bibliothèque...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "Afficher la piste lue">
+<!ENTITY setupprogress.installingextensions "Installation des modules complémentaires en cours">
+<!ENTITY menu.mac.services "Services">
+<!ENTITY menu.file.open.accesskey "c">
+<!ENTITY import_library.library_file_label "Fichier de bibliothèque :">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Vérifie la condition suivante :">
+<!ENTITY importexport_show_notifications_checkbox "Afficher des notifications quand l&apos;import/export est fini">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Les podcasts et la musique achetés avec iTunes Store peuvent être importés dans &brandShortName;. Cela fonctionne bien si &brandShortName; devient votre lecteur de musique principal.">
+<!ENTITY device.sync.images.foldername "Nom du dossier">
+<!ENTITY device.capacity.video.label "Vidéo">
+<!ENTITY menu.control.next.accesskey "S">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Fichiers musicaux">
+<!ENTITY trackeditor.tab.lyrics.title "Paroles">
+<!ENTITY menu.mac.exit "Quitter &brandShortName;">
+<!ENTITY menu.control.play.button "Lire">
+<!ENTITY hotkeys.prefpane "Raccourcis clavier">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "Heure(s)">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Aide">
+<!ENTITY menu.equalizer.accesskey "G">
+<!ENTITY command.device.ignoredevice "Ignorer">
+<!ENTITY export_subscriptions_itunes_checkbox "Exporter les abonnements">
+<!ENTITY mediacore.error.title "Erreur de playback">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Aller à...">
+<!ENTITY menu.tools "Outils">
+<!ENTITY device.settings.music.transcoding.label "Conversion de musique">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Réinitialiser">
+<!ENTITY device.info.icon.readonly "Icône bloquée car en lecture seule">
+<!ENTITY command.device.lookup "Recherche des informations du CD">
+<!ENTITY tabs.listAllTabs "Lister tous les onglets">
+<!ENTITY rapi.prefpane.access.caption "">
+<!ENTITY menu.file.scan "Importer des médias...">
+<!ENTITY equalizer.band1.label "60">
+<!ENTITY import_media.prefs.title "Importateur de médias">
+<!ENTITY device.firmware.wizard.download.error.description "Une erreur est survenue pendant le téléchargement de la mise à jour du micrologiciel. Veuillez vérifier votre connexion au réseau et réessayez.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Paramètres de surveillance des dossiers">
+<!ENTITY tooltip.minimize "Réduire">
+<!ENTITY smart.random "aléatoire">
+<!ENTITY smart.contenttypecondition.audio "Musique">
+<!ENTITY equalizer.band7.label "4k">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Note de mise à jour">
+<!ENTITY watch_folder.prefs.title "Surveiller les dossiers">
+<!ENTITY subscribe.autocheck "Mettre à jour automatiquement tous les">
+<!ENTITY menu.control.shuf "Lecture aléatoire">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Monter">
+<!ENTITY device.firmware.wizard.retry.description "Merci de réessayer une fois que votre appareil aura fini l&apos;opération en cours.">
+<!ENTITY first_run.connection.settings.description "Votre ordinateur ou votre réseau sont-ils protégés par un pare-feu ou un proxy ? Corriger des paramètres de connexion incorrects peut aider à résoudre la plupart des problèmes de réseau.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Surveiller automatiquement les changements dans le dossier suivant">
+<!ENTITY menu.file.metadata "Éditer les métadonnées...">
+<!ENTITY device.info.firmware_version.label "Version du micrologiciel">
+<!ENTITY device.info.access.label "Compatibilité d&apos;accès">
+<!ENTITY tooltip.control.back "Piste précédente">
+<!ENTITY menu.edit.cut.accesskey "u">
+<!ENTITY menu.controlleronbottom "Afficher en dessous">
+<!ENTITY device.sync.sync_selected.label "Listes de lecture sélectionnées pour la synchronisation :">
+<!ENTITY displaypane.default.link.pre " ">
+<!ENTITY menu.edit.delete.accesskey "S">
+<!ENTITY wizard.button.back.accesskey "P">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Affichage du panneau de filtres">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Entrez une liste de noms de fichiers séparés par des virgules">
+<!ENTITY rapi.playback_control_disable.label "Empêcher les sites Web de contrôler la lecture des fichiers">
+<!ENTITY menu.file.exit.accesskey "F">
+<!ENTITY first_run.feedback.metrics.description "Les statistiques sont totalement anonymes et aucune information personnelle n&apos;est collectée.">
+<!ENTITY cdrip.prefpane.label "Extraction de CD">
+<!ENTITY tooltip.control.mute "Sourdine">
+<!ENTITY smart.album "album">
+<!ENTITY playback.prefpane.units.kilobytes "ko">
+<!ENTITY menu.tools.accesskey "O">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kb/s">
+<!ENTITY device.tools.format_device.label "Formater l&apos;appareil">
+<!ENTITY hotkeys.remove "Supprimer">
+<!ENTITY tooltip.fullscreen "Plein écran">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Configuration automatique de la conversion">
+<!ENTITY jumptofile.search "Rechercher :">
+<!ENTITY albumart.displaypane.not_selected_message "Aucun titre sélectionné">
+<!ENTITY wizard.button.back.label "Précédent">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL :">
+<!ENTITY smart.to "à/et">
+<!ENTITY rapi.prefpane.access.text "Vous pouvez autoriser les sites Internet à s&apos;intégrer dans &brandShortName; pour créer une association plus étroite entre Internet et vos médias. Veuillez configurer &brandShortName; pour autoriser ou bloquer les points d&apos;intégration suivants.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Fermer le panneau de services">
+<!ENTITY podcast.creation_dialog.title "Nouveau Podcast">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Piste">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "au projet Mozilla.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Ceci permettra à &brandShortName; d&apos;intégrer les pochettes dans les fichiers médias dont les balises sont compatibles.">
+<!ENTITY menu.control.rep1.accesskey "U">
+<!ENTITY hotkeys.add "Ajouter">
+<!ENTITY export_playlists_itunes_checkbox "Exporter les listes de lecture">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Vérifier automatiquement l&apos;existence d&apos;un nouveau micrologiciel">
+<!ENTITY smart.least_recent "moins récemment joué">
+<!ENTITY menu.tools.getartwork.accesskey "p">
+<!ENTITY menu.help.about "À propos de &brandShortName;...">
+<!ENTITY device.settings.general.label "Général">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Le gestionnaire de médias a été désactivé depuis Songbird 1.10.">
+<!ENTITY menu.file.closetab.accesskey "m">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "Quand l&apos;extraction des pistes est terminée, éjecter le CD">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Cette modification fait partie de nos efforts pour simplifier notre produit et fournir une expérience utilisateur plus ergonomique">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "Ajout de pistes en cours">
+<!ENTITY device.info.vendor.label "Fabricant">
+<!ENTITY first_run.DLNA.header.label "Extension de partage de fichiers multimédias">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY sanitize.key "Suppr">
+<!ENTITY playback.prefpane.ratings.label "Métadonnées d&apos;évaluation (notes)">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Quand l&apos;extraction des pistes du CD est terminée, jouer un son système pour prévenir">
+<!ENTITY menu.control.jumpto.accesskey "A">
+<!ENTITY device.tools.format_device.description "Le formatage de votre appareil supprimera tous les médias qui s&apos;y trouvent">
+<!ENTITY jobprogress.details "Détails">
+<!ENTITY device.tools.reset_warnings.description "Réinitialiser les messages d&apos;alerte activera les messages vous demandant de confirmer certaines tâches que vous voulez accomplir.">
+<!ENTITY prefs.homepage.label "Page d&apos;accueil">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Fermer l&apos;onglet">
+<!ENTITY device.firmware.wizard.title "Mettre à jour le micrologiciel">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "Toutes les photos">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Données de gain préférées :">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Téléchargement du nouveau micrologiciel en cours...">
+<!ENTITY cdrip.prefpane.format "Format">
+<!ENTITY smart.mb "Mo">
+<!ENTITY menu.linux.preferences "Préférences…">
+<!ENTITY menu.file "Fichier">
+<!ENTITY menu.downloadmgr.accesskey "T">
+<!ENTITY import_library.prefs.path_group_caption "Chemin d&apos;accès de la bibliothèque">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Pause">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Paramètres">
+<!ENTITY copySelectionCmd.label "Copier le texte sélectionné">
+<!ENTITY feed.subscribe.close "Fermer">
+<!ENTITY device.settings.disk.label "Gestion du disque">
+<!ENTITY first_run.feedback.email.header.label "Tenez-moi au courant">
+<!ENTITY equalizer.preset.custom "Personnalisé">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Fusionner l&apos;actuelle liste de lecture &brandShortName; et la liste de lecture iTunes">
+<!ENTITY import_tracks_itunes_checkbox "Importer les morceaux depuis iTunes">
+<!ENTITY first_run.welcome.header.label "Bienvenue dans &brandShortName;">
+<!ENTITY feedback.dialog.title "Aidez-nous à améliorer &brandShortName; !">
+<!ENTITY window.yes "Oui">
+<!ENTITY subscribeMediaPageCmd.label "S&apos;abonner à cette page...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Interrompre">
+<!ENTITY watchfolder.folderlist "Surveiller ces dossiers pour l&apos;ajout de nouveaux fichiers : ">
+<!ENTITY tooltip.control.fwd "Piste suivante">
+<!ENTITY restartbox.restartonplaybackend "Redémarrer à la fin de la lecture">
+<!ENTITY playback.prefpane.label "Lecture">
+<!ENTITY command.device.canceldevicedelete.accesskey "I">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Afficher le titre sélectionné">
+<!ENTITY import_library.dirty_playlist_dialog.note "Remarque : la fusion et le remplacement ne peuvent être annulés.">
+<!ENTITY menu.control.repa "Tout répéter">
+<!ENTITY jumptofile.title "Aller à">
+<!ENTITY prefs.homepage.url.label "URL :">
+<!ENTITY device.firmware.wizard.busy.description "Votre appareil paraît occupé. Le micrologiciel ne peut être installé que si votre périphérique est disponible. ">
+<!ENTITY command.device.renamedevice "Renommer">
+<!ENTITY smart.least_added "moins récemment ajouté">
+<!ENTITY smart.contenttypecondition.video "Vidéo">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Télécharger vers la bibliothèque">
+<!ENTITY command.device.stoprip "Arrêter l&apos;extraction">
+<!ENTITY device.firmware.wizard.check.install.description "Installer la mise à jour du micrologiciel devrait prendre moins de 10 minutes. Vous pouvez toujours effectuer la mise à jour plus tard.">
+<!ENTITY first_run.add_ons.load_failed.label "Impossible de récupérer les modules complémentaires recommandés.">
+<!ENTITY first_run.feedback.description "Voulez-vous nous aider à améliorer &brandShortName; en nous envoyant un retour d&apos;expérience  sous la forme de mesures anonymes de votre utilisation de l&apos;application ?">
+<!ENTITY about.credits.footer.linkText "des contributeurs">
+<!ENTITY device.tools.update_firmware.title "Mise à jour du micrologiciel">
+<!ENTITY locale.language "Langue">
+<!ENTITY cdrip.mediaview.stop_rip_button "Arrêter l&apos;extraction">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "Pour en savoir plus sur les codecs manquants, veuillez consulter :">
+<!ENTITY first_run.itunes.description "iTunes est apparemment installé. &brandShortName; peut être configuré pour importer et/ou exporter des morceaux entre &brandShortName; et iTunes pour synchroniser vos bibliothèques.">
+<!ENTITY subscribeMediaPageCmd.accesskey "a">
+<!ENTITY menu.file.scan.accesskey "R">
+<!ENTITY first_run.itunes.header.label "Import/Export de iTunes">
+<!ENTITY albumart.coverpreview.title "Pochette">
+<!ENTITY playback.prefpane.normalization.label "Normalisation">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "e">
+<!ENTITY first_run.itunes.checkbox.export.label "Exporter les nouveaux morceaux et listes de lecture vers iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "N&apos;activez pas la surveillance des dossiers sur votre dossier de Gestion des fichiers. Cela créerait des doublons dans votre bibliothèque.">
+<!ENTITY smart.match "Satisfaire à">
+<!ENTITY export_tracks_itunes_checkbox "Exporter les morceaux vers iTunes">
+<!ENTITY cdrip.prefpane.quality "Qualité">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nouvelle liste de lecture">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "N">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

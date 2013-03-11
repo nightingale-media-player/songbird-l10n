@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Continua">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Copia els fitxers de música amb les següents extensions al dispositiu:">
+<!ENTITY menu.errorconsole "Consola d&apos;errors">
+<!ENTITY menu.edit.paste "Enganxa">
+<!ENTITY tooltip.hide "Amaga">
+<!ENTITY tooltip.browser.subscription "Crea una subscripció">
+<!ENTITY smart.playlistcondition.library "Biblioteca">
+<!ENTITY menu.help.bugz "Informa d&apos;un error">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Vigila els canvis d&apos;aquesta carpeta">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Mida actual">
+<!ENTITY trackeditor.title "Editor de metadades">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Selecciona-ho tot">
+<!ENTITY device.tools.restore_device.label "Restaura el dispositiu als paràmetres de fàbrica">
+<!ENTITY addMediaToPlaylistCmd.label "Baixa-ho a la llista de reproducció">
+<!ENTITY equalizer.band9.label "16.000">
+<!ENTITY smart.artist "artista">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY mediacore.error.preface "El &brandShortName; ha trobat un error en la reproducció.">
+<!ENTITY hotkeys.set "Estableix">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No hi ha codificadors disponible per a aquest dispositiu.">
+<!ENTITY fetch_album_art.dialog.title "Cerca de cobertes">
+<!ENTITY menu.controls "Controls">
+<!ENTITY tooltip.control.resume "Continua">
+<!ENTITY feedback.dialog.no "No">
+<!ENTITY equalizer.preset.party "Festa">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Seleccioneu un complement del menú">
+<!ENTITY device.capacity.free.label "Lliure">
+<!ENTITY playMediaCmd.accesskey "r">
+<!ENTITY hotkeys.info "Les dreceres de teclat globals us permeten accedir a les funcionalitats del &brandShortName; fins i tot si no és l&apos;aplicació activa. Algunes combinacions han d&apos;incloure tecles modificadores per minimitzar les interferències amb altres aplicacions.">
+<!ENTITY device.capacity.music.label "Música">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "Atura el navegador">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "Retalla">
+<!ENTITY cdrip.prefpane.providers.title "Cerca proveïdors de CD">
+<!ENTITY subscribe.title "Subscripció">
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY smart.window "Llista de reproducció inteŀligent">
+<!ENTITY openImageCmdInDefaultBrowser.label "Obre la imatge al navegador per defecte">
+<!ENTITY menu.help.about.accesskey "Q">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Formatació del dispositiu">
+<!ENTITY device.tools.reset_warnings.label "Reinicia els missatges d&apos;avís">
+<!ENTITY cdrip.prefpane.quality_desc "Una alta qualitat de kbps comporta una bona qualitat d&apos;àudio i una mida de fitxer gran.">
+<!ENTITY equalizer.band6.label "2.000">
+<!ENTITY first_run.feedback.email.textbox.emptytext "Introduïu la vostra adreça de correu electrònic per estar informat">
+<!ENTITY trackeditor.addtag.title "Afegeix una etiqueta">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY cdrip.prefpane.quality.units.kbps " kbps">
+<!ENTITY prefs.security.addons.label "Instal·lació de complements">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa.accesskey "T">
+<!ENTITY device.tools.product_registration.label "Registra el producte">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Introduïu aquí la llista d&apos;extensions separades per comes">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Formats de reproducció">
+<!ENTITY smart.high_rating "valoració més alta">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Amaga els altres">
+<!ENTITY menu.edit.find.accesskey "r">
+<!ENTITY device.info.friendly_name.label "Nom">
+<!ENTITY device.unsupported_media.dialog.title "S&apos;han detectat fitxers incompatibles">
+<!ENTITY cdrip.mediaview.format_label "Format:">
+<!ENTITY about.credits.heading.translators "Equip de traducció">
+<!ENTITY menu.view "Visualitza">
+<!ENTITY menu.preferences "Opcions…">
+<!ENTITY command.device.canceldevicedelete "Atura l&apos;eliminació">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "Finalitza">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY first_run.welcome.description.line1 "El &brandShortName; és una alternativa altament personalitzable als tradicionals reproductors multimèdia">
+<!ENTITY device.dialog.wait_for_completion.msg "S&apos;està esperant que es completin totes les operacions dels dispositius. Feu clic a Surt per deixar d&apos;esperar i sortir de l&apos;aplicació.">
+<!ENTITY device.sync.playlist.title "Títol">
+<!ENTITY hotkeys.useglobalhotkeys "Utilitza les dreceres de teclat globals">
+<!ENTITY subscribe.destinationfolder "Seleccioneu el directori de destí:">
+<!ENTITY playqueue.label "Cua de reproducció">
+<!ENTITY playqueue.instructions "Arrossegueu i deixeu anar peces o llistes de reproducció aquí per a crear una cua de reproducció">
+<!ENTITY first_run.welcome.description.line2 "Aquest assistent és una manera ràpida i eficient de començar a utilitzar-lo.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "No en repeteixis cap">
+<!ENTITY command.device.canceldevicesync.accesskey "A">
+<!ENTITY device.tools.support.description "Vegeu les darreres notícies, manuals d&apos;ajuda, documentació, preguntes més freqüents, i informació del producte. Els serveis d&apos;ajuda són disponibles per a aquells qui han registrat el seu producte.">
+<!ENTITY about.version "Versió">
+<!ENTITY umsd.video.video_path_desc "Quan copiïs vídeos al dispositiu, desa&apos;ls al següent directori:">
+<!ENTITY smart.low_rating "valoració més baixa">
+<!ENTITY device.capacity.other.label "Altres">
+<!ENTITY device.tools.update_firmware.description "El vostre dispositiu es controla amb un programa intern anomenat microprogramari. Es podrien haver publicat noves versions d&apos;aquest des del darrer cop que vau connectar el dispositiu a l&apos;ordinador.">
+<!ENTITY setupprogress.cancel "Cancel·la">
+<!ENTITY albumart.displaypane.selected.menu.paste "Enganxa">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "Grava el CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Tanca la pestanya">
+<!ENTITY menu.edit.undo "Desfés">
+<!ENTITY first_run.add_ons.loading.label "S&apos;estan recuperant els complements recomanats.">
+<!ENTITY command.device.formatdevice "Format">
+<!ENTITY albumart.displaypane.selected.menu.clear "Buit">
+<!ENTITY import_playlists_itunes_checkbox "Importa les llistes de reproducció">
+<!ENTITY menu.edit.cut "Retalla">
+<!ENTITY mediaimporter.filtered_extensions.title "Avís d&apos;importació de suports">
+<!ENTITY tooltip.control.play "Reprodueix">
+<!ENTITY tooltip.browser.mediapages "Commuta les vistes multimèdia…">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "Bateria">
+<!ENTITY menu.edit.delete "Elimina">
+<!ENTITY import_library.dialog.title "Importa una biblioteca">
+<!ENTITY jumpto.key "S">
+<!ENTITY smart.following "en les següent condicions:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Fitxers de cançons">
+<!ENTITY about.credits.description.champs.link.post "Són els membres més prolífics del nostre fòrum i treballen incansablement per assegurar que tots i cada un dels usuaris són usuaris feliços del Songbird.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Vídeo">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Avall">
+<!ENTITY command.device.getdeviceinfo "Informa&apos;m">
+<!ENTITY rapi.library_write_disable.label "Evita que els llocs web afegeixin o eliminin fitxers multimèdia a la meva biblioteca i els meus dispositius">
+<!ENTITY first_run.feedback.email.description "Subscriviu-vos al nostre butlletí per estar informats de nous llançaments i actualitzacions importants.">
+<!ENTITY device.sync.images.filecount "Fotos">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Si no voleu que el &brandShortName; administri aquest dispositiu, podeu">
+<!ENTITY device.sync.header.label "Sincronitza la configuració">
+<!ENTITY first_run.import_media.radio.dont_import.label "No importis res">
+<!ENTITY feedback.dialog.yes "Sí">
+<!ENTITY about.buttons.credits "Crèdits">
+<!ENTITY device.firmware.wizard.check.progress.title "S&apos;està comprovant si hi ha actualitzacions del microprogramari.">
+<!ENTITY downloadMediaCmd.accesskey "B">
+<!ENTITY cdrip.lookup.info_not_found.descr "Podeu afegir el nom de l&apos;artista i de l&apos;àlbum aquí. Podeu editar la informació restant a la llista de reproducció de la gravació de CD.">
+<!ENTITY umsd.music.music_path_browse_msg "Seleccioneu el directori del dispositiu on voleu desar els fitxers de música.">
+<!ENTITY tooltip.maximize "Maximitza/Restaura">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Fòrum d&apos;ajuda GetSatisfactiion del Songbird">
+<!ENTITY window.save "Desa">
+<!ENTITY window.no "No">
+<!ENTITY tooltip.servicepane.newnode "Nova llista de reproducció">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Obre el marc al navegador per defecte">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.new "Crea una llista de reproducció…">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY watch_folder.prefs.watch_folder_label "Carpeta:">
+<!ENTITY smart.autoupdate "Actualitza">
+<!ENTITY playback.prefpane.ratings.enablewriting "Emmagatzema les valoracions als fitxers de metadades de cada fitxer.">
+<!ENTITY menu.help.keyboard "Dreceres de teclat">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Cerca per nom del fitxer:">
+<!ENTITY menu.control.prev "Peça anterior">
+<!ENTITY device.firmware.wizard.support.description "Les fonts d&apos;ajuda com les PMF i la resolució de problemes es poden trobar a">
+<!ENTITY window.apply "Aplica">
+<!ENTITY menu.file.smart "Crea una llista de reproducció inteŀligent…">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "Mostra els detalls dels errors">
+<!ENTITY device.firmware.wizard.install.title "S&apos;està instaŀlant el microprogramari...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "A">
+<!ENTITY menu.control.pause.button "Atura">
+<!ENTITY trackeditor.tab.summary.title "Resum">
+<!ENTITY playMediaCmd.label "Reprodueix">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key " C">
+<!ENTITY tooltip.browser.back "Vés enrere">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Cap llista de reproducció&gt;">
+<!ENTITY equalizer.title "Equalitzador">
+<!ENTITY import_library.import_command "Importa la biblioteca">
+<!ENTITY cdrip.mediaview.view_tracks_button "Mostra les peces">
+<!ENTITY window.browse "Explora…">
+<!ENTITY device.tools.restore_device.title "Restaura el dispositiu">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Ordeneu la llista de cercadors posant a dalt el que voleu fer servir primer.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Per a més informació sobre els còdecs que falten, vegeu">
+<!ENTITY displaypane.default.image.post "o visiteu el">
+<!ENTITY smart.songs "elements">
+<!ENTITY menu.tools.getartwork "Aconsegueix les cobertes dels àlbums">
+<!ENTITY window.cancel "Cancel·la">
+<!ENTITY smart.genre "gènere">
+<!ENTITY menu.file.playlist.accesskey "P">
+<!ENTITY hotkeys.hotkey "Drecera de teclat">
+<!ENTITY first_run.feedback.header.label "Ajudeu a millorar el &brandShortName;">
+<!ENTITY menu.edit.selall.accesskey "E">
+<!ENTITY export_smartplaylists_itunes_checkbox "Exporta les llistes de reproducció inteŀligents">
+<!ENTITY device.tools.support.label "Mostra els recursos de compatibilitat">
+<!ENTITY import_library.prefs.options_group_caption "Opcions d&apos;importació/exportació">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "Activa">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY first_run.eula.language.label "Idioma:">
+<!ENTITY device.settings.disk.management.label "Personalitza l&apos;estructura dels directoris">
+<!ENTITY cdrip.lookup.multiple.description "Trieu una de les següents o afegiu la vostra informació.">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Extensions recomanades">
+<!ENTITY tooltip.search "Cerca">
+<!ENTITY recommended_add_ons.title "Configuració del &brandShortName;">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "R">
+<!ENTITY watchfolder.title "Vigila carpetes">
+<!ENTITY rapi.whitelist.label "Excepcions…">
+<!ENTITY menu.updateCmd.accessKey "z">
+<!ENTITY menu.file.url "Obre una ubicació…">
+<!ENTITY menu.downloadmgr "Baixades de fitxers…">
+<!ENTITY device.settings.auto_launch.checkbox.label "Obre el &brandShortName; quan es detecti aquest dispositiu">
+<!ENTITY first_run.itunes.checkbox.import.label "Importa peces i llistes de reproducció de l&apos;iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "No s&apos;ha pogut trobar la informació del CD">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "No mostris més errors del nucli multimèdia">
+<!ENTITY device.firmware.wizard.repair.warning "Restaurar el dispositiu als paràmetres de fàbrica esborrarà tota la música i les dades emmagatzemades. Feu una còpia de seguretat dels fitxers abans de continuar.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Grava el CD">
+<!ENTITY wizard.button.cancel.label "Canceŀla">
+<!ENTITY tooltip.control.shuffle "Ordre aleatori">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "N">
+<!ENTITY menu.control.shuf.accesskey "A">
+<!ENTITY displaypane.default.image.tooltip "Icona del selector de complements">
+<!ENTITY first_run.import_media.scan_directories.description "Voleu que el &brandShortName; provi d&apos;importar fitxers escanejant determinats directoris?">
+<!ENTITY device.tools.product_registration.title "Registrament del producte">
+<!ENTITY equalizer.band8.label "8.000">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Propietats">
+<!ENTITY rapi.playback_read_disable.label "Evita que els llocs web accedeixin a informació sobre les peces en reproducció">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "Amaga el &brandShortName;">
+<!ENTITY device.sync.sync_all.label "Tota la música, els vídeos i les llistes de reproducció">
+<!ENTITY cdrip.mediaview.quality_label "Qualitat:">
+<!ENTITY albumart.displaypane.selected.menu.copy "Copia">
+<!ENTITY subscribe.days "Dies">
+<!ENTITY smart.least_often "reproduït menys sovint">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Àlbum">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Prioritats del cercador">
+<!ENTITY mediacore.error.stop "Atura la reproducció">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY albumart.displaypane.not_playing_message "No s&apos;està reproduint res">
+<!ENTITY textbox.songbird_open_url "Escriviu l&apos;URL o el camí del fitxer multimèdia que voleu reproduir:">
+<!ENTITY search.key "B">
+<!ENTITY prefpane.addons.label "Complements">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Configuració">
+<!ENTITY cdrip.mediaview.settings_button "Configuració">
+<!ENTITY cdinfo.other.label "Afegiu la vostra informació sobre l&apos;artista i l&apos;àlbum">
+<!ENTITY equalizer.band5.label "1.000">
+<!ENTITY first_run.connection.header.label "El &brandShortName; no es pot connectar a Internet">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Atura">
+<!ENTITY equalizer.preset.soft_rock "Rock suau">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Aplica la selecció a totes les llistes de reproducció">
+<!ENTITY menu.control.pause.accesskey "A">
+<!ENTITY umsd.video.video_files_group "Fitxers de vídeo">
+<!ENTITY tooltip.browser.fwd "Vés endavant">
+<!ENTITY command.device.stoprip.accesskey "A">
+<!ENTITY servicepane.title.label "Subfinestra de servei">
+<!ENTITY playback.prefpane.streaming.label "Xarxa i flux">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignora aquest dispositiu">
+<!ENTITY menu.control.repx.accesskey "C">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY command.device.ejectcddevice "Expulsa el CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "Expulsa el CD">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignora aquest dispositiu">
+<!ENTITY tooltip.displaypane.options "Opcions de la subfinestra de contingut">
+<!ENTITY menu.tools.exportmedia "Exporta els canvis de la biblioteca">
+<!ENTITY menu.mac.preferences "Preferències…">
+<!ENTITY menu.mac.exit.key "u">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Reemplaça aquesta llista de reproducció del &brandShortName; per l&apos;actual de l&apos;iTunes">
+<!ENTITY device.tools.reset_warnings.title "Reinicia els avisos">
+<!ENTITY about.credits.description.champs.link.pre "Els campions del Songbird són els usuaris i fans acèrrims que han anat més enllà del deure d&apos;ajudar els altres usuaris del Songbird">
+<!ENTITY menu.control.next "Peça següent">
+<!ENTITY umsd.video.video_path_browse_msg "Seleccioneu el directori del dispositiu on voleu desar els fitxers de vídeo.">
+<!ENTITY setupprogress.pleasewait "Espereu…">
+<!ENTITY menu.help.homepage "Lloc web del Songbird">
+<!ENTITY equalizer.preset.soft "Suau">
+<!ENTITY equalizer.preset.large_hall "Large Hall">
+<!ENTITY first_run.eula.accept_checkbox.label "He llegit les condicions de la llicència i les accepto.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Seleccioneu-ho només si no voleu que el &brandShortName; gestioni aquest dispositiu">
+<!ENTITY smart.most_recent "reproduït més recentment">
+<!ENTITY command.device.ejectdevice "Expulsa">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "No em tornis a notificar si hi ha fitxers de vídeo incompatibles durant la importació">
+<!ENTITY first_run.connection.settings.button "Paràmetres de la connexió…">
+<!ENTITY import_library.prefs.title "Importa/exporta de l&apos;iTunes">
+<!ENTITY hotkeys.action "Acció">
+<!ENTITY equalizer.preset.classical "Clàssica">
+<!ENTITY device.sync.images.from.label "Sincronització de fotos des de:">
+<!ENTITY first_run.install_add_ons.title "S&apos;està descarregant complements">
+<!ENTITY playback.prefpane.streaming.buffer "Flux de la memòria intermèdia:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Escaneja directoris de l&apos;ordinador">
+<!ENTITY menu.control.play "Reprodueix/Atura">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "S&apos;ha eliminat la Gestió de suports">
+<!ENTITY subscribe.minutes "Minuts">
+<!ENTITY smart.any "qualsevol">
+<!ENTITY prefpane.content.label "Contingut web">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Campions">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "En directe">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Avisa&apos;m quan no s&apos;importin peces o llistes de reproducció no admeses">
+<!ENTITY device.import.header.label "Importació">
+<!ENTITY tooltip.control.volume "Volum">
+<!ENTITY smart.hours "hores">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "la barra lateral dreta">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "El dispositiu ha d&apos;estar connectat en el mode de microprogramari per a poder continuar. Llegiu les instruccions de sota per posar el dispositiu en aquest mode.">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "t">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "D">
+<!ENTITY first_run.import_media.description "Seleccioneu els fitxers multimèdia que voleu importar al &brandShortName;. Un cop s&apos;obri, en podeu afegir més de diverses maneres.">
+<!ENTITY umsd.video.video_ext_desc "Copia els fitxers de vídeo amb les següents extensions al dispositiu:">
+<!ENTITY smart.most_added "afegit més recentment">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Obre un URL">
+<!ENTITY menu.edit.paste.accesskey "G">
+<!ENTITY first_run.eula.header.label "Acord de llicència">
+<!ENTITY device.capacity.image.label "Fotos">
+<!ENTITY about.credits.intro "Voldríem donar les gràcies al nostre equip de col·laboració, l&apos;esforç dels quals fa el Songbird el que és. Aquesta gent ha ajudat escrivint codi, documentació i provant les novetats. Han creat i mantingut aquest producte, l&apos;equipament de desenvolupament, les nostres eines i els llocs web. Els noms estan seguits pels àlies IRC, aneu a #songbird de l&apos;irc.mozilla.org i saludeu-los!">
+<!ENTITY menu.mac.showall "Mostra-ho tot">
+<!ENTITY first_run.connection.description "Comproveu els Paràmetres de la connexió o continueu amb l&apos;assistent de configuració.">
+<!ENTITY equalizer.preset.full_bass "Greus complets">
+<!ENTITY cdrip.lookup.multiple.title "S&apos;ha trobat múltiples gravacions per al CD">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Obre l&apos;enllaç al navegador per defecte">
+<!ENTITY first_run.add_ons.header.label "Complements recomanats">
+<!ENTITY command.device.renamedevice.accesskey "N">
+<!ENTITY first_run.feedback.metrics.label "S&apos;estan recollint i enviant estadístiques d&apos;ús a l&apos;equip del &brandShortName;.">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Configuració del dispositiu">
+<!ENTITY menu.videotofront "Vídeo en primer pla">
+<!ENTITY device.management.tabs.music.label "Música">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "Subscriviu-vos a aquest marc…">
+<!ENTITY add_on_bundle_installer.error_box.label "Detalls">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.exit "Surt">
+<!ENTITY device.sync.images.all.template "Totes les fotos (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Voleu assegurar la prova de compra, beneficis addicionals dels membres o rebre notificacions de seguretat?">
+<!ENTITY first_run.import_media.header.label "Importació de fitxers multimèdia">
+<!ENTITY tooltip.browser.home "Inici">
+<!ENTITY equalizer.preset.small_speakers "Portàtil/Auriculars">
+<!ENTITY cdrip.lookup.info_not_found.album "Àlbum">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Desa les portades dels l&apos;àlbums a les metadades dels fitxers">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Cerca per l&apos;extensió del fitxer:">
+<!ENTITY command.device.rip.accesskey "G">
+<!ENTITY videowindow.fullscreen.key "P">
+<!ENTITY smart.all "tot">
+<!ENTITY playback.prefpane.normalization.enable "Utilitza la normalització d&apos;àudio si es troba disponible">
+<!ENTITY menu.mac.hideothers.key "A">
+<!ENTITY menu.help.help.accesskey "A">
+<!ENTITY displaypane.default.link.text "lloc web de complements">
+<!ENTITY command.device.lookup.accesskey "R">
+<!ENTITY device.tools.support.title "Compatibilitat">
+<!ENTITY device.sync.auto_sync.label "Sincronitza">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY feed.subscribe.dontask "No tornis a mostrar automàticament aquest diàleg">
+<!ENTITY rapi.restore_defaults.label "Restableix la configuració predeterminada">
+<!ENTITY playback.prefpane.audio_output.label "Sortida d&apos;àudio">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Si restaureu el dispositiu als paràmetres de fàbrica s&apos;eliminaran tots els fitxers i es tornarà als paràmetres i microprogramari per defecte.">
+<!ENTITY device.dialog.wait_for_completion.title "S&apos;estan esperant els dispositius.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Cerca automàticament les cobertes dels àlbums quan es reprodueix o se selecciona una peça, depenent del mode de la subfinestra de la coberta. Activar aquesta característica pot afectar al rendiment.">
+<!ENTITY device.firmware.wizard.check.already.description "El microprogramari del vostre dispositiu ja està actualitzat.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Opcions de la gravació de CD">
+<!ENTITY videowindow.fullscreen "Pantalla completa">
+<!ENTITY tooltip.browser.refresh "Actualitza">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Complements…">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.full_bass_treble "Greus i agutscomplets">
+<!ENTITY menu.edit.copy "Copia">
+<!ENTITY device.repair.menuitem.default "Repara el dispositiu">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY tooltip.exit "Surt">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "Instal·lació del &brandShortName;">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Especifica manualment el ràtio de bits i el format">
+<!ENTITY tooltip.control.shuf_off "Desactiva l&apos;ordre aleatori">
+<!ENTITY smart.selectedby "seleccionat per">
+<!ENTITY openPageCmdInDefaultBrowser.label "Obre la pàgina al navegador per defecte">
+<!ENTITY menu.control.playpause.spacebar "Barra espaiadora">
+<!ENTITY import_library.dirty_playlist_dialog.title "Llista de reproducció canviada">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "e">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Versió actual del microprogramari:">
+<!ENTITY first_run.itunes.checkbox.export.description "La música adquirida a través del &brandShortName; es pot importar a l&apos;iTunes i, per tant, es pot transferir a l&apos;iPod o l&apos;iPhone.">
+<!ENTITY device.tools.update_firmware.label "Comprova les actualitzacions del microprogramari">
+<!ENTITY device.info.icon.device "Icona genèrica del dispositiu">
+<!ENTITY restartbox.restartlater "Reinicia més tard">
+<!ENTITY first_run.app_update.finished.text "L&apos;actualització s&apos;instal·larà quan reinicieu el &brandShortName;.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artista">
+<!ENTITY cdrip.lookup.track_name "Títol">
+<!ENTITY menu.control.pause "Atura">
+<!ENTITY menu.extensions.accesskey "O">
+<!ENTITY device.firmware.wizard.repair.time.description "Aquesta operació hauria de durar menys de 5 minuts.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Cerca automàtica de les cobertes dels àlbums">
+<!ENTITY command.device.canceldevicesync "Atura la sincronització">
+<!ENTITY menu.control.rep1 "Repeteix-ne una">
+<!ENTITY device.sync.playlist.video.duration "Durada del vídeo">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "Integració web">
+<!ENTITY menu.equalizer "Equalitzador…">
+<!ENTITY first_run.add_ons.description.line1 "Els complements afegeixen funcionalitats al &brandShortName; permetent personalitzar l&apos;experiència amb el reproductor. Les opcions de sota són molt recomanables.">
+<!ENTITY displaypane.name.servicepane "la subfinestra inferior de servei">
+<!ENTITY menu.clearprivatedata "Esborra les dades privades…">
+<!ENTITY window.ok "D&apos;acord">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "Cerca">
+<!ENTITY first_run.add_ons.description.line2 "Els complements es poden integrar amb altres aplicacions i serveis, permeten connectar-se a dispositius externs, canvien l&apos;aspecte i molt més! Us en podeu baixar més al lloc web de complements del &brandShortName;.">
+<!ENTITY menu.updateCmd.label "Comprova si hi ha actualitzacions…">
+<!ENTITY device.firmware.wizard.check.error.description "S&apos;ha produït un error mentre se cercava nou microprogramari. Verifiqueu la vostra connexió a la xarxa i torneu-ho a provar.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Ràtio de bits">
+<!ENTITY displaypane.name.browser "la subfinestra inferior de contingut">
+<!ENTITY albumartpreferences.prefpane.label "Coberta de l&apos;àlbum">
+<!ENTITY watch_folder.prefs.description "&brandShortName; pot vigilar el contingut d&apos;una carpeta i afegir o eliminar automàticament els elements que s&apos;hi trobin.">
+<!ENTITY umsd.no_devices_present "Cap dispositiu d&apos;emmagatzematge USB connectat.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Sincronitza">
+<!ENTITY device.dialog.wait_for_completion.quit "Surt">
+<!ENTITY tooltip.browser.mediapages.list "Vista de llista">
+<!ENTITY rapi.library_read_disable.label "Evita que els llocs web accedeixin a la informació sobre la meva biblioteca o els meus dispositius">
+<!ENTITY feedback.dialog.sentence1 "Voleu ajudar a millorar el &brandShortName; omplint una enquesta ràpida i anònima? ">
+<!ENTITY feed.subscribe.label "Subscriu">
+<!ENTITY tooltip.servicepane.show "Mostra la subfinestra de servei">
+<!ENTITY tooltip.control.stop "Atura">
+<!ENTITY menu.file.remote "Crea una subscripció…">
+<!ENTITY menu.file.podcast "Nou podcast...">
+<!ENTITY feedback.dialog.sentence2 "Si no hi esteu interessat, no us ho preguntarem més. Gràcies per la vostra atenció i per utilitzar el &brandShortName;!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Encara no està implementat. (Vegeu l&apos;error 14281)">
+<!ENTITY menu.edit "Edita">
+<!ENTITY locale.language.accesskey "I">
+<!ENTITY videowindow.title "Finestra de vídeo">
+<!ENTITY menu.fullscreen "Pantalla completa">
+<!ENTITY menu.file.newtab "Obre una pestanya…">
+<!ENTITY feedback.dialog.sentence3 "Salutacions cordials,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Mostra el que s&apos;està reproduïnt">
+<!ENTITY albumart.displaypane.drag_and_drop "Arrossegueu la coberta aquí">
+<!ENTITY command.device.cancel.accesskey "A">
+<!ENTITY smart.most_often "reproduït més sovint">
+<!ENTITY restartbox.restartnow "Reinicia ara">
+<!ENTITY device.unsupported_media.dialog.enable "Avisa&apos;m quan es detectin fitxers incompatibles">
+<!ENTITY device.sync.images.selected.label "Subcarpetes seleccionades">
+<!ENTITY command.device.canceldevicecopy "Atura la còpia">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Escolliu qui suport d&apos;emmagatzematge voleu que gestioni el &brandShortName;:">
+<!ENTITY feedback.dialog.sentence4 "L&apos;equip del &brandShortName;">
+<!ENTITY smart.title "títol">
+<!ENTITY menu.tools.reveal "Mostra els fitxers">
+<!ENTITY menu.controllerontop "Mostra&apos;ls a la part superior">
+<!ENTITY about.credits.footer.beforeLink "Per descomptat, res d&apos;això hagués estat possible sense la dura feina i l&apos;esforç dels">
+<!ENTITY device.management.tabs.tools.label "Eines">
+<!ENTITY umsd.video.tab "Vídeo">
+<!ENTITY trackeditor.addtag.tag "Etiqueta:">
+<!ENTITY device.settings.music.transcoding.format.label "Format de la codificació">
+<!ENTITY command.device.canceldeviceupdate "Atura l&apos;actualització">
+<!ENTITY mediapages.firstrun.title "Benvingut a &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "Aguts complets">
+<!ENTITY umsd.music.tab "Música">
+<!ENTITY tooltip.close "Tanca">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Refés">
+<!ENTITY menu.edit.findagain "Cerca el següent">
+<!ENTITY device.info.capacity.label "Capacitat">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Escolliu les carpetes...">
+<!ENTITY displaypane.default.link.post "per a navegar entre complements.">
+<!ENTITY menu.control.play.accesskey "R">
+<!ENTITY menu.file.open "Obre un fitxer…">
+<!ENTITY command.device.devicesync "Sincronitza">
+<!ENTITY menu.preferences.accesskey "N">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "Continua">
+<!ENTITY umsd.music.music_path_desc "Quan copiïs música al dispositiu, desa-la al següent directori:">
+<!ENTITY playback.prefpane.audio_output.buffer "Sortida de la memòria intermèdia:">
+<!ENTITY menu.switchplayercontrols "Controls de reproducció">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Conserva la llista de reproducció actual del &brandShortName; (no l&apos;importis)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Comprova si hi ha actualitzacions del microprogramari.">
+<!ENTITY menu.help.accesskey "A">
+<!ENTITY device.info.serial_number.label "Número de sèrie">
+<!ENTITY device.info.product.label "Productora">
+<!ENTITY smart.minutes "minuts">
+<!ENTITY menu.help.topics "Temes de l&apos;ajuda">
+<!ENTITY menu.file.playlist "Importa una llista de reproducció…">
+<!ENTITY first_run.app_update.finished.title "L&apos;actualització està preparada per a ser instal·lada.">
+<!ENTITY device.tools.format_volume.button.label "Formata">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Limita a">
+<!ENTITY menu.file.library "Importa una biblioteca…">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "Cerca la peça actual">
+<!ENTITY setupprogress.installingextensions "S&apos;estan instal·lant les extensions">
+<!ENTITY menu.mac.services "Serveis">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY import_library.library_file_label "Fitxer de la biblioteca:">
+<!ENTITY command.device.canceldevicecopy.accesskey "A">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Condicions per complir:">
+<!ENTITY importexport_show_notifications_checkbox "Mostra una notificació quan s&apos;hagi completat la importació/exportació">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Els podcasts i la música adquirida a l&apos;iTunes Store es pot importar al Songbird. Aquesta funció va bé si feu, el Songbird, el vostre reproductor per defecte.">
+<!ENTITY device.sync.images.foldername "Nom de la carpeta">
+<!ENTITY device.capacity.video.label "Vídeo">
+<!ENTITY menu.control.next.accesskey "E">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Fitxers de música">
+<!ENTITY trackeditor.tab.lyrics.title "Lletres">
+<!ENTITY menu.mac.exit "Surt del &brandShortName;">
+<!ENTITY menu.control.play.button "Reprodueix">
+<!ENTITY hotkeys.prefpane "Dreceres de teclat">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "Hores">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Ajuda">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "Ignora">
+<!ENTITY export_subscriptions_itunes_checkbox "Exporta les subscripcions">
+<!ENTITY mediacore.error.title "S&apos;ha produït un error en el nucli multimèdia">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Salta a…">
+<!ENTITY menu.tools "Eines">
+<!ENTITY device.settings.music.transcoding.label "Transcodificació de música">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Reinicia">
+<!ENTITY device.info.icon.readonly "Icona de bloqueig de només lectura">
+<!ENTITY command.device.lookup "Revisa la informació del CD">
+<!ENTITY tabs.listAllTabs "Llista totes les pestanyes">
+<!ENTITY rapi.prefpane.access.caption "Permisos de la pàgina web">
+<!ENTITY menu.file.scan "Importa fitxers multimèdia…">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "Importador de fitxers multimèdia">
+<!ENTITY device.firmware.wizard.download.error.description "S&apos;ha produït un error mentre es baixava el nou microprogramari. Verifiqueu la vostra connexió a la xarxa i torneu-ho a provar.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Paràmetres de la vigilància de la carpeta">
+<!ENTITY tooltip.minimize "Minimitza">
+<!ENTITY smart.random "aleatori">
+<!ENTITY smart.contenttypecondition.audio "Música">
+<!ENTITY equalizer.band7.label "4.000">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Notes de la versió">
+<!ENTITY watch_folder.prefs.title "Vigila carpetes">
+<!ENTITY subscribe.autocheck "Actualitza automàticament cada">
+<!ENTITY menu.control.shuf "Ordre aleatori">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Amunt">
+<!ENTITY device.firmware.wizard.retry.description "Torneu-ho a intentar quan el dispositiu hagi completat l&apos;operació en curs.">
+<!ENTITY first_run.connection.settings.description "Teniu l&apos;ordinador o la connexió protegits per un tallafocs o un proxi? Revisar els Paràmetres de la connexió incorrectes pot resoldre els problemes més comuns.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Vigila automàticament els canvis de la següent carpeta">
+<!ENTITY menu.file.metadata "Visualitza les metadades...">
+<!ENTITY device.info.firmware_version.label "Versió del microprogramari">
+<!ENTITY device.info.access.label "Compatibilitat d&apos;accés">
+<!ENTITY tooltip.control.back "Peça anterior">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.controlleronbottom "Mostra&apos;ls a la part inferior">
+<!ENTITY device.sync.sync_selected.label "Llistes de reproducció seleccionades:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "E">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Vista de filtre del tauler">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Introduïu aquí la llista de fitxers separats per comes">
+<!ENTITY rapi.playback_control_disable.label "Evita que els llocs web controlin la meva reproducció">
+<!ENTITY menu.file.exit.accesskey "S">
+<!ENTITY first_run.feedback.metrics.description "Les estadístiques d&apos;ús són completament anònimes i no es recull informació personal.">
+<!ENTITY cdrip.prefpane.label "Gravació de CD">
+<!ENTITY tooltip.control.mute "Silenci">
+<!ENTITY smart.album "àlbum">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY menu.tools.accesskey "N">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.tools.format_device.label "Formata el dispositiu">
+<!ENTITY hotkeys.remove "Suprimex">
+<!ENTITY tooltip.fullscreen "Pantalla completa">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Configura automaticament la transcodificació">
+<!ENTITY jumptofile.search "Cerca:">
+<!ENTITY albumart.displaypane.not_selected_message "No hi ha res seleccionat">
+<!ENTITY wizard.button.back.label "Vés enrere">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "a">
+<!ENTITY rapi.prefpane.access.text "Podeu permetre que els llocs web s&apos;integrin amb el &brandShortName; per a aconseguir una millor comunicació entre el web i els fitxers multimèdia. Configureu el &brandShortName; per permetre o bloquejar els següents paràmetres d&apos;integració.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Redueix la subfinestra de servei">
+<!ENTITY podcast.creation_dialog.title "Nou podcast">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Peça">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "del projecte Mozilla.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Això permetrà que el &brandShortName; incrusti la coberta als fitxers amb etiquetes compatibles.">
+<!ENTITY menu.control.rep1.accesskey "U">
+<!ENTITY hotkeys.add "Afegeix">
+<!ENTITY export_playlists_itunes_checkbox "Exporta les llistes de reproducció">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Comprova si hi ha nou microprogramari automàticament">
+<!ENTITY smart.least_recent "reproduït menys recentment">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.help.about "Quant al &brandShortName;…">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "El gestor de suports es va eliminar del Songbird a la versió 1.10.">
+<!ENTITY menu.file.closetab.accesskey "c">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "Expulsa el CD quan s&apos;acabi la gravació">
+<!ENTITY device.management.tabs.image.label "Fotos">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Aquest canvi forma part d&apos;un esforç per fer el nostre producte més simple i donar una experiència d&apos;ús més fàcil als usuaris.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "S&apos;estan afegint peces">
+<!ENTITY device.info.vendor.label "Fabricant">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY sanitize.key "Supr">
+<!ENTITY playback.prefpane.ratings.label "Metadades de valoració">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Reprodueix un so d&apos;alerta quan s&apos;acabi la gravació">
+<!ENTITY menu.control.jumpto.accesskey "S">
+<!ENTITY device.tools.format_device.description "Formatar el dispositiu provocarà que se n&apos;esborri tota la música i les dades.">
+<!ENTITY jobprogress.details "Detalls">
+<!ENTITY device.tools.reset_warnings.description "Reiniciar el diàlegs d&apos;avís provocarà que us puguin tornar a demanar confirmació per a complir certes tasques.">
+<!ENTITY prefs.homepage.label "Pàgina d&apos;inici">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Tanca la pestanya">
+<!ENTITY device.firmware.wizard.title "Actualitza el microprogramari">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "Totes les fotos">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Dades de guany preferides:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "S&apos;està descarregant noves versions del microprogramari...">
+<!ENTITY cdrip.prefpane.format "Formata">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "Preferències…">
+<!ENTITY menu.file "Fitxer">
+<!ENTITY menu.downloadmgr.accesskey "B">
+<!ENTITY import_library.prefs.path_group_caption "Ruta de la biblioteca de l&apos;iTunes">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Atura">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Configuració">
+<!ENTITY copySelectionCmd.label "Copia el text seleccionat">
+<!ENTITY feed.subscribe.close "Tanca">
+<!ENTITY device.settings.disk.label "Gestió del disc">
+<!ENTITY first_run.feedback.email.header.label "Mantingueu-me informat">
+<!ENTITY equalizer.preset.custom "Personalitzat">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Fusiona la llista de reproducció actual del &brandShortName; i la de l&apos;iTunes">
+<!ENTITY import_tracks_itunes_checkbox "Importa les peces de l&apos;iTunes">
+<!ENTITY first_run.welcome.header.label "Benvingut al &brandShortName;">
+<!ENTITY feedback.dialog.title "Ajudeu a millorar el &brandShortName;!">
+<!ENTITY window.yes "Sí">
+<!ENTITY subscribeMediaPageCmd.label "Subscriviu-vos a aquesta pàgina…">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Atura">
+<!ENTITY watchfolder.folderlist "Vigila aquestes carpetes per cercar nous fitxers multimèdia:">
+<!ENTITY tooltip.control.fwd "Peça següent">
+<!ENTITY restartbox.restartonplaybackend "Reinicia quan s&apos;acabi la reproducció">
+<!ENTITY playback.prefpane.label "Reproducció">
+<!ENTITY command.device.canceldevicedelete.accesskey "A">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Mostra el que està seleccionat">
+<!ENTITY import_library.dirty_playlist_dialog.note "Nota: No es pot desfer el Fusiona i reemplaça.">
+<!ENTITY menu.control.repa "Repeteix-ho tot">
+<!ENTITY jumptofile.title "Salta a">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY device.firmware.wizard.busy.description "Sembla ser que el dispositiu està ocupat. Només es pot instal·lar microprogramari quan el dispositiu està lliure. ">
+<!ENTITY command.device.renamedevice "Canvia el nom">
+<!ENTITY smart.least_added "afegit menys recentment">
+<!ENTITY smart.contenttypecondition.video "Vídeo">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Baixa a la biblioteca">
+<!ENTITY command.device.stoprip "Atura la gravació">
+<!ENTITY device.firmware.wizard.check.install.description "La instaŀlació del microprogramari no tardarà més de 10 minuts. Podeu fer l&apos;actualització més tard.">
+<!ENTITY first_run.add_ons.load_failed.label "No es poden recuperar els complements recomanats.">
+<!ENTITY first_run.feedback.description "Voleu ajudar-nos a millorar el &brandShortName; enviant-nos estadístiques d&apos;ús i responent una enquesta sobre com l&apos;utilitzeu?">
+<!ENTITY about.credits.footer.linkText "l&apos;equip de col·laboració">
+<!ENTITY device.tools.update_firmware.title "Actualitza el microprogramari">
+<!ENTITY locale.language "Idioma">
+<!ENTITY cdrip.mediaview.stop_rip_button "Atura la gravació">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "Per a més informació sobre els còdecs que falten, vegeu:">
+<!ENTITY first_run.itunes.description "Sembla que teniu l&apos;iTunes instaŀlat. Podeu configurar el &brandShortName; per a importar i/o exportar les peces entre el &brandShortName; i l&apos;iTunes de manera que les llibreries quedin sincronitzades.">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "m">
+<!ENTITY first_run.itunes.header.label "Importació/exportació de l&apos;iTunes">
+<!ENTITY albumart.coverpreview.title "Coberta de l&apos;àlbum">
+<!ENTITY playback.prefpane.normalization.label "Normalització">
+<!ENTITY menu.mac.hide.key "A">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY first_run.itunes.checkbox.export.label "Exporta les noves peces i llistes de reproducció a l&apos;iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key " X">
+<!ENTITY watch_folder.prefs.general_description "No activeu Vigila carpetes a la mateixa carpeta que està sent gestionada. Fent això es crearan duplicats a la vostra llibreria.">
+<!ENTITY smart.match "Coincideixen">
+<!ENTITY export_tracks_itunes_checkbox "Exporta les peces a l&apos;iTunes">
+<!ENTITY cdrip.prefpane.quality "Qualitat">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nova llista de reproducció">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

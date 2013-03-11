@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneSecurity.title "Sikkerhet">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneApplications.title "Programmer">
+<!ENTITY paneContent.title "Innhold">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Egenskaper">
+<!ENTITY prefWindow.titleWin "Alternativer">
+<!ENTITY paneTabs.title "Arkfaner">
+<!ENTITY paneAdvanced.title "Avansert">
+<!ENTITY panePrivacy.title "Personvern">
+<!ENTITY paneGeneral.title "Hoved">
+

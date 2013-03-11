@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SongbirdInstallBundle version="2">
+  <XPI name="Afrikaans" id="langpack-af@songbirdnest.com" languageTag="af" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-af-2.2.0.1359742567.xpi" />
+  <XPI name="Shqip" id="langpack-sq@songbirdnest.com" languageTag="sq" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-sq-2.2.0.1359742567.xpi" />
+  <XPI name="عربي" id="langpack-ar@songbirdnest.com" languageTag="ar" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ar-2.2.0.1359742567.xpi" />
+  <XPI name="հայերեն լեզու" id="langpack-hy@songbirdnest.com" languageTag="hy" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-hy-2.2.0.1359742567.xpi" />
+  <XPI name="Euskara" id="langpack-eu@songbirdnest.com" languageTag="eu" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-eu-2.2.0.1359742567.xpi" />
+  <XPI name="বাংলা (ভারত)" id="langpack-bn-IN@songbirdnest.com" languageTag="bn-IN" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-bn-IN-2.2.0.1359742567.xpi" />
+  <XPI name="Български" id="langpack-bg@songbirdnest.com" languageTag="bg" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-bg-2.2.0.1359742567.xpi" />
+  <XPI name="català-valencià" id="langpack-ca@songbirdnest.com" languageTag="ca" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ca-2.2.0.1359742567.xpi" />
+  <XPI name="中文 (简体)" id="langpack-zh-CN@songbirdnest.com" languageTag="zh-CN" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-zh-CN-2.2.0.1359742567.xpi" />
+  <XPI name="正體中文 (繁體)" id="langpack-zh-TW@songbirdnest.com" languageTag="zh-TW" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-zh-TW-2.2.0.1359742567.xpi" />
+  <XPI name="Kernewek" id="langpack-kw@songbirdnest.com" languageTag="kw" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-kw-2.2.0.1359742567.xpi" />
+  <XPI name="hrvatski jezik" id="langpack-hr@songbirdnest.com" languageTag="hr" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-hr-2.2.0.1359742567.xpi" />
+  <XPI name="Čeština" id="langpack-cs@songbirdnest.com" languageTag="cs" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-cs-2.2.0.1359742567.xpi" />
+  <XPI name="Dansk" id="langpack-da@songbirdnest.com" languageTag="da" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-da-2.2.0.1359742567.xpi" />
+  <XPI name="Dhivehi" id="langpack-dv@songbirdnest.com" languageTag="dv" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-dv-2.2.0.1359742567.xpi" />
+  <XPI name="Nederlands" id="langpack-nl@songbirdnest.com" languageTag="nl" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-nl-2.2.0.1359742567.xpi" />
+  <XPI name="English (British)" id="langpack-en-GB@songbirdnest.com" languageTag="en-GB" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-en-GB-2.2.0.1359742567.xpi" />
+  <XPI name="Esperanto" id="langpack-eo@songbirdnest.com" languageTag="eo" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-eo-2.2.0.1359742567.xpi" />
+  <XPI name="eesti keel" id="langpack-et@songbirdnest.com" languageTag="et" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-et-2.2.0.1359742567.xpi" />
+  <XPI name="føroyskt" id="langpack-fo@songbirdnest.com" languageTag="fo" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-fo-2.2.0.1359742567.xpi" />
+  <XPI name="suomi" id="langpack-fi@songbirdnest.com" languageTag="fi" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-fi-2.2.0.1359742567.xpi" />
+  <XPI name="Français" id="langpack-fr@songbirdnest.com" languageTag="fr" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-fr-2.2.0.1359742567.xpi" />
+  <XPI name="Frysk" id="langpack-fy-NL@songbirdnest.com" languageTag="fy-NL" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-fy-NL-2.2.0.1359742567.xpi" />
+  <XPI name="Galego" id="langpack-gl@songbirdnest.com" languageTag="gl" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-gl-2.2.0.1359742567.xpi" />
+  <XPI name="ქართული" id="langpack-ka@songbirdnest.com" languageTag="ka" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ka-2.2.0.1359742567.xpi" />
+  <XPI name="Deutsch" id="langpack-de@songbirdnest.com" languageTag="de" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-de-2.2.0.1359742567.xpi" />
+  <XPI name="Ελληνικά" id="langpack-el@songbirdnest.com" languageTag="el" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-el-2.2.0.1359742567.xpi" />
+  <XPI name="עברית" id="langpack-he@songbirdnest.com" languageTag="he" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-he-2.2.0.1359742567.xpi" />
+  <XPI name="Magyar" id="langpack-hu@songbirdnest.com" languageTag="hu" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-hu-2.2.0.1359742567.xpi" />
+  <XPI name="íslenska" id="langpack-is@songbirdnest.com" languageTag="is" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-is-2.2.0.1359742567.xpi" />
+  <XPI name="Bahasa Indonesia" id="langpack-id@songbirdnest.com" languageTag="id" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-id-2.2.0.1359742567.xpi" />
+  <XPI name="Gaeilge" id="langpack-ga-IE@songbirdnest.com" languageTag="ga-IE" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ga-IE-2.2.0.1359742567.xpi" />
+  <XPI name="Italiano" id="langpack-it@songbirdnest.com" languageTag="it" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-it-2.2.0.1359742567.xpi" />
+  <XPI name="日本語" id="langpack-ja@songbirdnest.com" languageTag="ja" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ja-2.2.0.1359742567.xpi" />
+  <XPI name="한국어" id="langpack-ko@songbirdnest.com" languageTag="ko" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ko-2.2.0.1359742567.xpi" />
+  <XPI name="Kurdî" id="langpack-ku@songbirdnest.com" languageTag="ku" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ku-2.2.0.1359742567.xpi" />
+  <XPI name="latviešu valoda" id="langpack-lv@songbirdnest.com" languageTag="lv" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-lv-2.2.0.1359742567.xpi" />
+  <XPI name="lietuvių kalba" id="langpack-lt@songbirdnest.com" languageTag="lt" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-lt-2.2.0.1359742567.xpi" />
+  <XPI name="Македонски" id="langpack-mk@songbirdnest.com" languageTag="mk" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-mk-2.2.0.1359742567.xpi" />
+  <XPI name="Norsk bokmål" id="langpack-nb-NO@songbirdnest.com" languageTag="nb-NO" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-nb-NO-2.2.0.1359742567.xpi" />
+  <XPI name="Norsk nynorsk" id="langpack-nn-NO@songbirdnest.com" languageTag="nn-NO" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-nn-NO-2.2.0.1359742567.xpi" />
+  <XPI name="فارسی" id="langpack-fa@songbirdnest.com" languageTag="fa" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-fa-2.2.0.1359742567.xpi" />
+  <XPI name="polski" id="langpack-pl@songbirdnest.com" languageTag="pl" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-pl-2.2.0.1359742567.xpi" />
+  <XPI name="Português (do Brasil)" id="langpack-pt-BR@songbirdnest.com" languageTag="pt-BR" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-pt-BR-2.2.0.1359742567.xpi" />
+  <XPI name="Português (Europeu)" id="langpack-pt-PT@songbirdnest.com" languageTag="pt-PT" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-pt-PT-2.2.0.1359742567.xpi" />
+  <XPI name="română" id="langpack-ro@songbirdnest.com" languageTag="ro" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ro-2.2.0.1359742567.xpi" />
+  <XPI name="Русский" id="langpack-ru@songbirdnest.com" languageTag="ru" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ru-2.2.0.1359742567.xpi" />
+  <XPI name="српски" id="langpack-sr@songbirdnest.com" languageTag="sr" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-sr-2.2.0.1359742567.xpi" />
+  <XPI name="slovenčina" id="langpack-sk@songbirdnest.com" languageTag="sk" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-sk-2.2.0.1359742567.xpi" />
+  <XPI name="Slovensko" id="langpack-sl@songbirdnest.com" languageTag="sl" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-sl-2.2.0.1359742567.xpi" />
+  <XPI name="Español (Argentina)" id="langpack-es-AR@songbirdnest.com" languageTag="es-AR" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-es-AR-2.2.0.1359742567.xpi" />
+  <XPI name="Español (de España)" id="langpack-es-ES@songbirdnest.com" languageTag="es-ES" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-es-ES-2.2.0.1359742567.xpi" />
+  <XPI name="Svenska" id="langpack-sv-SE@songbirdnest.com" languageTag="sv-SE" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-sv-SE-2.2.0.1359742567.xpi" />
+  <XPI name="தமிழ்" id="langpack-ta@songbirdnest.com" languageTag="ta" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-ta-2.2.0.1359742567.xpi" />
+  <XPI name="ไทย" id="langpack-th@songbirdnest.com" languageTag="th" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-th-2.2.0.1359742567.xpi" />
+  <XPI name="Türkçe" id="langpack-tr@songbirdnest.com" languageTag="tr" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-tr-2.2.0.1359742567.xpi" />
+  <XPI name="Українська" id="langpack-uk@songbirdnest.com" languageTag="uk" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-uk-2.2.0.1359742567.xpi" />
+  <XPI name="tiếng Việt" id="langpack-vi@songbirdnest.com" languageTag="vi" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-vi-2.2.0.1359742567.xpi" />
+  <XPI name="Cymraeg" id="langpack-cy@songbirdnest.com" languageTag="cy" url="https://locales.songbirdnest.com/langpacks/2.2.0/langpack-cy-2.2.0.1359742567.xpi" />
+</SongbirdInstallBundle>

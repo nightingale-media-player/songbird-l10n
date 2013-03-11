@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "המשך">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "העתק להתקן קובצי מוזיקה עם הסיומות הבאות:">
+<!ENTITY menu.errorconsole "מסוף שגיאות">
+<!ENTITY menu.edit.paste "הדבק">
+<!ENTITY tooltip.hide "הסתר">
+<!ENTITY tooltip.browser.subscription "הרשם לעמוד זה">
+<!ENTITY smart.playlistcondition.library "ספריה">
+<!ENTITY menu.help.bugz "דווח על תקלה">
+<!ENTITY first_run.import_media.scan_directories.watch.label "בדוק בתיקייה זו לעדכונים">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "גודל אמיתי">
+<!ENTITY trackeditor.title "עורך מטה דטה">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "בחר הכל">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+<!ENTITY addMediaToPlaylistCmd.label "הורד לרשימת השמעה">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "אמן">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY mediacore.error.preface "סונגבירד נתקלה בשגיאת המדיה הבאה:">
+<!ENTITY hotkeys.set "קבע">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "">
+<!ENTITY fetch_album_art.dialog.title "השג את עטיפת האלבום">
+<!ENTITY menu.controls "מקשים">
+<!ENTITY tooltip.control.resume "חזור">
+<!ENTITY feedback.dialog.no "לא">
+<!ENTITY equalizer.preset.party "מסיבה">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY device.capacity.free.label "פנוי">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY hotkeys.info "מקשים חמים גלובליים מאפשרים לך להשתמש ב- &brandShortName; גם אם הוא אינו היישום הפעיל. צירופי מקשים חמים מסויימים חייבים לכלול מקשי שינוי כדי למזער את ההפרעה ליישומים אחרים.">
+<!ENTITY device.capacity.music.label "מוזיקה">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "עצור דפדפן">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "גזור">
+<!ENTITY cdrip.prefpane.providers.title "ספק איתור תקליטור">
+<!ENTITY subscribe.title "הרשם">
+<!ENTITY songbird "Songbird">
+<!ENTITY smart.window "רשימות השמעה חכמות">
+<!ENTITY openImageCmdInDefaultBrowser.label "הצג תמונה בדפדפן האינטרנט">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "אתחל התקן">
+<!ENTITY device.tools.reset_warnings.label "אפס הודעות אזהרה">
+<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "הכנס את כתובת הדואר האלקטרוני שלך כדי להשאר מעודכן">
+<!ENTITY trackeditor.addtag.title "הוסף תגית">
+<!ENTITY first_run.DLNA.description "Songbird Media Server ת &brandShortName; שלך (מוזיקה וסרטוני וידיאו) עם מכשירים נבחרים ברשת הביתית שלך.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "קב/ש">
+<!ENTITY prefs.security.addons.label "התקנת תוספים">
+<!ENTITY first_run.DLNA.point "כדי להפעיל או לכבות את Media Sharing, פתח את תיבת הדו-שיח על ידי לחיצה על הסמל Media Sharing (בעיגול), הנמצא בסרגל המצב של &brandShortName;.">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY device.tools.product_registration.label "רשום מוצר">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "הזן רשימת סיומות מופרדות בפסיק זו מזו">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "פורמטים להשמעה">
+<!ENTITY smart.high_rating "ציון גבוה">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "הסתר אחרים">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY device.info.friendly_name.label "שם">
+<!ENTITY device.unsupported_media.dialog.title "קבצים לא תואמים התגלו">
+<!ENTITY cdrip.mediaview.format_label "פורמט:">
+<!ENTITY about.credits.heading.translators "המתרגמים">
+<!ENTITY menu.view "תצוגה">
+<!ENTITY menu.preferences "העדפות">
+<!ENTITY command.device.canceldevicedelete "בטל מחיקה">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "סיים">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY first_run.welcome.description.line1 "סונגבירד היא חלופה לנגני המדיה המסורתיים, בעלת אפשרויות רבות להתאמה אישית.">
+<!ENTITY device.dialog.wait_for_completion.msg "ממתין שכל הפעולות בהתקן יסתיימו. לחץ על &quot;צא&quot; כדי לעצור את ההמתנה ולצאת מהתוכנה.">
+<!ENTITY device.sync.playlist.title "כותרת">
+<!ENTITY hotkeys.useglobalhotkeys "השתמש במקשי הקיצור הגלובלים">
+<!ENTITY subscribe.destinationfolder ":בחר תיקיית יעד">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY first_run.welcome.description.line2 "הסייע שלפניכם יספק לכם דרך מהירה ויעילה להשיג סונגבירד רץ ועובד.  ">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "ללא חזרה">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY about.version "גרסה">
+<!ENTITY umsd.video.video_path_desc "בהעתקת קובצי מוזיקה להתקן זה, מקם אותם בתיקייה הבאה:">
+<!ENTITY smart.low_rating "ציון נמוך">
+<!ENTITY device.capacity.other.label "אחר">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY setupprogress.cancel "בטל">
+<!ENTITY albumart.displaypane.selected.menu.paste "הדבק">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "בצע ריפ לתקליטור">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "סגור טאב">
+<!ENTITY menu.edit.undo "בטל">
+<!ENTITY first_run.add_ons.loading.label "מאחזר תוספים מומלצים">
+<!ENTITY command.device.formatdevice "אתחל">
+<!ENTITY albumart.displaypane.selected.menu.clear "נקה">
+<!ENTITY import_playlists_itunes_checkbox "יבא רשימות השמעה">
+<!ENTITY menu.edit.cut "גזור">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY tooltip.control.play "נגן">
+<!ENTITY tooltip.browser.mediapages "הצג...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "סוללה">
+<!ENTITY menu.edit.delete "מחק">
+<!ENTITY import_library.dialog.title "יבא ספרייה">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "מהתנאים הבאים:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "קבצי שירים">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "וידאו">
+<!ENTITY albumartpreferences.prefpane.priorities.down "למטה">
+<!ENTITY command.device.getdeviceinfo "קבל מידע">
+<!ENTITY rapi.library_write_disable.label "חסום אתרים מהוספה/עריכה של מדיה ורשימות השמעה בספרייה ובהתקנים שלי">
+<!ENTITY first_run.feedback.email.description "הירשם לעלון החדשות שלנו על מנת לשמוע אודות שחרורים חדשים ועדכונים חדשובים.">
+<!ENTITY device.sync.images.filecount "Photos">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY device.sync.header.label "הגדרות סנכרון">
+<!ENTITY first_run.import_media.radio.dont_import.label "אל תייבא מדייה">
+<!ENTITY feedback.dialog.yes "כן">
+<!ENTITY about.buttons.credits "תודות">
+<!ENTITY device.firmware.wizard.check.progress.title "מחפש  קושחה עדכנית...">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY umsd.music.music_path_browse_msg "בחר את התיקיה שבה ימוקמו קובצי המוזיקה.">
+<!ENTITY tooltip.maximize "שחזר">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY window.save "שמור">
+<!ENTITY window.no "לא">
+<!ENTITY tooltip.servicepane.newnode "רשימת השמעה חדשה">
+<!ENTITY openFrameCmdInDefaultBrowser.label "פתח מסגרת בדפדפן ברירת המחדל">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.new "רשימה חדשה">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY watch_folder.prefs.watch_folder_label "תיקיה:">
+<!ENTITY smart.autoupdate "עדכן אוטומטית">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
+<!ENTITY menu.help.keyboard "קיצורי מקשים">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "חפש שמות קבצים:">
+<!ENTITY menu.control.prev "רצועה קודמת">
+<!ENTITY device.firmware.wizard.support.description "משאבי תמיכה כגון שאלות ותשובות וטיפים לפתרון בעיות נמצאים ב">
+<!ENTITY window.apply "החל">
+<!ENTITY menu.file.smart "רשימה חכמה חדשה...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "הצג פירטי שגיאה">
+<!ENTITY device.firmware.wizard.install.title "מתקין קושחה...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY menu.control.pause.button "עצור">
+<!ENTITY trackeditor.tab.summary.title "תמצית">
+<!ENTITY playMediaCmd.label "נגן">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "דפדף קדימה">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;אין רשימות השמעה&gt;">
+<!ENTITY equalizer.title "אקולייזר">
+<!ENTITY import_library.import_command "יבא ספרייה">
+<!ENTITY cdrip.mediaview.view_tracks_button "הצג רצועות">
+<!ENTITY window.browse "דפדף...">
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY smart.songs "פריטים">
+<!ENTITY menu.tools.getartwork "השג את עטיפת האלבום...">
+<!ENTITY window.cancel "בטל">
+<!ENTITY smart.genre "ז&apos;אנר">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY hotkeys.hotkey "מקש קיצור">
+<!ENTITY first_run.feedback.header.label "עזור להפוך את סונגבירד לטוב יותר!">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "יצא רשימות השמעה חכמות">
+<!ENTITY device.tools.support.label "הצג משאבי תמיכה">
+<!ENTITY import_library.prefs.options_group_caption "אפשרויות יבוא">
+<!ENTITY equalizer.preset.reggae "רגאיי">
+<!ENTITY equalizer.on.checkbox "פועל">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY first_run.eula.language.label "שפה:">
+<!ENTITY device.settings.disk.management.label "התאם מבנה ספריה">
+<!ENTITY cdrip.lookup.multiple.description "בחר אחד מהרשימה או הוסף מידע משלך">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "תוספים מומלצים">
+<!ENTITY tooltip.search "חפש">
+<!ENTITY recommended_add_ons.title "התקנת סונגבירד">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "צפה בתיקיות">
+<!ENTITY rapi.whitelist.label "יוצאי דופן...">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "פתח מיקום...">
+<!ENTITY menu.downloadmgr "הורדת קבצים...">
+<!ENTITY device.settings.auto_launch.checkbox.label "פתח &brandShortName; כאשר נמצא התקן זה">
+<!ENTITY first_run.itunes.checkbox.import.label "יבא קטעי שמע ורשימות השמעה מאייטונס">
+<!ENTITY cdrip.lookup.info_not_found.title "לא נמצא מידע תקליטור">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "אל תציג שגיאות מדיה נוספות">
+<!ENTITY device.firmware.wizard.repair.warning "אחזור הרכיב להגדרות היצרן ימחק את כל הקבצים על הרכיב. אנא גבה את כל הקבצים לפני שתמשיך.">
+<!ENTITY cdrip.mediaview.rip_cd_button "בצע ריפ לדיסק">
+<!ENTITY wizard.button.cancel.label "בטל">
+<!ENTITY tooltip.control.shuffle "אקראי">
+<!ENTITY playback.prefpane.units.ms "מש">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY first_run.import_media.scan_directories.description "האם אתה רוצה שסונגבירד ינסה לייבא מדיה על ידי סריקת תיקיות מסוימות במחשב שלך?">
+<!ENTITY device.tools.product_registration.title "רישום מוצר">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "מאפיינים">
+<!ENTITY rapi.playback_read_disable.label "אל תאפשר לאתרים לראות מידע לגבי קובצי מדיה">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "הסתר את &brandShortName;">
+<!ENTITY device.sync.sync_all.label "כל המוסיקה, הסרטים ורשימות ההשמעה">
+<!ENTITY cdrip.mediaview.quality_label "איכות">
+<!ENTITY albumart.displaypane.selected.menu.copy "העתק">
+<!ENTITY subscribe.days "ימים">
+<!ENTITY smart.least_often "תדירות נמוכה">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "אלבום">
+<!ENTITY albumartpreferences.prefpane.priorities.label "">
+<!ENTITY mediacore.error.stop "עצור פלייבק">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "דאנס">
+<!ENTITY albumart.displaypane.not_playing_message "לא מנגן">
+<!ENTITY textbox.songbird_open_url ":הכנס את כתובת הקישור או מיקום המדיה שברצונך לנגן">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "תוספים">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "הגדרות">
+<!ENTITY cdrip.mediaview.settings_button "הגדרות">
+<!ENTITY cdinfo.other.label "הוסף פרטי אלבום ואמן משלך">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "סונגבירד לא מצליחה להיתחבר לאינטרנט">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "הפסק">
+<!ENTITY equalizer.preset.soft_rock "רוק קל">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "החל בחירה על כל רשימות ההשמעה">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "קבצי וידאו">
+<!ENTITY tooltip.browser.fwd "דפדף אחורה">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "חלונית שרותים">
+<!ENTITY playback.prefpane.streaming.label "תקשורת וזרימה:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY command.device.ejectcddevice "הוצא תקליטור">
+<!ENTITY cdrip.mediaview.eject_cd_button "שלוף תקליטור">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "התעלם מהתקן זה">
+<!ENTITY tooltip.displaypane.options "אפשרויות חלונית תוכן">
+<!ENTITY menu.tools.exportmedia "יצא שינויים בספרייה">
+<!ENTITY menu.mac.preferences "העדפות...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "החלף את רשימת ההשמעה הזו של סונגבירד עם רשימת השמע הנוכחית של אייטונס">
+<!ENTITY device.tools.reset_warnings.title "אתחל אזהרות">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY menu.control.next "רצועה הבאה">
+<!ENTITY umsd.video.video_path_browse_msg "בחר את ההתקן בו תרצה למקם את קובצי הוידאו">
+<!ENTITY setupprogress.pleasewait "...נא להמתין">
+<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY equalizer.preset.soft "מוזיקה קלה">
+<!ENTITY equalizer.preset.large_hall "אולם גדול">
+<!ENTITY first_run.eula.accept_checkbox.label "קראתי את פרטי הרשיון ואני מסכים.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+<!ENTITY smart.most_recent "נוגן לאחרונה">
+<!ENTITY command.device.ejectdevice "חלץ">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+<!ENTITY first_run.connection.settings.button "הגדרות תקשורת...">
+<!ENTITY import_library.prefs.title "יבוא/יצוא לאייטונס">
+<!ENTITY hotkeys.action "פעולה">
+<!ENTITY equalizer.preset.classical "קלאסי">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY first_run.install_add_ons.title "מוריד תוספים">
+<!ENTITY playback.prefpane.streaming.buffer "אוגר:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "סרוק תיקיות במחשב שלי">
+<!ENTITY menu.control.play "נגן">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY subscribe.minutes "דקה(ות)">
+<!ENTITY smart.any "כל">
+<!ENTITY prefpane.content.label "Web Content">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "אלופים">
+<!ENTITY equalizer.preset.rock "רוק">
+<!ENTITY equalizer.preset.live "הופעה חיה">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "הזהר אותי כאשר קטעי שמע או רשימות השמעה אינם ניתנים ליבוא">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY tooltip.control.volume "עוצמה">
+<!ENTITY smart.hours "שעות">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "סרגל צד ימני">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY first_run.import_media.description "בחר במדיה אותה תרצה לייבא לתוך סונגבירד. כאשר סונגבירד תופעל אתה תוכל להוסיף מדיה נוספת במגוון דרכים.">
+<!ENTITY umsd.video.video_ext_desc "העתק להתקן קובצי וידאו עם הסיומות הבאות:">
+<!ENTITY smart.most_added "נוסף לאחרונה">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "פתח קישור URL">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY first_run.eula.header.label "הסכם רשיון">
+<!ENTITY device.capacity.image.label "תמונות">
+<!ENTITY about.credits.intro "אנו רוצים להודות לתורמינו, שמתאמצים על מנת להביא את סונגבירד למה שהיא. אנשים אלו עזרו לכתוב את הקוד והתיעוד, ועזרו לבחון את התוכנה לפני ששוחררה. הם יצרו וטיפלו במוצר, בחבילות הפיתוח שקשורות אליו, בכלי הבנייה שלנו ובאתרינו. שמותיהם מלווים בכינויהם ברשת האיי.אר.סי. בואו להגיד שלום בשרת מוזילה, בחדר סונגבירד!">
+<!ENTITY menu.mac.showall "הצג הכל">
+<!ENTITY first_run.connection.description "בדוק את הגדרות התקשורת שלך עם אשף ההגדרות.">
+<!ENTITY equalizer.preset.full_bass "הכל באס">
+<!ENTITY cdrip.lookup.multiple.title "נמצאו מספר רשומות תקליטור">
+<!ENTITY openLinkCmdInDefaultBrowser.label "פתח קישור בדפדפן האינטרנט">
+<!ENTITY first_run.add_ons.header.label "תוספים מומלצים">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY first_run.feedback.metrics.label "אסוף מידע לגבי השימוש ושלח אותו לצוות &brandShortName;.">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "הגדר התקן">
+<!ENTITY menu.videotofront "Video to Front">
+<!ENTITY device.management.tabs.music.label "מוזיקה">
+<!ENTITY equalizer.preset.pop "פופ">
+<!ENTITY subscribeMediaFrameCmd.label "הרשם למסגרת זו...">
+<!ENTITY add_on_bundle_installer.error_box.label "פרטים">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.exit "צא">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY first_run.import_media.header.label "יבא מדיה">
+<!ENTITY tooltip.browser.home "בית">
+<!ENTITY equalizer.preset.small_speakers "לפטופ/אוזניות">
+<!ENTITY cdrip.lookup.info_not_found.album "אלבום">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "שמור תמונת אלבום במטה דטה">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "חפש סיומות קבצים">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "הכל">
+<!ENTITY playback.prefpane.normalization.enable "השתמש בנירמול נתוני אודיו אם הדבר אפשרי">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY displaypane.default.link.text "אתר התוספים">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "תמיכה">
+<!ENTITY device.sync.auto_sync.label "סנכרון">
+<!ENTITY device.info.model.label "מודל">
+<!ENTITY feed.subscribe.dontask "אל תציג חלונית דו-שיח זו בעתיד">
+<!ENTITY rapi.restore_defaults.label "שחזר לברירת המחדל">
+<!ENTITY playback.prefpane.audio_output.label "פלט שמע">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.dialog.wait_for_completion.title "ממתין להתקנים.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+<!ENTITY device.firmware.wizard.check.already.description "חומרת המכשיר שלך כבר מעודכנת">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "הגדרות ריפ תקליטור">
+<!ENTITY videowindow.fullscreen "מסך מלא">
+<!ENTITY tooltip.browser.refresh "רענן">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "תוספים">
+<!ENTITY equalizer.preset.club "קלאב">
+<!ENTITY equalizer.preset.full_bass_treble "הכל באס וטרבל">
+<!ENTITY menu.edit.copy "העתק">
+<!ENTITY device.repair.menuitem.default "Repair my device">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY tooltip.exit "צא">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "התקנת סונגבירד">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "הגדר פורמט וקצב ביטים ידנית">
+<!ENTITY tooltip.control.shuf_off "בטל אקראיות">
+<!ENTITY smart.selectedby "נבחר ע&quot;י">
+<!ENTITY openPageCmdInDefaultBrowser.label "פתח עמוד בדפדפן האינטרנט">
+<!ENTITY menu.control.playpause.spacebar "מקש רווח">
+<!ENTITY import_library.dirty_playlist_dialog.title "רשימת ההשמעה שונתה">
+<!ENTITY equalizer.preset.techno "מוזיקת טכנו">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY device.tools.update_firmware.current_firmware.title "גרסת קושחה נוכחית:">
+<!ENTITY first_run.itunes.checkbox.export.description "מוזיקה הנרכשת דרך סונגבירד יכולה להיות מיוצאת לאייטונס, כך שתוכל להעביר אותה לאייפון או לאייפוד שלך.">
+<!ENTITY device.tools.update_firmware.label "בדוק האם קימים עדכוני קושחה">
+<!ENTITY device.info.icon.device "צלמית התקן גנרי">
+<!ENTITY restartbox.restartlater "טען מחדש מאוחר יותר">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY cdrip.lookup.info_not_found.artist "אמן">
+<!ENTITY cdrip.lookup.track_name "כותרת">
+<!ENTITY menu.control.pause "השהה">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY device.firmware.wizard.repair.time.description "אחזור הרכיב להגדרות היצרן אמור לקחת פחות מ5 דקות.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY command.device.canceldevicesync "בטל סנכרון">
+<!ENTITY menu.control.rep1 "חזור על שיר זה שוב">
+<!ENTITY device.sync.playlist.video.duration "אורך הוידאו">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "M">
+<!ENTITY rapi.prefpane.title "שילוב ברשת">
+<!ENTITY menu.equalizer "אקולייזר...">
+<!ENTITY first_run.add_ons.description.line1 "תוספים מרחיבים את האפשרויות בסונגבירד, ומאפשרים לך התאמה אישית של חווית השימוש בנגן. האפשרויות שמוצגות כאן מומלצות בחום.">
+<!ENTITY displaypane.name.servicepane "לוח שליטה תחתי">
+<!ENTITY menu.clearprivatedata "נקה מידע אישי">
+<!ENTITY window.ok "אישור">
+<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY menu.edit.find "חפש">
+<!ENTITY first_run.add_ons.description.line2 "תוספים יכולים להשתלב עם תוכניות ושירותים אחרים, לתמוך בחיבור להתקנים חיצוניים, לשנות את צורת התוכנה ועוד! אתה יכול להוריד עוד באתר התוספים של סונגבירד.">
+<!ENTITY menu.updateCmd.label "...בדוק עדכונים">
+<!ENTITY device.firmware.wizard.check.error.description "קרתה שגיאה בזמן בדיקת גירסה חדשה לחומרה שלך. אנא וודא את חיבור הרשת שלך ונסה שנית">
+<!ENTITY device.settings.music.transcoding.bitrate.label "קצב ביטים">
+<!ENTITY displaypane.name.browser "לוח תוכן תחתי">
+<!ENTITY albumartpreferences.prefpane.label "עטיפת אלבום">
+<!ENTITY watch_folder.prefs.description "&brandShortName; יכול לעקוב אחר תוכן תיקיות ולהוסיף או להסביר אוטומטית פריטים שנמצאים בה.">
+<!ENTITY umsd.no_devices_present "לא מחוברים התקני אחסון מסוג USB">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "סנכרון">
+<!ENTITY device.dialog.wait_for_completion.quit "סגור">
+<!ENTITY tooltip.browser.mediapages.list "תצוגת רשימה">
+<!ENTITY rapi.library_read_disable.label "אל תאפשר לאתרים לראות מידע לגבי המדיה בספריה ובהתקנים שלך">
+<!ENTITY feedback.dialog.sentence1 "האם תעזור לנו לשפר את &brandShortName; על ידי מילוי שאלון קצר ואנונימי ?">
+<!ENTITY feed.subscribe.label "הרשם">
+<!ENTITY tooltip.servicepane.show "הצג חלונית שרות ">
+<!ENTITY tooltip.control.stop "עצור">
+<!ENTITY menu.file.remote "מנוי חדש...">
+<!ENTITY menu.file.podcast "פודקאסט חדש...">
+<!ENTITY feedback.dialog.sentence2 "אם אתה לא מעוניין, לא נשאל אותך שוב. תודה על שיקולך ואנו מעריכים את שימושך ב-&brandShortName;!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "לא מבוצע כעת. (ראה באג 14281)">
+<!ENTITY menu.edit "ערוך">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY videowindow.title "חלון וידאו">
+<!ENTITY menu.fullscreen "Full Screen">
+<!ENTITY menu.file.newtab "טאב חדש">
+<!ENTITY feedback.dialog.sentence3 "בברכה,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "הצג מנגן כעת">
+<!ENTITY albumart.displaypane.drag_and_drop "גרור עטיפה לכאן">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY smart.most_often "נוגן לעיתים קרובות">
+<!ENTITY restartbox.restartnow "טען מחדש כעת">
+<!ENTITY device.unsupported_media.dialog.enable "הודע לי כאשר מזוהים קבצים שאינם תואמים">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY command.device.canceldevicecopy "בטל העתקה">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY feedback.dialog.sentence4 "צוות &brandShortName;">
+<!ENTITY smart.title "כותרת">
+<!ENTITY menu.tools.reveal "הראה קובץ">
+<!ENTITY menu.controllerontop "הצג למעלה">
+<!ENTITY about.credits.footer.beforeLink "כמובן, שום דבר לא היה מתקיים ללא העבודה הקשה והשקעתם של">
+<!ENTITY device.management.tabs.tools.label "כלים">
+<!ENTITY umsd.video.tab "וידאו">
+<!ENTITY trackeditor.addtag.tag ":תגית">
+<!ENTITY device.settings.music.transcoding.format.label "פורמט קידוד">
+<!ENTITY command.device.canceldeviceupdate "בטל עדכון">
+<!ENTITY mediapages.firstrun.title "ברוכים הבאים אל &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "טרבל מלא">
+<!ENTITY umsd.music.tab "מוזיקה">
+<!ENTITY tooltip.close "סגור">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "שוב">
+<!ENTITY menu.edit.findagain "חפש שוב">
+<!ENTITY device.info.capacity.label "קיבולת">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "פתח קובץ...">
+<!ENTITY command.device.devicesync "סנכרן">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "המשך">
+<!ENTITY umsd.music.music_path_desc "בהעתקת קובצי מוזיקה להתקן זה, מקם אותם בתיקייה הבאה:">
+<!ENTITY playback.prefpane.audio_output.buffer "אוגר הפלט:">
+<!ENTITY menu.switchplayercontrols "בקרת הנגן">
+<!ENTITY import_library.dirty_playlist_dialog.keep "שמור על רשימת ההשמעה הנוכחית של סונגבירד (אל תייבא את רשימת השמעה זו)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "חפש  קושחה מעודכנת">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY device.info.serial_number.label "מספר סידורי">
+<!ENTITY device.info.product.label "מוצר">
+<!ENTITY smart.minutes "דקות">
+<!ENTITY menu.help.topics "נושאי עזרה">
+<!ENTITY menu.file.playlist "יבא רשימת שמע...">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY device.tools.format_volume.button.label "Format">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "הגבל ל">
+<!ENTITY menu.file.library "יבא ספרייה...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "מצא רצועה נוכחית">
+<!ENTITY setupprogress.installingextensions "מתקין תוספים">
+<!ENTITY menu.mac.services "שירותים">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY import_library.library_file_label "קובץ ספרייה:">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "התאם את התנאי הבא:">
+<!ENTITY importexport_show_notifications_checkbox "ידע אותי כאשר תהליך היבוא/יצוא הושלם">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "יש באפשרותך להעביר לסונגבירד מוזיקה ופודקאסטים שרכשת בחנות של אייטונס. אפשרות זו פועלת היטב אם סונגבירד הולך להיות הנגן הראשי שלך.">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.capacity.video.label "וידאו">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "קובצי מוזיקה">
+<!ENTITY trackeditor.tab.lyrics.title "מילים">
+<!ENTITY menu.mac.exit "צא מ&brandShortName;">
+<!ENTITY menu.control.play.button "נגן">
+<!ENTITY hotkeys.prefpane "מקשי קיצור">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "שעה(ות)">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "עזרה">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "התעלם">
+<!ENTITY export_subscriptions_itunes_checkbox "יצא מנויים">
+<!ENTITY mediacore.error.title "שגיאת Mediacore">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "דלג ל...">
+<!ENTITY menu.tools "כלים">
+<!ENTITY device.settings.music.transcoding.label "ממיר מוזיקה">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "אתחל">
+<!ENTITY device.info.icon.readonly "צלמית נעילת לקריאה בלבד">
+<!ENTITY command.device.lookup "אתר מידע תקליטור">
+<!ENTITY tabs.listAllTabs "ערוך רשימה של כל הלשוניות">
+<!ENTITY rapi.prefpane.access.caption "הרשאות שילוב ברשת">
+<!ENTITY menu.file.scan "יבא מדיה...">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "מייבא מדיה">
+<!ENTITY device.firmware.wizard.download.error.description "קרתה שגיאה בזמן בדיקת גירסה חדשה לחומרה שלך. אנא וודא את חיבור הרשת שלך ונסה שנית">
+<!ENTITY watch_folder.prefs.settings_group_caption "הגדרת  הצגת תיקיה">
+<!ENTITY tooltip.minimize "מזער">
+<!ENTITY smart.random "אקראי">
+<!ENTITY smart.contenttypecondition.audio "מוזיקה">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "הערות גרסה">
+<!ENTITY watch_folder.prefs.title "הצג תיקיות">
+<!ENTITY subscribe.autocheck "עדכן אוטומטית כל">
+<!ENTITY menu.control.shuf "נגן באקראיות">
+<!ENTITY albumartpreferences.prefpane.priorities.up "למעלה">
+<!ENTITY device.firmware.wizard.retry.description "נסה שוב אחרי שהרכיב יסיים את פעולתו הנוכחית">
+<!ENTITY first_run.connection.settings.description "האם המחשב או הרשת מוגנים ע&quot;י חומת אש או פרוקסי? תיקון הגדרות תקשורת שגויות יכול לפתור בעיות התקשרות נפוצות.">
+<!ENTITY watch_folder.prefs.enable_checkbox "עקוב אוטומטית אחר שינויים בתיקיה זו">
+<!ENTITY menu.file.metadata "הצד מטה דטה...">
+<!ENTITY device.info.firmware_version.label "גרסת קושחה">
+<!ENTITY device.info.access.label "תאימות גישה">
+<!ENTITY tooltip.control.back "רצועה קודמת">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.controlleronbottom "הצג בתחתית">
+<!ENTITY device.sync.sync_selected.label "רשימות השמעה שנבחרו:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "תצוגה עם אפשרות סינון">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "הזן רשימת שמות קבצים מופרדת בפסיק">
+<!ENTITY rapi.playback_control_disable.label "אל תאפשר לאתרים לשלוט בניגון המדיה">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY first_run.feedback.metrics.description "שליחת נתוני השימוש היא אנונימית ולא נאספים פרטיך האישיים.">
+<!ENTITY cdrip.prefpane.label "בצע ריפ לדיסק">
+<!ENTITY tooltip.control.mute "השתק">
+<!ENTITY smart.album "אלבום">
+<!ENTITY playback.prefpane.units.kilobytes "קב">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "קב/ש">
+<!ENTITY device.tools.format_device.label "אתחל התקן">
+<!ENTITY hotkeys.remove "מחק">
+<!ENTITY tooltip.fullscreen "מסך מלא">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "הגדר המרה באופו אוטומטי">
+<!ENTITY jumptofile.search ":חפש">
+<!ENTITY albumart.displaypane.not_selected_message "בחירה ריקה">
+<!ENTITY wizard.button.back.label "אחורה">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "עד">
+<!ENTITY rapi.prefpane.access.text "אתה יכול לתת לאתרים הרשאות להשתלב עם סונגבירד על מנת ליצור קשר הדוק יותר בין הרשת למדיה שלך. אנא הגדר את סונגבירד על מנת לחסום או לאפשר את נקודות השילוב הבאות. ">
+<!ENTITY equalizer.preset.ska "סקא">
+<!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
+<!ENTITY podcast.creation_dialog.title "פודקאסט חדש">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "רצועה">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "לפרויקט מוזילה.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY hotkeys.add "הוסף">
+<!ENTITY export_playlists_itunes_checkbox "יצא רשימות השמעה">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label " בדוק אוטומטית  עדכוני  קושחה">
+<!ENTITY smart.least_recent "שנוגן הכי פחות לאחרונה">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.help.about "Songbird אודות">
+<!ENTITY device.settings.general.label "כללי">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "W">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "הוצא דיסק כאשר הריפ מסתיים">
+<!ENTITY device.management.tabs.image.label "תמונות">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY device.info.vendor.label "יצרן">
+<!ENTITY first_run.DLNA.header.label "תוסף Media Sharing">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY sanitize.key "מחק">
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "השמע צליל מערכת כאשר הריפ הושלם">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY jobprogress.details "פרטים">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY prefs.homepage.label "דף הבית">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "סגור מחיצה">
+<!ENTITY device.firmware.wizard.title "עדכן קושחה">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "מועדף עבור:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "מוריד קושחה חדשה...">
+<!ENTITY cdrip.prefpane.format "אתחל">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "העדפות">
+<!ENTITY menu.file "קובץ">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY import_library.prefs.path_group_caption "מיקום ספריית המוזיקה של אייטונס">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "השהה">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "הגדרות">
+<!ENTITY copySelectionCmd.label "העתק טקסט נבחר">
+<!ENTITY feed.subscribe.close "סגור">
+<!ENTITY device.settings.disk.label "ניהול דיסק">
+<!ENTITY first_run.feedback.email.header.label "השאר אותי מעודכן">
+<!ENTITY equalizer.preset.custom "מותאם אישית">
+<!ENTITY import_library.dirty_playlist_dialog.merge "מזג את רשימות ההשמעה הנוכחיות של סונגבירד ושל אייטונס">
+<!ENTITY import_tracks_itunes_checkbox "יבא קטעי שמע מאייטונס">
+<!ENTITY first_run.welcome.header.label "ברוכים הבאים לסונגבירד">
+<!ENTITY feedback.dialog.title "עזור להפוך את &brandShortName; לטוב יותר!">
+<!ENTITY window.yes "כן">
+<!ENTITY subscribeMediaPageCmd.label "הרשם לעמוד זה...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "בטל">
+<!ENTITY watchfolder.folderlist "בדוק בתיקיות אלה עבור מדיות חדשות:">
+<!ENTITY tooltip.control.fwd "רצועה הבאה">
+<!ENTITY restartbox.restartonplaybackend "טען מחדש לאחר הקטע">
+<!ENTITY playback.prefpane.label "שמע">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY albumart.displaypane.contextmenu.showselected "הצג מסומן כעת">
+<!ENTITY import_library.dirty_playlist_dialog.note "הערה: לא ניתן לבטל פעולות מיזוג והחלפה.">
+<!ENTITY menu.control.repa "חזור ונגן הכל שוב">
+<!ENTITY jumptofile.title "קפוץ ל">
+<!ENTITY prefs.homepage.url.label "כתובת">
+<!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY command.device.renamedevice "שנה שם">
+<!ENTITY smart.least_added "הכי פחות מבוקש">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "הורד לספריה">
+<!ENTITY command.device.stoprip "עצור ריפ">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY first_run.add_ons.load_failed.label "אחזור תוספים מומלצים נכשל">
+<!ENTITY first_run.feedback.description "האם תעזור לנו לעשות את סונגבירד לתוכנה טובה יותר על ידי שליחת טופס פידבק אנונימי על איך אתה משתמש בתוכנה?">
+<!ENTITY about.credits.footer.linkText "התורמים">
+<!ENTITY device.tools.update_firmware.title "עדכן קושחה">
+<!ENTITY locale.language "שפה">
+<!ENTITY cdrip.mediaview.stop_rip_button "הפסק ריפ">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY first_run.itunes.description "נראה כי אייטונס מותקן במחשבך. סונגבירד יכול להיות מוגדר כך שהוא ייבא וייצא">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY first_run.itunes.header.label "יבוא/יצוא אל אייטונס">
+<!ENTITY albumart.coverpreview.title "עטיפה">
+<!ENTITY playback.prefpane.normalization.label "נירמול">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY first_run.itunes.checkbox.export.label "יצא קטעי שמע חדשים ורשימות השמעה חדשות אל אייטונס">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "אל תפעיל את אפשרות המעקב אחר תקייה על אותה התקייה בה אתה שומר אתה המדייה שלך, הדבר יגרום ליצירת קבצים כפולים">
+<!ENTITY smart.match "התאם">
+<!ENTITY export_tracks_itunes_checkbox "יצא קטעי שמע אל אייטונס">
+<!ENTITY cdrip.prefpane.quality "איכות">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "רשימת השמעה חדשה">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

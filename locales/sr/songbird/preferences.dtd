@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Не преводите, већ прилагодите величине за своју локализацију */">
+<!ENTITY paneSecurity.title "Безбедност">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em; /* Молимо, не преводите, већ подесите одговарајућу величину за Вашу локализацију */">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em; /* Не преводите, већ прилагодите величине за своју локализацију */">
+<!ENTITY paneApplications.title "Програми">
+<!ENTITY paneContent.title "Садржај">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; поставке">
+<!ENTITY prefWindow.titleWin "Поставке">
+<!ENTITY paneTabs.title "Језичци">
+<!ENTITY paneAdvanced.title "Напредно">
+<!ENTITY panePrivacy.title "Приватност">
+<!ENTITY paneGeneral.title "Главно">
+

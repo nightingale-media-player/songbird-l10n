@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneSecurity.title "নিরাপত্তা">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneApplications.title "Applications">
+<!ENTITY paneContent.title "বিষয়বস্তু">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Preferences">
+<!ENTITY prefWindow.titleWin "প্রিয় নির্ধারণমানসমূহ">
+<!ENTITY paneTabs.title "Tabs">
+<!ENTITY paneAdvanced.title "Advanced">
+<!ENTITY panePrivacy.title "Privacy">
+<!ENTITY paneGeneral.title "প্রধান">
+

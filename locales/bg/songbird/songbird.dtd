@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Продължи">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Копиране на музикални файлове на устройството със следните разширения:">
+<!ENTITY menu.errorconsole "Конзола за грешки">
+<!ENTITY menu.edit.paste "Поставяне">
+<!ENTITY tooltip.hide "Скриване">
+<!ENTITY tooltip.browser.subscription "Създаване на абонамент">
+<!ENTITY smart.playlistcondition.library "Библиотека">
+<!ENTITY menu.help.bugz "Докладване за грешка">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Следи тези директории за промени">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY trackeditor.title "Редактор на метадата">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Избиране на всичко">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+<!ENTITY addMediaToPlaylistCmd.label "Изтегли в списъка за възпроизвеждане.">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "изпълнител">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY mediacore.error.preface "&brandShortName; се сблъска със следната грешка в media core:">
+<!ENTITY hotkeys.set "Нагласяне">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY fetch_album_art.dialog.title "Изтегли Обложка на Албума">
+<!ENTITY menu.controls "Управление">
+<!ENTITY tooltip.control.resume "Възобновяване">
+<!ENTITY feedback.dialog.no "Не">
+<!ENTITY equalizer.preset.party "Парти">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY device.capacity.free.label "Свободни">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY hotkeys.info "Основните бързи клавиши Ви дават достъп до функционалността на :&brandShortName;, дори ако &brandShortName; не е активна. Някои бързи клавишни комбинации трябва да съдържат специални клавиши,  за да намалят нежелано активиране на функции в други програми.">
+<!ENTITY device.capacity.music.label "Музика">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "Спиране на браузърa">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "30">
+<!ENTITY albumart.displaypane.selected.menu.cut "Изрязване">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY subscribe.title "Абонамент">
+<!ENTITY songbird "Songbird">
+<!ENTITY smart.window "„Умен“ плейлист">
+<!ENTITY openImageCmdInDefaultBrowser.label "Отвори снимка в основния интернет браузър">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Format Device">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+<!ENTITY cdrip.prefpane.quality_desc "По-високо качество (кб/сек) ще е причината за по-ясен звук и по-обемен файл.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "въведете е-пощата си, за да получавате новини">
+<!ENTITY trackeditor.addtag.title "Добавяне на маркер">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "кб/сек">
+<!ENTITY prefs.security.addons.label "Инсталация на добавки">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY device.tools.product_registration.label "Register product">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Въведете раделен от запетайки списък със разширения тук">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Формати за възпроизвеждане">
+<!ENTITY smart.high_rating "най-висока оценка">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Скриване на другите">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY device.info.friendly_name.label "Име">
+<!ENTITY device.unsupported_media.dialog.title "Открити са несъвместими файлове">
+<!ENTITY cdrip.mediaview.format_label "Формат:">
+<!ENTITY about.credits.heading.translators "Преводачи">
+<!ENTITY menu.view "Изглед">
+<!ENTITY menu.preferences "Настройки...">
+<!ENTITY command.device.canceldevicedelete "Прекрати изтриване">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "Завърши">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; лесно се модифицира, обратно на обикновените музикални плейъри.">
+<!ENTITY device.dialog.wait_for_completion.msg "Изчакване на всички действия с устройството да приключат. Натиснете „Изход“ за да прекратите чакането и да затворите приложението веднага.">
+<!ENTITY device.sync.playlist.title "Заглавие">
+<!ENTITY hotkeys.useglobalhotkeys "Използване на глобални бързи клавиши">
+<!ENTITY subscribe.destinationfolder "Избор на папка:">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY first_run.welcome.description.line2 "Този съветник е бърз и ефикасен начин да настроите &brandShortName; за работа.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Без повтаряне">
+<!ENTITY command.device.canceldevicesync.accesskey "С">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY about.version "Версия">
+<!ENTITY umsd.video.video_path_desc "При копиране на видео файлове на устройството, постави ги в следната папка:">
+<!ENTITY smart.low_rating "най-ниска оценка">
+<!ENTITY device.capacity.other.label "Друг">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY setupprogress.cancel "Отказ">
+<!ENTITY albumart.displaypane.selected.menu.paste "Поставяне">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "Rip CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Затваряне на подпрозорец">
+<!ENTITY menu.edit.undo "Връщане">
+<!ENTITY first_run.add_ons.loading.label "Изтегли препоръчаните добавки">
+<!ENTITY command.device.formatdevice "Форматиране">
+<!ENTITY albumart.displaypane.selected.menu.clear "Изчисти">
+<!ENTITY import_playlists_itunes_checkbox "Внасяне на плейлистове">
+<!ENTITY menu.edit.cut "Изрязване">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY tooltip.control.play "Възпроизвеждане">
+<!ENTITY tooltip.browser.mediapages "Изглед...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "Батерия">
+<!ENTITY menu.edit.delete "Изтривам">
+<!ENTITY import_library.dialog.title "Добави библиотека">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "от следните условия:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Song files">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Надолу">
+<!ENTITY command.device.getdeviceinfo "Достави информация">
+<!ENTITY rapi.library_write_disable.label "Блокирай интернет страници, които добавят/редактират медията и плейлистите в моята библиотека и устройства">
+<!ENTITY first_run.feedback.email.description "Абонирайте се за нашите новинарски писма, за да научите за нови версии и важни обновления.">
+<!ENTITY device.sync.images.filecount "Photos">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY device.sync.header.label "Синхронизирай настройки">
+<!ENTITY first_run.import_media.radio.dont_import.label "Не добавяй медия">
+<!ENTITY feedback.dialog.yes "Да">
+<!ENTITY about.buttons.credits "Заслуги">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "Можете да добавите името на изпълнителя и албума тук. Можете да редактирате останалата информация от плейлиста на CD Rip">
+<!ENTITY umsd.music.music_path_browse_msg "Избор на папка в устройството за поставяне на музикални файлове.">
+<!ENTITY tooltip.maximize "Уголемяване/Възстановяване">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY window.save "Записване">
+<!ENTITY window.no "Не">
+<!ENTITY tooltip.servicepane.newnode "Нов плейлист">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Отвори рамка в основния интернет браузър">
+<!ENTITY menu.file.newtab.accesskey "N">
+<!ENTITY menu.file.new "Нов плейлист...">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY watch_folder.prefs.watch_folder_label "Папка:">
+<!ENTITY smart.autoupdate "Автоматично обновяване">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
+<!ENTITY menu.help.keyboard "Клавиши за бърз достъп">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Търси файлови имена:">
+<!ENTITY menu.control.prev "Предишна песен">
+<!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
+<!ENTITY window.apply "Apply">
+<!ENTITY menu.file.smart "Нов „умен“ плейлист...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "View Error Details">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "С">
+<!ENTITY menu.control.pause.button "Пауза">
+<!ENTITY trackeditor.tab.summary.title "Резюме">
+<!ENTITY playMediaCmd.label "Изпълнявай">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Назад">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Няма плейлист&gt;">
+<!ENTITY equalizer.title "Еквалайзер">
+<!ENTITY import_library.import_command "Добави библиотека">
+<!ENTITY cdrip.mediaview.view_tracks_button "Разглеждане на медиините единици">
+<!ENTITY window.browse "Преглеждане...">
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Подредете списъка по критерии, който искате да използвате първи">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY smart.songs "обекти">
+<!ENTITY menu.tools.getartwork "Изтегли Обложка на Албума...">
+<!ENTITY window.cancel "Отказ">
+<!ENTITY smart.genre "жанр">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY hotkeys.hotkey "Активен клавиш">
+<!ENTITY first_run.feedback.header.label "Помогнете за подобряването на &brandShortName;">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "Изнасяне на „умни“ плейлистове">
+<!ENTITY device.tools.support.label "View support resources">
+<!ENTITY import_library.prefs.options_group_caption "Настройки за добавяне">
+<!ENTITY equalizer.preset.reggae "Реге">
+<!ENTITY equalizer.on.checkbox "Вкл.">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY first_run.eula.language.label "Език:">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY cdrip.lookup.multiple.description "Избрете едно от следните или добавете Ваша собстена информация.">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Препоръчани добавки">
+<!ENTITY tooltip.search "Търсене">
+<!ENTITY recommended_add_ons.title "&brandShortName; Инсталиране">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Следене на папки">
+<!ENTITY rapi.whitelist.label "Конфигуриране">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "Отвори адрес...">
+<!ENTITY menu.downloadmgr "Файлове за сваляне ...">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY first_run.itunes.checkbox.import.label "Внасяне на песни и плейлистове от iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "Данни за CD не са намерени">
+<!ENTITY equalizer.band2.label "120">
+<!ENTITY mediacore.error.dontshowme "Не показвай повече грешки в Mediacore.">
+<!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Рипване на CD-то">
+<!ENTITY wizard.button.cancel.label "Отказ">
+<!ENTITY tooltip.control.shuffle "Разбъркване">
+<!ENTITY playback.prefpane.units.ms "мс">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY first_run.import_media.scan_directories.description "Желаете ли &brandShortName; да опита да добави медия като сканира определени директории от вашият компютър?">
+<!ENTITY device.tools.product_registration.title "Product Registration">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Свойства">
+<!ENTITY rapi.playback_read_disable.label "Забрани достъпа на сайтове до информация за изпълняваната медия.">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "Скрий &brandShortName;">
+<!ENTITY device.sync.sync_all.label "Цялата музика, видео и списъци за възпроизвеждане">
+<!ENTITY cdrip.mediaview.quality_label "Качество:">
+<!ENTITY albumart.displaypane.selected.menu.copy "Копиране">
+<!ENTITY subscribe.days "Ден/Дни">
+<!ENTITY smart.least_often "последно често изпълнен">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Албум">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
+<!ENTITY mediacore.error.stop "Спри изпълнението">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Денс">
+<!ENTITY albumart.displaypane.not_playing_message "Не се изпълнява песен">
+<!ENTITY textbox.songbird_open_url "Въведете URL или пътя към мултимедията, която искате да слушате:">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Добавки">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Settings">
+<!ENTITY cdrip.mediaview.settings_button "Настройки">
+<!ENTITY cdinfo.other.label "Add your own Artist and Album Info">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "&brandShortName; не може да се свърже с Интернет.">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Спри">
+<!ENTITY equalizer.preset.soft_rock "Нежен рок">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Приложи избраните към всички плейлисти">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Видео файлове">
+<!ENTITY tooltip.browser.fwd "Напред">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Панел с услуги">
+<!ENTITY playback.prefpane.streaming.label "Network and Streaming">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY command.device.ejectcddevice "Eject CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "Извждане на диск">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+<!ENTITY menu.tools.exportmedia "Изнасяне на промени в библиотеката">
+<!ENTITY menu.mac.preferences "Настройки...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Замени този &brandShortName; плейлист с актуалния iTunes плейлист.">
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY menu.control.next "Следваща песен">
+<!ENTITY umsd.video.video_path_browse_msg "Избор на папка в устройството за поставяне на видео файлове.">
+<!ENTITY setupprogress.pleasewait "Моля изчакайте...">
+<!ENTITY menu.help.homepage "Сайт на Songbird">
+<!ENTITY equalizer.preset.soft "Нежна">
+<!ENTITY equalizer.preset.large_hall "Large Hall">
+<!ENTITY first_run.eula.accept_checkbox.label "Прочетох и приемам условията на този договор за ползване.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+<!ENTITY smart.most_recent "наскоро изпълняван">
+<!ENTITY command.device.ejectdevice "Изваждане">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+<!ENTITY first_run.connection.settings.button "Настройки на свързването">
+<!ENTITY import_library.prefs.title "Добавяне от iTunes">
+<!ENTITY hotkeys.action "Действие">
+<!ENTITY equalizer.preset.classical "Класическа">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY first_run.install_add_ons.title "Сваляне на добавки">
+<!ENTITY playback.prefpane.streaming.buffer "Буфер на възпроизвеждане:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Сканирай директоии на моят компютър">
+<!ENTITY menu.control.play "Възпроизвеждане/Пауза">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY subscribe.minutes "Минута/и">
+<!ENTITY smart.any "някои">
+<!ENTITY prefpane.content.label "Web Content">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Шампиони">
+<!ENTITY equalizer.preset.rock "Рок">
+<!ENTITY equalizer.preset.live "На живо">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Уведоми ме когато неподържани песни или плейлисти не са добавени">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY tooltip.control.volume "Сила на звука">
+<!ENTITY smart.hours "часа">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Дясна странична лента">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY first_run.import_media.description "Изберете кои музикални файлове бихте желали да добавите в &brandShortName;. Веднъж, когато &brandShortName; стартира, Вие можете да добавите допълнително файлове по различни начини.">
+<!ENTITY umsd.video.video_ext_desc "Копирай на устройството видео файлове със следните разширения:">
+<!ENTITY smart.most_added "наскоро добавен">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Отваряне на интернет">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY first_run.eula.header.label "Лицензионно споразумение">
+<!ENTITY device.capacity.image.label "Photos">
+<!ENTITY about.credits.intro "Ние бихме искали да благодарим на нашите сътрудници, чиито усилия правят Songbird това, което е. Тези хора помогнаха като написаха сорс код и документация, и чрез тестване. Те създадоха и поддържаха този продукт, и неговите инструменти за развиване на продукта и нашите интернет сайтове. Имената са следвани от IRC ников, елате в #songbird на сървъра irc.mozilla.org и кажете „здрасти“!">
+<!ENTITY menu.mac.showall "Показване на всички">
+<!ENTITY first_run.connection.description "Проверете настройките на вашата връзка и продължете със съветника за инсталация.">
+<!ENTITY equalizer.preset.full_bass "Full bass">
+<!ENTITY cdrip.lookup.multiple.title "Multiple CD Records Found">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Отвори връзка в основния интернет браузър">
+<!ENTITY first_run.add_ons.header.label "Препоръчани добавки">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY first_run.feedback.metrics.label "Събирай и изпращай анонимни данни до екипа на &brandShortName;">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Device Setup">
+<!ENTITY menu.videotofront "Video to Front">
+<!ENTITY device.management.tabs.music.label "Музика">
+<!ENTITY equalizer.preset.pop "Поп">
+<!ENTITY subscribeMediaFrameCmd.label "Абонирай се за тази рамка...">
+<!ENTITY add_on_bundle_installer.error_box.label "Подробности">
+<!ENTITY smart.gb "ГБ">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.exit "Изход">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY first_run.import_media.header.label "Добавяне на музикални файлове">
+<!ENTITY tooltip.browser.home "Начало">
+<!ENTITY equalizer.preset.small_speakers "Лаптоп/Слушалки">
+<!ENTITY cdrip.lookup.info_not_found.album "Албум">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Запиши картинка на албум в Мета данните">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Търси файлови разширения:">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "всички">
+<!ENTITY playback.prefpane.normalization.enable "Използвай информацията за звуковата нормализация ако е на разположение такава">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Support">
+<!ENTITY device.sync.auto_sync.label "Синхронизирай">
+<!ENTITY device.info.model.label "Модел">
+<!ENTITY feed.subscribe.dontask "Don&apos;t automatically show this dialog again">
+<!ENTITY rapi.restore_defaults.label "Възстановяване на настройките по подразбиране">
+<!ENTITY playback.prefpane.audio_output.label "Аудио изход">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.dialog.wait_for_completion.title "Изчакване на устройства.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
+<!ENTITY videowindow.fullscreen "Full Screen">
+<!ENTITY tooltip.browser.refresh "Опресняване">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Добавки...">
+<!ENTITY equalizer.preset.club "Клубна">
+<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
+<!ENTITY menu.edit.copy "Копиране">
+<!ENTITY device.repair.menuitem.default "Repair my device">
+<!ENTITY addMediaToPlaylistCmd.accesskey "а">
+<!ENTITY tooltip.exit "Изход">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "&brandShortName; Инсталация">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY tooltip.control.shuf_off "Разбъркването изключено">
+<!ENTITY smart.selectedby "избран от">
+<!ENTITY openPageCmdInDefaultBrowser.label "Отвори страница в основния интернет браузър">
+<!ENTITY menu.control.playpause.spacebar "Spacebar">
+<!ENTITY import_library.dirty_playlist_dialog.title "Плейлиста е променен">
+<!ENTITY equalizer.preset.techno "Техно">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
+<!ENTITY first_run.itunes.checkbox.export.description "Музиката, придобитa чрез Songbird, може да бъде изнасяха в iTunes, така че тя може да бъде прехвърлена на Вашия iPod или iPhone.">
+<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
+<!ENTITY device.info.icon.device "Generic device icon">
+<!ENTITY restartbox.restartlater "Отлагане на рестартирането">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Изпълнител">
+<!ENTITY cdrip.lookup.track_name "Заглавие">
+<!ENTITY menu.control.pause "Пауза">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY command.device.canceldevicesync "Прекрати синхронизиране">
+<!ENTITY menu.control.rep1 "Еднократно повторение">
+<!ENTITY device.sync.playlist.video.duration "Video Duration">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "Уеб интеграция">
+<!ENTITY menu.equalizer "Еквалайзер...">
+<!ENTITY first_run.add_ons.description.line1 "Добавките разширяват функционалността на &brandShortName;, като позволяват промени на вашия музикален плейър. Опциите по-долу са строго препоръчителни.">
+<!ENTITY displaypane.name.servicepane "Долен панел на услугите">
+<!ENTITY menu.clearprivatedata "Заличи личната информация...">
+<!ENTITY window.ok "Потвърди">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "Намери">
+<!ENTITY first_run.add_ons.description.line2 "Добавките могат да се включат към други програми, поддържат външни устройства, променят външността на програмата и още много повече! Можете да изтеглите допълнителни от сайта на &brandShortName;.">
+<!ENTITY menu.updateCmd.label "Проверка за обновления...">
+<!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY displaypane.name.browser "Долен на панел на съдържанието">
+<!ENTITY albumartpreferences.prefpane.label "Обложки на албуми">
+<!ENTITY watch_folder.prefs.description "&brandShortName; може да следи съдържанието на папка и автоматично да добавя или премахва съдържанието в нея.">
+<!ENTITY umsd.no_devices_present "Не са свързани USB запаметяващи устройства.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Синхронизиране">
+<!ENTITY device.dialog.wait_for_completion.quit "Изход">
+<!ENTITY tooltip.browser.mediapages.list "Списъчен преглед">
+<!ENTITY rapi.library_read_disable.label "Блокирай интернет сайтове които показват информация относно медията в моята библиотека и устройства">
+<!ENTITY feedback.dialog.sentence1 "Ще ни помогнете ли да подобрим &brandShortName; като попълните кратка, анонимна анкета ?">
+<!ENTITY feed.subscribe.label "Subscribe">
+<!ENTITY tooltip.servicepane.show "Покажи панела с услуги">
+<!ENTITY tooltip.control.stop "Спиране">
+<!ENTITY menu.file.remote "Нов абонамент...">
+<!ENTITY menu.file.podcast "Нов подкаст...">
+<!ENTITY feedback.dialog.sentence2 "Ако не се интересувате, няма да Ви задаваме въпроса отново. Благодарим Ви за решението и оценяваме факта че Вие използвате &brandShortName;!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Не е осъществено все още. (Виж бъг 14281)">
+<!ENTITY menu.edit "Редактиране">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY videowindow.title "Video Window">
+<!ENTITY menu.fullscreen "Full Screen">
+<!ENTITY menu.file.newtab "Нов подпрозорец">
+<!ENTITY feedback.dialog.sentence3 "С уважение,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Показване на изпълняваните сега">
+<!ENTITY albumart.displaypane.drag_and_drop "Довлечи обложката на албума тук">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY smart.most_often "най-често изпълняван">
+<!ENTITY restartbox.restartnow "Рестартиране">
+<!ENTITY device.unsupported_media.dialog.enable "Уведомяване за открити несъвместими файлове">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY command.device.canceldevicecopy "Прекрати копиране">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY feedback.dialog.sentence4 "В екипа на &brandShortName;">
+<!ENTITY smart.title "Заглавие">
+<!ENTITY menu.tools.reveal "Покажи файл">
+<!ENTITY menu.controllerontop "Покажи горе">
+<!ENTITY about.credits.footer.beforeLink "Естествено, нищо от това би било възможно без усърдната работа на">
+<!ENTITY device.management.tabs.tools.label "Инструменти">
+<!ENTITY umsd.video.tab "Видео">
+<!ENTITY trackeditor.addtag.tag "Таг:">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY command.device.canceldeviceupdate "Прекрати обновяване">
+<!ENTITY mediapages.firstrun.title "Добре дошли в &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "Full treble">
+<!ENTITY umsd.music.tab "Музика">
+<!ENTITY tooltip.close "Close">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Отново">
+<!ENTITY menu.edit.findagain "Намери отново">
+<!ENTITY device.info.capacity.label "Капацитет">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "Отваряне на файл...">
+<!ENTITY command.device.devicesync "Синхронизиране">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "Продължи">
+<!ENTITY umsd.music.music_path_desc "При копиране на музикални файлове на устройството, постави ги в следната папка:">
+<!ENTITY playback.prefpane.audio_output.buffer "Буфер за възпроизвеждане:">
+<!ENTITY menu.switchplayercontrols "Контролни бутони">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Запази настоящия &brandShortName; плейлист. (Не добавяй този плейлист)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Check for Updated Firmware">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY device.info.serial_number.label "Сериен номер">
+<!ENTITY device.info.product.label "Product">
+<!ENTITY smart.minutes "минути">
+<!ENTITY menu.help.topics "Съдържание...">
+<!ENTITY menu.file.playlist "Внеси плейлист...">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY device.tools.format_volume.button.label "Форматиране">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Ограничаване до">
+<!ENTITY menu.file.library "Внасяне на библиотека...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "Намиране на текущата песен">
+<!ENTITY setupprogress.installingextensions "Инсталиране на добавка(и)">
+<!ENTITY menu.mac.services "Услуги">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY import_library.library_file_label "Файл на библиотека:">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Отговаря на следните условия">
+<!ENTITY importexport_show_notifications_checkbox "Покажи известие, когато внасянето/изнасянето е готово">
+<!ENTITY cdrip.mediaview.eject.key "Е">
+<!ENTITY first_run.itunes.checkbox.import.description "Подкастове и музика, закупени от iTunes Store, могат да бъдат внесени в Songbird. Тази опция работи добре, ако Songbird e Вашият музикален плеър по подразбиране.">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.capacity.video.label "Видео">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Музикални файлове">
+<!ENTITY trackeditor.tab.lyrics.title "Текст на песента">
+<!ENTITY menu.mac.exit "Изход &brandShortName;">
+<!ENTITY menu.control.play.button "Изпълни">
+<!ENTITY hotkeys.prefpane "Бързи клавиши">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "Час/ове">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Помощ">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "Игнорирай">
+<!ENTITY export_subscriptions_itunes_checkbox "Изнасяне на плащане">
+<!ENTITY mediacore.error.title "Грешка в Mediacore">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Прехвъляне към...">
+<!ENTITY menu.tools "Инструменти">
+<!ENTITY device.settings.music.transcoding.label "Music Conversion">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
+<!ENTITY device.info.icon.readonly "Read-only lock icon">
+<!ENTITY command.device.lookup "Lookup CD Information">
+<!ENTITY tabs.listAllTabs "Изброяване на всички подпрозорци">
+<!ENTITY rapi.prefpane.access.caption "Интернет страница">
+<!ENTITY menu.file.scan "Добави мултимедия...">
+<!ENTITY equalizer.band1.label "60">
+<!ENTITY import_media.prefs.title "Вносител на музика/клипове">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Настройки за Следени Папки">
+<!ENTITY tooltip.minimize "Минимизиране">
+<!ENTITY smart.random "случаино">
+<!ENTITY smart.contenttypecondition.audio "Музика">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
+<!ENTITY watch_folder.prefs.title "Следени Папки">
+<!ENTITY subscribe.autocheck "Автоматично обновяване на всеки">
+<!ENTITY menu.control.shuf "Разбъркано възпроизвеждане">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Нагоре">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+<!ENTITY first_run.connection.settings.description "Защитени ли са Вашият компютър или мрежа от защитна стена или прокси? Поправянето на неправилни настройки за връзка може да помогне за често срещани проблеми с мрежата.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Автоматично следи за промени в следната папка">
+<!ENTITY menu.file.metadata "Разгледай метадатата">
+<!ENTITY device.info.firmware_version.label "Версия на фърмуеър">
+<!ENTITY device.info.access.label "Съвместимост на достъпа">
+<!ENTITY tooltip.control.back "Предишна песен">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.controlleronbottom "Покажи долу">
+<!ENTITY device.sync.sync_selected.label "Избраните списъци за възпроизвеждане:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Въведете раделен от запетайки списък с файлови имена тук">
+<!ENTITY rapi.playback_control_disable.label "Забрани на сайтове да контролират изпълнението на медия.">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY first_run.feedback.metrics.description "Изпращането на информация за използването на програмата е напълно анонимно и никаква лична информация няма да бъде запазена.">
+<!ENTITY cdrip.prefpane.label "Рипване на диска">
+<!ENTITY tooltip.control.mute "Заглушаване">
+<!ENTITY smart.album "албум">
+<!ENTITY playback.prefpane.units.kilobytes "кБ">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.tools.format_device.label "Format device">
+<!ENTITY hotkeys.remove "Премахване">
+<!ENTITY tooltip.fullscreen "Цял екран">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY jumptofile.search "Търся:">
+<!ENTITY albumart.displaypane.not_selected_message "Нищо не е избрано">
+<!ENTITY wizard.button.back.label "Назад">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "Адрес:">
+<!ENTITY smart.to "до">
+<!ENTITY rapi.prefpane.access.text "Временен текст преди оформлението да бъде оправено.">
+<!ENTITY equalizer.preset.ska "Ска">
+<!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
+<!ENTITY podcast.creation_dialog.title "New Podcast">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Песен">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "за проекта Мозила.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Това ще позволи на &brandShortName; да прикрепи обложки на албуми към съвместими етикети на медиини файлове.">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY hotkeys.add "Добавяне">
+<!ENTITY export_playlists_itunes_checkbox "Изнасяне на плейслистове">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
+<!ENTITY smart.least_recent "последно изпълнен">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.help.about "За &brandShortName;...">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY device.info.vendor.label "Производител">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY sanitize.key "Del">
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Изпълни системен сигнал, когато рипването на диска е готово">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY jobprogress.details "Подробности">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY prefs.homepage.label "Начална страница">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Затвори подпрозореца">
+<!ENTITY device.firmware.wizard.title "Update Firmware">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Предпочитани данни за усилването:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY cdrip.prefpane.format "Форматиране">
+<!ENTITY smart.mb "мБ">
+<!ENTITY menu.linux.preferences "Предпочитания ...">
+<!ENTITY menu.file "Файл">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY import_library.prefs.path_group_caption "Път до библиотеката на iTunes">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Пауза">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Settings">
+<!ENTITY copySelectionCmd.label "Копирай избрания текст">
+<!ENTITY feed.subscribe.close "Close">
+<!ENTITY device.settings.disk.label "Disk Management">
+<!ENTITY first_run.feedback.email.header.label "Дръж ме в течение">
+<!ENTITY equalizer.preset.custom "Потребителска">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Сливане на текущия &brandShortName; плейлист и този от iTunes">
+<!ENTITY import_tracks_itunes_checkbox "Внасяне на песни от iTunes">
+<!ENTITY first_run.welcome.header.label "Добре дошли &brandShortName;">
+<!ENTITY feedback.dialog.title "Помогнете за подобряването на &brandShortName;!">
+<!ENTITY window.yes "Да">
+<!ENTITY subscribeMediaPageCmd.label "Абонирай се за тази страница ...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Отказ">
+<!ENTITY watchfolder.folderlist "Следене на следните папки за нова мултимедия:">
+<!ENTITY tooltip.control.fwd "Следваща песен">
+<!ENTITY restartbox.restartonplaybackend "Рестартиране след края на песента">
+<!ENTITY playback.prefpane.label "Възпроизвеждане">
+<!ENTITY command.device.canceldevicedelete.accesskey "С">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Показване на избраните за изпълнение сега">
+<!ENTITY import_library.dirty_playlist_dialog.note "Бележка: Сливане и замяна са операции които не могат да бъдат анулирани.">
+<!ENTITY menu.control.repa "Повторение на всички">
+<!ENTITY jumptofile.title "Прехвърляне към песен">
+<!ENTITY prefs.homepage.url.label "Адрес:">
+<!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY command.device.renamedevice "Преименуване">
+<!ENTITY smart.least_added "последно добавен">
+<!ENTITY smart.contenttypecondition.video "Видео">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Свали в библиотеката">
+<!ENTITY command.device.stoprip "Stop Rip">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY first_run.add_ons.load_failed.label "Беше невъзможно изтеглянето на препоръчаните добавки">
+<!ENTITY first_run.feedback.description "Бихте ли желали да ни помогнете да направим &brandShortName; по-добра като ни изпращате информация във формата на анонимни данни, за това как използвате приложението?">
+<!ENTITY about.credits.footer.linkText "сътрудниците">
+<!ENTITY device.tools.update_firmware.title "Update Firmware">
+<!ENTITY locale.language "Език">
+<!ENTITY cdrip.mediaview.stop_rip_button "Спиране на рипването">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY first_run.itunes.description "Изглежда имате инсталиран iTunes. &brandShortName; може да бъде настроен да внася и/или изнася песни между &brandShortName; и iTunes, така че двете библиотеки да са синхронизирани една с друга.">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY first_run.itunes.header.label "iTunes Импортиране/Експортиране">
+<!ENTITY albumart.coverpreview.title "Обложка на албума">
+<!ENTITY playback.prefpane.normalization.label "Нормализация">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY first_run.itunes.checkbox.export.label "Изнасяне на нови песни и плейлистове в iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+<!ENTITY smart.match "Съвпадение с(ъс)">
+<!ENTITY export_tracks_itunes_checkbox "Изнасяне на песни в iTunes">
+<!ENTITY cdrip.prefpane.quality "Качество">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Нов плейлист.">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

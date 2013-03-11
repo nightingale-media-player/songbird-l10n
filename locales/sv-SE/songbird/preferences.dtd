@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "bredd: 63em; minsta-höjd: 43em;">
+<!ENTITY paneSecurity.title "Säkerhet">
+<!ENTITY prefWinMinSize.styleWin2 "bredd: 60em; minsta-höjd: 45em;">
+<!ENTITY prefWinMinSize.styleGNOME "bredd: 60em; minsta-höjd: 45em;">
+<!ENTITY paneApplications.title "Program">
+<!ENTITY paneContent.title "Innehåll">
+<!ENTITY prefWindow.titleGNOME "Inställningar för &brandShortName;">
+<!ENTITY prefWindow.titleWin "Alternativ">
+<!ENTITY paneTabs.title "Flikar">
+<!ENTITY paneAdvanced.title "Avancerat">
+<!ENTITY panePrivacy.title "Privat">
+<!ENTITY paneGeneral.title "Allmänt">
+

@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneSecurity.title "Diogelwch">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneApplications.title "Rhaglenni">
+<!ENTITY paneContent.title "Cynnwys">
+<!ENTITY prefWindow.titleGNOME "Dewisiadau &brandShortName;">
+<!ENTITY prefWindow.titleWin "Dewisiadau">
+<!ENTITY paneTabs.title "Tabiau">
+<!ENTITY paneAdvanced.title "Uwch">
+<!ENTITY panePrivacy.title "Preifatrwydd">
+<!ENTITY paneGeneral.title "Prif">
+

@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Jatka">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Kopioi laitteeseen musiikkitiedostot, joilla on seuraava pääte:">
+<!ENTITY menu.errorconsole "Virhekonsoli">
+<!ENTITY menu.edit.paste "Liitä">
+<!ENTITY tooltip.hide "Piilota">
+<!ENTITY tooltip.browser.subscription "Tilaa tämä sivu">
+<!ENTITY smart.playlistcondition.library "Kirjasto">
+<!ENTITY menu.help.bugz "Ilmoita virhe">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Tarkkaile tätä hakemistoa muutosten varalta">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Todellinen koko">
+<!ENTITY trackeditor.title "Metatietojen muokkain">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Valitse kaikki">
+<!ENTITY device.tools.restore_device.label "Palauta laite tehdasasetuksiin">
+<!ENTITY addMediaToPlaylistCmd.label "Lataa soittolistaan">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "artisti">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY mediacore.error.preface "&brandShortName; havaitsi seuraavat mediaydinvirheet:">
+<!ENTITY hotkeys.set "Aseta">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "Tälle laitteelle ei ole enkoodereita saatavilla juuri nyt">
+<!ENTITY fetch_album_art.dialog.title "Hae albumien kansikuvat">
+<!ENTITY menu.controls "Ohjaimet">
+<!ENTITY tooltip.control.resume "Jatka">
+<!ENTITY feedback.dialog.no "Ei">
+<!ENTITY equalizer.preset.party "Bileet">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Valitse lisäosa kohteesta">
+<!ENTITY device.capacity.free.label "Vapaana">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY hotkeys.info "Yleisillä pikanäppäimillä voit käyttää &brandShortName;-ohjelmistoa, vaikkei se olisi aktiivinen sovellus. Joidenkin pikanäppäinyhdistelmien on sisällettävä lisäpainalluksia, jotta vältyttäisiin häiriöiltä muiden sovellusten kanssa.">
+<!ENTITY device.capacity.music.label "Musiikki">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "Pysäytä selain">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "30">
+<!ENTITY albumart.displaypane.selected.menu.cut "Leikkaa">
+<!ENTITY cdrip.prefpane.providers.title "CD-haun tarjoaja">
+<!ENTITY subscribe.title "Tilaa">
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY smart.window "Älykäs soittolista">
+<!ENTITY openImageCmdInDefaultBrowser.label "Avaa kuva oletusselaimessa">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Alusta laite">
+<!ENTITY device.tools.reset_warnings.label "Nollaa varoitusviestit">
+<!ENTITY cdrip.prefpane.quality_desc "Suurempi kbps-laatuasetus tuottaa laadukkaampaa ääntä ja suurentaa tiedoston kokoa.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "anna sähköpostiosoitteesi, jotta pysyt ajan tasalla">
+<!ENTITY trackeditor.addtag.title "Lisää merkintä">
+<!ENTITY first_run.DLNA.description "Songbird Media Server -palvelimen avulla voit jakaa &brandShortName; -kirjastosi (musiikin ja videot) valittujen laitteiden kanssa kotiverkossasi.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY prefs.security.addons.label "Lisäosien asennus">
+<!ENTITY first_run.DLNA.point "Voit ottaa median jakamisen käyttöön tai poistaa sen käytöstä avaamalla valintaikkunan napsauttamalla median jakamisen kuvaketta (ympyröity) &brandShortName; -sovelluksen tilapalkissa.">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY device.tools.product_registration.label "Rekisteröi tuote">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Lisäosat pilkulla erotettuna">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Tiedostomuodot">
+<!ENTITY smart.high_rating "paras luokitus">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Piilota muut">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY device.info.friendly_name.label "Nimi">
+<!ENTITY device.unsupported_media.dialog.title "Yhteensopimattomia tiedostoja havaittu">
+<!ENTITY cdrip.mediaview.format_label "Tiedostomuoto:">
+<!ENTITY about.credits.heading.translators "Kääntäjät">
+<!ENTITY menu.view "Näytä">
+<!ENTITY menu.preferences "Asetukset...">
+<!ENTITY command.device.canceldevicedelete "Peruuta poistaminen">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "Valmis">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; on erittäin mukautettava vaihtoehto perinteisille mediasoittimille.">
+<!ENTITY device.dialog.wait_for_completion.msg "Odotetaan, että kaikki laitetoiminnot suoritetaan loppuun. Lopeta odottaminen ja sulje sovellus valitsemalla Lopeta.">
+<!ENTITY device.sync.playlist.title "Otsikko">
+<!ENTITY hotkeys.useglobalhotkeys "Käytä yleisiä pikanäppäimiä">
+<!ENTITY subscribe.destinationfolder "Valitse kohdekansio:">
+<!ENTITY playqueue.label "Toista soittojono">
+<!ENTITY playqueue.instructions "Vedä ja tiputa kappaleet tai soittolista tänne luodaksesi lennosta kuuntelujonon.">
+<!ENTITY first_run.welcome.description.line2 "Tällä ohjatulla toiminnolla voit ottaa &brandShortName;-ohjelmiston käyttöön nopeasti ja tehokkaasti.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Ei toistoa">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY device.tools.support.description "Lue viimeisimmät tukiuutiset, käyttöoppaat, usein kysytyt kysymykset ja tuotetiedot. Tukipalvelut ovat saatavilla vain tuotteensa rekisteröineille asiakkaille.">
+<!ENTITY about.version "Versio">
+<!ENTITY umsd.video.video_path_desc "Tallenna videotiedostot seuraavaan hakemistoon, kun ne kopioidaan laitteeseen:">
+<!ENTITY smart.low_rating "huonoin luokitus">
+<!ENTITY device.capacity.other.label "Muu">
+<!ENTITY device.tools.update_firmware.description "Laitettasi ohjaa sisäinen ohjelmisto (laiteohjelmisto). Uusia versioita on ehkä julkaistu sen jälkeen, kun viimeksi liitit laitteen tietokoneeseen.">
+<!ENTITY setupprogress.cancel "Peruuta">
+<!ENTITY albumart.displaypane.selected.menu.paste "Liitä">
+<!ENTITY cdrip.mediaview.rip.modifiers "Nopeuden muuttaminen">
+<!ENTITY command.device.rip "Kopioi CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Sulje välilehti">
+<!ENTITY menu.edit.undo "Kumoa">
+<!ENTITY first_run.add_ons.loading.label "Haetaan suositeltuja lisäosia.">
+<!ENTITY command.device.formatdevice "Alusta">
+<!ENTITY albumart.displaypane.selected.menu.clear "Tyhjennä">
+<!ENTITY import_playlists_itunes_checkbox "Tuo soittolistoja">
+<!ENTITY menu.edit.cut "Leikkaa">
+<!ENTITY mediaimporter.filtered_extensions.title "Mediatiedostojen tuonti-ilmoitus">
+<!ENTITY tooltip.control.play "Toista">
+<!ENTITY tooltip.browser.mediapages "Vaihda medianäkymää...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "Akku">
+<!ENTITY menu.edit.delete "Poista">
+<!ENTITY import_library.dialog.title "Tuo kirjasto">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "seuraavista ehdoista:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Musiikkitiedostot">
+<!ENTITY about.credits.description.champs.link.post "He ovat foorumimme aktiivisimpia käyttäjiä, jotka työskentelevät väsymättä, jotta kaikki Songbirdin käyttäjät olisivat tyytyväisiä.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Alas">
+<!ENTITY command.device.getdeviceinfo "Hae tiedot">
+<!ENTITY rapi.library_write_disable.label "Estä sivustoja lisäämästä/muokkaamasta kirjaston ja laitteiden mediatiedostoja ja soittolistoja">
+<!ENTITY first_run.feedback.email.description "Tilaa uutiskirjeemme, jossa on tietoja uusista julkaisuista ja tärkeistä päivityksistä.">
+<!ENTITY device.sync.images.filecount "Kuvat">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Jos haluat, että laitetta hallitaan &brandShortName;-ohjelmistolla, voit">
+<!ENTITY device.sync.header.label "Synkronointiasetukset">
+<!ENTITY first_run.import_media.radio.dont_import.label "Älä tuo mediatiedostoja">
+<!ENTITY feedback.dialog.yes "Kyllä">
+<!ENTITY about.buttons.credits "Tekijät">
+<!ENTITY device.firmware.wizard.check.progress.title "Etsitään päivitettyä laiteohjelmistoversiota...">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "Voit lisätä artistin ja albumin nimen tässä. Voit muokata muita tietoja CD-kopioinnin soittolistassa">
+<!ENTITY umsd.music.music_path_browse_msg "Valitse laitteen kansio, johon musiikkitiedostot sijoitetaan.">
+<!ENTITY tooltip.maximize "Suurenna/Palauta">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction -tukifoorumilla.">
+<!ENTITY window.save "Tallenna">
+<!ENTITY window.no "Ei">
+<!ENTITY tooltip.servicepane.newnode "Uusi soittolista">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Avaa kehys oletusselaimessa">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.new "Uusi soittolista...">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY watch_folder.prefs.watch_folder_label "Kansio:">
+<!ENTITY smart.autoupdate "Automaattinen päivitys">
+<!ENTITY playback.prefpane.ratings.enablewriting "Tallenna arvio tiedoston metadataan">
+<!ENTITY menu.help.keyboard "Pikanäppäimet">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Etsi tiedostojen nimistä:">
+<!ENTITY menu.control.prev "Edellinen kappale">
+<!ENTITY device.firmware.wizard.support.description "Tukiresursseja, kuten usein kysyttyjä kysymyksiä ja vianmääritystietoja, on osoitteessa">
+<!ENTITY window.apply "Käytä">
+<!ENTITY menu.file.smart "Uusi älykäs soittolista...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "Näytä virheen tiedot">
+<!ENTITY device.firmware.wizard.install.title "Asennetaan laiteohjelmistoa...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY menu.control.pause.button "Tauko">
+<!ENTITY trackeditor.tab.summary.title "Yhteenveto">
+<!ENTITY playMediaCmd.label "Toista">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Selaa taaksepäin">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Ei soittolistoja&gt;">
+<!ENTITY equalizer.title "Ekvalisaattori">
+<!ENTITY import_library.import_command "Tuo kirjasto">
+<!ENTITY cdrip.mediaview.view_tracks_button "Näytä kappaleet">
+<!ENTITY window.browse "Selaa...">
+<!ENTITY device.tools.restore_device.title "Palauta laite">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Siirrä noutaja, jota haluat käyttää ensisijaisesti, luettelon ylimmäksi.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Lisätietoja puuttuvista koodeista on kohdassa">
+<!ENTITY displaypane.default.image.post "tai vieraile">
+<!ENTITY smart.songs "kohdetta">
+<!ENTITY menu.tools.getartwork "Hae albumeille kansikuvat...">
+<!ENTITY window.cancel "Peruuta">
+<!ENTITY smart.genre "laji">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY hotkeys.hotkey "Pikanäppäin">
+<!ENTITY first_run.feedback.header.label "Auta &brandShortName;-ohjelmiston kehittämisessä">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "Vie älykkäitä soittolistoja">
+<!ENTITY device.tools.support.label "Näytä tukiresurssit">
+<!ENTITY import_library.prefs.options_group_caption "Tuonti-/vientiasetukset">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "Käytössä">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY first_run.eula.language.label "Kieli:">
+<!ENTITY device.settings.disk.management.label "Mukauta hakemistorakennetta">
+<!ENTITY cdrip.lookup.multiple.description "Valitse yksi seuraavista tai lisää tiedot itse.">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Suositellut lisäosat">
+<!ENTITY tooltip.search "Haku">
+<!ENTITY recommended_add_ons.title "&brandShortName;-asennus">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Tarkkaile kansioita">
+<!ENTITY rapi.whitelist.label "Poikkeukset...">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "Avaa sijainti...">
+<!ENTITY menu.downloadmgr "Tiedostolataukset...">
+<!ENTITY device.settings.auto_launch.checkbox.label "Avaa &brandShortName; kun tämä laite havaitaan">
+<!ENTITY first_run.itunes.checkbox.import.label "Tuo kappaleet ja soittolistat iTunesista">
+<!ENTITY cdrip.lookup.info_not_found.title "CD:n tietoja ei löytynyt">
+<!ENTITY equalizer.band2.label "120">
+<!ENTITY mediacore.error.dontshowme "Älä näytä enää mediaydinvirheitä">
+<!ENTITY device.firmware.wizard.repair.warning "Laitteen tehdasasetusten palauttaminen poistaa laitteesta kaiken musiikin ja tiedot. Varmuuskopioi kaikki tiedostot, ennen kuin jatkat.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Kopioi CD">
+<!ENTITY wizard.button.cancel.label "Peruuta">
+<!ENTITY tooltip.control.shuffle "Satunnaissoitto">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY displaypane.default.image.tooltip "Lisäosan valitsinkuvake">
+<!ENTITY first_run.import_media.scan_directories.description "Haluatko, että &brandShortName; yrittää tuoda mediatiedostoja tietyistä tietokoneen hakemistoista?">
+<!ENTITY device.tools.product_registration.title "Tuotteen rekisteröiminen">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "Nopeuden muuttaminen">
+<!ENTITY device.settings.disk.100percent.label "100 &#37;">
+<!ENTITY trackeditor.tab.edit.title "Ominaisuudet">
+<!ENTITY rapi.playback_read_disable.label "Estä sivustoja lukemasta toistettavan mediatiedoston tietoja">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "Piilota &brandShortName;">
+<!ENTITY device.sync.sync_all.label "Kaikki musiikki, videot ja soittolistat">
+<!ENTITY cdrip.mediaview.quality_label "Laatu:">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopioi">
+<!ENTITY subscribe.days "Päivää">
+<!ENTITY smart.least_often "vähiten toistettu">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Albumi">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Noutajan asetukset">
+<!ENTITY mediacore.error.stop "Pysäytä toisto">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY albumart.displaypane.not_playing_message "Ei soimassa">
+<!ENTITY textbox.songbird_open_url "Kirjoita toistettavan mediatiedoston URL-osoite tai polku:">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Lisäosat">
+<!ENTITY menu.view.accesskey "N">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Asetukset">
+<!ENTITY cdrip.mediaview.settings_button "Asetukset">
+<!ENTITY cdinfo.other.label "Lisää omat artistin ja albumin tiedot">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "&brandShortName; ei saa yhteyttä internetiin">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Pysäytä">
+<!ENTITY equalizer.preset.soft_rock "Soft Rock">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Käytä valintaa kaikissa soittolistoissa">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Videotiedostot">
+<!ENTITY tooltip.browser.fwd "Selaa eteenpäin">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Palveluruutu">
+<!ENTITY playback.prefpane.streaming.label "Verkko ja suoratoisto">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ohita tämä laite">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY command.device.ejectcddevice "Poista CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "Avaa CD-asema">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ohittaa tämän laitteen">
+<!ENTITY tooltip.displaypane.options "Sisältöruudun asetukset">
+<!ENTITY menu.tools.exportmedia "Vie kirjaston muutokset">
+<!ENTITY menu.mac.preferences "Asetukset...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Korvaa tämä &brandShortName;-soittolista nykyisellä iTunes-soittolistalla">
+<!ENTITY device.tools.reset_warnings.title "Nollaa varoitukset">
+<!ENTITY about.credits.description.champs.link.pre "Songbirdin sankarit ovat Songbirdin innokkaimpia käyttäjiä ja faneja, jotka ovat tehneet kaikkensa auttaakseen toisia käyttäjiä">
+<!ENTITY menu.control.next "Seuraava kappale">
+<!ENTITY umsd.video.video_path_browse_msg "Valitse laitteen hakemisto, johon videotiedostot sijoitetaan.">
+<!ENTITY setupprogress.pleasewait "Odota...">
+<!ENTITY menu.help.homepage "Songbirdin kotisivu">
+<!ENTITY equalizer.preset.soft "Pehmeä">
+<!ENTITY equalizer.preset.large_hall "Iso halli">
+<!ENTITY first_run.eula.accept_checkbox.label "Olen lukenut ja hyväksyn nämä käyttöoikeusehdot.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Valitse vain jos haluat hallita tätä laitetta.">
+<!ENTITY smart.most_recent "viimeksi toistettu">
+<!ENTITY command.device.ejectdevice "Poista">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Älä enää ilmoita tuonnin aikana videotiedostoista, joita ei tueta">
+<!ENTITY first_run.connection.settings.button "Yhteysasetukset...">
+<!ENTITY import_library.prefs.title "iTunes-tuonti/-vienti">
+<!ENTITY hotkeys.action "Toiminto">
+<!ENTITY equalizer.preset.classical "Klassinen">
+<!ENTITY device.sync.images.from.label "Synkronoi kuvat:">
+<!ENTITY first_run.install_add_ons.title "Lisäosien lataaminen">
+<!ENTITY playback.prefpane.streaming.buffer "Suoratoistopuskuri:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Etsi tietokoneeni hakemistoista">
+<!ENTITY menu.control.play "Toista/Pysäytä">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Medianhallinta on poistettu">
+<!ENTITY subscribe.minutes "Minuuttia">
+<!ENTITY smart.any "mikä tahansa">
+<!ENTITY prefpane.content.label "Web-sisältö">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Sankarit">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Ilmoita, kun vieraassa tiedostomuodossa olevaa kappaletta tai soittolistaa ei tuoda">
+<!ENTITY device.import.header.label "Tuo">
+<!ENTITY tooltip.control.volume "Äänenvoimakkuus">
+<!ENTITY smart.hours "tuntia">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Oikea sivupalkki">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Laitteesi on oltava laiteohjelmistotilassa, jotta voit jatkaa. Määritä laite laiteohjelmistotilaan seuraavien ohjeiden avulla.">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY first_run.import_media.description "Valitse, mitä mediaa haluat lisätä &brandShortName;-ohjelmaan. Kun &brandShortName; käynnistyy, voit lisätä mediaa eri tavoin.">
+<!ENTITY umsd.video.video_ext_desc "Kopioi tallennuslaitteeseen videotiedostot, joilla on seuraava pääte:">
+<!ENTITY smart.most_added "viimeksi lisätty">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Avaa URL">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY first_run.eula.header.label "Käyttöoikeussopimus">
+<!ENTITY device.capacity.image.label "Kuvat">
+<!ENTITY about.credits.intro "Haluamme kiittää kaikkia osallistujia, joiden työn seurauksena Songbird on saatu aikaan. Nämä ihmiset ovat auttaneet kirjoittamalla koodia ja dokumentaatiota sekä testaamalla tuotetta. He ovat luoneet tämän tuotteen ja ylläpitäneet sitä, sen kehitystuokaluja ja verkkosivujamme. Nimien perässä on IRC-lempinimet. Tule toki tervehtimään meitä #songbird-kanavalle irc.mozilla.org-palvelimelle!">
+<!ENTITY menu.mac.showall "Näytä kaikki">
+<!ENTITY first_run.connection.description "Tarkista yhteysasetukset tai jatka ohjatulla asennuksella.">
+<!ENTITY equalizer.preset.full_bass "Täysi basso">
+<!ENTITY cdrip.lookup.multiple.title "Useita CD-tietueita löydetty">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Avaa linkki oletusselaimessa">
+<!ENTITY first_run.add_ons.header.label "Suositellut lisäosat">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY first_run.feedback.metrics.label "Kerää ja lähetä käyttötietojani &brandShortName;-tiimille">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Laitteen asennus">
+<!ENTITY menu.videotofront "Video eteen">
+<!ENTITY device.management.tabs.music.label "Musiikki">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "Tilaa tämä kehys...">
+<!ENTITY add_on_bundle_installer.error_box.label "Tiedot">
+<!ENTITY smart.gb "Gt">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.exit "Lopeta">
+<!ENTITY device.sync.images.all.template "Kaikki kuvat (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Haluatko saada ostotodistuksen, tuotteeseen liittyviä jäsenetuja tai turvallisuusilmoituksia?">
+<!ENTITY first_run.import_media.header.label "Tuo mediatiedostoja">
+<!ENTITY tooltip.browser.home "Aloitussivu">
+<!ENTITY equalizer.preset.small_speakers "Kannettava/Kuulokkeet">
+<!ENTITY cdrip.lookup.info_not_found.album "Albumi">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Kirjoita kansikuva metatietoihin">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Etsi tiedostopäätteitä:">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "kaikki">
+<!ENTITY playback.prefpane.normalization.enable "Käytä äänen normalisointitietoja, jos mahdollista">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY displaypane.default.link.text "Lisäosasivusto">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Tuki">
+<!ENTITY device.sync.auto_sync.label "Synkronoi">
+<!ENTITY device.info.model.label "Malli">
+<!ENTITY feed.subscribe.dontask "Älä näytä tätä ilmoitusta automaattisesti enää">
+<!ENTITY rapi.restore_defaults.label "Palauta oletusasetukset">
+<!ENTITY playback.prefpane.audio_output.label "Äänilähtö">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Laitteen palauttaminen tehdasasetuksiin sekä ohjelmistoversion päivitys poistaa kaikki tiedostot laitteesta.">
+<!ENTITY device.dialog.wait_for_completion.title "Odotetaan laitteita.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Hae albumin kansikuva automaattisesti, kun kappale toistetaan tai valitaan, sen mukaan, missä tilassa kansikuvaruutu on. Suorituskyky voi heikentyä, kun tämä toiminto on käytössä.">
+<!ENTITY device.firmware.wizard.check.already.description "Laitteen laiteohjelmisto on jo ajan tasalla.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD-kopiointiasetukset">
+<!ENTITY videowindow.fullscreen "Koko näyttö">
+<!ENTITY tooltip.browser.refresh "Päivitä">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Lisäosat...">
+<!ENTITY equalizer.preset.club "Klubi">
+<!ENTITY equalizer.preset.full_bass_treble "Täysi basso ja diskantti">
+<!ENTITY menu.edit.copy "Kopioi">
+<!ENTITY device.repair.menuitem.default "Korjaa laite">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY tooltip.exit "Lopeta">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "&brandShortName;-asennus">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Määritä siirtonopeus ja muoto manuaalisesti">
+<!ENTITY tooltip.control.shuf_off "Satunnaissoitto pois">
+<!ENTITY smart.selectedby "valinnut">
+<!ENTITY openPageCmdInDefaultBrowser.label "Avaa sivu oletusselaimessa">
+<!ENTITY menu.control.playpause.spacebar "Välinäppäin">
+<!ENTITY import_library.dirty_playlist_dialog.title "Soittolistaa on muutettu">
+<!ENTITY equalizer.preset.techno "Tekno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Nykyinen laiteohjelmistoversio:">
+<!ENTITY first_run.itunes.checkbox.export.description "&brandShortName;-ohjelmiston kautta hankittu musiikki voidaan viedä iTunesiin, jotta se voidaan siirtää iPodiin tai iPhoneen.">
+<!ENTITY device.tools.update_firmware.label "Tarkista laiteohjelmistopäivitykset">
+<!ENTITY device.info.icon.device "Yleinen laitekuvake">
+<!ENTITY restartbox.restartlater "Käynnistä uudelleen myöhemmin">
+<!ENTITY first_run.app_update.finished.text "Päivitys asennetaan kun &brandShortName; käynnistetään uudestaan.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artisti">
+<!ENTITY cdrip.lookup.track_name "">
+<!ENTITY menu.control.pause "Keskeytä">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY device.firmware.wizard.repair.time.description "Laitteen palauttaminen kestää alle 5 minuuttia.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Hae albumien kansikuvat automaattisesti">
+<!ENTITY command.device.canceldevicesync "Peruuta synkronointi">
+<!ENTITY menu.control.rep1 "Toista yksi">
+<!ENTITY device.sync.playlist.video.duration "Videon kesto">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "Web-integrointi">
+<!ENTITY menu.equalizer "Ekvalisaattori...">
+<!ENTITY first_run.add_ons.description.line1 "Lisäosat laajentavat &brandShortName;-ohjelmiston toimintaa ja antavat mahdollisuuden muokata soitinta. Alla olevat valinnat ovat suositeltuja.">
+<!ENTITY displaypane.name.servicepane "Palveluruutu alaosassa">
+<!ENTITY menu.clearprivatedata "Tyhjennä yksityiset tiedot...">
+<!ENTITY window.ok "OK">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "Etsi">
+<!ENTITY first_run.add_ons.description.line2 "Lisäosia voidaan esimerkiksi liittää muihin sovelluksiin ja palveluihin kanssa, ne voivat tukea ulkoisia laitteita ja niillä voidaan muuttaa ohjelman ulkoasua. Voit ladata lisäosia &brandShortName;-ohjelmiston lisäosasivulta.">
+<!ENTITY menu.updateCmd.label "Tarkista päivitykset...">
+<!ENTITY device.firmware.wizard.check.error.description "Virhe tarkistettaessa uusia laiteohjelmistoja. Tarkista verkkoyhteys ja yritä uudelleen.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Siirtonopeus">
+<!ENTITY displaypane.name.browser "Sisältöruutu alaosassa">
+<!ENTITY albumartpreferences.prefpane.label "Albumin kansikuva">
+<!ENTITY watch_folder.prefs.description "&brandShortName; voi tarkkailla automaattisesti kansion sisältöä ja lisätä tai poistaa sen sisältämiä kohteita.">
+<!ENTITY umsd.no_devices_present "USB-massamuistilaitteita ei ole liitetty.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Synkronoi">
+<!ENTITY device.dialog.wait_for_completion.quit "Lopeta">
+<!ENTITY tooltip.browser.mediapages.list "Luettelonäkymä">
+<!ENTITY rapi.library_read_disable.label "Estä sivustoja lukemasta tietoja kirjaston ja laitteiden mediatiedostoista">
+<!ENTITY feedback.dialog.sentence1 "Haluatko auttaa &brandShortName;-ohjelmiston kehittämistä vastaamalla nimettömästi lyhyeen kyselyyn?">
+<!ENTITY feed.subscribe.label "Tilaa">
+<!ENTITY tooltip.servicepane.show "Näytä palveluruutu">
+<!ENTITY tooltip.control.stop "Lopeta">
+<!ENTITY menu.file.remote "Uusi tilaus...">
+<!ENTITY menu.file.podcast "Uusi podcast...">
+<!ENTITY feedback.dialog.sentence2 "Jollet ole kiinnostunut, emme kysy sinulta uudelleen. Kiitos, että käytät &brandShortName;-ohjelmistoa!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Ei vielä toteutettu (katso bugi 14281)">
+<!ENTITY menu.edit "Muokkaa">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY videowindow.title "Videoikkuna">
+<!ENTITY menu.fullscreen "Koko näyttö">
+<!ENTITY menu.file.newtab "Uusi välilehti">
+<!ENTITY feedback.dialog.sentence3 "Terveisin">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Näytä nyt toistettava">
+<!ENTITY albumart.displaypane.drag_and_drop "Vedä albumin kansikuva tähän.">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY smart.most_often "eniten toistettu">
+<!ENTITY restartbox.restartnow "Käynnistä uudelleen nyt">
+<!ENTITY device.unsupported_media.dialog.enable "Ilmoita havaituista yhteensopimattomista tiedostoista">
+<!ENTITY device.sync.images.selected.label "Valitse alihakemisto">
+<!ENTITY command.device.canceldevicecopy "Peruuta kopiointi">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Valitse mitä tallennettua mediaa haluat hallita:">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName;-tiimi">
+<!ENTITY smart.title "nimi">
+<!ENTITY menu.tools.reveal "Näytä tiedosto">
+<!ENTITY menu.controllerontop "Näytä yläreunassa">
+<!ENTITY about.credits.footer.beforeLink "Tietysti mikään tästä ei olisi mahdollista ilman kovaa työtä ja vaivannäköä">
+<!ENTITY device.management.tabs.tools.label "Työkalut">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY trackeditor.addtag.tag "Merkintä:">
+<!ENTITY device.settings.music.transcoding.format.label "Koodausmuoto">
+<!ENTITY command.device.canceldeviceupdate "Peruuta päivitys">
+<!ENTITY mediapages.firstrun.title "Tervetuloa &brandShortName;-ohjelmistoon">
+<!ENTITY equalizer.preset.full_treble "Täysi diskantti">
+<!ENTITY umsd.music.tab "Musiikki">
+<!ENTITY tooltip.close "Sulje">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Tee uudelleen">
+<!ENTITY menu.edit.findagain "Etsi uudelleen">
+<!ENTITY device.info.capacity.label "Kapasiteetti">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "Nopeuden muuttaminen">
+<!ENTITY device.sync.images.browse "Valitse hakemisto...">
+<!ENTITY displaypane.default.link.post "jotta voit selata lisäosia.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "Avaa tiedosto...">
+<!ENTITY command.device.devicesync "Synkronoi">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "Jatka">
+<!ENTITY umsd.music.music_path_desc "Tallenna musiikkitiedostot seuraavaan hakemistoon, kun ne kopioidaan laitteeseen:">
+<!ENTITY playback.prefpane.audio_output.buffer "Lähtöpuskuri:">
+<!ENTITY menu.switchplayercontrols "Soittimen ohjaimet">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Säilytä nykyinen &brandShortName;-soittolista (älä tuo tätä soittolistaa)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Etsi päivityksiä laiteohjelmistoon">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY device.info.serial_number.label "Sarjanumero">
+<!ENTITY device.info.product.label "Tuote">
+<!ENTITY smart.minutes "minuuttia">
+<!ENTITY menu.help.topics "Ohjeaiheet">
+<!ENTITY menu.file.playlist "Tuo soittolista...">
+<!ENTITY first_run.app_update.finished.title "Päivitys on valmis asennettavaksi.">
+<!ENTITY device.tools.format_volume.button.label "Formatoi">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Rajoitus:">
+<!ENTITY menu.file.library "Tuo kirjasto...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "Etsi nykyinen kappale">
+<!ENTITY setupprogress.installingextensions "Asennetaan lisäosia">
+<!ENTITY menu.mac.services "Palvelut">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY import_library.library_file_label "Kirjastotiedosto:">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Vastaa seuraavia ehtoja:">
+<!ENTITY importexport_show_notifications_checkbox "Näytä ilmoitukset, kun tuonti/vienti on valmis">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "iTunes Storesta ostetut podcastit ja kappaleet voidaan tuoda &brandShortName;-ohjelmistoon. Tämä toiminto on hyödyllinen, jos &brandShortName; on ensisijainen musiikkisoittimesi.">
+<!ENTITY device.sync.images.foldername "Polun nimi">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Musiikkitiedostot">
+<!ENTITY trackeditor.tab.lyrics.title "Sanat">
+<!ENTITY menu.mac.exit "Sulje &brandShortName;...">
+<!ENTITY menu.control.play.button "Toista">
+<!ENTITY hotkeys.prefpane "Pikanäppäimet">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "Tuntia">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Ohje">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "Ohita">
+<!ENTITY export_subscriptions_itunes_checkbox "Vie tilauksia">
+<!ENTITY mediacore.error.title "Mediaydinvirhe">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Siirry kohtaan...">
+<!ENTITY menu.tools "Työkalut">
+<!ENTITY device.settings.music.transcoding.label "Musiikin muuntaminen">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Nollaa">
+<!ENTITY device.info.icon.readonly "Vain luku -lukituskuvake">
+<!ENTITY command.device.lookup "Etsi CD-tiedot">
+<!ENTITY tabs.listAllTabs "Näytä kaikki välilehdet">
+<!ENTITY rapi.prefpane.access.caption "Web-integroinnin oikeudet">
+<!ENTITY menu.file.scan "Tuo mediaa...">
+<!ENTITY equalizer.band1.label "60">
+<!ENTITY import_media.prefs.title "Sisällön tuonti">
+<!ENTITY device.firmware.wizard.download.error.description "Virhe ladattaessa uutta laiteohjelmistoa. Tarkista verkkoyhteys ja yritä uudelleen.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Tarkkailtavien kansioiden asetukset">
+<!ENTITY tooltip.minimize "Pienennä">
+<!ENTITY smart.random "satunnainen">
+<!ENTITY smart.contenttypecondition.audio "Musiikki">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Julkaisutiedot">
+<!ENTITY watch_folder.prefs.title "Tarkkaile kansioita">
+<!ENTITY subscribe.autocheck "Automaattinen päivitysväli">
+<!ENTITY menu.control.shuf "Satunnaistoisto">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Ylös">
+<!ENTITY device.firmware.wizard.retry.description "Yritä uudelleen, kun laitteesi on suorittanut nykyisen toiminnon loppuun.">
+<!ENTITY first_run.connection.settings.description "Onko tietokone tai verkko suojattu palomuurilla tai välityspalvelimella? Voit ratkaista yleisiä verkko-ongelmia määrittämällä yhteysasetukset oikein.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Seuraavan kansion muutoksia tarkkaillaan automaattisesti">
+<!ENTITY menu.file.metadata "Näytä metatiedot...">
+<!ENTITY device.info.firmware_version.label "Laiteohjelmistoversio">
+<!ENTITY device.info.access.label "Käytön yhteensopivuus">
+<!ENTITY tooltip.control.back "Edellinen kappale">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.controlleronbottom "Näytä alareunassa">
+<!ENTITY device.sync.sync_selected.label "Valitut soittolistat:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Suodatusruutunäkymä">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Tiedostonimet pilkulla erotettuna">
+<!ENTITY rapi.playback_control_disable.label "Estä sivustoja hallitsemasta mediatoistoa">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY first_run.feedback.metrics.description "Tilastot ovat täysin nimettömiä, eikä henkilökohtaisia tietoja kerätä.">
+<!ENTITY cdrip.prefpane.label "Kopioi CD">
+<!ENTITY tooltip.control.mute "Mykistä">
+<!ENTITY smart.album "albumi">
+<!ENTITY playback.prefpane.units.kilobytes "kt">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.tools.format_device.label "Alusta laite">
+<!ENTITY hotkeys.remove "Poista">
+<!ENTITY tooltip.fullscreen "Koko näyttö">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Määritä muuntaminen automaattisesti">
+<!ENTITY jumptofile.search "Hae:">
+<!ENTITY albumart.displaypane.not_selected_message "Ei kappaletta valittuna">
+<!ENTITY wizard.button.back.label "Takaisin">
+<!ENTITY window.browser.titledefault " ">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "kohteeseen">
+<!ENTITY rapi.prefpane.access.text "Voit antaa sivustojen toimia yhdessä &brandShortName;-ohjelmiston kanssa verkon ja mediatiedostojesi yhteyden tehostamiseksi. Määritä &brandShortName; sallimaan tai estämään seuraavat integrointipisteet.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Collapse-ruudussa">
+<!ENTITY podcast.creation_dialog.title "Uusi podcast">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Kappale">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "Mozilla-projektille.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Tämän avulla &brandShortName; voi liittää kansikuvat mediatiedostojen yhteensopviin tunnisteisiin.">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY hotkeys.add "Lisää">
+<!ENTITY export_playlists_itunes_checkbox "Vie soittolistoja">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Tarkista uudet laiteohjelmistoversiot automaattisesti">
+<!ENTITY smart.least_recent "kauimmin sitten toistettu">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.help.about "Tietoja kohteesta &brandShortName;...">
+<!ENTITY device.settings.general.label "Yleisasetukset">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Medianhallinta on poistettu Songbirdistä versiosta 1.10. lähtien.">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "Avaa CD-asema kopioinnin päätyttyä">
+<!ENTITY device.management.tabs.image.label "Kuvat">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Tällä muutoksella pyrimme yksinkertaistamaan tuotettamme ja helpottamaan sen käyttöä.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "Lisätään kappaleita">
+<!ENTITY device.info.vendor.label "Valmistaja">
+<!ENTITY first_run.DLNA.header.label "Median jakamisen lisäosa">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY sanitize.key "Del">
+<!ENTITY playback.prefpane.ratings.label "Arvio metadata">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Anna äänimerkki kopioinnin päättyessä">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY device.tools.format_device.description "Laitteen alustaminen poistaa kaiken musiikin ja tiedot laitteesta.">
+<!ENTITY jobprogress.details "Tiedot">
+<!ENTITY device.tools.reset_warnings.description "Jos nollaat varoitusikkunat, valintaikkunoissa kehotetaan vahvistamaan tietyt toiminnot.">
+<!ENTITY prefs.homepage.label "Aloitussivu">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Sulje välilehti">
+<!ENTITY device.firmware.wizard.title "Päivitä laiteohjelmisto">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "Kaikki kuvat">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Halutun vahvistuksen tiedot:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Ladataan uutta laiteohjelmistoa...">
+<!ENTITY cdrip.prefpane.format "Tiedostomuoto">
+<!ENTITY smart.mb "Mt">
+<!ENTITY menu.linux.preferences "Asetukset...">
+<!ENTITY menu.file "Tiedosto">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY import_library.prefs.path_group_caption "iTunes-musiikkikirjaston sijainti">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Pysäytä">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Asetukset">
+<!ENTITY copySelectionCmd.label "Kopioi valittu teksti">
+<!ENTITY feed.subscribe.close "Sulje">
+<!ENTITY device.settings.disk.label "Levynhallinta">
+<!ENTITY first_run.feedback.email.header.label "Pidä minut ajan tasalla">
+<!ENTITY equalizer.preset.custom "Mukautettu">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Yhdistä nykyinen &brandShortName;- ja iTunes-soittolista">
+<!ENTITY import_tracks_itunes_checkbox "Tuo kappaleet iTunesista">
+<!ENTITY first_run.welcome.header.label "Tervetuloa &brandShortName;-ohjelmistoon">
+<!ENTITY feedback.dialog.title "Osallistu &brandShortName;-ohjelmiston kehittämiseen!">
+<!ENTITY window.yes "Kyllä">
+<!ENTITY subscribeMediaPageCmd.label "Tilaa tämä sivu...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Peruuta">
+<!ENTITY watchfolder.folderlist "Tarkkaile näiden kansioiden uusia mediatiedostoja:">
+<!ENTITY tooltip.control.fwd "Seuraava kappale">
+<!ENTITY restartbox.restartonplaybackend "Käynnistä uudelleen toiston loputtua">
+<!ENTITY playback.prefpane.label "Toisto">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Näytä nyt valittu">
+<!ENTITY import_library.dirty_playlist_dialog.note "Huomautus: yhdistämistä ja korvaamista ei voi kumota.">
+<!ENTITY menu.control.repa "Toista kaikki">
+<!ENTITY jumptofile.title "Siirry kohteeseen">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY device.firmware.wizard.busy.description "Laite on varattu. Laiteohjelmisto voidaan asentaa vain laitteen ollessa vapaana.">
+<!ENTITY command.device.renamedevice "Nimeä uudelleen">
+<!ENTITY smart.least_added "kauimmin sitten lisätty">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Lataa kirjastoon">
+<!ENTITY command.device.stoprip "Pysäytä kopiointi">
+<!ENTITY device.firmware.wizard.check.install.description "Päivitetyn laiteohjelmiston asennuksen pitäisi kestää alle 10 minuuttia. Voit tehdä päivityksen myöhemminkin.">
+<!ENTITY first_run.add_ons.load_failed.label "Suositeltuja lisäosia ei voitu hakea.">
+<!ENTITY first_run.feedback.description "Haluatko auttaa meitä &brandShortName;-ohjelmiston kehittämisessä lähettämällä meille nimettömiä tilastotietoja siitä, miten käytät sovellusta?">
+<!ENTITY about.credits.footer.linkText "osallistujat">
+<!ENTITY device.tools.update_firmware.title "Päivitä laiteohjelmisto">
+<!ENTITY locale.language "Kieli">
+<!ENTITY cdrip.mediaview.stop_rip_button "Pysäytä kopiointi">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "Lisätietoja puuttuvista koodekeista on kohdassa:">
+<!ENTITY first_run.itunes.description "Sinulla näyttää olevan iTunes asennettuna. &brandShortName; voidaan määrittää tuomaan ja/tai viemään kappaleita &brandShortName;-ohjelmiston ja iTunesin välillä, jotta kirjastot ovat synkronissa.">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "C">
+<!ENTITY first_run.itunes.header.label "iTunes-tuonti/-vienti">
+<!ENTITY albumart.coverpreview.title "Kansikuva">
+<!ENTITY playback.prefpane.normalization.label "Normalisointi">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "U">
+<!ENTITY first_run.itunes.checkbox.export.label "Vie uudet kappaleet ja soittolistat iTunesiin">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Älä ota kansioiden tarkkailua käyttöön samassa hakemistossa, jossa musiikin hallintakansio sijaitsee. Muutoin kirjastoon luodaan kaksoiskappaleita.">
+<!ENTITY smart.match "Vastaa">
+<!ENTITY export_tracks_itunes_checkbox "Vie kappaleet iTunesiin">
+<!ENTITY cdrip.prefpane.quality "Laatu">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Uusi soittolista">
+<!ENTITY trackeditor.key2 "l">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.settings.disk.0percent.label "0 &#37;">
+<!ENTITY cdrip.lookup.ordinal "">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

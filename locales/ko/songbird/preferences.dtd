@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 45em">
+<!ENTITY paneSecurity.title "보안">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 50em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 50em">
+<!ENTITY paneApplications.title "어플리케이션">
+<!ENTITY paneContent.title "내용">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; 환경 설정">
+<!ENTITY prefWindow.titleWin "설정">
+<!ENTITY paneTabs.title "탭">
+<!ENTITY paneAdvanced.title "고급">
+<!ENTITY panePrivacy.title "개인 정보">
+<!ENTITY paneGeneral.title "일반">
+

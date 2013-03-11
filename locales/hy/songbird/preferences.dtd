@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 73em; min-height: 58em;">
+<!ENTITY paneSecurity.title "Անվտանգության">
+<!ENTITY prefWinMinSize.styleWin2 "width: 70em; min-height: 55em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 70em; min-height: 55em;">
+<!ENTITY paneApplications.title "Ծրագրեր">
+<!ENTITY paneContent.title "Բովանակությունը">
+<!ENTITY prefWindow.titleGNOME "&brandShortName;- կարգավորումները">
+<!ENTITY prefWindow.titleWin "Ընտրանքներ">
+<!ENTITY paneTabs.title "Էջեր">
+<!ENTITY paneAdvanced.title "Ընդլայնված">
+<!ENTITY panePrivacy.title "Գաղտնիության">
+<!ENTITY paneGeneral.title "Հիմնական">
+

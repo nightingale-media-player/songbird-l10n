@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 59em; min-height: 40em;">
+<!ENTITY paneSecurity.title "安全">
+<!ENTITY prefWinMinSize.styleWin2 "width: 57em; min-height: 39em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 57em; min-height: 39.5em;">
+<!ENTITY paneApplications.title "应用程序">
+<!ENTITY paneContent.title "内容">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; 首选项">
+<!ENTITY prefWindow.titleWin "首选项">
+<!ENTITY paneTabs.title "分页">
+<!ENTITY paneAdvanced.title "高级">
+<!ENTITY panePrivacy.title "隐私">
+<!ENTITY paneGeneral.title "主要">
+

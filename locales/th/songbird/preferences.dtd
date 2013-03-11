@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneSecurity.title "ความปลอดภัย">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneApplications.title "โปรแกรมประยุกต์">
+<!ENTITY paneContent.title "เนื้อหา">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; การปรับแต่งรายละเอียด">
+<!ENTITY prefWindow.titleWin "ตัวเลือก">
+<!ENTITY paneTabs.title "แท็บ">
+<!ENTITY paneAdvanced.title "ขั้นสูง">
+<!ENTITY panePrivacy.title "ความเป็นส่วนตัว">
+<!ENTITY paneGeneral.title "Main">
+

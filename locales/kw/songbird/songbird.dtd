@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Pesya">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Dasskrifa restrennow ilow gans an ystynansow a syw dhe&apos;n devis:">
+<!ENTITY menu.errorconsole "Konsolen Gwallow ">
+<!ENTITY menu.edit.paste "Glusa">
+<!ENTITY tooltip.hide "Kudha">
+<!ENTITY tooltip.browser.subscription "Gwruthyl Ragbren">
+<!ENTITY smart.playlistcondition.library "Lyverva">
+<!ENTITY menu.help.bugz "Derivas Pryv">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Golyas an blegel ma rag chanjyow">
+<!ENTITY equalizer.band3.label "0">
+<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY trackeditor.title "Chanjyel Vetadata">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Dewis Puptra">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+<!ENTITY addMediaToPlaylistCmd.label "Iskarga dhe Ganrol">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "artydh">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "W">
+<!ENTITY mediacore.error.preface "&brandShortName; a gavas kamm dasseni">
+<!ENTITY hotkeys.set "Settya">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY fetch_album_art.dialog.title "Kavos Art Kuntilow">
+<!ENTITY menu.controls "Kontrolyow">
+<!ENTITY tooltip.control.resume "Pesya">
+<!ENTITY feedback.dialog.no "Na Vynnav">
+<!ENTITY equalizer.preset.party "Parti">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY device.capacity.free.label "Rydh">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY hotkeys.info "Gans Botonyow Pooth Ollvysek y hyllir drehedhes gwriansow &brandShortName; hwath mar nyns yw &brandShortName; an dowlen yn fyw. Res yw dhe nebes kemyskansow a Votonyow Pooth synsi botonyow chanjel rag iselhe melyans andhynerhys gans towlennow erel. ">
+<!ENTITY device.capacity.music.label "Ilow">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "Hedhi Peurel">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "Trehi">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY subscribe.title "Ragbrena">
+<!ENTITY songbird "Songbird">
+<!ENTITY smart.window "Kanrol Gonnyk">
+<!ENTITY openImageCmdInDefaultBrowser.label "Ygeri Imaj y&apos;n Beurel Savonek">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Furvasa devis">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "Ro dha e-bost rag omwitha a-lemmyn">
+<!ENTITY trackeditor.addtag.title "Keworra Tag">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kb/e">
+<!ENTITY prefs.security.addons.label "Ynstallyans Keworrans">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY device.tools.product_registration.label "Register product">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Furvasow Dasseni">
+<!ENTITY smart.high_rating "merk uhel">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Kudha an Re Erel">
+<!ENTITY menu.edit.find.accesskey "V">
+<!ENTITY device.info.friendly_name.label "Hanow">
+<!ENTITY device.unsupported_media.dialog.title "Restrennow Ankesplegadow Herlerhys">
+<!ENTITY cdrip.mediaview.format_label "Furvas:">
+<!ENTITY about.credits.heading.translators "Treylyoryon">
+<!ENTITY menu.view "Gweles">
+<!ENTITY menu.preferences "Dewisyansow...">
+<!ENTITY command.device.canceldevicedelete "Hedhi Dilea">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "Gorfenna">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY first_run.welcome.description.line1 "Ryb seniel vedia dhesktop hengovek  &brandShortName; yw dewis aral a yllydh y janjya herwydh dha vodh.">
+<!ENTITY device.dialog.wait_for_completion.msg "Ow kortos pub gwrians yn devis dhe hedhi. Klyck &quot;Hedhi&quot; rag hedhi gortos ha hedhi an dowlen.">
+<!ENTITY device.sync.playlist.title "Titel">
+<!ENTITY hotkeys.useglobalhotkeys "Devnydhya Botonyow Pooth Ollvysek">
+<!ENTITY subscribe.destinationfolder "Dewis plegel rag kosten:">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY first_run.welcome.description.line2 "An weresel ma a brovi fordh snell ha diwysek rag herdhya &brandShortName; yn fyw.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Na Dhassen Travyth">
+<!ENTITY command.device.canceldevicesync.accesskey "H">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY about.version "Versyon">
+<!ENTITY umsd.video.video_path_desc "Pan dhasskrifir restrennow gwydheo dhe&apos;n devis, gorr i y&apos;n arayel a syw:">
+<!ENTITY smart.low_rating "isella merk">
+<!ENTITY device.capacity.other.label "Aral">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY setupprogress.cancel "Hedhi">
+<!ENTITY albumart.displaypane.selected.menu.paste "Glusa">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "Rip CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Degea tab">
+<!ENTITY menu.edit.undo "Diswul">
+<!ENTITY first_run.add_ons.loading.label "Ow kyrhes keworansow profys.">
+<!ENTITY command.device.formatdevice "Furvasa">
+<!ENTITY albumart.displaypane.selected.menu.clear "Gwakhe">
+<!ENTITY import_playlists_itunes_checkbox "Ymperthi kanrolyow">
+<!ENTITY menu.edit.cut "Trehi">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY tooltip.control.play "Seni">
+<!ENTITY tooltip.browser.mediapages "Skwychya Gwelyow Media">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "Batri">
+<!ENTITY menu.edit.delete "Dilea">
+<!ENTITY import_library.dialog.title "Ymperthi lyverva">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "a&apos;n studh(ow) del syw:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Restrennow kan">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Gwydhyow">
+<!ENTITY albumartpreferences.prefpane.priorities.down "War-nans">
+<!ENTITY command.device.getdeviceinfo "Kyrhes Derivadow">
+<!ENTITY rapi.library_write_disable.label "Let gwiasvaow erbynn keworra/chanjya media ha kanrolyow y&apos;m Lyverva ha devisow.">
+<!ENTITY first_run.feedback.email.description "Ragbrena agan lyther-nowodhow rag klewes a-dro dhe dhylansow nowyth ha nowedhansow dhe les.">
+<!ENTITY device.sync.images.filecount "Skeusennow">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY device.sync.header.label "Settyansow Kettermynegi ">
+<!ENTITY first_run.import_media.radio.dont_import.label "Na ymporth media">
+<!ENTITY feedback.dialog.yes "Mynnav">
+<!ENTITY about.buttons.credits "Aswonvosow">
+<!ENTITY device.firmware.wizard.check.progress.title "Ow checkya rag fastweyth nowythhes...">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY umsd.music.music_path_browse_msg "Dewis arayel devisow rag gorra restrennow ilow ynni.">
+<!ENTITY tooltip.maximize "Lehe/Daskavos">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY window.save "Gwitha">
+<!ENTITY window.no "Na Vynnav">
+<!ENTITY tooltip.servicepane.newnode "Kanrol Nowyth">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Ygeri Fram y&apos;n Beurel Savonek">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.new "Kanrol Nowyth...">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY watch_folder.prefs.watch_folder_label "Plegel:">
+<!ENTITY smart.autoupdate "Nowedhans awtomatek">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
+<!ENTITY menu.help.keyboard "Skochfordhow Alhwedhel">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Hwilas henwyn restren:">
+<!ENTITY menu.control.prev "Hyns Kyns">
+<!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
+<!ENTITY window.apply "Apply">
+<!ENTITY menu.file.smart "Kanrol Gonnyk Nowyth...">
+<!ENTITY menu.edit.cut.key "T">
+<!ENTITY device.error.dialog.link "Diskwedhes Manylyon an Gwall">
+<!ENTITY device.firmware.wizard.install.title "Owth ynstallya fastweyth...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "H">
+<!ENTITY menu.control.pause.button "Hokya">
+<!ENTITY trackeditor.tab.summary.title "Berrskrif">
+<!ENTITY playMediaCmd.label "Seni">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Peuri war-Lergh">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Nyns eus Kanrol vyth&gt;">
+<!ENTITY equalizer.title "Kesposel-son">
+<!ENTITY import_library.import_command "Ymperthi lyverva">
+<!ENTITY cdrip.mediaview.view_tracks_button "Diskwedhes Hynsyow">
+<!ENTITY window.browse "Peuri...">
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY smart.songs "kanow">
+<!ENTITY menu.tools.getartwork "Kavos Art Kuntilow">
+<!ENTITY window.cancel "Dilea">
+<!ENTITY smart.genre "ehen">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY hotkeys.hotkey "Boton Pooth">
+<!ENTITY first_run.feedback.header.label "Gweres Dhyn dhe Wellhe &brandShortName; ">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "Esperthi kanrolyow konnyk">
+<!ENTITY device.tools.support.label "View support resources">
+<!ENTITY import_library.prefs.options_group_caption "Dewisyansow Ymperthi">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "Yn fyw">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY first_run.eula.language.label "Yeth:">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
+<!ENTITY command.device.getdeviceinfo.accesskey "Y">
+<!ENTITY enable_recommended_addons_update.label "Keworansow Profys">
+<!ENTITY tooltip.search "Hwilas">
+<!ENTITY recommended_add_ons.title "Restra &brandShortName;">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Plegellow Golyas">
+<!ENTITY rapi.whitelist.label "Marnas...">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "Ygeri dhyworth URL...">
+<!ENTITY menu.downloadmgr "Iskargansow Restren...">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY first_run.itunes.checkbox.import.label "Ymperthi hynsow ha kanrolyow dhyworth iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "Na dhiskwa pella kammow kresen vedia">
+<!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Ripya Sidi">
+<!ENTITY wizard.button.cancel.label "Hedhi">
+<!ENTITY tooltip.control.shuffle "Gwevya">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "G">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY first_run.import_media.scan_directories.description "A vynnydh mayth assay &brandShortName; ymperthi media owth arhwilas menegvaow a-dhevis y&apos;th jynn-amontya?">
+<!ENTITY device.tools.product_registration.title "Product Registration">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Gnasow">
+<!ENTITY rapi.playback_read_disable.label "Let gwiasvaow erbynn gweles derivadow a-dro dhe vedia eus ow seni">
+<!ENTITY menu.tools.reveal.modifiers "accel,shyft">
+<!ENTITY menu.mac.hide "Kudha &brandShortName;">
+<!ENTITY device.sync.sync_all.label "Kettermynegi media ha kanrolyow oll">
+<!ENTITY cdrip.mediaview.quality_label "Kwalita:">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopia">
+<!ENTITY subscribe.days "Dydh(yow)">
+<!ENTITY smart.least_often "an leha menowgh senys">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Kuntilow">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
+<!ENTITY mediacore.error.stop "Lettya Dasseni">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Dons">
+<!ENTITY albumart.displaypane.not_playing_message "Travyth ow seni">
+<!ENTITY textbox.songbird_open_url "Skrif URL po lergh a&apos;n media a vynnydh aga dasseni">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Keworansow">
+<!ENTITY menu.view.accesskey "w">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Settyansow">
+<!ENTITY cdrip.mediaview.settings_button "Setyansow">
+<!ENTITY cdinfo.other.label "Keworra Derivadow Artydh po Kuntilow">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "Ny yll &brandShortName; omjunya dhe&apos;n Gesrosweyth">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Hedhi">
+<!ENTITY equalizer.preset.soft_rock "Rock Medhel">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Staga dewis dhe bub kanrol">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Restrennow gwydheo">
+<!ENTITY tooltip.browser.fwd "Peuri yn-Rag">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Kwarel Gonis">
+<!ENTITY playback.prefpane.streaming.label "Rosweyth ha Frosans">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "K">
+<!ENTITY command.device.ejectcddevice "Estewlel Sidi">
+<!ENTITY cdrip.mediaview.eject_cd_button "Estewlel Sidi">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+<!ENTITY menu.tools.exportmedia "Export Library Changes">
+<!ENTITY menu.mac.preferences "Dewisyansow...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Aslea an ganrol &brandShortName; ma gans an ganrol iTunes a-lemmyn">
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY menu.control.next "Nessa Hyns">
+<!ENTITY umsd.video.video_path_browse_msg "Dewis arayel dhevisow rag gorra restrennow gwydheo ynni">
+<!ENTITY setupprogress.pleasewait "Gorta mar pleg...">
+<!ENTITY menu.help.homepage "Gwiasva Songbird">
+<!ENTITY equalizer.preset.soft "Medhel">
+<!ENTITY equalizer.preset.large_hall "Hel vras">
+<!ENTITY first_run.eula.accept_checkbox.label "My re redyas ha degemeres termow an leshyans ma.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+<!ENTITY smart.most_recent "an nowyttha senys">
+<!ENTITY command.device.ejectdevice "Estewlel">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+<!ENTITY first_run.connection.settings.button "Settyansow Omjunya...">
+<!ENTITY import_library.prefs.title "Ymperthi dhyworth iTunes">
+<!ENTITY hotkeys.action "Gwrians">
+<!ENTITY equalizer.preset.classical "Klassel">
+<!ENTITY device.sync.images.from.label "Kettermynegi skeusennow dhyworth:">
+<!ENTITY first_run.install_add_ons.title "Owth iskarga Keworansow">
+<!ENTITY playback.prefpane.streaming.buffer "Divommer Frosa:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Arhwilas menegvaow y&apos;m jynn-amontya">
+<!ENTITY menu.control.play "Seni/Hokya">
+<!ENTITY getartwork.key "K">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY subscribe.minutes "Mynysen(now)">
+<!ENTITY smart.any "pypynag">
+<!ENTITY prefpane.content.label "Web Content">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Kampyoryon">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "Yn fyw">
+<!ENTITY menu.edit.copy.key "K">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Gwarn vy pan nag yw hynsyow po kanrolyow anskoodhys ymperthys">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY tooltip.control.volume "Sonradh">
+<!ENTITY smart.hours "ourys">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Barr-tenewen a-Dhyhow">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY menu.edit.accesskey "C">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "S">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY first_run.import_media.description "Dewis an media a vynnydh aga ymperthi dhe &brandShortName;. Pan lanch &brandShortName; y hyllydh keworra media yn maynow varyes.">
+<!ENTITY umsd.video.video_ext_desc "Dasskrifa restrennow gwydheo gans an ystynansow a syw dhe&apos;n devis:">
+<!ENTITY smart.most_added "an nowyttha">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Ygeri URL">
+<!ENTITY menu.edit.paste.accesskey "G">
+<!ENTITY first_run.eula.header.label "Unverheans Leshyans">
+<!ENTITY device.capacity.image.label "Skeusennow">
+<!ENTITY about.credits.intro "Ni a wor meur ras dh&apos;agan kevriysi, a wrug skoodhya ha krevhe Songbird der aga ober. An re na re weresas dre skrifa kod ha dokumentyans, ha dre brevi. I re wrug ha mentena an askor ma, an daffar displegyans kelmys ganso, agan toulys-drehevel ha&apos;gan gwiasvaow. Henwyn yw sewys gans leshenwyn IRC. Dewgh dhe #songbird orth irc.mozilla.org ha leverel dydh da!">
+<!ENTITY menu.mac.showall "Diskwedhes Puptra">
+<!ENTITY first_run.connection.description "Chekkya Settyansow Omjunya po Pesya gans an Weresel Settyansow.">
+<!ENTITY equalizer.preset.full_bass "Faborden leun">
+<!ENTITY cdrip.lookup.multiple.title "Multiple CD Records Found">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Ygeri Kevren y&apos;n Beurel Savonek">
+<!ENTITY first_run.add_ons.header.label "Keworansow Profys">
+<!ENTITY command.device.renamedevice.accesskey "A">
+<!ENTITY first_run.feedback.metrics.label "Kuntel ha danvon ow musurow dhe&apos;n bagas &brandShortName; ">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Device Setup">
+<!ENTITY menu.videotofront "Video to Front">
+<!ENTITY device.management.tabs.music.label "Ilow">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "Ragbrena an Fram ma...">
+<!ENTITY add_on_bundle_installer.error_box.label "Manylyon">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "R">
+<!ENTITY menu.file.exit "Diberth">
+<!ENTITY device.sync.images.all.template "Oll an skeusennow (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY first_run.import_media.header.label "Ymperthi Media">
+<!ENTITY tooltip.browser.home "Tre">
+<!ENTITY equalizer.preset.small_speakers "Laptop/Headphones">
+<!ENTITY cdrip.lookup.info_not_found.album "Kuntilow">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Skrifa Art Kuntilow dhe Vetadata">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Search file extensions:">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "peub">
+<!ENTITY playback.prefpane.normalization.enable "Devdnydhya data normalheans awdyo mars eus">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY displaypane.default.link.text "Gwiasva an Keworrans">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Skoodhyans">
+<!ENTITY device.sync.auto_sync.label "Kettermynegi">
+<!ENTITY device.info.model.label "Ehen">
+<!ENTITY feed.subscribe.dontask "Don&apos;t automatically show this dialog again">
+<!ENTITY rapi.restore_defaults.label "Dassetya dhe Savon">
+<!ENTITY playback.prefpane.audio_output.label "Mesgwor Awdyo">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.dialog.wait_for_completion.title "Ow kortos an devisyow.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
+<!ENTITY videowindow.fullscreen "Skrin Leun">
+<!ENTITY tooltip.browser.refresh "Dasnowedha">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Keworansow...">
+<!ENTITY equalizer.preset.club "Klub">
+<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
+<!ENTITY menu.edit.copy "Kopia">
+<!ENTITY device.repair.menuitem.default "Repair my device">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY tooltip.exit "Diberth">
+<!ENTITY menu.file.accesskey "R">
+<!ENTITY first_run.title "Restra &brandShortName;">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY tooltip.control.shuf_off "Skwychya Gwevya yn Farow">
+<!ENTITY smart.selectedby "dewisys gans">
+<!ENTITY openPageCmdInDefaultBrowser.label "Ygeri Folen y&apos;n Beurel Savonek">
+<!ENTITY menu.control.playpause.spacebar "Boton Spas">
+<!ENTITY import_library.dirty_playlist_dialog.title "Kanrol chenjys">
+<!ENTITY equalizer.preset.techno "Tekno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "P">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Versyon an fastweyth:">
+<!ENTITY first_run.itunes.checkbox.export.description "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
+<!ENTITY device.tools.update_firmware.label "Checkya rag fastweyth nowythhes">
+<!ENTITY device.info.icon.device "Generic device icon">
+<!ENTITY restartbox.restartlater "Dastalleth Diwettha">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artydh">
+<!ENTITY cdrip.lookup.track_name "Titel">
+<!ENTITY menu.control.pause "Hokya">
+<!ENTITY menu.extensions.accesskey "K">
+<!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY command.device.canceldevicesync "Hedhi Kettermynegi">
+<!ENTITY menu.control.rep1 "Dasseni Onan">
+<!ENTITY device.sync.playlist.video.duration "Pesyans an gwydhyow">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "Kesvewnans Gwiasvaow">
+<!ENTITY menu.equalizer "Kesposel-son...">
+<!ENTITY first_run.add_ons.description.line1 "Keworansow a ystyn oberadewder &brandShortName; ha ri spas dhis dhe bersonelhe dha berthyans a&apos;n senel vedia. An dewisyansow a-woles yw profys yn fen.">
+<!ENTITY displaypane.name.servicepane "Goles Kwarel Gonis">
+<!ENTITY menu.clearprivatedata "Gwakhe Derivadow Privedh...">
+<!ENTITY window.ok "Da Lowr">
+<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY menu.edit.find "Kavos">
+<!ENTITY first_run.add_ons.description.line2 "Keworansow a yll kesjunya gans towlennow ha gonisow erel, skoodhya kevrenna gans devisow a-ves, chanjya mien an dowlen ha moy! Y hyllir iskarga moy anedha yn wiasva Geworansow  &brandShortName;.">
+<!ENTITY menu.updateCmd.label "Checkya rag Nowedhansow...">
+<!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY displaypane.name.browser "Goles Kwarel Dalgh">
+<!ENTITY albumartpreferences.prefpane.label "Art Kuntilow">
+<!ENTITY watch_folder.prefs.description "&brandShortName; a yll golyas dalghyow neb plegel ha keworra po dilea taklow dalhys ynni yn awtomatek.">
+<!ENTITY umsd.no_devices_present "Nyns eus devis routhstoryans USB junys.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Kettermynegi">
+<!ENTITY device.dialog.wait_for_completion.quit "Kwitya">
+<!ENTITY tooltip.browser.mediapages.list "List View">
+<!ENTITY rapi.library_read_disable.label "Let gwiasvaow erbynn gweles derivadow a-dro dhe vedia y&apos;m Lyverva ha devisow">
+<!ENTITY feedback.dialog.sentence1 "A vynnydh agan gweres dhe wellhe &brandShortName; ow kowlwul keswel kot heb ri dha hanow?">
+<!ENTITY feed.subscribe.label "Ragbrena">
+<!ENTITY tooltip.servicepane.show "Diskwedhes Kwarel Gonis">
+<!ENTITY tooltip.control.stop "Hedhi">
+<!ENTITY menu.file.remote "Ragbren Nowyth...">
+<!ENTITY menu.file.podcast "Podkast Nowyth...">
+<!ENTITY feedback.dialog.sentence2 "Mar nyns yw dhe les dhis, ny wren govyn orthis arta. Meur ras a brederi a-dro dhe hemma hag a dhevnydhya &brandShortName;!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Nyns yw henna gweythresys na hwath. (Mir orth: Pryv 14281)">
+<!ENTITY menu.edit "Chanjya">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY videowindow.title "Fenester-Gwydhyow">
+<!ENTITY menu.fullscreen "Skrin leun">
+<!ENTITY menu.file.newtab "Tab Nowyth">
+<!ENTITY feedback.dialog.sentence3 "Gorhemynadow,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Show Now Playing">
+<!ENTITY albumart.displaypane.drag_and_drop "Halya art kuntilow omma">
+<!ENTITY command.device.cancel.accesskey "H">
+<!ENTITY smart.most_often "an moyha menowgh senys">
+<!ENTITY restartbox.restartnow "Dastalleth Lemmyn">
+<!ENTITY device.unsupported_media.dialog.enable "Lavar dhymm pan vydh restrennow ankesplegadow herlerhys">
+<!ENTITY device.sync.images.selected.label "Isplegellow dewisys">
+<!ENTITY command.device.canceldevicecopy "Hedhi Dasskrifa">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY feedback.dialog.sentence4 "An Bagas &brandShortName;">
+<!ENTITY smart.title "titel">
+<!ENTITY menu.tools.reveal "Diskwedhes Restren">
+<!ENTITY menu.controllerontop "Diskwedhes dhe Benn">
+<!ENTITY about.credits.footer.beforeLink "Heb mar, ny via possybyl gul hemma heb lavur kales ha strivyansow">
+<!ENTITY device.management.tabs.tools.label "Toulys">
+<!ENTITY umsd.video.tab "Gwydheo">
+<!ENTITY trackeditor.addtag.tag "Tag:">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY command.device.canceldeviceupdate "Hedhi Nowedhans">
+<!ENTITY mediapages.firstrun.title "Dynnargh dhe &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "Full treble">
+<!ENTITY umsd.music.tab "Ilow">
+<!ENTITY tooltip.close "Degea">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Daswul">
+<!ENTITY menu.edit.findagain "Kavos Arta">
+<!ENTITY device.info.capacity.label "Dalgh">
+<!ENTITY command.device.ignoredevice.accesskey "T">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Dewis plegel...">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY menu.control.play.accesskey "S">
+<!ENTITY menu.file.open "Ygeri Restren...">
+<!ENTITY command.device.devicesync "Kettermynegi">
+<!ENTITY menu.preferences.accesskey "D">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "Pesya">
+<!ENTITY umsd.music.music_path_desc "Pan kopiir restrennow ilow dhe&apos;n devis, gorr i y&apos;n arayel a syw:">
+<!ENTITY playback.prefpane.audio_output.buffer "Divommer Mesgwor:">
+<!ENTITY menu.switchplayercontrols "Kontrolyow Senyel">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Gwitha an ganrol &brandShortName; a-lemmyn (na ymporth an kanrol ma)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Checkya rag fastweyth nowythhes">
+<!ENTITY menu.help.accesskey "G">
+<!ENTITY device.info.serial_number.label "Niver Kovskrif">
+<!ENTITY device.info.product.label "Askorras">
+<!ENTITY smart.minutes "a vynys">
+<!ENTITY menu.help.topics "Testennow Gweres">
+<!ENTITY menu.file.playlist "Ymperthi Kanrol...">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY device.tools.format_volume.button.label "Furvas">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Finwedha dhe">
+<!ENTITY menu.file.library "Ymperthi Lyverva...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "Kavos Hyns a-Lemmyn">
+<!ENTITY setupprogress.installingextensions "Owth Ynstallya Keworansow">
+<!ENTITY menu.mac.services "Gonisow">
+<!ENTITY menu.file.open.accesskey "Y">
+<!ENTITY import_library.library_file_label "Restren lyverva:">
+<!ENTITY command.device.canceldevicecopy.accesskey "H">
+<!ENTITY window.browser.titlepreface " ">
+<!ENTITY smart.matchsingle "Gwra par a&apos;n studh a syw:">
+<!ENTITY importexport_show_notifications_checkbox "Show notifications when the import/export is complete">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY device.sync.images.foldername "Hanow Plegel">
+<!ENTITY device.capacity.video.label "Gwydheo">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Restrennow ilow">
+<!ENTITY trackeditor.tab.lyrics.title "Geryow">
+<!ENTITY menu.mac.exit "Kwitya &brandShortName;">
+<!ENTITY menu.control.play.button "Seni">
+<!ENTITY hotkeys.prefpane "Botonyow Pooth">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "Our(ys)">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Gweres">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "Tremena">
+<!ENTITY export_subscriptions_itunes_checkbox "Esperthi ragbrenow">
+<!ENTITY mediacore.error.title "Gwall Kresen Vedia">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Lamma Dhe...">
+<!ENTITY menu.tools "Toulys">
+<!ENTITY device.settings.music.transcoding.label "Treuskodyans Ilow">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Dassetya">
+<!ENTITY device.info.icon.readonly "Read-only lock icon">
+<!ENTITY command.device.lookup "Lookup CD Information">
+<!ENTITY tabs.listAllTabs "Diskwedhes an tabys oll">
+<!ENTITY rapi.prefpane.access.caption "Kummyasow Kesvewnans Gwiasvaow">
+<!ENTITY menu.file.scan "Ymperthi Media...">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "Ymporthel Mediaow">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Settyansow Plegellow Golyas">
+<!ENTITY tooltip.minimize "Lehe">
+<!ENTITY smart.random "dre hap">
+<!ENTITY smart.contenttypecondition.audio "Ilow">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
+<!ENTITY watch_folder.prefs.title "Plegellow Golyas">
+<!ENTITY subscribe.autocheck "Nowedha yn awtomatek pub">
+<!ENTITY menu.control.shuf "Gwevya">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Yn-bann">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+<!ENTITY first_run.connection.settings.description "Yw dha jynn-amontya po rosweyth gwithys gans fos-tan po proksi? Ewnhe Settyansow Omjunya kamm a yll digelmi nebes problemow rosweyth kemmyn.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Golyas awtomatek rag chanjyow y&apos;n blegel a dheu">
+<!ENTITY menu.file.metadata "Gweles Metadata:::">
+<!ENTITY device.info.firmware_version.label "Versyon an Firmware">
+<!ENTITY device.info.access.label "Kesplegyans Hedhans">
+<!ENTITY tooltip.control.back "Hyns Kyns">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.controlleronbottom "Diskwedhes dhe Woles">
+<!ENTITY device.sync.sync_selected.label "Kanrolyow dewisys:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
+<!ENTITY rapi.playback_control_disable.label "Let gwiasvaow erbynn kontrolya dasseni media">
+<!ENTITY menu.file.exit.accesskey "i">
+<!ENTITY first_run.feedback.metrics.description "Dihanow yn tien yw musurow ha ny vydh derivadow personel kuntellys.">
+<!ENTITY cdrip.prefpane.label "CD Rip">
+<!ENTITY tooltip.control.mute "Dison">
+<!ENTITY smart.album "kuntilow">
+<!ENTITY playback.prefpane.units.kilobytes "kV">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kb/e">
+<!ENTITY device.tools.format_device.label "Furvasa devis">
+<!ENTITY hotkeys.remove "Removya">
+<!ENTITY tooltip.fullscreen "Skrin Leun">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY jumptofile.search "Hwilas:">
+<!ENTITY albumart.displaypane.not_selected_message "Travyth dewisys">
+<!ENTITY wizard.button.back.label "Dehweles">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "dhe ">
+<!ENTITY rapi.prefpane.access.text "Y hyllir ri kummyas dhe wiasvaow dhe gesvewa gans &brandShortName; rag gwruthyl kevren tynna ynter an gwiasvaow ha dha vedia. Rester, mar pleg, &brandShortName; rag ri po lettya kummyas dhe an poyntow a gesvewnans a syw.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
+<!ENTITY podcast.creation_dialog.title "Podkast Nowyth">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Hyns">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "dhe brojekt Mozilla.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY hotkeys.add "Keworra">
+<!ENTITY export_playlists_itunes_checkbox "Esperthi kanrolyow">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Checkya rag firmware nowyth yn awtomatek">
+<!ENTITY smart.least_recent "an kottha senys">
+<!ENTITY menu.tools.getartwork.accesskey "K">
+<!ENTITY menu.help.about "A-dro dhe Songbird...">
+<!ENTITY device.settings.general.label "Ollgemmyn">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "D">
+<!ENTITY menu.edit.findagain.key "R">
+<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
+<!ENTITY device.management.tabs.image.label "Skeusennow">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY device.info.vendor.label "Gwrier">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY sanitize.key "Dil">
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
+<!ENTITY menu.control.jumpto.accesskey "L">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY jobprogress.details "Manylyon">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY prefs.homepage.label "Pennfolen">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Degea Tab">
+<!ENTITY device.firmware.wizard.title "Nowedha Firmware">
+<!ENTITY command.device.devicesync.accesskey "K">
+<!ENTITY device.sync.images.all.label "Oll an skeusennow">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Data gwayn preferrys:">
+<!ENTITY menu.edit.find.key "V">
+<!ENTITY device.firmware.wizard.download.title "Owth iskarga fastweyth...">
+<!ENTITY cdrip.prefpane.format "Furvas">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "Dewisyansow...">
+<!ENTITY menu.file "Restren">
+<!ENTITY menu.downloadmgr.accesskey "I">
+<!ENTITY import_library.prefs.path_group_caption "Tyller Lyverva Ilow iTunes">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Hokya">
+<!ENTITY menu.file.open.key "Y">
+<!ENTITY device.settings.header.label "Settyansow">
+<!ENTITY copySelectionCmd.label "Kopia Tekst Dewisys">
+<!ENTITY feed.subscribe.close "Degea">
+<!ENTITY device.settings.disk.label "Dyghtyans Pladen">
+<!ENTITY first_run.feedback.email.header.label "Danvon Derivadow Dhymm">
+<!ENTITY equalizer.preset.custom "Custom">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Kesunya kanrolyow iTunes gans an ganrol &brandShortName; a-lemmyn">
+<!ENTITY import_tracks_itunes_checkbox "Ymperthi hynsow dhyworth iTunes">
+<!ENTITY first_run.welcome.header.label "&brandShortName; a&apos;th tynnergh">
+<!ENTITY feedback.dialog.title "Gweres Dhyn dhe Wellhe &brandShortName;">
+<!ENTITY window.yes "Mynnav">
+<!ENTITY subscribeMediaPageCmd.label "Ragbrena an Folen ma...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Hedhi">
+<!ENTITY watchfolder.folderlist "Golyas an plegellow ma rag media nowyth:">
+<!ENTITY tooltip.control.fwd "Nessa Hyns">
+<!ENTITY restartbox.restartonplaybackend "Dastalleth orth Penn Dasseni">
+<!ENTITY playback.prefpane.label "Dasseni">
+<!ENTITY command.device.canceldevicedelete.accesskey "H">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Show Now Selected">
+<!ENTITY import_library.dirty_playlist_dialog.note "Noten: Ny yllir diswul kesunya hag aslea.">
+<!ENTITY menu.control.repa "Dasseni Puptra">
+<!ENTITY jumptofile.title "Lamma dhe">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY command.device.renamedevice "Dashenwel">
+<!ENTITY smart.least_added "an kottha">
+<!ENTITY smart.contenttypecondition.video "Gwydhyow">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Iskarga dhe Lyverva">
+<!ENTITY command.device.stoprip "Stop Rip">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY first_run.add_ons.load_failed.label "Ny yllir kyrhes keworansow profys.">
+<!ENTITY first_run.feedback.description "A vynnydh agan gweres dhe wellhe &brandShortName; ow tanvon dhyn dha worvreus y&apos;n furv a vusurow dihanow a-dro dhe fatel dhevnydhydh an dowlen?">
+<!ENTITY about.credits.footer.linkText "an gevriysi">
+<!ENTITY device.tools.update_firmware.title "Nowythhe fastweyth">
+<!ENTITY locale.language "Yeth">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stop Rip">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY first_run.itunes.description "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY first_run.itunes.header.label "Ymporth/Eksporth iTunes">
+<!ENTITY albumart.coverpreview.title "Art Kuntilow">
+<!ENTITY playback.prefpane.normalization.label "Normalheans">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "U">
+<!ENTITY first_run.itunes.checkbox.export.label "Eksperthi hynsow ha kanrolyow nowyth dhe iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+<!ENTITY smart.match "Keheveli">
+<!ENTITY export_tracks_itunes_checkbox "Esperthi hynsow dhe iTunes">
+<!ENTITY cdrip.prefpane.quality "Kwalita">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Kanrol Nowyth">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "R">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

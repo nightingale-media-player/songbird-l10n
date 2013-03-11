@@ -1,0 +1,708 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Fierder">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Kopiearje muzykbestannen mei de folgjende útwreiding nei dit apparaat:">
+<!ENTITY menu.errorconsole "Flaterkonsôle">
+<!ENTITY menu.edit.paste "Plakke">
+<!ENTITY tooltip.hide "Ferstoppe">
+<!ENTITY tooltip.browser.subscription "">
+<!ENTITY smart.playlistcondition.library "Bibleteek">
+<!ENTITY menu.help.bugz "Rapportearje in bug">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Besjoch dizze map fiar wizigings">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY trackeditor.title "Metadata bewurker">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Selektearje Alles">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+<!ENTITY addMediaToPlaylistCmd.label "Laad yn nei spyullist">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "artiest">
+<!ENTITY menu.file.metadata.accesskey "T">
+<!ENTITY menu.edit.redo.accesskey "O">
+<!ENTITY mediacore.error.preface "&brandShortName; has encountered the following playback error(s):">
+<!ENTITY hotkeys.set "Ynstelle">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY fetch_album_art.dialog.title "Krij albumkeunstwurk">
+<!ENTITY menu.controls "Kontrole">
+<!ENTITY tooltip.control.resume "Fierder">
+<!ENTITY feedback.dialog.no "Nee">
+<!ENTITY equalizer.preset.party "Feestje">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY device.capacity.free.label "Frij">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY hotkeys.info "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.
+
+Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications.">
+<!ENTITY device.capacity.music.label "Muzyk">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "B">
+<!ENTITY tooltip.browser.stop "Stop browser">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "Knippe">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY subscribe.title "Abonnearje">
+<!ENTITY songbird "Songbird">
+<!ENTITY smart.window "Tûke spyllist">
+<!ENTITY openImageCmdInDefaultBrowser.label "Iepenje ôfbylding yn standert websneuper">
+<!ENTITY menu.help.about.accesskey "O">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Format Device">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "jou jo e-mailadres om by te bliuwen">
+<!ENTITY trackeditor.addtag.title "Label tafoegje">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY prefs.security.addons.label "Tafoegingsynstallaasje">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa.accesskey "a">
+<!ENTITY device.tools.product_registration.label "Register product">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Ofspylformaten">
+<!ENTITY smart.high_rating "heegste werdearring">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Ferbergje oaren">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY device.info.friendly_name.label "Namme">
+<!ENTITY device.unsupported_media.dialog.title "Ynkompatibele bestannen fûn">
+<!ENTITY cdrip.mediaview.format_label "Format: ">
+<!ENTITY about.credits.heading.translators "Oersetters">
+<!ENTITY menu.view "Byld">
+<!ENTITY menu.preferences "Opsjes...">
+<!ENTITY command.device.canceldevicedelete "Fuortsmiten annulearje">
+<!ENTITY enable_recommended_addons_update.accesskey "o">
+<!ENTITY wizard.button.finish.label "Foltôgje">
+<!ENTITY menu.file.smart.accesskey "t">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; is yn hege mate oan te passen datst by oare mediaspilers net sjochst.">
+<!ENTITY device.dialog.wait_for_completion.msg "Wachtsje op dat alle apparaten klear binne. Klik Annulearje om te stoppen mei wachtsjen en te stoppen.">
+<!ENTITY device.sync.playlist.title "Titel">
+<!ENTITY hotkeys.useglobalhotkeys "Brûk gflobale Fluchtoetsen">
+<!ENTITY subscribe.destinationfolder "Selektearje doelmap:">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY first_run.welcome.description.line2 "Dizze helper jout in flugge en effisjente manier om &brandShortName; wurkjend te krijen.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Werhelje gjin">
+<!ENTITY command.device.canceldevicesync.accesskey "S">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY about.version "Ferzje">
+<!ENTITY umsd.video.video_path_desc "When copying video files to the device, place them within the following directory:">
+<!ENTITY smart.low_rating "leegste werdearring">
+<!ENTITY device.capacity.other.label "Oare">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY setupprogress.cancel "Ofbrekke">
+<!ENTITY albumart.displaypane.selected.menu.paste "Plakke">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "Rip CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Ljepblêd slute">
+<!ENTITY menu.edit.undo "Ungedien meitsje">
+<!ENTITY first_run.add_ons.loading.label "Opheljen oanrikkemandearre tafoegings.">
+<!ENTITY command.device.formatdevice "Format">
+<!ENTITY albumart.displaypane.selected.menu.clear "Wiskje">
+<!ENTITY import_playlists_itunes_checkbox "Import music playlists">
+<!ENTITY menu.edit.cut "Knippe">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY tooltip.control.play "Start">
+<!ENTITY tooltip.browser.mediapages "">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "i">
+<!ENTITY device.info.battery.label "Batterij ">
+<!ENTITY menu.edit.delete "Fuortsmite">
+<!ENTITY import_library.dialog.title "Ymportearje in bibleteek">
+<!ENTITY jumpto.key "L">
+<!ENTITY smart.following "fan de folgjende kondysjes:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Song files">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Del">
+<!ENTITY command.device.getdeviceinfo "Krij ynfo">
+<!ENTITY rapi.library_write_disable.label "Block websites from adding/editing media and playlists in my Library and devices">
+<!ENTITY first_run.feedback.email.description "Abonneearje op ús nijsbrief om op &apos;e hichte te bliuwen oer nije útjeftes en belangrike fernijings.">
+<!ENTITY device.sync.images.filecount "Photos">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY device.sync.header.label "Syng ynstellings">
+<!ENTITY first_run.import_media.radio.dont_import.label "Gjin media ymportearje">
+<!ENTITY feedback.dialog.yes "Ja">
+<!ENTITY about.buttons.credits "Meiwurkers">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY downloadMediaCmd.accesskey "l">
+<!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY umsd.music.music_path_browse_msg "Selektearje de apparaatmap wêr&apos;t de muzykbestannen pleatst wurde moatte.">
+<!ENTITY tooltip.maximize "Maksimalisearje/Werstelle">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY window.save "Bewarje">
+<!ENTITY window.no "Nee">
+<!ENTITY tooltip.servicepane.newnode "Nije Ofspyllist">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Iepenje frame yn standert websneuper">
+<!ENTITY menu.file.newtab.accesskey "l">
+<!ENTITY menu.file.new "Nije ôfspyllist">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "i">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY watch_folder.prefs.watch_folder_label "Map:">
+<!ENTITY smart.autoupdate "Autofernijing">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
+<!ENTITY menu.help.keyboard "Toetsboerd fluchtoetsen">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Search file names:">
+<!ENTITY menu.control.prev "Foargeande nûmer">
+<!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
+<!ENTITY window.apply "Apply">
+<!ENTITY menu.file.smart "Nije tûke ôfspyllist...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "View Error Details">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "e">
+<!ENTITY menu.control.pause.button "Pauze">
+<!ENTITY trackeditor.tab.summary.title "Gearfetting">
+<!ENTITY playMediaCmd.label "Spylje">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Blêdzje tebek">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Gjin spyllisten&gt;">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY import_library.import_command "Ymportearje bibleteek">
+<!ENTITY cdrip.mediaview.view_tracks_button "Sjoch Nûmers">
+<!ENTITY window.browse "Blêdzje...">
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY smart.songs "items">
+<!ENTITY menu.tools.getartwork "Krij albumkeunstwurk...">
+<!ENTITY window.cancel "Ofbrekke">
+<!ENTITY smart.genre "genre">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY hotkeys.hotkey "Fluchtoets">
+<!ENTITY first_run.feedback.header.label "Help &brandShortName; better te meitsjen">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "Tûke spyllisten eksportearje">
+<!ENTITY device.tools.support.label "View support resources">
+<!ENTITY import_library.prefs.options_group_caption "Ymportearopsjes">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "Oan">
+<!ENTITY menu.file.remote.accesskey "a">
+<!ENTITY first_run.eula.language.label "Taal:">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
+<!ENTITY command.device.getdeviceinfo.accesskey "y">
+<!ENTITY enable_recommended_addons_update.label "Oanrikkemandearre tafoegings">
+<!ENTITY tooltip.search "Sykje">
+<!ENTITY recommended_add_ons.title "&brandShortName; ynstallaasje">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Sjochmappen">
+<!ENTITY rapi.whitelist.label "Utsûnderings...">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "Iepenje lokaasje...">
+<!ENTITY menu.downloadmgr "Ynladen bestannen...">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY first_run.itunes.checkbox.import.label "Tracks en spyllisten ymportearje fan iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "CD Ynformaasje Net Fûn">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
+<!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Rip CD">
+<!ENTITY wizard.button.cancel.label "Ofbrekke">
+<!ENTITY tooltip.control.shuffle "Troch Inoar">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "T">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY first_run.import_media.scan_directories.description "Wolle jo graach dat &brandShortName; besiket te skannen nei media yn spesifike mappen op jo kompjûter?">
+<!ENTITY device.tools.product_registration.title "Product Registration">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Eigenskippen">
+<!ENTITY rapi.playback_read_disable.label "Block websites from viewing information about playing media">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "&brandShortName; ferbergje">
+<!ENTITY device.sync.sync_all.label "Alle myzyk, fideo en spyllisten">
+<!ENTITY cdrip.mediaview.quality_label "Quality: ">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopiearje">
+<!ENTITY subscribe.days "Dei(Dagen)">
+<!ENTITY smart.least_often "minst faak spile">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
+<!ENTITY mediacore.error.stop "Stop ôfspyljen">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Dâns">
+<!ENTITY albumart.displaypane.not_playing_message "Der spilet neat">
+<!ENTITY textbox.songbird_open_url "">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Tafoegings">
+<!ENTITY menu.view.accesskey "y">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Settings">
+<!ENTITY cdrip.mediaview.settings_button "Ynstellings">
+<!ENTITY cdinfo.other.label "Add your own Artist and Album Info">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "&brandShortName; kin gjin ferbining meitsje mei it ynternet.">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Stop">
+<!ENTITY equalizer.preset.soft_rock "Sêfte rock">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Seleksje tapasse op alle spyllisten">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Fideobestannen">
+<!ENTITY tooltip.browser.fwd "Blêdzje foarút">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Tsjinstpaniel">
+<!ENTITY playback.prefpane.streaming.label "Network and Streaming">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY menu.control.repx.accesskey "g">
+<!ENTITY menu.controls.accesskey "K">
+<!ENTITY command.device.ejectcddevice "Eject CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "Smyt de CD út">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+<!ENTITY menu.tools.exportmedia "Eksportearje bibleteekwizigings">
+<!ENTITY menu.mac.preferences "Foarkarren...">
+<!ENTITY menu.mac.exit.key "o">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY menu.control.next "Folgjende nûmer">
+<!ENTITY umsd.video.video_path_browse_msg "Selektearje de apparaatmap wêr&apos;t de fideobestannen pleatst wurde moatte.">
+<!ENTITY setupprogress.pleasewait "Wachtsje asjebleaft...">
+<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY equalizer.preset.soft "Sêft">
+<!ENTITY equalizer.preset.large_hall "Grutte hal">
+<!ENTITY first_run.eula.accept_checkbox.label "Ik haw de lisinsjebetingsten lêzen en akseptearre.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+<!ENTITY smart.most_recent "meast resint spile">
+<!ENTITY command.device.ejectdevice "Utsmite">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+<!ENTITY first_run.connection.settings.button "Ferbiningsynstellings...">
+<!ENTITY import_library.prefs.title "iTunes">
+<!ENTITY hotkeys.action "Aksje">
+<!ENTITY equalizer.preset.classical "Klassyk">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY first_run.install_add_ons.title "Tafoegings ynladen">
+<!ENTITY playback.prefpane.streaming.buffer "Streaming Buffer:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Skan mappen op myn kompjûter">
+<!ENTITY menu.control.play "Sart/Pause">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY subscribe.minutes "Minu(u)te(n)">
+<!ENTITY smart.any "elke">
+<!ENTITY prefpane.content.label "Web Content">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Kampioenen">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "Streekrjocht">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Alert me when unsupported tracks or playlists are not imported">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY tooltip.control.volume "Folume">
+<!ENTITY smart.hours "oeren">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Rjochter sydbalke">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY menu.edit.accesskey "e">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "T">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY first_run.import_media.description "Selektearje hokker media jo graach ymportearje wolle yn &brandShortName;. Sa gau as &brandShortName; opstart kinne jo mear media op ferskate manieren tafoegje.">
+<!ENTITY umsd.video.video_ext_desc "Kopiearje fideobestannen mei de folgjende ekstinsje nei dit apparaat:">
+<!ENTITY smart.most_added "meast resint tafoege">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Iepenje URL">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY first_run.eula.header.label "Lisinsje-oerienkomst">
+<!ENTITY device.capacity.image.label "Photos">
+<!ENTITY about.credits.intro "Wy wolle tank sizze oan ús meiwurkers, dy&apos;t Songbird makke hawwe wat it no is. Dizze minsken hawwe holpen troch it skriuwen fan koade en dokumintaasje, en troch te testen. Se hawwe it produkt, it assosjearre ûntwiklersark, ús buildark en ús webstee makke en ûnderhâlden. Nammen wurde folge troch IRC bynammen, sa as sjoen op #songbird op irc.mozilla.org en sizze hallo!">
+<!ENTITY menu.mac.showall "Toan alles">
+<!ENTITY first_run.connection.description "Kontrolearje jo ferbiningynstellings of gean fierder mei de ynstallaasjehelper.">
+<!ENTITY equalizer.preset.full_bass "Folsleine bas">
+<!ENTITY cdrip.lookup.multiple.title "Multiple CD Records Found">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Iepenje keppeling yn standert websneuper">
+<!ENTITY first_run.add_ons.header.label "Oanrikkemandearre tafoegings">
+<!ENTITY command.device.renamedevice.accesskey "O">
+<!ENTITY first_run.feedback.metrics.label "Sammelje en stjoer myn gegevens nei it &brandShortName; tream">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Device Setup">
+<!ENTITY menu.videotofront "Video to Front">
+<!ENTITY device.management.tabs.music.label "Muzyk">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "">
+<!ENTITY add_on_bundle_installer.error_box.label "Details">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "i">
+<!ENTITY menu.tools.reveal.accesskey "b">
+<!ENTITY menu.file.exit "Ofslute">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY first_run.import_media.header.label "Ymportearje media">
+<!ENTITY tooltip.browser.home "Begjin">
+<!ENTITY equalizer.preset.small_speakers "Laptop/Koptelefoan">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Store artwork within each file&apos;s metadata">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Search file extensions:">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "alles">
+<!ENTITY playback.prefpane.normalization.enable "Brûk audio normalisaasje gegevens as beskikber">
+<!ENTITY menu.mac.hideothers.key "F">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Support">
+<!ENTITY device.sync.auto_sync.label "Syng">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY feed.subscribe.dontask "Don&apos;t automatically show this dialog again">
+<!ENTITY rapi.restore_defaults.label "Werstel standert">
+<!ENTITY playback.prefpane.audio_output.label "Audio Output">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.dialog.wait_for_completion.title "Wachtet op apparaten.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
+<!ENTITY videowindow.fullscreen "Full Screen">
+<!ENTITY tooltip.browser.refresh "Fernije">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Add-Ons...">
+<!ENTITY equalizer.preset.club "Klub">
+<!ENTITY equalizer.preset.full_bass_treble "Folsleine bas en treble">
+<!ENTITY menu.edit.copy "Kopiearje">
+<!ENTITY device.repair.menuitem.default "Repair my device">
+<!ENTITY addMediaToPlaylistCmd.accesskey "f">
+<!ENTITY tooltip.exit "Ofslute">
+<!ENTITY menu.file.accesskey "B">
+<!ENTITY first_run.title "&brandShortName; ynstallasje">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY tooltip.control.shuf_off "Shuffle út">
+<!ENTITY smart.selectedby "selektearre troch">
+<!ENTITY openPageCmdInDefaultBrowser.label "Iepenje side yn standert websneuper">
+<!ENTITY menu.control.playpause.spacebar "Spaasjebalke">
+<!ENTITY import_library.dirty_playlist_dialog.title "Spyllist wizige">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "i">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "b">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
+<!ENTITY first_run.itunes.checkbox.export.description "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
+<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
+<!ENTITY device.info.icon.device "Generic device icon">
+<!ENTITY restartbox.restartlater "Letter op &apos;e nij starte">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artyst">
+<!ENTITY cdrip.lookup.track_name "Titel">
+<!ENTITY menu.control.pause "Pauze">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY command.device.canceldevicesync "Syng annulearje">
+<!ENTITY menu.control.rep1 "Werhelje ien">
+<!ENTITY device.sync.playlist.video.duration "Video Duration">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "Webyntegraasje">
+<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY first_run.add_ons.description.line1 "Tafoegings wreidzje &brandShortName; syn funksjonaliteit út, wat it mooglik makket om de mediaspiler erfaring oan te passen. De opsje hjirûnder wurde oanrêt.">
+<!ENTITY displaypane.name.servicepane "Tsjinstskerm Underoan">
+<!ENTITY menu.clearprivatedata "Wiskje priveegegevens">
+<!ENTITY window.ok "OK">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "Fyn">
+<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
+<!ENTITY menu.updateCmd.label "Kontrolearje op fernijings...">
+<!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY displaypane.name.browser "Ynhâldskerm ûnderoan">
+<!ENTITY albumartpreferences.prefpane.label "Albumkeunst">
+<!ENTITY watch_folder.prefs.description "&brandShortName; kin de ynhâld fan in map monitoarje en automatysk items tafoegje of fuortsmite dy&apos;t dêr yn stenae.">
+<!ENTITY umsd.no_devices_present "Der binne gjin USB sticks beskiber.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Syng">
+<!ENTITY device.dialog.wait_for_completion.quit "Ofslute">
+<!ENTITY tooltip.browser.mediapages.list "List View">
+<!ENTITY rapi.library_read_disable.label "Block websites from viewing information about media in my Library and devices">
+<!ENTITY feedback.dialog.sentence1 "Wolle jo ús helpe om &brandShortName; better te meitsjen troch it ynfoljen fan in koarte fragelist? ">
+<!ENTITY feed.subscribe.label "Subscribe">
+<!ENTITY tooltip.servicepane.show "Toan tsjinstpaniel">
+<!ENTITY tooltip.control.stop "Stop">
+<!ENTITY menu.file.remote "Nij abbonnemint...">
+<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY feedback.dialog.sentence2 "As jo gjin nocht hawwe, sille wy it net op &apos;e nij freegje. Tanke foar jo omtinken en moai dat jo &brandShortName; brûke!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Noch net ymplementearre. (Sjoch bug 14281)">
+<!ENTITY menu.edit "Bewurkje">
+<!ENTITY locale.language.accesskey "T">
+<!ENTITY videowindow.title "Video Window">
+<!ENTITY menu.fullscreen "Full Screen">
+<!ENTITY menu.file.newtab "Nij ljepblêd">
+<!ENTITY feedback.dialog.sentence3 "Mei freonlike groetnis,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Show Now Playing">
+<!ENTITY albumart.displaypane.drag_and_drop "Sleepje albumkeunstwurk hjir nei ta">
+<!ENTITY command.device.cancel.accesskey "K">
+<!ENTITY smart.most_often "meast faak spile">
+<!ENTITY restartbox.restartnow "No op &apos;e nij starte">
+<!ENTITY device.unsupported_media.dialog.enable "Fertel my as de ynkompatibele bestannen fûn binne">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY command.device.canceldevicecopy "Kopiearje annulearje">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY feedback.dialog.sentence4 "It &brandShortName; Team">
+<!ENTITY smart.title "titel">
+<!ENTITY menu.tools.reveal "Toan bestân">
+<!ENTITY menu.controllerontop "Toan boppeoan">
+<!ENTITY about.credits.footer.beforeLink "Dit wie natuerlik net mooglik sûnder it hurde wurk en ynspanning fan">
+<!ENTITY device.management.tabs.tools.label "Ark">
+<!ENTITY umsd.video.tab "Fideo">
+<!ENTITY trackeditor.addtag.tag "Label:">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY command.device.canceldeviceupdate "Fernijing annulearje">
+<!ENTITY mediapages.firstrun.title "Wolkom by &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "Folsleine treble">
+<!ENTITY umsd.music.tab "Muzyk">
+<!ENTITY tooltip.close "Close">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Op &apos;e nij útfiere">
+<!ENTITY menu.edit.findagain "Fyn op &apos;e nij">
+<!ENTITY device.info.capacity.label "Kapasiteit">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "Iepenje in bestân...">
+<!ENTITY command.device.devicesync "Syng">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "Fierder">
+<!ENTITY umsd.music.music_path_desc "">
+<!ENTITY playback.prefpane.audio_output.buffer "Output Buffer:">
+<!ENTITY menu.switchplayercontrols "Ofspylknoppen">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Keep the current &brandShortName; playlist (Do not import this playlist)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Check for Updated Firmware">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY device.info.serial_number.label "Serienûmer ">
+<!ENTITY device.info.product.label "Product">
+<!ENTITY smart.minutes "minuten">
+<!ENTITY menu.help.topics "Help Topics">
+<!ENTITY menu.file.playlist "Ymportearje in ôfspyllist...">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY device.tools.format_volume.button.label "Format">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Behein oant">
+<!ENTITY menu.file.library "Ymportearje in bibleteek...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "F">
+<!ENTITY tooltip.control.curtrack "Fyn aktuele nûmer">
+<!ENTITY setupprogress.installingextensions "Tafoegings ynstallearje">
+<!ENTITY menu.mac.services "Tsjinsten">
+<!ENTITY menu.file.open.accesskey "I">
+<!ENTITY import_library.library_file_label "Bibleteekbestân:">
+<!ENTITY command.device.canceldevicecopy.accesskey "K">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Komt oerien mei de folgjende kondysje:">
+<!ENTITY importexport_show_notifications_checkbox "Show notifications when the import/export is complete">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.capacity.video.label "Fideo">
+<!ENTITY menu.control.next.accesskey "n">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Muzykbestannen">
+<!ENTITY trackeditor.tab.lyrics.title "Teksten">
+<!ENTITY menu.mac.exit "&brandShortName; ofslute">
+<!ENTITY menu.control.play.button "Spylje">
+<!ENTITY hotkeys.prefpane "Fluchtoetsen">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "Oer(en)">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Help">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "Ignore">
+<!ENTITY export_subscriptions_itunes_checkbox "Abonneminten eksportearje">
+<!ENTITY mediacore.error.title "Playback Error">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Ljep nei...">
+<!ENTITY menu.tools "Ark">
+<!ENTITY device.settings.music.transcoding.label "Music Conversion">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
+<!ENTITY device.info.icon.readonly "Read-only lock icon">
+<!ENTITY command.device.lookup "Sykje CD Ynformaasje op">
+<!ENTITY tabs.listAllTabs "Alle ljepblêden liste">
+<!ENTITY rapi.prefpane.access.caption "Web Integration Permissions">
+<!ENTITY menu.file.scan "Sykje nei media...">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "Media ymportearder">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Sjochmap ynstellings">
+<!ENTITY tooltip.minimize "Minimalisearje">
+<!ENTITY smart.random "wikseljend">
+<!ENTITY smart.contenttypecondition.audio "Muzyk">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
+<!ENTITY watch_folder.prefs.title "Sjochmap">
+<!ENTITY subscribe.autocheck "Fernij automatysk elke">
+<!ENTITY menu.control.shuf "Troch inoar">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Nei boppe">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+<!ENTITY first_run.connection.settings.description "Is jo kompjûter of netwurk beskerme troch in Firewall of proxy? It goed ynstellen fan ferbiningsynstellings kin helpe om algemiene netwurkproblemen op te lossen.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Sjoch automatysk foar wizigings yn de folgjende map">
+<!ENTITY menu.file.metadata "Toan Metadata">
+<!ENTITY device.info.firmware_version.label "Firmwareferzje">
+<!ENTITY device.info.access.label "Tagongskompatibiliteit">
+<!ENTITY tooltip.control.back "Foargeande nûmer">
+<!ENTITY menu.edit.cut.accesskey "n">
+<!ENTITY menu.controlleronbottom "Toan ûnderoan">
+<!ENTITY device.sync.sync_selected.label "Selektearre spyllisten">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "F">
+<!ENTITY wizard.button.back.accesskey "T">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
+<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback">
+<!ENTITY menu.file.exit.accesskey "O">
+<!ENTITY first_run.feedback.metrics.description "De gegevens binne folslein anonim en der wurd gjin persoanlike ynformaasje sammele.">
+<!ENTITY cdrip.prefpane.label "CD Rip">
+<!ENTITY tooltip.control.mute "Lûd út">
+<!ENTITY smart.album "album">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY menu.tools.accesskey "A">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.tools.format_device.label "Format device">
+<!ENTITY hotkeys.remove "Fuortsmite">
+<!ENTITY tooltip.fullscreen "Folslein skerm">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY jumptofile.search "Sykje:">
+<!ENTITY albumart.displaypane.not_selected_message "Neat selektearre">
+<!ENTITY wizard.button.back.label "Tebek">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "nei">
+<!ENTITY rapi.prefpane.access.text "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
+<!ENTITY podcast.creation_dialog.title "New Podcast">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Nûmer">
+<!ENTITY menu.errorconsole.accesskey "k">
+<!ENTITY about.credits.footer.afterLink "nei it Mozilla projekt.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
+<!ENTITY menu.control.rep1.accesskey "i">
+<!ENTITY hotkeys.add "Tafoegje">
+<!ENTITY export_playlists_itunes_checkbox "Spyllisten eksportearje">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
+<!ENTITY smart.least_recent "minst resint spile">
+<!ENTITY menu.tools.getartwork.accesskey "K">
+<!ENTITY menu.help.about "Oer Songbird...">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "s">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "U">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY device.info.vendor.label "Makker">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY sanitize.key "Del">
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
+<!ENTITY menu.control.jumpto.accesskey "L">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY jobprogress.details "Details">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY prefs.homepage.label "Begjinside">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Ljepblêd slute">
+<!ENTITY device.firmware.wizard.title "Update Firmware">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY cdrip.prefpane.format "Format">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "Foarkarren...">
+<!ENTITY menu.file "Bestân">
+<!ENTITY menu.downloadmgr.accesskey "Y">
+<!ENTITY import_library.prefs.path_group_caption "Lokaasje iTunse muzykbibleteek">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Pause">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Settings">
+<!ENTITY copySelectionCmd.label "Kopiearje selektearre tekst">
+<!ENTITY feed.subscribe.close "Close">
+<!ENTITY device.settings.disk.label "Disk Management">
+<!ENTITY first_run.feedback.email.header.label "Hâld my op &apos;e hichte">
+<!ENTITY equalizer.preset.custom "Oanpast">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Merge the current &brandShortName; and iTunes playlists">
+<!ENTITY import_tracks_itunes_checkbox "Import music tracks from iTunes">
+<!ENTITY first_run.welcome.header.label "Wolkom by &brandShortName;">
+<!ENTITY feedback.dialog.title "Help &brandShortName; better te meitsjen!">
+<!ENTITY window.yes "Ja">
+<!ENTITY subscribeMediaPageCmd.label "">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Ofbrekke">
+<!ENTITY watchfolder.folderlist "Besjoch dizze mappen foar nije media:">
+<!ENTITY tooltip.control.fwd "Folgjende nûmer">
+<!ENTITY restartbox.restartonplaybackend "">
+<!ENTITY playback.prefpane.label "Nochris">
+<!ENTITY command.device.canceldevicedelete.accesskey "F">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Show Now Selected">
+<!ENTITY import_library.dirty_playlist_dialog.note "Tink derom: Gearfoegje en ferfange kin net ûngedien makke wurde.">
+<!ENTITY menu.control.repa "Werhelje alles">
+<!ENTITY jumptofile.title "Ljep nei">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY command.device.renamedevice "Omneame">
+<!ENTITY smart.least_added "minst resint tafoege">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Laad yn nei bibleteek">
+<!ENTITY command.device.stoprip "Stop Rip">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY first_run.add_ons.load_failed.label "Net yn steat onarikkemandearre tafoegings op te heljen">
+<!ENTITY first_run.feedback.description "Wolle jo ús helpe om &brandShortName; better te meitsjen troch ús feedback te stjoeren yn de foarm fan anonime gegevens oer hoe&apos;t jo de applikaasje brûke?">
+<!ENTITY about.credits.footer.linkText "de meiwurkers">
+<!ENTITY device.tools.update_firmware.title "Update Firmware">
+<!ENTITY locale.language "Taal">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stop Rip">
+<!ENTITY copySelectionCmd.accesskey "k">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY first_run.itunes.description "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "m">
+<!ENTITY first_run.itunes.header.label "iTunes ymport/eksport">
+<!ENTITY albumart.coverpreview.title "Albumkeunst">
+<!ENTITY playback.prefpane.normalization.label "Normalisaasje">
+<!ENTITY menu.mac.hide.key "f">
+<!ENTITY menu.file.url.accesskey "k">
+<!ENTITY first_run.itunes.checkbox.export.label "Nij e tracks en spyllisten eksportearje nei iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+<!ENTITY smart.match "Oerienkommend">
+<!ENTITY export_tracks_itunes_checkbox "Nûmers eksportearje nei iTunes">
+<!ENTITY cdrip.prefpane.quality "Kwaliteit">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nije Ofspyllist">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "e">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

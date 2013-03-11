@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em;">
+<!ENTITY paneSecurity.title "Güvenlik">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em;">
+<!ENTITY paneApplications.title "Uygulamalar">
+<!ENTITY paneContent.title "İçerik">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Tercihleri">
+<!ENTITY prefWindow.titleWin "Seçenekler">
+<!ENTITY paneTabs.title "Sekmeler">
+<!ENTITY paneAdvanced.title "Gelişmiş">
+<!ENTITY panePrivacy.title "Gizlilik">
+<!ENTITY paneGeneral.title "Ana">
+

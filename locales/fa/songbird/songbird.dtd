@@ -1,0 +1,708 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "ادامه">
+<!ENTITY umsd.prefpane "یو اس بی">
+<!ENTITY umsd.music.music_ext_desc "موزیک ها با این پسوندها را به دستگاه کپی کن">
+<!ENTITY menu.errorconsole "کنسول خطا">
+<!ENTITY menu.edit.paste " چسباندن">
+<!ENTITY tooltip.hide "پنهان کن">
+<!ENTITY tooltip.browser.subscription "عضویت در این صفحه">
+<!ENTITY smart.playlistcondition.library "کتابخانه">
+<!ENTITY menu.help.bugz "گزارش باگ">
+<!ENTITY first_run.import_media.scan_directories.watch.label "تغییرات  این فولدر را در نظر بگیر">
+<!ENTITY equalizer.band3.label "۲۵۰">
+<!ENTITY videowindow.actualsize "اندازه حقیقی">
+<!ENTITY trackeditor.title "ویرایشگر متدیتا">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "انتخاب همه">
+<!ENTITY device.tools.restore_device.label "بازگردانی تنظیمات کارخانه وسیله">
+<!ENTITY addMediaToPlaylistCmd.label "بارگذاری در فهرست پخش">
+<!ENTITY equalizer.band9.label "۱۶K">
+<!ENTITY smart.artist "هنرمند">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY mediacore.error.preface "&brandShortName; خطاهای پخش زیر را پیدا کرد:">
+<!ENTITY hotkeys.set "تنظیم">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "انکدری برای وسیله فعلی موجود نیست">
+<!ENTITY fetch_album_art.dialog.title "دریافت طرح آلبوم">
+<!ENTITY menu.controls "Controls">
+<!ENTITY tooltip.control.resume "ادامه بده">
+<!ENTITY feedback.dialog.no "خیر">
+<!ENTITY equalizer.preset.party "پارتی">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "انتخاب یک افزونه از">
+<!ENTITY device.capacity.free.label "فضای آزاد">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY hotkeys.info "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.
+
+Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications.">
+<!ENTITY device.capacity.music.label "موسیقی">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "توقف مرورگر">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "۳۲">
+<!ENTITY albumart.displaypane.selected.menu.cut "برداشتن">
+<!ENTITY cdrip.prefpane.providers.title "مراجعه به ارائه دهنده سی دی ">
+<!ENTITY subscribe.title "اشتراک">
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY smart.window "فهرست پخش هوشمند">
+<!ENTITY openImageCmdInDefaultBrowser.label "باز کردن تصویر در مرورگر پیش فرض">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "فرمت دستگاه">
+<!ENTITY device.tools.reset_warnings.label "بازنشانی پیغام های هشدار">
+<!ENTITY cdrip.prefpane.quality_desc "تنظیم کیلوبیت بر ثانیه بیشتر باعث می شود کیفیت و حجم فایل بالاتر رود">
+<!ENTITY equalizer.band6.label "۲K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "آدرس ایمیل خود را برای دریافت خبرهای تازه وارد نمایید">
+<!ENTITY trackeditor.addtag.title "اضافه کردن برچسب">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY prefs.security.addons.label "نصب افزونه">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY device.tools.product_registration.label "ثبت محصول">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "پسوندها را که با کاما از هم جدا شده اند وارد کنید">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "فرمت پخش">
+<!ENTITY smart.high_rating "بالاترین امتیاز">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "مخفی کردن سایرین">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY device.info.friendly_name.label "اسم">
+<!ENTITY device.unsupported_media.dialog.title "فایل های ناسازگار شناسایی شدند">
+<!ENTITY cdrip.mediaview.format_label "فرمت:">
+<!ENTITY about.credits.heading.translators "مترجمان">
+<!ENTITY menu.view "View">
+<!ENTITY menu.preferences "اختیارات...">
+<!ENTITY command.device.canceldevicedelete "انصراف از حذف">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "پایان">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
+<!ENTITY device.dialog.wait_for_completion.msg "منتظر تمام شدن تمام عملیات دستگاه. روی &apos;خروج&apos; کلیک کنید تا این انتظار قطع شود و از برنامه خارج شوید">
+<!ENTITY device.sync.playlist.title "عنوان">
+<!ENTITY hotkeys.useglobalhotkeys "از میانبر های عمومی استفاده کن">
+<!ENTITY subscribe.destinationfolder "پوشه‌ی مقصد را انتخاب کنید:">
+<!ENTITY playqueue.label "پخش کردن صف">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY first_run.welcome.description.line2 "دستیار راهی است سریع و موثر برای راه اندازی و اجرا.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "تکرار هیچکدام">
+<!ENTITY command.device.canceldevicesync.accesskey "S">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY about.version "نسخه">
+<!ENTITY umsd.video.video_path_desc "وقتی به دستگاه ویدیو کپی می کنی آنها را در این شاخه بریز">
+<!ENTITY smart.low_rating "کمترین امتیاز">
+<!ENTITY device.capacity.other.label "دیگر">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY setupprogress.cancel "انصراف">
+<!ENTITY albumart.displaypane.selected.menu.paste "چسباندن">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "ریپ سی دی">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "بستن زبانه">
+<!ENTITY menu.edit.undo "برگشتن">
+<!ENTITY first_run.add_ons.loading.label "بازیابی افزونه‌های توصیه شده">
+<!ENTITY command.device.formatdevice "فرمت">
+<!ENTITY albumart.displaypane.selected.menu.clear "پاک">
+<!ENTITY import_playlists_itunes_checkbox "ورود لیست پخش های موسیقی">
+<!ENTITY menu.edit.cut "بریدن">
+<!ENTITY mediaimporter.filtered_extensions.title "اعلان ورود مدیا">
+<!ENTITY tooltip.control.play "پخش">
+<!ENTITY tooltip.browser.mediapages "تغییر نوع نمایش...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "باتری">
+<!ENTITY menu.edit.delete "حذف">
+<!ENTITY import_library.dialog.title "یک آرشیو اضافه کن">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "در شرایط:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "فایل های آهنگ">
+<!ENTITY about.credits.description.champs.link.post "آنها پرکارترین افراد در فروم هایمان می باشند،و بدون خستگی تلاش می کنند تا ضامن خوشحالی همه کاربران سانگبرد باشند">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "ویدیو">
+<!ENTITY albumartpreferences.prefpane.priorities.down "پايين">
+<!ENTITY command.device.getdeviceinfo "دریافت اطلاعات">
+<!ENTITY rapi.library_write_disable.label "Block websites from adding/editing media and playlists in my Library and devices">
+<!ENTITY first_run.feedback.email.description "برای آگاهی از انتشارها و به روزرسانی‌های مهم در خبرنامه عضو شوید.">
+<!ENTITY device.sync.images.filecount "تصاویر">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "درصورتی که نمیخواهید &brandShortName; را مدیریت کنید میتوانید">
+<!ENTITY device.sync.header.label "تنظیمات همگاه سازی">
+<!ENTITY first_run.import_media.radio.dont_import.label "آهنگی وارد نکن">
+<!ENTITY feedback.dialog.yes "بله">
+<!ENTITY about.buttons.credits "سازندگان">
+<!ENTITY device.firmware.wizard.check.progress.title " چک کردن سیستم عامل به روز شده ...">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "شما می توانید نام هنرمند و آلبوم را در اینجا اضافه کنید.شما می توانید باقی اطلاعات را در داخل لیست تبدیل سی دی ویرایش کنید">
+<!ENTITY umsd.music.music_path_browse_msg "شاخه ای از دستگاه را برای ریختن موزیک انتخاب کنید">
+<!ENTITY tooltip.maximize "بزرگ/برگشتن">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "تالار گفتگوی پشتیبانی سانگبرد">
+<!ENTITY window.save "ذخیره">
+<!ENTITY window.no "خیر">
+<!ENTITY tooltip.servicepane.newnode "فهرست پخش جدید">
+<!ENTITY openFrameCmdInDefaultBrowser.label "باز کردن فریم در مرورگر پیش فرض">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.new "فهرست پخش جدید">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY watch_folder.prefs.watch_folder_label "پوشه">
+<!ENTITY smart.autoupdate "به روزرسانی خودکار">
+<!ENTITY playback.prefpane.ratings.enablewriting "اطلاعات رده بندی را در متادیتای هر فایل ذخیره کن.">
+<!ENTITY menu.help.keyboard "میانبرهای کیبورد">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "جستجو در نام فايل ها:">
+<!ENTITY menu.control.prev "آهنگ قبلی">
+<!ENTITY device.firmware.wizard.support.description "منابع پشتیبانی نظیر سوالات رایج و نکات رفع خطا را میتوانید اینجا پیدا کنید:">
+<!ENTITY window.apply "اعمال">
+<!ENTITY menu.file.smart "فهرست پخش هوشمند جدید...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "مشاهده جزئیات خطا ها">
+<!ENTITY device.firmware.wizard.install.title "نصب سیستم عامل دستگاه ...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "S">
+<!ENTITY menu.control.pause.button "مکث">
+<!ENTITY trackeditor.tab.summary.title "چکیده">
+<!ENTITY playMediaCmd.label "پخش">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "عقب رفتن">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "بدون فهرست پخش">
+<!ENTITY equalizer.title "اکولایزر">
+<!ENTITY import_library.import_command "وارد کردن کتابخانه">
+<!ENTITY cdrip.mediaview.view_tracks_button "مشاهده تِرَک ها">
+<!ENTITY window.browse "مرور">
+<!ENTITY device.tools.restore_device.title "بازیابی وسیله">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "لیستی از گیرنده را که می خواهید قبل از همه استفاده شود را انتخاب کنید">
+<!ENTITY mediacore.error.codec_not_found.text.pre "برای کسب اطلاعات بیشتر در مورد کدک های گم شده، مراجعه کنید">
+<!ENTITY displaypane.default.image.post "منو و یا مشاهده ">
+<!ENTITY smart.songs "مورد">
+<!ENTITY menu.tools.getartwork "دریافت طرح آلبوم">
+<!ENTITY window.cancel "انصراف">
+<!ENTITY smart.genre "سبک">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY hotkeys.hotkey "کلید میانبر">
+<!ENTITY first_run.feedback.header.label "برای بهبود &brandShortName; کمک کنید">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "خارج کردن فهرست پخش موزیک هوشمند">
+<!ENTITY device.tools.support.label "مشاهده منابع قابل پشتیبانی">
+<!ENTITY import_library.prefs.options_group_caption "وارد کردن تنظیمات">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "روشن">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY first_run.eula.language.label " زبان:">
+<!ENTITY device.settings.disk.management.label "شخصی سازی ساختار دایرکتوری">
+<!ENTITY cdrip.lookup.multiple.description "یکی از اینها را انتخاب کنید یا مورد خودتان را اضافه کنید">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "افزونه‌های پیشنهادی">
+<!ENTITY tooltip.search "جستجو">
+<!ENTITY recommended_add_ons.title "نصب  &brandShortName;">
+<!ENTITY menu.file.library.accesskey "Y">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "بر پوشه‌ها نظارت داشته باش">
+<!ENTITY rapi.whitelist.label "استثناها">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "باز کردن آدرس...">
+<!ENTITY menu.downloadmgr "دانلودها...">
+<!ENTITY device.settings.auto_launch.checkbox.label "&brandShortName; را زمانی که شناخته شد باز کن">
+<!ENTITY first_run.itunes.checkbox.import.label "ورود ترک ها و لیست پخش های موسیقی از آیتونز">
+<!ENTITY cdrip.lookup.info_not_found.title "اطلاعات سی دی پیدا نشد">
+<!ENTITY equalizer.band2.label "۱۲۵">
+<!ENTITY mediacore.error.dontshowme "خطاهای پخش بیشتر را نشان نده">
+<!ENTITY device.firmware.wizard.repair.warning "متاسفانه تمام محتویات وسیله شما حذف خواهد شد. توصیه میشود عمل همزمان سازی با &brandShortName; را پس از پایان عملیات اجرا کنید.">
+<!ENTITY cdrip.mediaview.rip_cd_button "ریپ سی دی">
+<!ENTITY wizard.button.cancel.label "انصراف">
+<!ENTITY tooltip.control.shuffle "بر زدن">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY displaypane.default.image.tooltip "آیکن انتخاب افزونه">
+<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
+<!ENTITY device.tools.product_registration.title "ثبت محصول">
+<!ENTITY equalizer.band8.label "۸K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "مشخصات">
+<!ENTITY rapi.playback_read_disable.label "مسدود کردن سایت ها از نمایش اطلاعات درباره مدیای درحال پخش">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "پنهان کردن &brandShortName;">
+<!ENTITY device.sync.sync_all.label "همزمان سازی تمام موسیقی،ویدئو و فهرست‌ پخش‌ها">
+<!ENTITY cdrip.mediaview.quality_label "کیفیت">
+<!ENTITY albumart.displaypane.selected.menu.copy "کپی">
+<!ENTITY subscribe.days "روز">
+<!ENTITY smart.least_often "کمتر از همه پخش شده">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "آلبوم">
+<!ENTITY albumartpreferences.prefpane.priorities.label "اولویت های دریافت کننده">
+<!ENTITY mediacore.error.stop "قطع پخش">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "رقص">
+<!ENTITY albumart.displaypane.not_playing_message "چیزی برای پخش وجود ندارد">
+<!ENTITY textbox.songbird_open_url "آدرس فایلی که میخواهید پخش شود وارد کنید:">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "افزونه ها">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "تنطیمات">
+<!ENTITY cdrip.mediaview.settings_button "تنظیمات">
+<!ENTITY cdinfo.other.label "اطلاعات هنرمند و آلبوم خود را وارد کنید">
+<!ENTITY equalizer.band5.label "۱K">
+<!ENTITY first_run.connection.header.label "&brandShortName; قادر به اتصال به اینترنت نیست">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "دست نگهدار">
+<!ENTITY equalizer.preset.soft_rock "راک آرام">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "اعمال انتخاب شده ها به تمام فهرست های پخش">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "فایل‌های تصویری">
+<!ENTITY tooltip.browser.fwd "جلو رفتن">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "کادر سرویس ها">
+<!ENTITY playback.prefpane.streaming.label "شبکه و پخش">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "این وسیله را نادیده بگیر">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY command.device.ejectcddevice "خارج کردن سی دی">
+<!ENTITY cdrip.mediaview.eject_cd_button "خروج سی دی">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "درنظر نگرفتن دستگاه">
+<!ENTITY tooltip.displaypane.options "گزینه های پنجره محتوا">
+<!ENTITY menu.tools.exportmedia "خروج تغییرات کتابخانه">
+<!ENTITY menu.mac.preferences "تنظیمات ...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "جایگزینی &brandShortName; فعلی با فهرست پخش فعلی آیتونز">
+<!ENTITY device.tools.reset_warnings.title "بازنشانی هشدارها">
+<!ENTITY about.credits.description.champs.link.pre "قهرمانان سانگبرد کاربران و طرفداران سخت جانی هستند که فراتر از وظیفه شان برای کمک به سایر کاربران سانگبرد در">
+<!ENTITY menu.control.next "آهنگ بعدی">
+<!ENTITY umsd.video.video_path_browse_msg "شاخه ای از دستگاه را برای ریختن ویدیو انتخاب کنید">
+<!ENTITY setupprogress.pleasewait "... لطفا صبر کنید">
+<!ENTITY menu.help.homepage "وبسایت سانگبرد">
+<!ENTITY equalizer.preset.soft "آرام">
+<!ENTITY equalizer.preset.large_hall "تالتر بزرگ">
+<!ENTITY first_run.eula.accept_checkbox.label "توافق نامه را خوانده‌ام و با مفاد آن موافقم.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "فقط درصورتی انتخاب کنید که نمیخواهید &brandShortName; را مدیریت کنید">
+<!ENTITY smart.most_recent "به تازگی پخش شده">
+<!ENTITY command.device.ejectdevice "بیرون انداختن">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "درباره فرمت های پشتیبانی نشده هنگام وارد کردن پیغامی نده">
+<!ENTITY first_run.connection.settings.button "تنظیمات اتصال...">
+<!ENTITY import_library.prefs.title "آیتیونز">
+<!ENTITY hotkeys.action "عملکرد">
+<!ENTITY equalizer.preset.classical "کلاسیک">
+<!ENTITY device.sync.images.from.label "همگام سازی عکس ها از:">
+<!ENTITY first_run.install_add_ons.title "افزونه‌های در حال دانلود">
+<!ENTITY playback.prefpane.streaming.buffer "بافر استریم:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "پوشه‌های کامپیوترم را پویش کن">
+<!ENTITY menu.control.play "پخش">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "مدیریت مدیا حذف شده است.">
+<!ENTITY subscribe.minutes "دقیقه">
+<!ENTITY smart.any "هر">
+<!ENTITY prefpane.content.label "محتوای وب">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "قهرمانان">
+<!ENTITY equalizer.preset.rock "راک">
+<!ENTITY equalizer.preset.live "زنده">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "زمانی که تِرک ها یا فهرست های پخش پشتیبانی نشده وارد شد به من هشدار بده.">
+<!ENTITY device.import.header.label "وارد کردن">
+<!ENTITY tooltip.control.volume "تنظیم صدا">
+<!ENTITY smart.hours "ساعت">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "پنل سمت راست">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "وسیله باید برای ادامه در حالت ترمیم متصل شود. لطفاً دستورات زیر را پیروی کنید تا در حالت ترمیم قرار بگیرید.">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY first_run.import_media.description "Select what media you&apos;d like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
+<!ENTITY umsd.video.video_ext_desc "ویدیوها با این پسوندها را به دستگاه کپی کن">
+<!ENTITY smart.most_added "به تازگی اضافه شده">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "باز کردن URL">
+<!ENTITY menu.edit.paste.accesskey "G">
+<!ENTITY first_run.eula.header.label "توافق نامه">
+<!ENTITY device.capacity.image.label "تصاویر">
+<!ENTITY about.credits.intro "بسیار خورسندیم تا از عزیزانی تشکر کنیم که در برنامه نویسی و مستند سازی و همچنین تست این برنامه مارا یاری دادند . نام آنها با IRC  و همراه با #song bird در بخش irc.mozila.org موجود است">
+<!ENTITY menu.mac.showall "نمایش همه">
+<!ENTITY first_run.connection.description "تنظیمات ارتباط خود را چک کنید و یا با دستیار راه اندازی ادامه دهید.">
+<!ENTITY equalizer.preset.full_bass "بم تمام">
+<!ENTITY cdrip.lookup.multiple.title "چند سابقه سی دی  پیدا شد">
+<!ENTITY openLinkCmdInDefaultBrowser.label "باز کردن پیوند در مرورگر پیش فرض">
+<!ENTITY first_run.add_ons.header.label "افزونه‌های پیشنهادی">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY first_run.feedback.metrics.label "متریک های مرا دریافت و به تیم &brandShortName; ارسال کن">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "تنظیم دستگاه">
+<!ENTITY menu.videotofront "ویدئو در پیش">
+<!ENTITY device.management.tabs.music.label "موسیقی">
+<!ENTITY equalizer.preset.pop "پاپ">
+<!ENTITY subscribeMediaFrameCmd.label "عضویت در این فریم...">
+<!ENTITY add_on_bundle_installer.error_box.label "جزئیات">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.exit "خروج">
+<!ENTITY device.sync.images.all.template "همه عکس ها (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY first_run.import_media.header.label "وارد کردن آهنگ">
+<!ENTITY tooltip.browser.home "خانه">
+<!ENTITY equalizer.preset.small_speakers "لپ تاپ/گوشی">
+<!ENTITY cdrip.lookup.info_not_found.album "آلبوم">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "ثبت کاور آلبوم در اطلاعات اضافی">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "جستجو در پسوند فایل ها:">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "همه">
+<!ENTITY playback.prefpane.normalization.enable "در صورت امکان ازاطلاعات نرمالسازی صوتی استفاده کن">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY displaypane.default.link.text "سایت افزونه ها">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "پشتیبانی">
+<!ENTITY device.sync.auto_sync.label "همگاه سازی">
+<!ENTITY device.info.model.label "مدل">
+<!ENTITY feed.subscribe.dontask "این پنجره را دیگر بصورت اتوماتیک نمایش نده">
+<!ENTITY rapi.restore_defaults.label "به حالت پیش فرض برگردان">
+<!ENTITY playback.prefpane.audio_output.label "خروجی صدا">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.dialog.wait_for_completion.title "منتظر دستگاه ">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "دریافت خودکار طرح آلبوم زمانی که تِرک پخش شده یا انتخاب شده است وابسته به حالت طرح آلبومی که در محدوده نمایش وجود دارد. بازدهی ممکن است زمانی که این ویژگی فعال است پایین بیاید.">
+<!ENTITY device.firmware.wizard.check.already.description "سیستم عامل دستگاهتان در حال حاضر به روز است.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "تنظیمات ریپ سی دی">
+<!ENTITY videowindow.fullscreen "تمام صفحه">
+<!ENTITY tooltip.browser.refresh "رفرش">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "افزونه‌ها...">
+<!ENTITY equalizer.preset.club "انجمنی">
+<!ENTITY equalizer.preset.full_bass_treble "بم تمام و صدای زیر">
+<!ENTITY menu.edit.copy "کپی">
+<!ENTITY device.repair.menuitem.default "دستگاه مرا اصلاح کن">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY tooltip.exit "خارج شدن">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "نصب &brandShortName;">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "تعیین bitrate و فرمت بصورت دستی">
+<!ENTITY tooltip.control.shuf_off "بر زدن خاموش">
+<!ENTITY smart.selectedby "انتخاب شده با">
+<!ENTITY openPageCmdInDefaultBrowser.label "باز کردن صفحه در مرورگر پیش فرض">
+<!ENTITY menu.control.playpause.spacebar "Spacebar">
+<!ENTITY import_library.dirty_playlist_dialog.title "فهرست پخش تغییر کرد">
+<!ENTITY equalizer.preset.techno "تکنو">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY device.tools.update_firmware.current_firmware.title "نسخه فعلی سیستم عامل:">
+<!ENTITY first_run.itunes.checkbox.export.description "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
+<!ENTITY device.tools.update_firmware.label "بررسی سیستم عامل به روز تر">
+<!ENTITY device.info.icon.device "آیکون دستگاه Generic ">
+<!ENTITY restartbox.restartlater "بعدا راه اندازی مجدد کن">
+<!ENTITY first_run.app_update.finished.text "بروزرسانی مورد نظر نصب خواهد شد به هنگام شروع دوباره &brandShortName; ">
+<!ENTITY cdrip.lookup.info_not_found.artist "هنرمند">
+<!ENTITY cdrip.lookup.track_name "عنوان">
+<!ENTITY menu.control.pause "مکث">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY device.firmware.wizard.repair.time.description "این فرایند کمتر از 5 دقیقه طول خواهد کشید.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "دریافت خودکار طرح آلبوم">
+<!ENTITY command.device.canceldevicesync "توقف همگاه سازی">
+<!ENTITY menu.control.rep1 "تکرار یک آهنگ">
+<!ENTITY device.sync.playlist.video.duration "مدت ویدئو">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "یکی شدن با وب">
+<!ENTITY menu.equalizer "اکولایزر...">
+<!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;&apos;s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
+<!ENTITY displaypane.name.servicepane "نمایش دهنده سرویس پایین">
+<!ENTITY menu.clearprivatedata "پاک کردن اطلاعات شخصی...">
+<!ENTITY window.ok "تائید">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "یافتن">
+<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
+<!ENTITY menu.updateCmd.label "بررسی وجود به روزرسان">
+<!ENTITY device.firmware.wizard.check.error.description " خطایی در حال چک کردن سیستم عامل جدیدتان وجود دارد  پس از صحت اتصال شبکه تان دوباره سعی کنید.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY displaypane.name.browser "نمایش دهنده پایین">
+<!ENTITY albumartpreferences.prefpane.label "طرح آلبوم">
+<!ENTITY watch_folder.prefs.description "&brandShortName; میتواند محتوای یک فولدر یا زیر نظر بگیرد و به صورت خودکار محتوایی به آن بیفزاید یا از آن حذف کند.">
+<!ENTITY umsd.no_devices_present "هیچ حافظه ای با یو اس بی متصل نشده">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "همگام سازی">
+<!ENTITY device.dialog.wait_for_completion.quit "خروج">
+<!ENTITY tooltip.browser.mediapages.list "نمایش لیستی">
+<!ENTITY rapi.library_read_disable.label "به سایت‌ها اجازه دیدن اطلاعات رسانه‌ها و کتابخانه مرا نده">
+<!ENTITY feedback.dialog.sentence1 "آیا مایل هستید در بهینه سازی &brandShortName; از طریق بازبینی ساده و سریع به شریک شوید؟">
+<!ENTITY feed.subscribe.label "اشتراک">
+<!ENTITY tooltip.servicepane.show "نمایش قاب سرویس">
+<!ENTITY tooltip.control.stop "توقف">
+<!ENTITY menu.file.remote "اشتراک جدید">
+<!ENTITY menu.file.podcast "پادکست جدید...">
+<!ENTITY feedback.dialog.sentence2 "If you&apos;re not interested, we will not ask you again.  Thanks for considering and we appreciate you using &brandShortName;!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "درحال حاضر پیاده سازه نشده (باگ شماره 14281 را مشاهده کنید)">
+<!ENTITY menu.edit "Edit">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY videowindow.title "پنجره ویدئو">
+<!ENTITY menu.fullscreen "تمام صفحه">
+<!ENTITY menu.file.newtab "باز کردن زبانه">
+<!ENTITY feedback.dialog.sentence3 "با احترام">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "نمایش در حال پخش">
+<!ENTITY albumart.displaypane.drag_and_drop "طرح آلبوم را اینجا بکشید">
+<!ENTITY command.device.cancel.accesskey "S">
+<!ENTITY smart.most_often "بیشتر از همه پخش شده">
+<!ENTITY restartbox.restartnow "همین حالا راه اندازی مجدد کن">
+<!ENTITY device.unsupported_media.dialog.enable "هرگاه فایل‌های ناهمخوان پیدا کردی به من خبر بده">
+<!ENTITY device.sync.images.selected.label "زیرپوشه های انتخاب شده">
+<!ENTITY command.device.canceldevicecopy "توقف کپی">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "انتخاب کنید که چه منبعی را &brandShortName; باید مدیریت کند:">
+<!ENTITY feedback.dialog.sentence4 "تیم &brandShortName;">
+<!ENTITY smart.title "عنوان">
+<!ENTITY menu.tools.reveal "نمایش فایل">
+<!ENTITY menu.controllerontop "در بالا">
+<!ENTITY about.credits.footer.beforeLink "بی شک هیچ کدام از این دستاوردها بدون سعی و تلاش زیاد میسر نبود. ">
+<!ENTITY device.management.tabs.tools.label "ابزارها">
+<!ENTITY umsd.video.tab "ویدیو">
+<!ENTITY trackeditor.addtag.tag "برچسب:">
+<!ENTITY device.settings.music.transcoding.format.label "قالب رمزگذاری">
+<!ENTITY command.device.canceldeviceupdate "توقف به روز رسانی">
+<!ENTITY mediapages.firstrun.title "به &brandShortName; خوش آمدید">
+<!ENTITY equalizer.preset.full_treble "تمام صدای زیر">
+<!ENTITY umsd.music.tab "موسیقی">
+<!ENTITY tooltip.close "بستن">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Redo">
+<!ENTITY menu.edit.findagain "یافتن دوباره">
+<!ENTITY device.info.capacity.label "ظرفیت">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "انتخاب پوشه...">
+<!ENTITY displaypane.default.link.post "برای بررسی افزونه ها.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "باز کردن فایل...">
+<!ENTITY command.device.devicesync "همگام سازی">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "ادامه">
+<!ENTITY umsd.music.music_path_desc "وقتی به دستگاه موزیک کپی می کنی آنها را در این شاخه بریز">
+<!ENTITY playback.prefpane.audio_output.buffer "بافر خروجی:">
+<!ENTITY menu.switchplayercontrols "حالت نمایش نوار کنترل">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Keep the current &brandShortName; playlist (Do not import this playlist)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "بررسی سیستم عامل به روز شده">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY device.info.serial_number.label "شماره سریال">
+<!ENTITY device.info.product.label "محصول">
+<!ENTITY smart.minutes "دقیقه">
+<!ENTITY menu.help.topics "عنوان‌های بخش کمک رسانی">
+<!ENTITY menu.file.playlist "وارد کردن فهرست پخش">
+<!ENTITY first_run.app_update.finished.title "بروزرسانی آماده اعمال">
+<!ENTITY device.tools.format_volume.button.label "فرمت">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "محدود کن به ">
+<!ENTITY menu.file.library "وارد کردن یک کتابخانه...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "این آهنگ را پیدا کن">
+<!ENTITY setupprogress.installingextensions "در حال نصب افزونه">
+<!ENTITY menu.mac.services "سرویس ها">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY import_library.library_file_label "فایل کتابخانه:">
+<!ENTITY command.device.canceldevicecopy.accesskey "S">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "بر اساس شرایط زیر مطابقت بده">
+<!ENTITY importexport_show_notifications_checkbox "زمانی که ورود/خروج کامل شد اعلان را نشان بده">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY device.sync.images.foldername "نام پوشه">
+<!ENTITY device.capacity.video.label "ویدیو">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY equalizer.band4.label "۵۰۰">
+<!ENTITY umsd.music.music_files_group "فایل‌های موسیقی">
+<!ENTITY trackeditor.tab.lyrics.title "متن ترانه">
+<!ENTITY menu.mac.exit "خارج &brandShortName;">
+<!ENTITY menu.control.play.button "پخش">
+<!ENTITY hotkeys.prefpane "کلیدهای میانبر">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "ساعت">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "کمک">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "نادیده گرفتن">
+<!ENTITY export_subscriptions_itunes_checkbox "خارج کردن عضویت ها">
+<!ENTITY mediacore.error.title "خطا در پخش">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "پرش به">
+<!ENTITY menu.tools "ابزارها">
+<!ENTITY device.settings.music.transcoding.label "تبدیل موزیک">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "ریست">
+<!ENTITY device.info.icon.readonly "آیکن قفل فقط خواندنی">
+<!ENTITY command.device.lookup "بررسی اطلاعات سی دی">
+<!ENTITY tabs.listAllTabs "فهرست کردن تمام زبانه‌ها">
+<!ENTITY rapi.prefpane.access.caption "مجوز یکی شدن با وب">
+<!ENTITY menu.file.scan "وارد کردن آهنگ">
+<!ENTITY equalizer.band1.label "۶۴">
+<!ENTITY import_media.prefs.title "واردکننده رسانه">
+<!ENTITY device.firmware.wizard.download.error.description " خطایی در حال چک کردن سیستم عامل جدیدتان وجود دارد  پس از صحت اتصال شبکه تان دوباره سعی کنید.">
+<!ENTITY watch_folder.prefs.settings_group_caption "تنظیمات پوشه را مراقبت کن">
+<!ENTITY tooltip.minimize "کوچک">
+<!ENTITY smart.random "تصادفی">
+<!ENTITY smart.contenttypecondition.audio "موزیک">
+<!ENTITY equalizer.band7.label "۴K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "یادداشت های انتشار">
+<!ENTITY watch_folder.prefs.title "بر پوشه‌ها نظارت داشته باش">
+<!ENTITY subscribe.autocheck "به روزرسانی به صورت خودکار هر ">
+<!ENTITY menu.control.shuf "پخش اتفاقی">
+<!ENTITY albumartpreferences.prefpane.priorities.up "بالا">
+<!ENTITY device.firmware.wizard.retry.description "لطفا بعد از اتمام عملیات فعلی وسیله خود مجددا تلاش کنید.">
+<!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
+<!ENTITY watch_folder.prefs.enable_checkbox "به طور خودکار تغییرات پوشه‌های ذیل را در نظر داشته باشه">
+<!ENTITY menu.file.metadata "دیدن متدیتا">
+<!ENTITY device.info.firmware_version.label "ورژن سیستم عامل">
+<!ENTITY device.info.access.label "دسترسی سازگار">
+<!ENTITY tooltip.control.back "آهنگ قبلی">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.controlleronbottom "در پایین">
+<!ENTITY device.sync.sync_selected.label "فهرست پخش‌های انتخاب شده:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "فیلتر نمایش پنجره">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "نام فایل هایتان را که با کاما از هم جدا شده اند وارد کنید">
+<!ENTITY rapi.playback_control_disable.label "منع سایت‌ها از کنترل پخش مدیا">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY first_run.feedback.metrics.description "متریک ها کاملاً مخفی هستند و هیچگونه اطلاعات فردی ذخیره نمیشود.">
+<!ENTITY cdrip.prefpane.label "ریپ سی دی صوتی">
+<!ENTITY tooltip.control.mute "ساکت">
+<!ENTITY smart.album "آلبوم">
+<!ENTITY playback.prefpane.units.kilobytes "کیلو بایت">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "Kbps">
+<!ENTITY device.tools.format_device.label "فرمت دستگاه">
+<!ENTITY hotkeys.remove "حذف">
+<!ENTITY tooltip.fullscreen "تمام صفحه">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "پیکربندی تبدیل خودکار">
+<!ENTITY jumptofile.search ":جستجو">
+<!ENTITY albumart.displaypane.not_selected_message "چیزی انتخاب نشده">
+<!ENTITY wizard.button.back.label "برگرد">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "به">
+<!ENTITY rapi.prefpane.access.text "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration.">
+<!ENTITY equalizer.preset.ska "اسکا">
+<!ENTITY tooltip.servicepane.collapse "پنجره خدمات بسته">
+<!ENTITY podcast.creation_dialog.title "پادکست جدید">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "آهنگ">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "برای پروژه موزیلا">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "اجازه می دهد که &brandShortName; طرح را بصورت برچسبی سازگاردرون فایل های رسانه ای قرار داد">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY hotkeys.add "افزودن">
+<!ENTITY export_playlists_itunes_checkbox "خارج کردن فهرست پخش موزیک">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "بررسی خودکار برای سیستم عامل جدیدتر">
+<!ENTITY smart.least_recent "به تازه گی کمتر از همه پخش شده">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.help.about "درباره‌ی &brandShortName;...">
+<!ENTITY device.settings.general.label "عمومی">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "وقتی سی دی ریپ شد خارجش کن.">
+<!ENTITY device.management.tabs.image.label "تصاویر">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "ترک ها درحال افزوده شدن">
+<!ENTITY device.info.vendor.label "کارخانه سازنده">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY sanitize.key "Del">
+<!ENTITY playback.prefpane.ratings.label "رتبه بندی متادیتا">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "وقتی ریپ سی دیتمام شد، صدایی پخش کن">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY device.tools.format_device.description "فرمت کردن وسیله تمام فایلهای روی وسیله را حذف خواهد کرد.">
+<!ENTITY jobprogress.details "جزییات">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY prefs.homepage.label "صفحه‌ی خانگی">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "بستن زبانه">
+<!ENTITY device.firmware.wizard.title "به روزرسانی سیستم عامل">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "همه عکس ها">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "اطلاعات کسب شده ترجیحی:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "دانلود سیستم عامل جدید...">
+<!ENTITY cdrip.prefpane.format "فرمت">
+<!ENTITY smart.mb "مگابایت">
+<!ENTITY menu.linux.preferences "تنظیمات">
+<!ENTITY menu.file "File">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY import_library.prefs.path_group_caption "محل قرارگیری کتابخانه آهنگ آیتیونز">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "مکث">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "تنظیمات">
+<!ENTITY copySelectionCmd.label "کپی متن انتخاب شده">
+<!ENTITY feed.subscribe.close "بستن">
+<!ENTITY device.settings.disk.label "مدیریت دیسک">
+<!ENTITY first_run.feedback.email.header.label "من را باخبر نگهدار">
+<!ENTITY equalizer.preset.custom "مخصوص">
+<!ENTITY import_library.dirty_playlist_dialog.merge "ادغام &brandShortName; فعلی و فهرست های پخش آیتونز">
+<!ENTITY import_tracks_itunes_checkbox "ورود ترک های موسیقی از آیتونز">
+<!ENTITY first_run.welcome.header.label "به &brandShortName; خوش آمدید">
+<!ENTITY feedback.dialog.title "برای بهبود &brandShortName; کمک کنید!">
+<!ENTITY window.yes "آری">
+<!ENTITY subscribeMediaPageCmd.label "عضویت در این صفحه...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "توقف">
+<!ENTITY watchfolder.folderlist "مدیا های جدید را در این پوشه‌ها در نظر داشته باش">
+<!ENTITY tooltip.control.fwd "آهنگ بعدی">
+<!ENTITY restartbox.restartonplaybackend "بعد از اتمام پخش راه اندازی مجدد کن">
+<!ENTITY playback.prefpane.label "پخش">
+<!ENTITY command.device.canceldevicedelete.accesskey "S">
+<!ENTITY albumart.displaypane.contextmenu.showselected "نمایش انتخاب شده">
+<!ENTITY import_library.dirty_playlist_dialog.note "توجه: ادغام و جایگزینی قابل بازگشت نیست.">
+<!ENTITY menu.control.repa "تکرار همه">
+<!ENTITY jumptofile.title "پرش به">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY device.firmware.wizard.busy.description "به نظر می رسد که دستگاهتان مشغول است. سیستم عامل دستگاه ها فقط زمانی می تواند نصب شود که دستگاه شما غیر فعال است.">
+<!ENTITY command.device.renamedevice "تغییر نام">
+<!ENTITY smart.least_added "اخیرا اضافه شده">
+<!ENTITY smart.contenttypecondition.video "ویدیو">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "دانلود به مقصد کتابخانه">
+<!ENTITY command.device.stoprip "توقف ریپ سی دی">
+<!ENTITY device.firmware.wizard.check.install.description "نصب سیستم عامل به روز شده دستگاهتان در کمتر از 10 دقیقه انجام می شود. شما همیشه میتوانید به بروز رسانی را در زمان دیگری انجام دهید.">
+<!ENTITY first_run.add_ons.load_failed.label "غیرفعال کردن بازیابی افزونه‌های توصیه شده">
+<!ENTITY first_run.feedback.description "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
+<!ENTITY about.credits.footer.linkText "شرکت کنندگان">
+<!ENTITY device.tools.update_firmware.title "به روز رسانی سیستم عامل">
+<!ENTITY locale.language "زبان">
+<!ENTITY cdrip.mediaview.stop_rip_button "توقف ریپ سی دی">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "برای اطلاعات بیشتر درباره کدک های گم شده اینجا را ببینید:">
+<!ENTITY first_run.itunes.description "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY first_run.itunes.header.label "وارد/خارج سازی iTunes">
+<!ENTITY albumart.coverpreview.title "طرح آلبوم">
+<!ENTITY playback.prefpane.normalization.label "نرمالسازی">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY first_run.itunes.checkbox.export.label "خروج ترک ها و لیست پخش های جدید به آیتونز">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+<!ENTITY smart.match "تطبیق">
+<!ENTITY export_tracks_itunes_checkbox "خارج کردن تِرک ها به آی تونز">
+<!ENTITY cdrip.prefpane.quality "کیفیت">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "فهرست پخش جدید">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

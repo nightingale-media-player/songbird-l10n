@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Vă rugăm a nu se traduce, doar ajustaţi mărimile potrivit limbii dumneavoastre */">
+<!ENTITY paneSecurity.title "Securitate">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em; /* Vă rugăm a nu se traduce, doar ajustaţi mărimile potrivit limbii dumneavoastre */">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em; /* Vă rugăm a nu se traduce, doar ajustaţi potrivit limbii dumneavoastre */">
+<!ENTITY paneApplications.title "Aplicații">
+<!ENTITY paneContent.title "Conținut">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Preferințe">
+<!ENTITY prefWindow.titleWin "Opțiuni">
+<!ENTITY paneTabs.title "File">
+<!ENTITY paneAdvanced.title "Avansat">
+<!ENTITY panePrivacy.title "Intimitate">
+<!ENTITY paneGeneral.title "Principal">
+

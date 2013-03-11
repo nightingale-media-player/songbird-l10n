@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Continue">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
+<!ENTITY menu.errorconsole "Konsola Çewtiyan">
+<!ENTITY menu.edit.paste "Pêveke">
+<!ENTITY tooltip.hide "Veşêre">
+<!ENTITY tooltip.browser.subscription "Endamiyek Biafirîne">
+<!ENTITY smart.playlistcondition.library "Pirtûkxane">
+<!ENTITY menu.help.bugz "Çewtiyek Ragihîne">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Guhertinên vê Peldankê Bişopîne">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY trackeditor.title "Editora Stranan">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Hemûyan Hilbijêre">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+<!ENTITY addMediaToPlaylistCmd.label "Daxe li Lîsteya Lêdanê">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "stranbêj">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY mediacore.error.preface "&brandShortName; has encountered the following playback error(s):">
+<!ENTITY hotkeys.set "Mîheng Bike">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY fetch_album_art.dialog.title "Get Artwork">
+<!ENTITY menu.controls "Kontrol">
+<!ENTITY tooltip.control.resume "Berdewam Bike">
+<!ENTITY feedback.dialog.no "Na">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY device.capacity.free.label "Vala">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY hotkeys.info "Kurterêyên Gloal derfeta kontrola Songbirdê dide ger Songbird ne sepana çalak be jî. Some Hotkey combinations must include modifier keys to minimize unwanted interference with other applications.">
+<!ENTITY device.capacity.music.label "Mûzîk">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "Gerokê Bisekinîne">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "Jê bike">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY subscribe.title "Erêkirin">
+<!ENTITY songbird "Songbird">
+<!ENTITY smart.window "Çêkera Lîsteyên Lêdanê ya Baqil">
+<!ENTITY openImageCmdInDefaultBrowser.label "Wêneyê bi geroka bixweber veke">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Format Device">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "Ji bo rojanemayînê epeyama xwe binivîsin">
+<!ENTITY trackeditor.addtag.title "Etîket Lê Zêdeke">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY prefs.security.addons.label "Daxistina Pêvekan">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY device.tools.product_registration.label "Register product">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
+<!ENTITY locationbar.key2 "B">
+<!ENTITY device.info.playback_formats.label "Formatên Lêdanê">
+<!ENTITY smart.high_rating "dengdana bilind">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Yên Din Veşêre">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY device.info.friendly_name.label "Nav">
+<!ENTITY device.unsupported_media.dialog.title "Pelên nederbasdar hatin dîtin">
+<!ENTITY cdrip.mediaview.format_label "Format: ">
+<!ENTITY about.credits.heading.translators "Translators">
+<!ENTITY menu.view "Dîtin">
+<!ENTITY menu.preferences "Vebijêrk...">
+<!ENTITY command.device.canceldevicedelete "Jêbirinê Betal Bike">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "Finish">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
+<!ENTITY device.dialog.wait_for_completion.msg "Li benda qedandina hemûxebatên amûrê be. Ji bo u bes li bendê bimînî û derkevî pêl &quot;Derkeve&quot; bikin.">
+<!ENTITY device.sync.playlist.title "Sernav">
+<!ENTITY hotkeys.useglobalhotkeys "Use Global Hotkeys">
+<!ENTITY subscribe.destinationfolder "Peldanka hedef hilbijêre:">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Dubarekirin Tune">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY about.version "Guherto">
+<!ENTITY umsd.video.video_path_desc "Dema pela mûzîkê li amûrê dihart kopîkirin, wan têxe vê peldankê:">
+<!ENTITY smart.low_rating "dengdana nizm">
+<!ENTITY device.capacity.other.label "Yên Din">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY setupprogress.cancel "Betal">
+<!ENTITY albumart.displaypane.selected.menu.paste "Pêveke">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "Rip CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Hilpekînê Bigire">
+<!ENTITY menu.edit.undo "Şûnde Bîne">
+<!ENTITY first_run.add_ons.loading.label "Pêvekên pêşniyarkirî tên nûkirin.">
+<!ENTITY command.device.formatdevice "Format">
+<!ENTITY albumart.displaypane.selected.menu.clear "Paqijke">
+<!ENTITY import_playlists_itunes_checkbox "Import music playlists">
+<!ENTITY menu.edit.cut "Jê bike">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY tooltip.control.play "Lê Bide">
+<!ENTITY tooltip.browser.mediapages "Dîtina Medya Biguherîne...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "Batarya">
+<!ENTITY menu.edit.delete "Jê Bibe">
+<!ENTITY import_library.dialog.title "Pirtûkxaneyek Têxe">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "li gor mercên pêş:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Song files">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Vîdyo">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Down">
+<!ENTITY command.device.getdeviceinfo "Agahî Bistîne">
+<!ENTITY rapi.library_write_disable.label "Malperan asteng bike ku li pirtûkxaneya min an jî amûrên min zêde bike an jî biguherîne">
+<!ENTITY first_run.feedback.email.description "Subscribe to our newsletter to hear about new releases and important updates.">
+<!ENTITY device.sync.images.filecount "Photos">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY device.sync.header.label "Mîhengên Senkronê">
+<!ENTITY first_run.import_media.radio.dont_import.label "Medya Tênexe">
+<!ENTITY feedback.dialog.yes "Erê">
+<!ENTITY about.buttons.credits "Credits">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY umsd.music.music_path_browse_msg "Cihê amûra ku wê pelên mûîkê lê bê bicîkirin, hilbijêrin.">
+<!ENTITY tooltip.maximize "Dîmender Tije">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY window.save "Tomarkirin">
+<!ENTITY window.no "Na">
+<!ENTITY tooltip.servicepane.newnode "Lîsteya Nû ya Lêdanê">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Bi geroka bixweber veke">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.new "Lîsteya Lêdanê ya Nû...">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "J">
+<!ENTITY watch_folder.prefs.watch_folder_label "Folder:">
+<!ENTITY smart.autoupdate "Rojanekirina Bixweber">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
+<!ENTITY menu.help.keyboard "Keyboard Shortcuts">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Search file names:">
+<!ENTITY menu.control.prev "Strana Berê">
+<!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
+<!ENTITY window.apply "Apply">
+<!ENTITY menu.file.smart "Lîsteyek Nû ya Lêdanê ya Baqil...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "View Error Details">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY menu.control.pause.button "Raweste">
+<!ENTITY trackeditor.tab.summary.title "Kurtasî">
+<!ENTITY playMediaCmd.label "Lê Bide">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Vegere">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Lîsteya Lêdanê Tune&gt;">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY import_library.import_command "Pirtûkxane Têxe">
+<!ENTITY cdrip.mediaview.view_tracks_button "View Tracks">
+<!ENTITY window.browse "Bibîne...">
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY smart.songs "stran">
+<!ENTITY menu.tools.getartwork "Get Artwork">
+<!ENTITY window.cancel "Betal">
+<!ENTITY smart.genre "cure">
+<!ENTITY menu.file.playlist.accesskey "N">
+<!ENTITY hotkeys.hotkey "Kurterê">
+<!ENTITY first_run.feedback.header.label "Help Make &brandShortName; Better">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "Export music smart playlists">
+<!ENTITY device.tools.support.label "View support resources">
+<!ENTITY import_library.prefs.options_group_caption "Vebijêrkên Têxistinê">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "On">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY first_run.eula.language.label "Ziman:">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Pêvekên Tên Pêşniyarkirin">
+<!ENTITY tooltip.search "Lêgerîn">
+<!ENTITY recommended_add_ons.title "&brandShortName; Setup">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Peldankan Temaşe Bike">
+<!ENTITY rapi.whitelist.label "Mîhengkirin...">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "Ji URL veke...">
+<!ENTITY menu.downloadmgr "Daxistina Pelan...">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
+<!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Rip CD">
+<!ENTITY wizard.button.cancel.label "Betal">
+<!ENTITY tooltip.control.shuffle "Çawalêhato">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
+<!ENTITY device.tools.product_registration.title "Product Registration">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Vebijêrk">
+<!ENTITY rapi.playback_read_disable.label "Malperan asteng bike ku agahiya strana tê lêdan bibînin">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "Veşêre &brandShortName;">
+<!ENTITY device.sync.sync_all.label "Hemû mûzîk, vîdy û lîsteyên lêdanê">
+<!ENTITY cdrip.mediaview.quality_label "Quality: ">
+<!ENTITY albumart.displaypane.selected.menu.copy "Ji ber nigire">
+<!ENTITY subscribe.days "Roj">
+<!ENTITY smart.least_often "least often played">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Albûm">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
+<!ENTITY mediacore.error.stop "Stop Playback">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY albumart.displaypane.not_playing_message "Nothing playing">
+<!ENTITY textbox.songbird_open_url "URL an jî cihê medyaya ku hûn dixwazin dîsa lê bidin têkevin:">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Pêvek">
+<!ENTITY menu.view.accesskey "D">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Settings">
+<!ENTITY cdrip.mediaview.settings_button "Settings">
+<!ENTITY cdinfo.other.label "Add your own Artist and Album Info">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "&brandShortName; Girêdana înternetê çênebû">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Bisekinîne">
+<!ENTITY equalizer.preset.soft_rock "Soft Rock">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Bijartinê li hemû lîsteyên lêdanê bisepîne">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Pelên Vîdyo">
+<!ENTITY tooltip.browser.fwd "Here Pêş">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Paceya Servîsê">
+<!ENTITY playback.prefpane.streaming.label "Network and Streaming">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY command.device.ejectcddevice "Eject CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "Eject CD">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+<!ENTITY menu.tools.exportmedia "Export Library Changes">
+<!ENTITY menu.mac.preferences "Vebijêrk...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY menu.control.next "Strana Pêş">
+<!ENTITY umsd.video.video_path_browse_msg "Cihê amura ku wê pelên vîdyoyê lê bê bicîkirin, hilbijêrin.">
+<!ENTITY setupprogress.pleasewait "Li bendê be...">
+<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY equalizer.preset.soft "Soft">
+<!ENTITY equalizer.preset.large_hall "Large Hall">
+<!ENTITY first_run.eula.accept_checkbox.label "Min xalên lîsansê wend û pejirand.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+<!ENTITY smart.most_recent "herî nû">
+<!ENTITY command.device.ejectdevice "Jê Bavêje">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+<!ENTITY first_run.connection.settings.button "Mîhengên Girêdanê...">
+<!ENTITY import_library.prefs.title "Têxistinkera iTunes">
+<!ENTITY hotkeys.action "Çalakî">
+<!ENTITY equalizer.preset.classical "Classical">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY first_run.install_add_ons.title "Pêvekan Dadixe">
+<!ENTITY playback.prefpane.streaming.buffer "Streaming Buffer:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Li peldankên di komputera min de venêre">
+<!ENTITY menu.control.play "Lêde/Raweste">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY subscribe.minutes "Xulek">
+<!ENTITY smart.any "kîjan be">
+<!ENTITY prefpane.content.label "Web Content">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Champions">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Dema strana jî lîsteya lêdanê ya nenas nehat têxistin min hişyar bike">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY tooltip.control.volume "Deng">
+<!ENTITY smart.hours "saet">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Sidebar a rastê">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY menu.edit.accesskey "G">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "N">
+<!ENTITY first_run.import_media.description "Select what media you&apos;d like to import into &brandShortName;. Carek &brandShortName; launches you can add additional media in a variety of ways.">
+<!ENTITY umsd.video.video_ext_desc "Copy video files with the following extensions to the device:">
+<!ENTITY smart.most_added "herî zêde lê zêdekirî">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "URL Veke">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY first_run.eula.header.label "Hevpeymana Lîsansê">
+<!ENTITY device.capacity.image.label "Photos">
+<!ENTITY about.credits.intro "We would like to thank our contributors, whose efforts make Songbird what it is. These people have helped by writing code and documentation, and by testing. They have created and maintained this product, its associated development kits, our build tools and our web sites.  Names are followed by IRC nicks, come by #songbird on irc.mozilla.org and say hello!">
+<!ENTITY menu.mac.showall "Hemûyan Nîşan Bide">
+<!ENTITY first_run.connection.description "Mîhengên xwe yên girêdanê kontrol bikin an jî bi rêberê mîhengkirinê berdewam bikin.">
+<!ENTITY equalizer.preset.full_bass "Full bass">
+<!ENTITY cdrip.lookup.multiple.title "Multiple CD Records Found">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Girêdanê bi geroka bixweber veke">
+<!ENTITY first_run.add_ons.header.label "Pêvekên Tên Pêşniyarkirin">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY first_run.feedback.metrics.label "Îstatîkên min berhevke û bişîne koma &brandShortName;">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Device Setup">
+<!ENTITY menu.videotofront "Video to Front">
+<!ENTITY device.management.tabs.music.label "Mûzîk">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
+<!ENTITY add_on_bundle_installer.error_box.label "Berfirehî">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "P">
+<!ENTITY menu.file.exit "Derkeve">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY first_run.import_media.header.label "Medya Têxe">
+<!ENTITY tooltip.browser.home "Mal">
+<!ENTITY equalizer.preset.small_speakers "Laptop/Headphones">
+<!ENTITY cdrip.lookup.info_not_found.album "Albûm">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Store artwork within each file&apos;s metadata">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Search file extensions:">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "hemû">
+<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Support">
+<!ENTITY device.sync.auto_sync.label "Senkron">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY feed.subscribe.dontask "Don&apos;t automatically show this dialog again">
+<!ENTITY rapi.restore_defaults.label "Bike Wekî Destpêkê">
+<!ENTITY playback.prefpane.audio_output.label "Audio Output">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.dialog.wait_for_completion.title "Waiting for devices.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
+<!ENTITY videowindow.fullscreen "Full Screen">
+<!ENTITY tooltip.browser.refresh "Nû Bike">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Pêvek...">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
+<!ENTITY menu.edit.copy "Ji ber nigire">
+<!ENTITY device.repair.menuitem.default "Repair my device">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY tooltip.exit "Derkeve">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "&brandShortName; Setup">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY tooltip.control.shuf_off "Çawalêhato Tune">
+<!ENTITY smart.selectedby "Tê bijartin li gor">
+<!ENTITY openPageCmdInDefaultBrowser.label "Vê Rûpelê bi Geroka Heyî Veke">
+<!ENTITY menu.control.playpause.spacebar "Spacebar">
+<!ENTITY import_library.dirty_playlist_dialog.title "Lîsteya Lêdanê Hat Guhertin">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
+<!ENTITY first_run.itunes.checkbox.export.description "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
+<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
+<!ENTITY device.info.icon.device "Generic device icon">
+<!ENTITY restartbox.restartlater "Paşê Ji nû ve destpêke">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Stranbêj">
+<!ENTITY cdrip.lookup.track_name "Sernav">
+<!ENTITY menu.control.pause "Raweste">
+<!ENTITY menu.extensions.accesskey "P">
+<!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY command.device.canceldevicesync "Senkronîzasyonê Betal Bike">
+<!ENTITY menu.control.rep1 "Carek Dubare Bike">
+<!ENTITY device.sync.playlist.video.duration "Video Duration">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "Întegrasyona Webê">
+<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY first_run.add_ons.description.line1 "Pêvek extend &brandShortName;&apos;s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
+<!ENTITY displaypane.name.servicepane "Bişkojka Paceya Servîsê">
+<!ENTITY menu.clearprivatedata "Daneyên Taybet Paqij Bike...">
+<!ENTITY window.ok "ERÊ">
+<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY menu.edit.find "Bibîne">
+<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
+<!ENTITY menu.updateCmd.label "Li Rojanekirinan Venêre...">
+<!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY displaypane.name.browser "Bişkojka Paceya Naverokê">
+<!ENTITY albumartpreferences.prefpane.label "Berga Albûm">
+<!ENTITY watch_folder.prefs.description "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
+<!ENTITY umsd.no_devices_present "USB amûra hişê na girêdayî ye.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Senkronîzekirin">
+<!ENTITY device.dialog.wait_for_completion.quit "Derkeve">
+<!ENTITY tooltip.browser.mediapages.list "List View">
+<!ENTITY rapi.library_read_disable.label "Malperan asteng bike ku agahiyên medyaya di pirtûkxaneya min de bibînin.">
+<!ENTITY feedback.dialog.sentence1 "Bi çend bersivan tu alikariya pêşdebirina songbird nakî?">
+<!ENTITY feed.subscribe.label "Subscribe">
+<!ENTITY tooltip.servicepane.show "Paceya Servîsê Nîşan Bide">
+<!ENTITY tooltip.control.stop "Bisekine">
+<!ENTITY menu.file.remote "Endamiya Nû...">
+<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY feedback.dialog.sentence2 "Ger hûn naxwazin, em ê carek din pirs nekin. Spas ji bo ku we girt ber çavan û spas ji bo ku hûn songbird bi kar tînin!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
+<!ENTITY menu.edit "Biguhere">
+<!ENTITY locale.language.accesskey "Z">
+<!ENTITY videowindow.title "Video Window">
+<!ENTITY menu.fullscreen "Full Screen">
+<!ENTITY menu.file.newtab "Hilpekîna Nû">
+<!ENTITY feedback.dialog.sentence3 "Spas,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Show Now Playing">
+<!ENTITY albumart.displaypane.drag_and_drop "Drag artwork here">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY smart.most_often "most often played">
+<!ENTITY restartbox.restartnow "Niha ji nû ve destpêke">
+<!ENTITY device.unsupported_media.dialog.enable "Dema pelên nederbasdar hatin dîtin bêje min">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY command.device.canceldevicecopy "Jibergirtinê Betal Bike">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY feedback.dialog.sentence4 "Koma Songbird">
+<!ENTITY smart.title "sernav">
+<!ENTITY menu.tools.reveal "Pelên Bijartî Nîşan Bide">
+<!ENTITY menu.controllerontop "li jor nîşan bide">
+<!ENTITY about.credits.footer.beforeLink "Of course, none of this would be possible without the hard work and efforts of">
+<!ENTITY device.management.tabs.tools.label "Amûr">
+<!ENTITY umsd.video.tab "Vîdyo">
+<!ENTITY trackeditor.addtag.tag "Etîket:">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY command.device.canceldeviceupdate "Rojanekirinê Betal Bike">
+<!ENTITY mediapages.firstrun.title "Welcome to &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "Full treble">
+<!ENTITY umsd.music.tab "Mûzîk">
+<!ENTITY tooltip.close "Close">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Dubare Bike">
+<!ENTITY menu.edit.findagain "Dîsa Bibîne">
+<!ENTITY device.info.capacity.label "Kapasîte">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "Pelek Veke...">
+<!ENTITY command.device.devicesync "Senkron">
+<!ENTITY menu.preferences.accesskey "V">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "Continue">
+<!ENTITY umsd.music.music_path_desc "Dema pela mûzîkê li amûrê dihart kopîkirin, wan têxe vê peldankê:">
+<!ENTITY playback.prefpane.audio_output.buffer "Output Buffer:">
+<!ENTITY menu.switchplayercontrols "Kontrolên Lêderê">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Keep the current &brandShortName; playlist (Vê lîsteya lêdanê tênexe)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Check for Updated Firmware">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY device.info.serial_number.label "Nimroya Seriyê">
+<!ENTITY device.info.product.label "Product">
+<!ENTITY smart.minutes "xulek">
+<!ENTITY menu.help.topics "Mijarên Alîkariyê...">
+<!ENTITY menu.file.playlist "Lîsteyeka Lêdanê Têxe..">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY device.tools.format_volume.button.label "Format">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Sînor bike">
+<!ENTITY menu.file.library "Pirtûkxaneyak Têxe...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "Strana Heyî Bibîne">
+<!ENTITY setupprogress.installingextensions "Pêvekan Saz Dike">
+<!ENTITY menu.mac.services "Servîs">
+<!ENTITY menu.file.open.accesskey "V">
+<!ENTITY import_library.library_file_label "Pela Pirûkxaneyê:">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Li gor van qeydeyan:">
+<!ENTITY importexport_show_notifications_checkbox "Show notifications when the import/export is complete">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.capacity.video.label "Vîdyo">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Pelên Mûzîkê">
+<!ENTITY trackeditor.tab.lyrics.title "Gotinên Stranan">
+<!ENTITY menu.mac.exit "Derkeve &brandShortName;">
+<!ENTITY menu.control.play.button "Lê Bide">
+<!ENTITY hotkeys.prefpane "Kurterê">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "Saet">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Alîkarî">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "Ignore">
+<!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
+<!ENTITY mediacore.error.title "Playback Error">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Hilbavêje li...">
+<!ENTITY menu.tools "Amûr">
+<!ENTITY device.settings.music.transcoding.label "Music Conversion">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
+<!ENTITY device.info.icon.readonly "Read-only lock icon">
+<!ENTITY command.device.lookup "Lookup CD Information">
+<!ENTITY tabs.listAllTabs "Lîsteya hemû hilpekînan">
+<!ENTITY rapi.prefpane.access.caption "Destûrên Malperan">
+<!ENTITY menu.file.scan "Li Media Bigere...">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "Media Importer">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Watch Folder Settings">
+<!ENTITY tooltip.minimize "Biçûkkirin">
+<!ENTITY smart.random "çawalêhato">
+<!ENTITY smart.contenttypecondition.audio "Mûzîk">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
+<!ENTITY watch_folder.prefs.title "Peldankan Temaşe Bike">
+<!ENTITY subscribe.autocheck "Bixweber rojane bike her">
+<!ENTITY menu.control.shuf "Çawalêhato">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Up">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+<!ENTITY first_run.connection.settings.description "Komputer an jî înterneta we bi antîvîrûsek an jî proxy&apos;ek tê parastin? Rastkirina mîhengên çewt ên girêdanê dikare pirsgirêkên giştî yên girêdanê çareser bike.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Automatically watch for changes in the following folder">
+<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY device.info.firmware_version.label "Firmware Version">
+<!ENTITY device.info.access.label "Derbasdariya Gihiştinê">
+<!ENTITY tooltip.control.back "Strana Berê">
+<!ENTITY menu.edit.cut.accesskey "B">
+<!ENTITY menu.controlleronbottom "Li jêr nîşan bide">
+<!ENTITY device.sync.sync_selected.label "Lîsteyên Lêdanê Hilbijêre:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
+<!ENTITY rapi.playback_control_disable.label "Malperan asteng bike ku stranan kontrol bikin">
+<!ENTITY menu.file.exit.accesskey "D">
+<!ENTITY first_run.feedback.metrics.description "Îstatîk bi temamî anonîm in tu agahiyên kesane nayê berhevkirin.">
+<!ENTITY cdrip.prefpane.label "CD Rip">
+<!ENTITY tooltip.control.mute "Bêdeng">
+<!ENTITY smart.album "albûm">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.tools.format_device.label "Format device">
+<!ENTITY hotkeys.remove "Rake">
+<!ENTITY tooltip.fullscreen "Dîmender Tije">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY jumptofile.search "Lê Bigere:">
+<!ENTITY albumart.displaypane.not_selected_message "Nothing selected">
+<!ENTITY wizard.button.back.label "Go Back">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "to">
+<!ENTITY rapi.prefpane.access.text "You can allow websites to integrate with Songbird to create a tighter coupling between the web and your media. Please configure Songbird to allow or block websites usage of the following points of integration.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
+<!ENTITY podcast.creation_dialog.title "New Podcast">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Track">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "to the Mozilla project.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY hotkeys.add "Têxe">
+<!ENTITY export_playlists_itunes_checkbox "Export music playlists">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
+<!ENTITY smart.least_recent "herî kevin">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.help.about "Dermafê Songbirdê...">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "W">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY device.info.vendor.label "Hilberîner">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY sanitize.key "JêBibe">
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY jobprogress.details "Berfirehî">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY prefs.homepage.label "Malpera Sereke">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Hilpekînê Bigire">
+<!ENTITY device.firmware.wizard.title "Update Firmware">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY cdrip.prefpane.format "Format">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "Vebijêrk...">
+<!ENTITY menu.file "Pel">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY import_library.prefs.path_group_caption "Cihê pirtûkxaneya mûzîkê ya iTunes">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Raweste">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Settings">
+<!ENTITY copySelectionCmd.label "Ji ber bigire">
+<!ENTITY feed.subscribe.close "Close">
+<!ENTITY device.settings.disk.label "Disk Management">
+<!ENTITY first_run.feedback.email.header.label "Keep Me Posted">
+<!ENTITY equalizer.preset.custom "Custom">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Merge the current &brandShortName; and iTunes playlists">
+<!ENTITY import_tracks_itunes_checkbox "Import music tracks from iTunes">
+<!ENTITY first_run.welcome.header.label "Bi xêr hatî li &brandShortName;">
+<!ENTITY feedback.dialog.title "Alikariya Pêşdebirina Songbird Bike">
+<!ENTITY window.yes "Erê">
+<!ENTITY subscribeMediaPageCmd.label "Bibe endamê vê rûpelê...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Betal">
+<!ENTITY watchfolder.folderlist "Ji bo mediayên nû vê peldankê temaşeke:">
+<!ENTITY tooltip.control.fwd "Strana Pêş">
+<!ENTITY restartbox.restartonplaybackend "Dema lêdan qediya ji nû ve destpêke">
+<!ENTITY playback.prefpane.label "Dubare">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Show Now Selected">
+<!ENTITY import_library.dirty_playlist_dialog.note "Jêrenot:  Merge û replace nikare bê vegerandin.">
+<!ENTITY menu.control.repa "Hemûyan Dubare Bike">
+<!ENTITY jumptofile.title "Hilbavêje">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY command.device.renamedevice "Nav Biguhere">
+<!ENTITY smart.least_added "herî kêm lê zêdekirî">
+<!ENTITY smart.contenttypecondition.video "Vîdyo">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Daxe li pirtûkxaneyê">
+<!ENTITY command.device.stoprip "Stop Rip">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY first_run.add_ons.load_failed.label "Nûkirina pêvekên pêşniyarkirî pêk nehat.">
+<!ENTITY first_run.feedback.description "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
+<!ENTITY about.credits.footer.linkText "the contributors">
+<!ENTITY device.tools.update_firmware.title "Update Firmware">
+<!ENTITY locale.language "Ziman">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stop Rip">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY first_run.itunes.description "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "V">
+<!ENTITY first_run.itunes.header.label "iTunes Import/Export">
+<!ENTITY albumart.coverpreview.title "Berga Albûm">
+<!ENTITY playback.prefpane.normalization.label "Normalization">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "R">
+<!ENTITY first_run.itunes.checkbox.export.label "Export new music tracks and playlists to iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+<!ENTITY smart.match "Pevhatin">
+<!ENTITY export_tracks_itunes_checkbox "Export music tracks to iTunes">
+<!ENTITY cdrip.prefpane.quality "Quality">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Lîsteya Lêdanê ya Nû">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

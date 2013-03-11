@@ -1,0 +1,15 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em;">
+<!ENTITY paneSecurity.title "Segurtasuna">
+<!ENTITY prefWinMinSize.styleWin2 "width: 65em; min-height: 45em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em;">
+<!ENTITY paneApplications.title "Aplikazioak">
+<!ENTITY paneContent.title "Edukia">
+<!ENTITY prefWindow.titleGNOME "&brandShortName;en hobespenak">
+<!ENTITY prefWindow.titleWin "Aukerak">
+<!ENTITY paneTabs.title "Fitxak">
+<!ENTITY paneAdvanced.title "Aurreratua">
+<!ENTITY panePrivacy.title "Pribatutasuna">
+<!ENTITY paneGeneral.title "Nagusia">
+

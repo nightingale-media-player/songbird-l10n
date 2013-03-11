@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Pokračovať">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Kopírovať do zariadenia hudobné súbory s týmito príponami:">
+<!ENTITY menu.errorconsole "Chybová konzola">
+<!ENTITY menu.edit.paste "Prilepiť">
+<!ENTITY tooltip.hide "Skryť">
+<!ENTITY tooltip.browser.subscription "Prihlásiť sa k odberu">
+<!ENTITY smart.playlistcondition.library "Knižnica">
+<!ENTITY menu.help.bugz "Ohlásiť chybu">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Sledovať tento priečinok kvôli zmenám">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY trackeditor.title "Upraviť meta údaje">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Označiť všetko">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+<!ENTITY addMediaToPlaylistCmd.label "Pridať do zoznamu skladieb">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "interpret">
+<!ENTITY menu.file.metadata.accesskey "Z">
+<!ENTITY menu.edit.redo.accesskey "n">
+<!ENTITY mediacore.error.preface "Vyskytla sa chyba prehrávania v programe &brandShortName;.">
+<!ENTITY hotkeys.set "Nastaviť">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY fetch_album_art.dialog.title "Získať obal albumu">
+<!ENTITY menu.controls "Ovládanie">
+<!ENTITY tooltip.control.resume "Pokračovať">
+<!ENTITY feedback.dialog.no "Nie">
+<!ENTITY equalizer.preset.party "Párty">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY device.capacity.free.label "Voľné">
+<!ENTITY playMediaCmd.accesskey "P">
+<!ENTITY hotkeys.info "Globálne klávesové skratky umožňujú prístup k funkciám &brandShortName; aj v prípade, že Songbird nie je aktívnou aplikáciou. Niektoré kombinácie klávesov musia obsahovať klávesový modifikátor, aby sa minimalizoval konflikt s inými aplikáciami.">
+<!ENTITY device.capacity.music.label "Hudba">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "P">
+<!ENTITY tooltip.browser.stop "Zastaviť prehliadač">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "Vystrihnúť">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY subscribe.title "Odoberať">
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY smart.window "Inteligentný zoznam skladieb">
+<!ENTITY openImageCmdInDefaultBrowser.label "Otvoriť obrázok v predvolenom webovom prehliadači">
+<!ENTITY menu.help.about.accesskey "O">
+<!ENTITY menu.file.podcast.accesskey "d">
+<!ENTITY device.tools.format_device.title "Formátovanie Zariadenia">
+<!ENTITY device.tools.reset_warnings.label "Vynulovať správy s varovaním">
+<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "zadajte e-mailovú adresu">
+<!ENTITY trackeditor.addtag.title "Pridať značku">
+<!ENTITY first_run.DLNA.description "Server médií Songbird vám umožňuje zdieľať knižnicu aplikácie &brandShortName; (hudbu a videá) s vybranými zariadeniami vo vašej domácej sieti.&quot;">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbit/s">
+<!ENTITY prefs.security.addons.label "Inštalácia doplnku">
+<!ENTITY first_run.DLNA.point "Na zapnutie alebo vypnutie zdieľania médií otvorte dialógové okno kliknutím na ikonu Zdieľanie médií (zakrúžkovaná) v okne stavu aplikácie &brandShortName;.">
+<!ENTITY menu.control.repa.accesskey "v">
+<!ENTITY device.tools.product_registration.label "Registrovať produkt">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Sem zadajte zoznam prípon (oddelené čiarkami)">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Formáty prehrávania">
+<!ENTITY smart.high_rating "najlepšie hodnotené">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Skryť ostatné">
+<!ENTITY menu.edit.find.accesskey "H">
+<!ENTITY device.info.friendly_name.label "Názov">
+<!ENTITY device.unsupported_media.dialog.title "Zistené nekompatibilné súbory">
+<!ENTITY cdrip.mediaview.format_label "Formát:">
+<!ENTITY about.credits.heading.translators "Lokalizátori">
+<!ENTITY menu.view "Zobraziť">
+<!ENTITY menu.preferences "Možnosti...">
+<!ENTITY command.device.canceldevicedelete "Zrušiť odstránenie">
+<!ENTITY enable_recommended_addons_update.accesskey "O">
+<!ENTITY wizard.button.finish.label "Koniec">
+<!ENTITY menu.file.smart.accesskey "e">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; je ľahko nastaviteľný alternatívny multimediálny prehrávač.">
+<!ENTITY device.dialog.wait_for_completion.msg "Čaká sa na dokončenie operácií všetkých zariadení. Kliknutim na tlacidlo &quot;Ukončiť&quot; zrušíte toto čakanie a ukončíte aplikáciu.">
+<!ENTITY device.sync.playlist.title "Title">
+<!ENTITY hotkeys.useglobalhotkeys "Použiť globálne klávesové skratky">
+<!ENTITY subscribe.destinationfolder "Vyberte cieľový priečinok:">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY first_run.welcome.description.line2 "Tento sprievodca vás prevedie počiatočným nastavením aplikácie &brandShortName; a poskytne základné informácie o funkcionalite aplikácie.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Bez opakovania">
+<!ENTITY command.device.canceldevicesync.accesskey "Z">
+<!ENTITY device.tools.support.description "Zobraziť posledné novinky podpory, používateľské manuály, dokumentáciu, často kladené otázky a informácie o produkte. Služby podpory sú prístupné pre odberateľov, ktoré majú registrovaný svoj produkt.">
+<!ENTITY about.version "Verzia">
+<!ENTITY umsd.video.video_path_desc "Pri kopírovaní videosúborov do zariadenia ich umiestniť do tohto priečinka:">
+<!ENTITY smart.low_rating "najhoršie hodnotenie">
+<!ENTITY device.capacity.other.label "Iné">
+<!ENTITY device.tools.update_firmware.description "Vaše zariadenie je kontrolované interným programom nazývaným firmvér. Od vášho posledného pripojenia zariadenia k vášmu počítaču mohli byť vydané novšie verzie firmvéru.">
+<!ENTITY setupprogress.cancel "Zrušiť">
+<!ENTITY albumart.displaypane.selected.menu.paste "Prilepiť">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "Rip CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Zavrieť kartu">
+<!ENTITY menu.edit.undo "Späť">
+<!ENTITY first_run.add_ons.loading.label "Získava sa zoznam odporúčaných rozšírení.">
+<!ENTITY command.device.formatdevice "Formát">
+<!ENTITY albumart.displaypane.selected.menu.clear "Vyčistiť">
+<!ENTITY import_playlists_itunes_checkbox "Importovať zoznam skladieb">
+<!ENTITY menu.edit.cut "Vystrihnúť">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY tooltip.control.play "Prehrať">
+<!ENTITY tooltip.browser.mediapages "Zobraziť...">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "p">
+<!ENTITY device.info.battery.label "Batéria">
+<!ENTITY menu.edit.delete "Odstrániť">
+<!ENTITY import_library.dialog.title "Importovať knižnicu">
+<!ENTITY jumpto.key "n">
+<!ENTITY smart.following "z nasledujúcich podmienok:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Súbory skladieb">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Dole">
+<!ENTITY command.device.getdeviceinfo "Získať informácie">
+<!ENTITY rapi.library_write_disable.label "Blokovať pridávanie/odstraňovanie médií v Knižnici a zariadeniach">
+<!ENTITY first_run.feedback.email.description "Ak chcete byť informovaný o nových verziách a dôležitých aktualizáciách, prihláste sa k odberu našich informačných mailov">
+<!ENTITY device.sync.images.filecount "Photos">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Ak nechcete, aby &brandShortName; spravoval toto zariadenie, môžete">
+<!ENTITY device.sync.header.label "Nastavenie synchronizácie">
+<!ENTITY first_run.import_media.radio.dont_import.label "Neimportovať médiá teraz">
+<!ENTITY feedback.dialog.yes "Áno">
+<!ENTITY about.buttons.credits "Tvorcovia">
+<!ENTITY device.firmware.wizard.check.progress.title "Hľadá sa nová verzia firmvéru...">
+<!ENTITY downloadMediaCmd.accesskey "P">
+<!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY umsd.music.music_path_browse_msg "Vyberte priečinok v zariadení, kam umiestniť hudobné súbory.">
+<!ENTITY tooltip.maximize "Maximalizovať/Obnoviť">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY window.save "Uložiť">
+<!ENTITY window.no "Nie">
+<!ENTITY tooltip.servicepane.newnode "Nový zoznam skladieb">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Otvoriť rámec v predvolenom webovom prehliadači">
+<!ENTITY menu.file.newtab.accesskey "t">
+<!ENTITY menu.file.new "Nový zoznam skladieb">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "p">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY watch_folder.prefs.watch_folder_label "Priečinok:">
+<!ENTITY smart.autoupdate "Aktualizovať">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
+<!ENTITY menu.help.keyboard "Klávesové skratky">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Hľadať názvy súborov:">
+<!ENTITY menu.control.prev "Prechádzajúca skladba">
+<!ENTITY device.firmware.wizard.support.description "Zdroje s podporou ako Často kladené otázky a tipy na riešenie problémov môžete nájsť na">
+<!ENTITY window.apply "Použiť">
+<!ENTITY menu.file.smart "Nový intelig. zoznam skladieb...">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "Zobraziť detaily chýb">
+<!ENTITY device.firmware.wizard.install.title "Inštaluje sa firmvér...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "Z">
+<!ENTITY menu.control.pause.button "Pozastaviť">
+<!ENTITY trackeditor.tab.summary.title "Zhrnutie">
+<!ENTITY playMediaCmd.label "Prehrať">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Späť o jednu stránku">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Žiadny zoznam skladieb&gt;">
+<!ENTITY equalizer.title "Eqalizér">
+<!ENTITY import_library.import_command "Importovať knižnicu">
+<!ENTITY cdrip.mediaview.view_tracks_button "Zobraziť stopy">
+<!ENTITY window.browse "Prehľadávať...">
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Načítavač, ktorý chcete použiť ako prvý, umiestite hore.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY smart.songs "položiek">
+<!ENTITY menu.tools.getartwork "Získať obal albumu...">
+<!ENTITY window.cancel "Zrušiť">
+<!ENTITY smart.genre "žáner">
+<!ENTITY menu.file.playlist.accesskey "z">
+<!ENTITY hotkeys.hotkey "Klávesová skratka">
+<!ENTITY first_run.feedback.header.label "Pomôžte spraviť &brandShortName; lepším">
+<!ENTITY menu.edit.selall.accesskey "a">
+<!ENTITY export_smartplaylists_itunes_checkbox "Exportovať inteligentné zoznamy skladieb">
+<!ENTITY device.tools.support.label "Zobraziť zdroje podpory">
+<!ENTITY import_library.prefs.options_group_caption "Možnosti importovania">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "Zapnúť">
+<!ENTITY menu.file.remote.accesskey "l">
+<!ENTITY first_run.eula.language.label "Jazyk:">
+<!ENTITY device.settings.disk.management.label "Upraviť štruktúru priečinka">
+<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
+<!ENTITY command.device.getdeviceinfo.accesskey "i">
+<!ENTITY enable_recommended_addons_update.label "Odporúčané doplnky">
+<!ENTITY tooltip.search "Hľadať">
+<!ENTITY recommended_add_ons.title "Nastavenie programu &brandShortName;">
+<!ENTITY menu.file.library.accesskey "k">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Sledovať priečinky">
+<!ENTITY rapi.whitelist.label "Výnimky...">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "Otvoriť umiestnenie...">
+<!ENTITY menu.downloadmgr "Preberanie súboru...">
+<!ENTITY device.settings.auto_launch.checkbox.label "Spustiť &brandShortName; pri zistení zariadenia">
+<!ENTITY first_run.itunes.checkbox.import.label "Importuj skladby a zoznamy skladieb z programu iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "Nezobrazovať ďalšie chyby jadra médií">
+<!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Kopírovať CD">
+<!ENTITY wizard.button.cancel.label "Zrušiť">
+<!ENTITY tooltip.control.shuffle "Náhodné prehrávanie">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "r">
+<!ENTITY menu.control.shuf.accesskey "N">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY first_run.import_media.scan_directories.description "Chcete aby sa program &brandShortName; pokúsil importovať médiá prehliadaním špecifických priečinkov v tomto počítači?">
+<!ENTITY device.tools.product_registration.title "Registrácia produktu">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Upraviť">
+<!ENTITY rapi.playback_read_disable.label "Blokovať webovým stránkam prezeranie informácií o prehrávanom médiu">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "Skryť &brandShortName;">
+<!ENTITY device.sync.sync_all.label "Všetky hudobné súbory, video a zoznamy skladieb">
+<!ENTITY cdrip.mediaview.quality_label "Kvalita">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopírovať">
+<!ENTITY subscribe.days "Deň">
+<!ENTITY smart.least_often "často prehrávané">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Priority Fetchera">
+<!ENTITY mediacore.error.stop "Zastaviť prehrávanie">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Tanec">
+<!ENTITY albumart.displaypane.not_playing_message "Nič sa nepreháva">
+<!ENTITY textbox.songbird_open_url "Vložte URL adresu alebo cestu média, ktoré chcete prehrať:">
+<!ENTITY search.key "H">
+<!ENTITY prefpane.addons.label "Doplnky">
+<!ENTITY menu.view.accesskey "Z">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "P">
+<!ENTITY device.management.tabs.settings.label "Nastavenia">
+<!ENTITY cdrip.mediaview.settings_button "Nastavenia">
+<!ENTITY cdinfo.other.label "Pridať vlastné informácie o Interpretovi a Albume">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "&brandShortName; sa nemôže pripojiť k internetu">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Zastaviť">
+<!ENTITY equalizer.preset.soft_rock "Jemný rock">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Použiť výber pre všetky zoznamy skladieb">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Videosúbory">
+<!ENTITY tooltip.browser.fwd "Dopredu o jednu stránku">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Panel služieb">
+<!ENTITY playback.prefpane.streaming.label "Sieť a streamovanie">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY menu.control.repx.accesskey "e">
+<!ENTITY menu.controls.accesskey "O">
+<!ENTITY command.device.ejectcddevice "Vysunúť CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "vysunúť CD">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignorovať toto zariadenie">
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+<!ENTITY menu.tools.exportmedia "Exportovať zmeny v knižnici">
+<!ENTITY menu.mac.preferences "Nastavenia...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Nahradiť zoznam skladieb programu &brandShortName; aktuálnym zoznamom skladieb programu iTunes">
+<!ENTITY device.tools.reset_warnings.title "Vynulovať varovania">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY menu.control.next "Ďalšia skladba">
+<!ENTITY umsd.video.video_path_browse_msg "Vyberte priečinok v zariadení, kam umiestniť videosúbory.">
+<!ENTITY setupprogress.pleasewait "Čakajte prosím...">
+<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY equalizer.preset.soft "Jemné">
+<!ENTITY equalizer.preset.large_hall "Veľká hala">
+<!ENTITY first_run.eula.accept_checkbox.label "Prečítal som si túto licenciu a súhlasím s jej podmienkami.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+<!ENTITY smart.most_recent "naposledy prehrávané">
+<!ENTITY command.device.ejectdevice "Vysunúť">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+<!ENTITY first_run.connection.settings.button "Nastavenie pripojenia...">
+<!ENTITY import_library.prefs.title "Importovať">
+<!ENTITY hotkeys.action "Akcia">
+<!ENTITY equalizer.preset.classical "Klasické">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY first_run.install_add_ons.title "Preberajú sa doplnky">
+<!ENTITY playback.prefpane.streaming.buffer "Zásobník pre streamovanie:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Prehľadať priečinky v tomto počítači.">
+<!ENTITY menu.control.play "Prehrať/Pozastaviť">
+<!ENTITY getartwork.key "Z">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY subscribe.minutes "Min.">
+<!ENTITY smart.any "niečo">
+<!ENTITY prefpane.content.label "Web Content">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Šampióni Songbirdu">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "Živé">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Upozorniť ma, keď nebudú importované nepodporované formáty skladieb alebo zoznamov skladieb.">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY tooltip.control.volume "Hlasitosť">
+<!ENTITY smart.hours "hodiny">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Pravý bočný panel">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Zariadenie musí byť pre pokračovanie pripojené v režime firmvéru. Pre nastavenie zariadenia do režimu firmvéru, prosím, postupujte podľa inštrukcií nižšie.">
+<!ENTITY menu.edit.accesskey "U">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "p">
+<!ENTITY first_run.import_media.description "Vyberte médiá, ktoré chcete importovať do &brandShortName;. Po spustení Songbirdu môžete mnohými spôsobmi pridať ďalšie médiá.">
+<!ENTITY umsd.video.video_ext_desc "Kopírovať do zariadenia videosúbory s týmito príponami:">
+<!ENTITY smart.most_added "naposledy pridané">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Otvoriť URL adresu">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY first_run.eula.header.label "Licenčné podmienky">
+<!ENTITY device.capacity.image.label "Obrázky">
+<!ENTITY about.credits.intro "Chceli by sme poďakovať našim spolupracovníkom, ktorých úsilie spravilo zo Songbirdu to, čo je. Títo ľudia nám pomohli s písaním kódu, dokumentácie a testovaním. Vytvorili a podporovali tento produkt, vývojárske sady, naše stavebné nástroje a naše webové stránky. Mená sú zoradené podľa IRC prezývok, príďte cez #songbird na irc.mozilla.org a povedzte ahoj!">
+<!ENTITY menu.mac.showall "Zobraziť všetko">
+<!ENTITY first_run.connection.description "Skontrolujte vaše nastavenie pripojenia alebo pokračujte so Sprievodcom nastavenia.">
+<!ENTITY equalizer.preset.full_bass "Plné basy">
+<!ENTITY cdrip.lookup.multiple.title "Multiple CD Records Found">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Otvoriť odkaz v predvolenom webovom prehliadači">
+<!ENTITY first_run.add_ons.header.label "Odporúčané doplnky">
+<!ENTITY command.device.renamedevice.accesskey "P">
+<!ENTITY first_run.feedback.metrics.label "Zhromaždiť a poslať údaje o používaní týmu &brandShortName;">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Nastavenie zariadenia">
+<!ENTITY menu.videotofront "Video to Front">
+<!ENTITY device.management.tabs.music.label "Hudba">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "Prihlásiť sa k odberu tohoto rámca...">
+<!ENTITY add_on_bundle_installer.error_box.label "Detaily">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "p">
+<!ENTITY menu.tools.reveal.accesskey "v">
+<!ENTITY menu.file.exit "Skončiť">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Chcete si zabezpečiť doklad o kúpe či dodatočné benefity z vlastníctva produktu alebo dostávať bezpečnostné upozornenia?">
+<!ENTITY first_run.import_media.header.label "Importovať médiá">
+<!ENTITY tooltip.browser.home "Domov">
+<!ENTITY equalizer.preset.small_speakers "Laptop/sluchátka">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Napísať obal albumu do meta údajov">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Hľadať prípony súboru:">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "všetko">
+<!ENTITY playback.prefpane.normalization.enable "Použiť údaje pre normalizáciu zvuku ak sú dostupné">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "P">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Podpora">
+<!ENTITY device.sync.auto_sync.label "Synchronizácia">
+<!ENTITY device.info.model.label "Typ">
+<!ENTITY feed.subscribe.dontask "Nezobrazovať tento dialóg">
+<!ENTITY rapi.restore_defaults.label "Obnoviť predvolené">
+<!ENTITY playback.prefpane.audio_output.label "Zvukový výstup">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.dialog.wait_for_completion.title "Čakanie na zariadenia.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+<!ENTITY device.firmware.wizard.check.already.description "Vaše zariadenie používa aktuálnu verziu firmvéru.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Nastavenia kopírovania CD">
+<!ENTITY videowindow.fullscreen "Full Screen">
+<!ENTITY tooltip.browser.refresh "Obnoviť">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Doplnky...">
+<!ENTITY equalizer.preset.club "Klub">
+<!ENTITY equalizer.preset.full_bass_treble "Plné basy a výšky">
+<!ENTITY menu.edit.copy "Kopírovať">
+<!ENTITY device.repair.menuitem.default "Repair my device">
+<!ENTITY addMediaToPlaylistCmd.accesskey "P">
+<!ENTITY tooltip.exit "Skončiť">
+<!ENTITY menu.file.accesskey "S">
+<!ENTITY first_run.title "Nastavenie programu &brandShortName;">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Ručne zadať bitovú rýchlosť a formát">
+<!ENTITY tooltip.control.shuf_off "Náhodné prehrávanie vyputé">
+<!ENTITY smart.selectedby "vybrané podľa">
+<!ENTITY openPageCmdInDefaultBrowser.label "Otvoriť stránku v predvolenom webovom prehliadači">
+<!ENTITY menu.control.playpause.spacebar "Medzerník">
+<!ENTITY import_library.dirty_playlist_dialog.title "Zoznam skladieb zmenený">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "p">
+<!ENTITY menu.linux.preferences.accesskey "r">
+<!ENTITY menu.help.bugz.accesskey "c">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Súčasná verzia firmvéru:">
+<!ENTITY first_run.itunes.checkbox.export.description "Hudbu získanú pomocou programu Songbird môžete preniesť do programu iTunes a taktiež do vášho iPodu alebo iPhonu.">
+<!ENTITY device.tools.update_firmware.label "Vyhľadať aktualizovaný firmvér">
+<!ENTITY device.info.icon.device "Všeobecná ikona zriadenia">
+<!ENTITY restartbox.restartlater "Reštartovať neskôr">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Interpret">
+<!ENTITY cdrip.lookup.track_name "Názov">
+<!ENTITY menu.control.pause "Pozastaviť">
+<!ENTITY menu.extensions.accesskey "D">
+<!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY command.device.canceldevicesync "Zrušiť synchronizáciu">
+<!ENTITY menu.control.rep1 "Opakovať jednu">
+<!ENTITY device.sync.playlist.video.duration "Video Duration">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "a">
+<!ENTITY rapi.prefpane.title "Integrácia webu">
+<!ENTITY menu.equalizer "Equalizér...">
+<!ENTITY first_run.add_ons.description.line1 "Doplnky zväčšujú funkcionalitu programu &brandShortName; a umožňujú vám prispôsobiť zážitok z prehrávača médií.">
+<!ENTITY displaypane.name.servicepane "Spodný panel služieb">
+<!ENTITY menu.clearprivatedata "Odstrániť súkromné údaje...">
+<!ENTITY window.ok "OK">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "Hľadať">
+<!ENTITY first_run.add_ons.description.line2 "Doplnky sa môžu integrovať s inými aplikáciami a službami, pomôcť s pripojením na externé zariadenia, zmeniť vzhľad a mnoho iného! Môžete si prevziať ďalšie na &brandShortName; stránke doplnkov.">
+<!ENTITY menu.updateCmd.label "Kontrola aktualizácií...">
+<!ENTITY device.firmware.wizard.check.error.description "Pri kontrole aktualizácie firmvéru došlo k chybe. Prosím, skontrolujte vaše pripojenie do internetu a skúste to znova.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitová rýchlosť">
+<!ENTITY displaypane.name.browser "Spodný panel obsahu">
+<!ENTITY albumartpreferences.prefpane.label "Obal albumu">
+<!ENTITY watch_folder.prefs.description "&brandShortName; môže monitorovať obsah priečinku a automaticky pridať alebo odstrániť položky, ktoré sa v ňom nachádzajú.">
+<!ENTITY umsd.no_devices_present "Nie sú pripojené žiadne pamäťové zariadenia USB.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Synchronizácia">
+<!ENTITY device.dialog.wait_for_completion.quit "Ukončiť">
+<!ENTITY tooltip.browser.mediapages.list "List View">
+<!ENTITY rapi.library_read_disable.label "Blokovať webovým stránkam prezeranie informácií o médiách v mojej Knižnici a zariadeniach.">
+<!ENTITY feedback.dialog.sentence1 "Chcete nám pomôcť urobiť &brandShortName; lepším pomocou rýchleho anonymného prieskumu?">
+<!ENTITY feed.subscribe.label "Prihlásiť sa na odber">
+<!ENTITY tooltip.servicepane.show "Ukázať panel služieb">
+<!ENTITY tooltip.control.stop "Zastaviť">
+<!ENTITY menu.file.remote "Nové prihlásenie...">
+<!ENTITY menu.file.podcast "Nový podcast">
+<!ENTITY feedback.dialog.sentence2 "Ak nemáte záujem, nebudete o to viac žiadaný. Ďakujeme za zváženie a ceníme si, že ste si vybrali &brandShortName;!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Nie je momentálne implementované. (Pozrite Bug 14281)">
+<!ENTITY menu.edit "Upraviť">
+<!ENTITY locale.language.accesskey "J">
+<!ENTITY videowindow.title "Video Window">
+<!ENTITY menu.fullscreen "Full Screen">
+<!ENTITY menu.file.newtab "Nová karta">
+<!ENTITY feedback.dialog.sentence3 "S pozdravom,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Show Now Playing">
+<!ENTITY albumart.displaypane.drag_and_drop "Pretiahnite sem obal albumu">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY smart.most_often "najčastejšie prehrávané">
+<!ENTITY restartbox.restartnow "Reštartovať teraz">
+<!ENTITY device.unsupported_media.dialog.enable "Oznamovať zistenie nekompatibilných súborov">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY command.device.canceldevicecopy "Zrušiť kopírovanie">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY feedback.dialog.sentence4 "Tím &brandShortName;">
+<!ENTITY smart.title "názov">
+<!ENTITY menu.tools.reveal "Zobraziť vybrané súbory">
+<!ENTITY menu.controllerontop "Zobraziť hore">
+<!ENTITY about.credits.footer.beforeLink "Samozrejme, nič z tohto všetkého by nebolo možné bez usilovnej práce a snahy">
+<!ENTITY device.management.tabs.tools.label "Nástroje">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY trackeditor.addtag.tag "Značka:">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY command.device.canceldeviceupdate "Zrušiť aktualizáciu">
+<!ENTITY mediapages.firstrun.title "Víta vás &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "Plné výšky">
+<!ENTITY umsd.music.tab "Hudba">
+<!ENTITY tooltip.close "Zatvoriť">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Znova">
+<!ENTITY menu.edit.findagain "Hľadať znova">
+<!ENTITY device.info.capacity.label "Kapacita">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "Otvoriť súbor...">
+<!ENTITY command.device.devicesync "Synchronizovať">
+<!ENTITY menu.preferences.accesskey "M">
+<!ENTITY menu.clearprivatedata.accesskey "O">
+<!ENTITY mediacore.error.continue "Pokračovať">
+<!ENTITY umsd.music.music_path_desc "Pri kopírovaní hudobných súborov do zariadenia ich umiestniť do tohto priečinka:">
+<!ENTITY playback.prefpane.audio_output.buffer "Zásobník výstupu:">
+<!ENTITY menu.switchplayercontrols "Ovládanie prehrávača">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Ponechať súčasný &brandShortName; zoznam skladieb (Neimportovať tento zoznam skladieb)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Hľadať novú verziu firmvéru">
+<!ENTITY menu.help.accesskey "P">
+<!ENTITY device.info.serial_number.label "Sériové číslo">
+<!ENTITY device.info.product.label "Produkt">
+<!ENTITY smart.minutes "minút">
+<!ENTITY menu.help.topics "Témy Pomocníka">
+<!ENTITY menu.file.playlist "Importovať zoznam skladieb...">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY device.tools.format_volume.button.label "Format">
+<!ENTITY device.dialog.setup.explainIgnore.afterText "">
+<!ENTITY smart.limit "Obmedziť do">
+<!ENTITY menu.file.library "Importovať knižnicu...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "P">
+<!ENTITY tooltip.control.curtrack "Nájsť súčasnú skladbu">
+<!ENTITY setupprogress.installingextensions "Inštalujú sa doplnky">
+<!ENTITY menu.mac.services "Služby">
+<!ENTITY menu.file.open.accesskey "s">
+<!ENTITY import_library.library_file_label "Súbor z knižnice:">
+<!ENTITY command.device.canceldevicecopy.accesskey "Z">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Zodpovedať nasledujúcej podmienke:">
+<!ENTITY importexport_show_notifications_checkbox "Zobraziť upozornenie keď je importovanie/exportovanie dokomčené">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasty a hudba zakúpené z obchodu iTunes je možné importovať do Songbirdu. Táto funkcia pracuje správne, len ak máte Songbird nastavený ako predvolený hudobný prehrávač.">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY menu.control.next.accesskey "a">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Hudobné súbory">
+<!ENTITY trackeditor.tab.lyrics.title "Texty">
+<!ENTITY menu.mac.exit "Ukončiť &brandShortName;">
+<!ENTITY menu.control.play.button "Prehrať">
+<!ENTITY hotkeys.prefpane "Klávesové skratky">
+<!ENTITY subscribeMediaFrameCmd.accesskey "o">
+<!ENTITY subscribe.hours "Hod.">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Pomocník">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "Ignorovať">
+<!ENTITY export_subscriptions_itunes_checkbox "Exportovať príspevky">
+<!ENTITY mediacore.error.title "Chyba jadra médií">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Prejsť na...">
+<!ENTITY menu.tools "Nástroje">
+<!ENTITY device.settings.music.transcoding.label "Transkódovanie hudby">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Vynulovať">
+<!ENTITY device.info.icon.readonly "Ikona uzamknutia súboru len na čítanie">
+<!ENTITY command.device.lookup "Vyhľadať informácie o CD">
+<!ENTITY tabs.listAllTabs "Zoznam všetkých kariet">
+<!ENTITY rapi.prefpane.access.caption "Webová stránka">
+<!ENTITY menu.file.scan "Importovať médiá...">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "Import médií">
+<!ENTITY device.firmware.wizard.download.error.description "Pri preberaní aktualizácie firmvéru došlo k chybe. Prosím, skontrolujte vaše pripojenie do internetu a skúste to znova.">
+<!ENTITY watch_folder.prefs.settings_group_caption "Sledovať nastavenia priečinku">
+<!ENTITY tooltip.minimize "Minimalizovať">
+<!ENTITY smart.random "náhodné">
+<!ENTITY smart.contenttypecondition.audio "Music">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Poznámky k vydaniu">
+<!ENTITY watch_folder.prefs.title "Sledovať priečinky">
+<!ENTITY subscribe.autocheck "Automaticky aktualizovať každý">
+<!ENTITY menu.control.shuf "Náhodné prehrávanie">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Hore">
+<!ENTITY device.firmware.wizard.retry.description "Prosím, skúste to znova potom, ako vaše zariadenie dokončí súčasnú operáciu.">
+<!ENTITY first_run.connection.settings.description "Je váš počítač alebo sieť chránená firewallom alebo proxy serverom? Opravenie nesprávneho nastavenia pripojenia môže pomôcť vyriešiť bežné problémy siete.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Automaticky sledovať zmeny v nasledujúcom priečinku">
+<!ENTITY menu.file.metadata "Zobraziť meta údaje">
+<!ENTITY device.info.firmware_version.label "Verzia firmvéru">
+<!ENTITY device.info.access.label "Kompatibilita prístupu">
+<!ENTITY tooltip.control.back "Predchádzajúca skladba">
+<!ENTITY menu.edit.cut.accesskey "V">
+<!ENTITY menu.controlleronbottom "Zobraziť dole">
+<!ENTITY device.sync.sync_selected.label "Vybrané zoznamy skladieb:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "s">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Sem zadajte zoznam názvov súborov (oddelené čiarkami)">
+<!ENTITY rapi.playback_control_disable.label "Blokovať webovým stránkam ovládať prehrávanie médií">
+<!ENTITY menu.file.exit.accesskey "n">
+<!ENTITY first_run.feedback.metrics.description "Údaje sú úplne anonymné a osobné informácie nie sú zhromažďované.">
+<!ENTITY cdrip.prefpane.label "Kopírovanie CD">
+<!ENTITY tooltip.control.mute "Stlmiť">
+<!ENTITY smart.album "album">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY menu.tools.accesskey "N">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbit/s">
+<!ENTITY device.tools.format_device.label "Formátovanie zariadenia">
+<!ENTITY hotkeys.remove "Odstrániť">
+<!ENTITY tooltip.fullscreen "Celá obrazovka">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY jumptofile.search "Hľadať:">
+<!ENTITY albumart.displaypane.not_selected_message "Nič nie je vybrané">
+<!ENTITY wizard.button.back.label "Ísť späť">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "Adresa:">
+<!ENTITY smart.to "do">
+<!ENTITY rapi.prefpane.access.text "Môžete povoliť webovým stránkam sa integrovať s programom &brandShortName; pre vytvorenie užšieho prepojenia medzi webom a vašimi médiami. Prosím, nastavte &brandShortName; pre povolenie alebo blokovanie nasledujúcich bodov integrácie.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
+<!ENTITY podcast.creation_dialog.title "Nový podcast">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Skladba">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "na projekt Mozilla.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Toto nastavenie umožní Songbirdu vkladať obal albumu v kompatibilných značkách pre súbory médií.">
+<!ENTITY menu.control.rep1.accesskey "j">
+<!ENTITY hotkeys.add "Pridať">
+<!ENTITY export_playlists_itunes_checkbox "Exportovať zoznamy skladieb">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Skontrolovať aktualizácie firmvéru automaticky">
+<!ENTITY smart.least_recent "nedávno prehrávané">
+<!ENTITY menu.tools.getartwork.accesskey "Z">
+<!ENTITY menu.help.about "O programe &brandShortName;...">
+<!ENTITY device.settings.general.label "Hlavné">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "u">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "Vysunúť disk, keď bude kopírovanie CD dokončené">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY command.device.ejectdevice.accesskey "V">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY device.info.vendor.label "Výrobca">
+<!ENTITY first_run.DLNA.header.label "Doplnok na zdieľanie médií">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY sanitize.key "Del">
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Zvukovo ma upozorniť, keď bude kopírovanie CD dokončené">
+<!ENTITY menu.control.jumpto.accesskey "j">
+<!ENTITY device.tools.format_device.description "Formátovanie vášho zariadenia spôsobí stratu všetkých hudobných súborov a údajov na tomto zariadení.">
+<!ENTITY jobprogress.details "Detaily">
+<!ENTITY device.tools.reset_warnings.description "Vynulovanie diálogov s upozornením umožní týmto dialógom vyžiadať si potvrdenie splnenia úlohy, ktorú práve vykonávate.">
+<!ENTITY prefs.homepage.label "Domovská stránka">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Zavrieť kartu">
+<!ENTITY device.firmware.wizard.title "Aktualizovať firmvér">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferované získané údaje:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Preberá sa nová verzia firmvéru...">
+<!ENTITY cdrip.prefpane.format "Naformátovať">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "Nastavenia...">
+<!ENTITY menu.file "Súbor">
+<!ENTITY menu.downloadmgr.accesskey "P">
+<!ENTITY import_library.prefs.path_group_caption "Cesta ku iTunes knižnici">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Pozastaviť">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Nastavenia">
+<!ENTITY copySelectionCmd.label "Kopírovať označený text">
+<!ENTITY feed.subscribe.close "Zatvoriť">
+<!ENTITY device.settings.disk.label "Správa disku">
+<!ENTITY first_run.feedback.email.header.label "Informujte ma">
+<!ENTITY equalizer.preset.custom "Vlastné">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Spojiť aktuálne zoznamy skladieb programov &brandShortName; a iTunes">
+<!ENTITY import_tracks_itunes_checkbox "Importovať skladby z programu iTunes">
+<!ENTITY first_run.welcome.header.label "Vitajte v programe &brandShortName;">
+<!ENTITY feedback.dialog.title "Pomôžte spraviť &brandShortName; lepším!">
+<!ENTITY window.yes "Áno">
+<!ENTITY subscribeMediaPageCmd.label "Prihlásiť sa k odberu tejto stránky...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Zrušiť">
+<!ENTITY watchfolder.folderlist "Sledovať tieto priečinky pre nové médiá:">
+<!ENTITY tooltip.control.fwd "Ďalšia skladba">
+<!ENTITY restartbox.restartonplaybackend "Reštartovať po ukončení prehrávania">
+<!ENTITY playback.prefpane.label "Prehrávanie">
+<!ENTITY command.device.canceldevicedelete.accesskey "Z">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Show Now Selected">
+<!ENTITY import_library.dirty_playlist_dialog.note "Poznámka:  Spojenie a nahradenie nemôže byť vrátené späť.">
+<!ENTITY menu.control.repa "Opakovať všetky">
+<!ENTITY jumptofile.title "Prejsť na">
+<!ENTITY prefs.homepage.url.label "Adresa:">
+<!ENTITY device.firmware.wizard.busy.description "Zdá sa, že vaše zariadenie je zaneprázdnené. Firmvér môže byť nainštalovaný len ak je zariadenie v kľude.">
+<!ENTITY command.device.renamedevice "Premenovať">
+<!ENTITY smart.least_added "nedávno pridané ">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Pridať do knižnice">
+<!ENTITY command.device.stoprip "Stop Rip">
+<!ENTITY device.firmware.wizard.check.install.description "Inštalovanie novej verzie firmvéru by nemalo trvať viac ako 10 minút. Vždy však môžete odložiť aktualizáciu na neskôr.">
+<!ENTITY first_run.add_ons.load_failed.label "Nie je možné získať zoznam odporúčaných rozšírení.">
+<!ENTITY first_run.feedback.description "Chcete nám pomôcť spraviť &brandShortName; lepším tým, že nám pošlete spätnú väzbu o tom, v akej miere a akým spôsobom používate aplikáciu?">
+<!ENTITY about.credits.footer.linkText "spolupracovníci">
+<!ENTITY device.tools.update_firmware.title "Aktualizovať firmvér">
+<!ENTITY locale.language "Jazyk">
+<!ENTITY cdrip.mediaview.stop_rip_button "">
+<!ENTITY copySelectionCmd.accesskey "K">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY first_run.itunes.description "Zdá sa, že máte iTunes nainštalovaný. &brandShortName; môže byť nastavený, aby importoval a/alebo exportoval skladby medzi &brandShortName; a iTunes, takže vaše knižnice budú synchronizované.">
+<!ENTITY subscribeMediaPageCmd.accesskey "o">
+<!ENTITY menu.file.scan.accesskey "m">
+<!ENTITY first_run.itunes.header.label "iTunes Importuj/Exportuj">
+<!ENTITY albumart.coverpreview.title "Obal albumu">
+<!ENTITY playback.prefpane.normalization.label "Normalizácia">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "u">
+<!ENTITY first_run.itunes.checkbox.export.label "Prenes nové skladby a zoznamy skladieb do iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Nepovoliť Sledované priečinky v rovnakom priečinku ako je váš priečinok Spravovania hudby. Tým by sa vytvorili duplicity vo vašej knižnici.">
+<!ENTITY smart.match "Zodpovedať">
+<!ENTITY export_tracks_itunes_checkbox "Exportovať skladby do programu iTunes">
+<!ENTITY cdrip.prefpane.quality "Kvalita">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nový zoznam skladieb">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "z">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+

@@ -1,0 +1,706 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY wizard.button.next.label "Fortsett">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.music_ext_desc "Kopier musikkfiler av følgende filtype til enheten: ">
+<!ENTITY menu.errorconsole "Feilkonsoll">
+<!ENTITY menu.edit.paste "Lim inn">
+<!ENTITY tooltip.hide "Skjul">
+<!ENTITY tooltip.browser.subscription "Abonner på denne siden">
+<!ENTITY smart.playlistcondition.library "Bibliotek">
+<!ENTITY menu.help.bugz "Rapporter en feil">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Overvåk denne mappen for endringer">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY videowindow.actualsize "Aktuell Størrelse">
+<!ENTITY trackeditor.title "Rediger metadata">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.edit.selall "Velg alt">
+<!ENTITY device.tools.restore_device.label "Gjenopprett enhet til fabrikkinnstillinger">
+<!ENTITY addMediaToPlaylistCmd.label "Last ned til spilleliste">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY smart.artist "artist">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY mediacore.error.preface "Følgende feil har oppstått i &brandShortName;s mediakjerne:">
+<!ENTITY hotkeys.set "Sett">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "Ingen encodere er for øyeblikket tilgjengelig for denne enheten">
+<!ENTITY fetch_album_art.dialog.title "Skaff albumomslag">
+<!ENTITY menu.controls "Kontroll">
+<!ENTITY tooltip.control.resume "Fortsett">
+<!ENTITY feedback.dialog.no "Nei">
+<!ENTITY equalizer.preset.party "Fest">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY displaypane.default.image.pre "Velg en utvidelse fra">
+<!ENTITY device.capacity.free.label "Ledig">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY hotkeys.info "Globale hurtigtaster lar deg styre &brandShortName; selv om &brandShortName; ikke er det aktive programmet.  Noen hurtigtastkombinasjoner må inneholde modifiseringstaster for å unngå uønskede forstyrrelser med andre programmer.">
+<!ENTITY device.capacity.music.label "Musikk">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY tooltip.browser.stop "Avslutt nettleser">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY albumart.displaypane.selected.menu.cut "Klipp ut ">
+<!ENTITY cdrip.prefpane.providers.title "CD Oppslags Leverandør">
+<!ENTITY subscribe.title "Abonner">
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY smart.window "Smart spilleliste">
+<!ENTITY openImageCmdInDefaultBrowser.label "Åpne bildet i standardnettleseren din">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY device.tools.format_device.title "Formater enhet">
+<!ENTITY device.tools.reset_warnings.label "Nullstill varselmeldinger">
+<!ENTITY cdrip.prefpane.quality_desc "Høyere kbps-kvalitetsinnstilling vil resultere i høyere lydkvalitet, og større filstørrelse.">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY first_run.feedback.email.textbox.emptytext "skriv inn e-postadressen din for å holde deg oppdatert">
+<!ENTITY trackeditor.addtag.title "Legg til merkelapp">
+<!ENTITY first_run.DLNA.description "Songbird Media Server gjør at du kan dele &brandShortName;-biblioteket (musikk og videoer) med valgte enheter i hjemmenettverket.">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY prefs.security.addons.label "Utvidelsesinstallasjon ">
+<!ENTITY first_run.DLNA.point "Når du vil slå mediedeling av eller på, åpner du dialogen ved å klikke på ikonet for mediedeling (innringet) i statuslinjen for &brandShortName;.">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY device.tools.product_registration.label "Registrer produktet">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Skriv inn endinger separert med komma her">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY device.info.playback_formats.label "Avspillingsformater">
+<!ENTITY smart.high_rating "høyest vurdering">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.mac.hideothers "Skjul andre">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY device.info.friendly_name.label "Navn">
+<!ENTITY device.unsupported_media.dialog.title "Ukompatible filer oppdaget">
+<!ENTITY cdrip.mediaview.format_label "Formater:">
+<!ENTITY about.credits.heading.translators "Oversettere">
+<!ENTITY menu.view "Vis">
+<!ENTITY menu.preferences "Innstillinger...">
+<!ENTITY command.device.canceldevicedelete "Avbryt sletting">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY wizard.button.finish.label "Fullfør">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; er en alternativ medieavspiller som gir større muligheter for tilpasning enn tradisjonelle medieavspillere.">
+<!ENTITY device.dialog.wait_for_completion.msg "Venter på at alle operasjonene på enheten blir ferdige. Trykk &quot;Avslutt&quot; for å stoppe å vente og avslutte programmet.">
+<!ENTITY device.sync.playlist.title "Tittel">
+<!ENTITY hotkeys.useglobalhotkeys "Bruk globale hurtigtaster">
+<!ENTITY subscribe.destinationfolder "Velg målmappe:">
+<!ENTITY playqueue.label "Spillekø">
+<!ENTITY playqueue.instructions "Dra og slipp spor eller spillelister her for å lage en sammenhengende (on-the-fly) spillekø">
+<!ENTITY first_run.welcome.description.line2 "Vi skal hjelpe deg med å sette opp &brandShortName; raskt og effektivt. Du er i gang i løpet av kort tid.">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.control.repx "Ikke gjenta noe">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY device.tools.support.description "Les det siste innen brukerstøtte, brukermanualer, ofte spurte spørsmål og produktinformasjon. Brukerstøtte-tjenester er tilgjengelig for kunder som har registrert sine produkter.">
+<!ENTITY about.version "Versjon">
+<!ENTITY umsd.video.video_path_desc "Plasser videofiler som kopieres til enheten i denne mappen:">
+<!ENTITY smart.low_rating "lavest vurdering">
+<!ENTITY device.capacity.other.label "Annet">
+<!ENTITY device.tools.update_firmware.description "Din enhet styres av intern programvare som kalles firmware. Nyere versjoner av denne firmwaren kan ha blitt lansert siden sist du koblet din enhet til datamaskinen.">
+<!ENTITY setupprogress.cancel "Avbryt">
+<!ENTITY albumart.displaypane.selected.menu.paste "Lim inn">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY command.device.rip "Rip CD">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY tabs.closeTab "Lukk fane">
+<!ENTITY menu.edit.undo "Angre">
+<!ENTITY first_run.add_ons.loading.label "Henter anbefalte utvidelser.">
+<!ENTITY command.device.formatdevice "Formater">
+<!ENTITY albumart.displaypane.selected.menu.clear "Tøm">
+<!ENTITY import_playlists_itunes_checkbox "Importer spilleliste">
+<!ENTITY menu.edit.cut "Kutt">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Importerings Merknad">
+<!ENTITY tooltip.control.play "Spill">
+<!ENTITY tooltip.browser.mediapages "Bytt mellom medievisninger">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.info.battery.label "Batteri">
+<!ENTITY menu.edit.delete "Slett">
+<!ENTITY import_library.dialog.title "Importer et bibliotek">
+<!ENTITY jumpto.key "J">
+<!ENTITY smart.following "av følgende vilkår:">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY device.settings.disk.management.filename "Sangfiler">
+<!ENTITY about.credits.description.champs.link.post "De er de mest aktive brukerne på forumet, og jobber iherdig med å sikre at hver eneste Songbirdbruker er en glad Songbirdbruker.">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Ned">
+<!ENTITY command.device.getdeviceinfo "Hent info">
+<!ENTITY rapi.library_write_disable.label "Hindre i å legge til/slette medier i biblioteket mitt og på enhetene mine">
+<!ENTITY first_run.feedback.email.description "Abonner på nyhetsbrevet vårt for å høre om nye versjoner og viktige oppdateringer.">
+<!ENTITY device.sync.images.filecount "Bilder">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Hvis du ikke ønsker at &brandShortName; skal kontrollere denne enheten, kan du">
+<!ENTITY device.sync.header.label "Innstillinger for synkronisering">
+<!ENTITY first_run.import_media.radio.dont_import.label "Ikke importer media nå">
+<!ENTITY feedback.dialog.yes "Ja">
+<!ENTITY about.buttons.credits "Takk til">
+<!ENTITY device.firmware.wizard.check.progress.title "Søker etter oppdatert programvare">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.lookup.info_not_found.descr "Du kan legge til artist- og albumnavn her.">
+<!ENTITY umsd.music.music_path_browse_msg "Velg en mappe på enheten til musikkfiler.">
+<!ENTITY tooltip.maximize "Maksimer/gjenopprett">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY window.save "Lagre">
+<!ENTITY window.no "Nei">
+<!ENTITY tooltip.servicepane.newnode "Ny spilleliste">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Åpne rammen i standardnettleseren din">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.new "Ny spilleliste">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY watch_folder.prefs.watch_folder_label "Mappe:">
+<!ENTITY smart.autoupdate "Oppdater automatisk">
+<!ENTITY playback.prefpane.ratings.enablewriting "Lagre rangerings info inni hver enkelt fils fil metadata.">
+<!ENTITY menu.help.keyboard "Tastatursnarveier">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Søk filnavn:">
+<!ENTITY menu.control.prev "Forrige spor">
+<!ENTITY device.firmware.wizard.support.description "Brukerstøtte som FAQ og feilsøkingstips finner du på">
+<!ENTITY window.apply "Bruk">
+<!ENTITY menu.file.smart "Ny smart spilleliste">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY device.error.dialog.link "Se informasjon om feilmeldingen">
+<!ENTITY device.firmware.wizard.install.title "Installerer firmware...">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY menu.control.pause.button "Pause">
+<!ENTITY trackeditor.tab.summary.title "Oppsummering">
+<!ENTITY playMediaCmd.label "Spill av">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY tooltip.browser.back "Gå tilbake">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Ingen spillelister&gt;">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY import_library.import_command "Importer bibliotek">
+<!ENTITY cdrip.mediaview.view_tracks_button "Se spor">
+<!ENTITY window.browse "Bla gjennom...">
+<!ENTITY device.tools.restore_device.title "Gjenopprett enhet">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Ordne hentelisten du ønsker å bruke på toppen.">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For mer informasjon om manglende kodeker, se">
+<!ENTITY displaypane.default.image.post "meny eller gå til">
+<!ENTITY smart.songs "gjenstander">
+<!ENTITY menu.tools.getartwork "Skaff albumomslag">
+<!ENTITY window.cancel "Avbryt">
+<!ENTITY smart.genre "sjanger">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY hotkeys.hotkey "Hurtigtast">
+<!ENTITY first_run.feedback.header.label "Hjelp til med å gjøre &brandShortName; bedre">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY export_smartplaylists_itunes_checkbox "Eksporter smart spilleliste">
+<!ENTITY device.tools.support.label "Se brukerstøtte-ressurser">
+<!ENTITY import_library.prefs.options_group_caption "Alternativer for import">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.on.checkbox "På">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY first_run.eula.language.label "Språk:">
+<!ENTITY device.settings.disk.management.label "Tilpass mappestrukturen">
+<!ENTITY cdrip.lookup.multiple.description "Velg en av følgende, eller legg til egen informasjon.">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Anbefalte utvidelser">
+<!ENTITY tooltip.search "Søk">
+<!ENTITY recommended_add_ons.title "Oppsett av &brandShortName;">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY locationbar.key "L">
+<!ENTITY watchfolder.title "Overvåk mapper">
+<!ENTITY rapi.whitelist.label "Konfigurer">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.url "Åpne URL...">
+<!ENTITY menu.downloadmgr "Nedlastinger...">
+<!ENTITY device.settings.auto_launch.checkbox.label "Åpne &brandShortName; når enheten oppdages">
+<!ENTITY first_run.itunes.checkbox.import.label "Importer spor og spillelister fra iTunes">
+<!ENTITY cdrip.lookup.info_not_found.title "CD-informasjon ble ikke funnet">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY mediacore.error.dontshowme "Ikke vis flere feil med mediakjernen">
+<!ENTITY device.firmware.wizard.repair.warning "Dessverre, så vil alt eksisterende innhold på din enhet &lt;strong class=&quot;loss-of-data-text&quot;&gt;bli slettet&lt;/strong&gt;. Du anbefales å re-synkronisere med &brandShortName; så snart denne handlingen er ferdig.">
+<!ENTITY cdrip.mediaview.rip_cd_button "Ripp CD">
+<!ENTITY wizard.button.cancel.label "Avbryt">
+<!ENTITY tooltip.control.shuffle "Bland">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY displaypane.default.image.tooltip "Utvidelse-ikonet">
+<!ENTITY first_run.import_media.scan_directories.description "Vil du at &brandShortName; skal prøve å importere media ved å lete gjennom bestemte mapper på datamaskinen din?">
+<!ENTITY device.tools.product_registration.title "Produktregistrasjon">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY trackeditor.tab.edit.title "Egenskaper">
+<!ENTITY rapi.playback_read_disable.label "Hindre i å se på informasjon om medier som spilles nå">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.mac.hide "Skjul &brandShortName;">
+<!ENTITY device.sync.sync_all.label "All musikk, video og spillelister">
+<!ENTITY cdrip.mediaview.quality_label "Kvalitet:">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopier">
+<!ENTITY subscribe.days "Dag(er)">
+<!ENTITY smart.least_often "spilt færrest ganger">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Henteprioritet">
+<!ENTITY mediacore.error.stop "Stopp avspilling">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY albumart.displaypane.not_playing_message "Ingenting spilles">
+<!ENTITY textbox.songbird_open_url "Skriv inn URL-en eller stilen til mediet du ønsker å spille:">
+<!ENTITY search.key "F">
+<!ENTITY prefpane.addons.label "Utvidelser">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY device.management.tabs.settings.label "Instillinger">
+<!ENTITY cdrip.mediaview.settings_button "Innstillinger">
+<!ENTITY cdinfo.other.label "Legg til din egen artist- og albuminformasjon">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY first_run.connection.header.label "&brandShortName; kan ikke koble til internett">
+<!ENTITY equalizer.key "E">
+<!ENTITY menu.control.stop.button "Stopp">
+<!ENTITY equalizer.preset.soft_rock "Soft rock">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Utfør endringer på alle spillelister">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY umsd.video.video_files_group "Videofiler">
+<!ENTITY tooltip.browser.fwd "Gå fram">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY servicepane.title.label "Tjenestevisning">
+<!ENTITY playback.prefpane.streaming.label "Nettverk og streaming">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignorer denne enheten">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY command.device.ejectcddevice "Løs ut CD">
+<!ENTITY cdrip.mediaview.eject_cd_button "Løs ut CD">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "Ignorer denne enheten">
+<!ENTITY tooltip.displaypane.options "Innholds Panel Valg">
+<!ENTITY menu.tools.exportmedia "Eksporter bibliotek endringer">
+<!ENTITY menu.mac.preferences "Innstillinger...">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Erstatt denne &brandShortName;-spillelisten med den nåværende iTunes-spillelisten">
+<!ENTITY device.tools.reset_warnings.title "Nullstill varsler">
+<!ENTITY about.credits.description.champs.link.pre "Songbird mestere er die-hard Songbird brukere og fans som har gått over og utover Call of Duty for å hjelpe andre Songbird brukere">
+<!ENTITY menu.control.next "Neste spor">
+<!ENTITY umsd.video.video_path_browse_msg "Velg en mappe på enheten til videofiler.">
+<!ENTITY setupprogress.pleasewait "Vent...">
+<!ENTITY menu.help.homepage "Songbird Nettsted">
+<!ENTITY equalizer.preset.soft "Soft">
+<!ENTITY equalizer.preset.large_hall "Stor hall">
+<!ENTITY first_run.eula.accept_checkbox.label "Jeg har lest og godtatt vilkårene i denne avtalen.">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Velg kun om du ikke ønsker at &brandShortName; skal styre denne enheten.">
+<!ENTITY smart.most_recent "mest nylig">
+<!ENTITY command.device.ejectdevice "Løs ut">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Ikke notifiser meg angående ustøttede video filer i løpet av importering igjen">
+<!ENTITY first_run.connection.settings.button "Tilkoblingsinnstillinger...">
+<!ENTITY import_library.prefs.title "Importer fra iTunes">
+<!ENTITY hotkeys.action "Handling">
+<!ENTITY equalizer.preset.classical "Klassisk">
+<!ENTITY device.sync.images.from.label "Synkroniser bilder fra:">
+<!ENTITY first_run.install_add_ons.title "Laster ned utvidelser">
+<!ENTITY playback.prefpane.streaming.buffer "Streaming-buffer:">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Let gjennom mapper på datamaskinen min">
+<!ENTITY menu.control.play "Spill av/pause">
+<!ENTITY getartwork.key "G">
+<!ENTITY mediamanagement.removed.dialog.title "Beskjed:Mediahåndtering ">
+<!ENTITY subscribe.minutes "Minutt(er)">
+<!ENTITY smart.any "noen">
+<!ENTITY prefpane.content.label "Web Innhold">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY about.credits.heading.champs "Mestre">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Gi meg beskjed når spor eller spillelister som ikke støttes ikke blir importert">
+<!ENTITY device.import.header.label "Importer">
+<!ENTITY tooltip.control.volume "Lydnivå">
+<!ENTITY smart.hours "timer">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY displaypane.name.sidebar "Høyre sidemeny">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Enheten må være tilkoblet i reparasjonsmodus for å fortsette. Vennligst følg instruksjonene under for å sette enheten i reparasjonsmodus.">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY first_run.import_media.description "Denne siden vil lede deg gjennom å importere mediafiler til &brandShortName; ved å prøve å oppdage lokale media. Med en gang Songbird starter kan du legge til mer media på mange måter.">
+<!ENTITY umsd.video.video_ext_desc "Kopier videofiler av følgende filtype til enheten:">
+<!ENTITY smart.most_added "mest nylig spilt">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY open_url.title "Åpne URL">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY first_run.eula.header.label "Lisensavtale">
+<!ENTITY device.capacity.image.label "Bilder">
+<!ENTITY about.credits.intro "Vi vil takke bidragsyterne våre; arbeidet deres gjør Songbird til hva det er. Disse menneskene har hjulpet oss ved å skrive kode, dokumentere og teste. De har laget og vedlikeholdt dette produktet, utviklingsverktøyene for det, byggverktøyene våre og nettsidene våre. Navnene er etterfølgt av IRC-kallenavn, kom innom #songbird på irc.mozilla.org og hils på!">
+<!ENTITY menu.mac.showall "Vis alle">
+<!ENTITY first_run.connection.description "Sjekk tilkoblingsinnstillingene eller fortsett med oppsettsassistenten.">
+<!ENTITY equalizer.preset.full_bass "Full bass">
+<!ENTITY cdrip.lookup.multiple.title "">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Åpne lenken i standardnettleseren din">
+<!ENTITY first_run.add_ons.header.label "Anbefalte utvidelser">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY first_run.feedback.metrics.label "Samle og send bruksstatistikk til utviklerne av &brandShortName;">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY device.dialog.setup.title "Enhetsoppsett">
+<!ENTITY menu.videotofront "Vis Video Fremst">
+<!ENTITY device.management.tabs.music.label "Musikk">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY subscribeMediaFrameCmd.label "Abonner på denne rammen...">
+<!ENTITY add_on_bundle_installer.error_box.label "Detaljer">
+<!ENTITY smart.gb "GB">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.exit "Avslutt">
+<!ENTITY device.sync.images.all.template "Alle bilder (&#37;S)">
+<!ENTITY device.tools.product_registration.description "Ønsker du å sikre deg bekreftelse på kjøpet, ekstra fordeler, eller motta sikkerhetsinformasjon?">
+<!ENTITY first_run.import_media.header.label "Importer media">
+<!ENTITY tooltip.browser.home "Hjem">
+<!ENTITY equalizer.preset.small_speakers "Bærbar PC/hodetelefoner">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Skriv album omslag til Meta Data">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Søk fil endinger:">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY smart.all "alle">
+<!ENTITY playback.prefpane.normalization.enable "Bruk normaliseringsdata hvis de er tilgjengelige">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY displaypane.default.link.text "Nettsted for utvidelser">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.support.title "Brukerstøtte">
+<!ENTITY device.sync.auto_sync.label "Synkroniser">
+<!ENTITY device.info.model.label "Modell">
+<!ENTITY feed.subscribe.dontask "Ikke vis denne dialogen automatisk igjen">
+<!ENTITY rapi.restore_defaults.label "Gjenopprett standard">
+<!ENTITY playback.prefpane.audio_output.label "Lyd-output">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY device.tools.restore_device.description "Å gjenopprette din enhet til fabrikkinnstillinger vil slette all media på enheten, så vel som at det gjenoppretter fabrikk firmware og innstillinger.">
+<!ENTITY device.dialog.wait_for_completion.title "Venter på enheter.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Hent coverbilde automatisk når et spor blir spilt av eller valgt, avhengig av modusen på Coverbilde visnings panelet. Ytelse kan bli påvirket med denne funksjonen i bruk.">
+<!ENTITY device.firmware.wizard.check.already.description "Programvaren er allerede oppdatert">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Innstillinger for CD-ripping">
+<!ENTITY videowindow.fullscreen "Fullskjerm">
+<!ENTITY tooltip.browser.refresh "Oppdater">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY menu.extensions "Utvidelser...">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.full_bass_treble "Full bass og diskant">
+<!ENTITY menu.edit.copy "Kopier">
+<!ENTITY device.repair.menuitem.default "Reparer enheten min">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY tooltip.exit "Avslutt">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY first_run.title "&brandShortName; oppsett">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Spesifiser bitrate og format manuelt">
+<!ENTITY tooltip.control.shuf_off "Skru av blanding">
+<!ENTITY smart.selectedby "valgt av">
+<!ENTITY openPageCmdInDefaultBrowser.label "Åpne siden i standardnettleseren din">
+<!ENTITY menu.control.playpause.spacebar "Mellomrom">
+<!ENTITY import_library.dirty_playlist_dialog.title "Spilleliste endret">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Programvareversjon:">
+<!ENTITY first_run.itunes.checkbox.export.description "Musikk ervervet gjennom &brandShortName; kan eksporteres til iTunes, slik at den kan overføres til en iPod eller iPhone.">
+<!ENTITY device.tools.update_firmware.label "Søk etter oppgradert firmware">
+<!ENTITY device.info.icon.device "Generelt enhetsikon">
+<!ENTITY restartbox.restartlater "Start om igjen senere">
+<!ENTITY first_run.app_update.finished.text "Oppdateringen vil bli installert når &brandShortName; startes på nytt.">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artist">
+<!ENTITY cdrip.lookup.track_name "Tittel">
+<!ENTITY menu.control.pause "Pause">
+<!ENTITY menu.extensions.accesskey "E">
+<!ENTITY device.firmware.wizard.repair.time.description "Denne handlingen burde ta mindre enn 5 minutter.">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Hent Albumomslag Automatisk">
+<!ENTITY command.device.canceldevicesync "Avbryt synkronisering">
+<!ENTITY menu.control.rep1 "Repeter én">
+<!ENTITY device.sync.playlist.video.duration "Videovarighet">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY rapi.prefpane.title "Nettintegrering">
+<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY first_run.add_ons.description.line1 "Utvidelser utvider funksjonaliteten til  &brandShortName; lar deg å spesialtilpasse opplevelsen din av avspilleren. Valgene nedenfor anbefales på det sterkeste.">
+<!ENTITY displaypane.name.servicepane "Bunnen av tjenestemenyen">
+<!ENTITY menu.clearprivatedata "Fjern private data...">
+<!ENTITY window.ok "OK">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY menu.edit.find "Finn">
+<!ENTITY first_run.add_ons.description.line2 "Utvidelser kan integreres med andre programmer og tjenester, støtte tilkobling av eksterne enheter, endre utseendet og mer! Du kan laste ned flere på tilleggssiden til &brandShortName;.">
+<!ENTITY menu.updateCmd.label "Se etter oppdateringer...">
+<!ENTITY device.firmware.wizard.check.error.description "Feil under søket etter ny programvare. Kontroller nettverkstilkoblingen og prøv igjen.">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY displaypane.name.browser "Bunnen av innholdsmenyen">
+<!ENTITY albumartpreferences.prefpane.label "Albumomslag">
+<!ENTITY watch_folder.prefs.description "&brandShortName; kan overvåke innholdet i en mappe og automatisk legge til eller fjerne innhold i den.">
+<!ENTITY umsd.no_devices_present "Ingen USB-masselagringsenheter er tilkoblet.">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY device.progress.sync "Synkroniser">
+<!ENTITY device.dialog.wait_for_completion.quit "Avslutt">
+<!ENTITY tooltip.browser.mediapages.list "Liste Visning">
+<!ENTITY rapi.library_read_disable.label "Hindre nettsteder i å se på informasjon om media i biblioteket mitt og på enhetene mine">
+<!ENTITY feedback.dialog.sentence1 "Vil du hjelpe oss med å gjøre &brandShortName; bedre ved å svare på en kort, anonym undersøkelse?">
+<!ENTITY feed.subscribe.label "Abonnér">
+<!ENTITY tooltip.servicepane.show "Vis tjenesteflaten">
+<!ENTITY tooltip.control.stop "Stopp">
+<!ENTITY menu.file.remote "Nytt abonnement...">
+<!ENTITY menu.file.podcast "Ny podcast...">
+<!ENTITY feedback.dialog.sentence2 "Hvis du ikke er interessert vil vi ikke spørre deg igjen. Takk for at du vurderte det og brukte &brandShortName;!">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY fetch_album_art.dialog.message "Ikke implementert ennå (se bug 14281).">
+<!ENTITY menu.edit "Rediger">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY videowindow.title "Video Vindu">
+<!ENTITY menu.fullscreen "Fullskjerm">
+<!ENTITY menu.file.newtab "Ny fane">
+<!ENTITY feedback.dialog.sentence3 "Hilsen,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Vis Avspillende">
+<!ENTITY albumart.displaypane.drag_and_drop "Dra albumomslaget hit">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY smart.most_often "mest spilt">
+<!ENTITY restartbox.restartnow "Start om igjen nå">
+<!ENTITY device.unsupported_media.dialog.enable "Fortell meg når programmet oppdager ukompatible filer">
+<!ENTITY device.sync.images.selected.label "Valgte under-mapper">
+<!ENTITY command.device.canceldevicecopy "Avbryt kopiering">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Velg hvilket lagrings medium du ønsker at &brandShortName; skal styre:">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName;-utviklerne">
+<!ENTITY smart.title "tittel">
+<!ENTITY menu.tools.reveal "Vis fil">
+<!ENTITY menu.controllerontop "Vis øverst">
+<!ENTITY about.credits.footer.beforeLink "Selvfølgelig ville ikke noe av dette vært mulig uten hardt arbeid og strev fra">
+<!ENTITY device.management.tabs.tools.label "Verktøy">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY trackeditor.addtag.tag "Merkelapp:">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY command.device.canceldeviceupdate "Avbryt oppdatering">
+<!ENTITY mediapages.firstrun.title "Velkommen til &brandShortName;">
+<!ENTITY equalizer.preset.full_treble "Full diskant">
+<!ENTITY umsd.music.tab "Musikk">
+<!ENTITY tooltip.close "Lukk">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY menu.edit.redo "Gjenta">
+<!ENTITY menu.edit.findagain "Finn på nytt">
+<!ENTITY device.info.capacity.label "Kapasitet">
+<!ENTITY command.device.ignoredevice.accesskey "|">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY device.sync.images.browse "Velg mappe...">
+<!ENTITY displaypane.default.link.post "for å bla i utvidelser.">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.file.open "Åpne fil...">
+<!ENTITY command.device.devicesync "Synkroniser">
+<!ENTITY menu.preferences.accesskey "P">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY mediacore.error.continue "Fortsett">
+<!ENTITY umsd.music.music_path_desc "Plasser musikkfiler som kopieres til enheten i denne mappen:">
+<!ENTITY playback.prefpane.audio_output.buffer "Output-buffer:">
+<!ENTITY menu.switchplayercontrols "Avspillingskontroller">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Behold den nåværende  &brandShortName;-spillelisten (ikke importer denne spillelisten)">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.firmware.wizard.check.page.title "Søk etter oppdatert programvare">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY device.info.serial_number.label "Serienummer">
+<!ENTITY device.info.product.label "Produkt">
+<!ENTITY smart.minutes "minutter">
+<!ENTITY menu.help.topics "Emner i hjelp...">
+<!ENTITY menu.file.playlist "Importer spilleliste">
+<!ENTITY first_run.app_update.finished.title "Oppdatering klar for installering.">
+<!ENTITY device.tools.format_volume.button.label "Format">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY smart.limit "Begrens til">
+<!ENTITY menu.file.library "Importer et bibliotek...">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.control.curtrack "Finn gjeldende spor">
+<!ENTITY setupprogress.installingextensions "Installerer utvidelser">
+<!ENTITY menu.mac.services "Tjenester">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY import_library.library_file_label "Bibliotekfil:">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY smart.matchsingle "Stemmer med følgende kriterie:">
+<!ENTITY importexport_show_notifications_checkbox "Vis melding når importering/eksportering er ferdig">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcaster og musikk kjøpt gjennom iTunes kan importeres til Songbird. Denne muligheten er nyttig hvis &brandShortName; er din primære musikkspiller.">
+<!ENTITY device.sync.images.foldername "Mappenavn">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY umsd.music.music_files_group "Musikkfiler">
+<!ENTITY trackeditor.tab.lyrics.title "Tekst">
+<!ENTITY menu.mac.exit "Avslutt &brandShortName;">
+<!ENTITY menu.control.play.button "Spill av">
+<!ENTITY hotkeys.prefpane "Hurtigtast">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY subscribe.hours "Time(r)">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY menu.help "Hjelp">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY command.device.ignoredevice "Ignorer">
+<!ENTITY export_subscriptions_itunes_checkbox "Eksporter abonnement ">
+<!ENTITY mediacore.error.title "Feil i mediakjerne">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY menu.control.jumpto "Hopp til...">
+<!ENTITY menu.tools "Verktøy">
+<!ENTITY device.settings.music.transcoding.label "Musikkomkoding">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Nullstill">
+<!ENTITY device.info.icon.readonly "Skrivebeskyttet">
+<!ENTITY command.device.lookup "Finn CD-informasjon">
+<!ENTITY tabs.listAllTabs "Vis alle faner">
+<!ENTITY rapi.prefpane.access.caption "Tilganger til nettsideintegrering">
+<!ENTITY menu.file.scan "Søk etter media...">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY import_media.prefs.title "Importer Media">
+<!ENTITY device.firmware.wizard.download.error.description "Feil under nedlastningen av ny programvare. Kontroller nettverkstilkoblingen og prøv igjen">
+<!ENTITY watch_folder.prefs.settings_group_caption "Instillinger for mappeovervåkning">
+<!ENTITY tooltip.minimize "Minimer">
+<!ENTITY smart.random "tilfeldig">
+<!ENTITY smart.contenttypecondition.audio "Musikk">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Versjonsnotat">
+<!ENTITY watch_folder.prefs.title "Overvåk Mapper">
+<!ENTITY subscribe.autocheck "Oppdater automatisk hvert">
+<!ENTITY menu.control.shuf "Tilfeldig">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Opp">
+<!ENTITY device.firmware.wizard.retry.description "Prøv igjen etter enheten har fullført handlingen.">
+<!ENTITY first_run.connection.settings.description "Er datamaskinen din eller nettverket beskyttet av en brannmur eller mellomtjener? Ved å endre uriktige tilkoblingsinnstillinger kan man ofte løse vanlige nettverksproblemer.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Automatisk overvåk for forandringen i den følgende mappen">
+<!ENTITY menu.file.metadata "Vis Metadata...">
+<!ENTITY device.info.firmware_version.label "Firmwareversjon">
+<!ENTITY device.info.access.label "Tilgangskompatibilitet">
+<!ENTITY tooltip.control.back "Forrige spor">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.controlleronbottom "Vis nederst">
+<!ENTITY device.sync.sync_selected.label "Valgte spillelister:">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY tooltip.browser.mediapages.filter "Filtrer Panel Visning">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Skriv inn filnavn her, separert med komma">
+<!ENTITY rapi.playback_control_disable.label "Hindre i å kontrollere medieavspilling">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY first_run.feedback.metrics.description "Statistikken er helt anonym og ingen personlig informasjon blir samlet inn.">
+<!ENTITY cdrip.prefpane.label "CD-ripp">
+<!ENTITY tooltip.control.mute "Demp">
+<!ENTITY smart.album "album">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.tools.format_device.label "Formater enhet">
+<!ENTITY hotkeys.remove "Fjern">
+<!ENTITY tooltip.fullscreen "Fullskjerm">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Konfigurer konvertering automatisk">
+<!ENTITY jumptofile.search "Søk:">
+<!ENTITY albumart.displaypane.not_selected_message "Ingenting valgt">
+<!ENTITY wizard.button.back.label "Gå tilbake">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY smart.to "til">
+<!ENTITY rapi.prefpane.access.text "Du kan la nettsider integrere seg med &brandShortName; for å lage et tettere bånd mellom nettet og media dine. Konfigurer &brandShortName; for å tillate eller blokkere følgende muligheter for integrering.">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY tooltip.servicepane.collapse "Kollaps Service Panel">
+<!ENTITY podcast.creation_dialog.title "Ny podcast">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Spor">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY about.credits.footer.afterLink "til Mozilla-prosjektet.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Dette vil tillate &brandShortName; å legge inn plateomslag med samme merkelapper i mediafiler.">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY hotkeys.add "Legg til">
+<!ENTITY export_playlists_itunes_checkbox "Eksporter spilleliste">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Se automatisk etter ny programvare">
+<!ENTITY smart.least_recent "minst nylig spilt">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.help.about "Om &brandShortName;...">
+<!ENTITY device.settings.general.label "Generell">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediahåndtering har blitt tatt bort fra Songbird etter version 1.10.">
+<!ENTITY menu.file.closetab.accesskey "W">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY cdrip.prefpane.eject_after_rip "Løs ut CD&apos;en når rippingen er fullført">
+<!ENTITY device.management.tabs.image.label "Bilder">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Denne endringen er et ledd i et forsøk på å forenkle vårt produkt og gi en enklere og brukervennlig opplevelse.">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY playqueue.inprogress "Legger til spor">
+<!ENTITY device.info.vendor.label "Fabrikant">
+<!ENTITY first_run.DLNA.header.label "Tillegg for mediedeling">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY sanitize.key "Del">
+<!ENTITY playback.prefpane.ratings.label "Rangerings Metadata">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Spill av systemlyd når CD-rippingen er ferdig">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY device.tools.format_device.description "Å formatere enheten din vil slette all musikk og data på enheten. ">
+<!ENTITY jobprogress.details "Detaljer">
+<!ENTITY device.tools.reset_warnings.description "Resette advarselsmeldingene vil muliggjøre disse til å spørre deg om visse oppgaver som du vil utføre. ">
+<!ENTITY prefs.homepage.label "Startside">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.closetab "Lukk fane">
+<!ENTITY device.firmware.wizard.title "Oppdater programvare">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.sync.images.all.label "Alle bilder">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Foretrukket gain-data:">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.firmware.wizard.download.title "Laster ned ny firmware...">
+<!ENTITY cdrip.prefpane.format "Formater">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.linux.preferences "Innstillinger...">
+<!ENTITY menu.file "Fil">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY import_library.prefs.path_group_caption "Sti til bibliotek">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY tooltip.control.pause "Pause">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY device.settings.header.label "Instillinger">
+<!ENTITY copySelectionCmd.label "Kopier merket tekst">
+<!ENTITY feed.subscribe.close "Avslutt">
+<!ENTITY device.settings.disk.label "Enhetsbehandling">
+<!ENTITY first_run.feedback.email.header.label "Hold meg oppdatert">
+<!ENTITY equalizer.preset.custom "Egendefinert">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Slå sammen &brandShortName; og iTunes-spillelister">
+<!ENTITY import_tracks_itunes_checkbox "Importer sanger fra iTunes">
+<!ENTITY first_run.welcome.header.label "Velkommen til &brandShortName;">
+<!ENTITY feedback.dialog.title "Hjelp til med å gjøre &brandShortName; bedre!">
+<!ENTITY window.yes "Ja">
+<!ENTITY subscribeMediaPageCmd.label "Abonner på denne siden...">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY command.device.cancel "Avbryt">
+<!ENTITY watchfolder.folderlist "Overvåk disse mappene etter nye medier:">
+<!ENTITY tooltip.control.fwd "Neste spor">
+<!ENTITY restartbox.restartonplaybackend "Start om igjen ved slutten av avspilling">
+<!ENTITY playback.prefpane.label "Avspilling">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Vis Valgte">
+<!ENTITY import_library.dirty_playlist_dialog.note "Viktig: Du kan ikke angre sammenslåing og erstatning.">
+<!ENTITY menu.control.repa "Gjenta alt">
+<!ENTITY jumptofile.title "Hopp til">
+<!ENTITY prefs.homepage.url.label "Adresse:">
+<!ENTITY device.firmware.wizard.busy.description "Enheten er opptatt. Programvare kan kun bli installert når enheten ikke er i bruk.">
+<!ENTITY command.device.renamedevice "Endre navn">
+<!ENTITY smart.least_added "tidligst lagt til">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Last ned til bibliotek">
+<!ENTITY command.device.stoprip "Stopp ripping">
+<!ENTITY device.firmware.wizard.check.install.description "Installeringen av den oppdaterte programvare tar ikke mer enn 10 minutter. Du kan alltids gjennomføre dette på et senere tidspunkt.">
+<!ENTITY first_run.add_ons.load_failed.label "Kunne ikke hente anbefalte utvidelser.">
+<!ENTITY first_run.feedback.description "Ønsker du å hjelpe oss med å gjøre &brandShortName; bedre ved å sende oss tilbakemeldinger i form av anonym informasjon om hvordan du bruker programmet?">
+<!ENTITY about.credits.footer.linkText "bidragsyterne">
+<!ENTITY device.tools.update_firmware.title "Oppdater firmware">
+<!ENTITY locale.language "Språk">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stopp ripping">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For mer informasjon om manglende kodeker, vennligst se:">
+<!ENTITY first_run.itunes.description "Det ser ut som du har iTunes installert. &brandShortName; kan konfigureres til å importere og/eller eksportere sanger mellom &brandShortName; og iTunes, slik at bibliotekene dine er synkroniserte.">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY first_run.itunes.header.label "iTunes Importer/Eksporter">
+<!ENTITY albumart.coverpreview.title "Albumomslag">
+<!ENTITY playback.prefpane.normalization.label "Normalisering">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.file.url.accesskey "U">
+<!ENTITY first_run.itunes.checkbox.export.label "Eksporter nye spor og spillelister til iTunes">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY watch_folder.prefs.general_description "Ikke aktiver overvåkningsmappen i samme mappe som administreringsmappen for musikk. Om du gjør dette vil det skape duplikater i biblioteket.">
+<!ENTITY smart.match "Passer">
+<!ENTITY export_tracks_itunes_checkbox "Eksporter sanger til iTunes">
+<!ENTITY cdrip.prefpane.quality "Kvalitet">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Ny spilleliste">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+
