@@ -1,0 +1,708 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY menu.mac.hideothers "Hide Others">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY prefpane.content.label "Web Content">
+<!ENTITY device.tools.support.label "View support resources">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Merge the current &brandShortName; and iTunes playlists">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "फाइल नाम खोजें:">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY first_run.itunes.checkbox.export.description "&brandShortName; द्वारा प्रयाप्त किए गये संगीत को आईट्यून्स में ट्रान्स्फर किया जा सकता है ताकि वह आपके आईपॉड या आईफ़ोन में डाला जा सके ।">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "पुनरारंभ करें">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY getartwork.key "G">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa "Repeat All">
+<!ENTITY menu.file.scan "Import Media...">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY enable_recommended_addons_update.label "Recommended Add-ons">
+<!ENTITY albumartpreferences.prefpane.priorities.down "नीचे">
+<!ENTITY command.device.ejectdevice "बाहर निकालें">
+<!ENTITY smart.to "to">
+<!ENTITY menu.file.playlist "Import a Playlist...">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.capacity.music.label "संगीत">
+<!ENTITY export_smartplaylists_itunes_checkbox "Export music smart playlists">
+<!ENTITY window.yes "हाँ">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY smart.most_often "most often played">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY hotkeys.add "नया जोडें">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY cdrip.mediaview.quality_label "Quality: ">
+<!ENTITY menu.control.prev "Previous Track">
+<!ENTITY device.progress.sync "Sync">
+<!ENTITY tooltip.control.resume "Resume">
+<!ENTITY setupprogress.installingextensions "Installing Add-ons">
+<!ENTITY recommended_add_ons.title "&brandShortName; Setup">
+<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
+<!ENTITY device.tools.format_volume.button.label "पूर्णतः खाली करें">
+<!ENTITY watch_folder.prefs.title "फोल्डर देखें ">
+<!ENTITY umsd.music.tab "संगीत">
+<!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
+<!ENTITY smart.mb "MB">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY import_library.import_command "Import Library">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY jumpto.key "J">
+<!ENTITY device.settings.disk.label "Disk Management">
+<!ENTITY subscribe.title "Subscribe">
+<!ENTITY menu.downloadmgr "File Downloads...">
+<!ENTITY hotkeys.remove "हटाएँ">
+<!ENTITY device.firmware.wizard.title "Update Firmware">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.stoprip "Stop Rip">
+<!ENTITY rapi.library_read_disable.label "Block websites from viewing information about media in my Library and devices">
+<!ENTITY command.device.ignoredevice "ध्यान न दें">
+<!ENTITY device.sync.images.filecount "Photos">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY albumartpreferences.prefpane.label "एल्बम आर्टवर्क">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY tooltip.browser.home "Home">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY cdinfo.other.label "कलाकार और एल्बम की जानकारी जोड़ें">
+<!ENTITY device.dialog.wait_for_completion.quit "छोड़ें">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.fullscreen "Full Screen">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
+<!ENTITY device.sync.auto_sync.label "Sync">
+<!ENTITY smart.limit "Limit to">
+<!ENTITY menu.clearprivatedata "Clear Private Data...">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY menu.tools.getartwork "Get Artwork">
+<!ENTITY device.error.dialog.link "View Error Details">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "fetcher की सूची जो आप शीर्ष पर उपयोग करना चाहते हैं.">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "अपने आप एल्बम आर्टवर्क ले.">
+<!ENTITY rapi.restore_defaults.label "Restore to Default">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY first_run.connection.settings.button "Connection Settings...">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY trackeditor.tab.lyrics.title "गाने के बोल">
+<!ENTITY menu.extensions "Add-ons...">
+<!ENTITY locale.language "Language">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY feed.subscribe.dontask "Don&apos;t automatically show this dialog again">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY wizard.button.cancel.label "रद्द करें">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY first_run.import_media.radio.dont_import.label "Do not import media">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+<!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY device.sync.header.label "Sync Settings">
+<!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
+<!ENTITY cdrip.mediaview.eject_cd_button "सीडी बाहर निकालो">
+<!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY menu.mac.hide "Hide &brandShortName;">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY cdrip.mediaview.view_tracks_button "View Tracks">
+<!ENTITY albumart.coverpreview.title "अलबम चित्र">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY restartbox.restartonplaybackend "Restart on End of Playback">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.exit "Exit">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY equalizer.preset.full_bass "Full bass">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY hotkeys.action "Action">
+<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY device.info.battery.label "बैटरी">
+<!ENTITY menu.file.url "पता बताइए...">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY menu.control.play.button "बजाअो">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
+<!ENTITY watchfolder.folderlist "Watch these folders for new media:">
+<!ENTITY videowindow.fullscreen "Full Screen">
+<!ENTITY import_library.dirty_playlist_dialog.title "Playlist changed">
+<!ENTITY search.key "F">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY first_run.title "&brandShortName; Setup">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+<!ENTITY device.tools.format_device.label "Format device">
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View">
+<!ENTITY menu.file.closetab "Close Tab">
+<!ENTITY device.settings.header.label "प्राथमिकतायें">
+<!ENTITY device.management.tabs.settings.label "प्राथमिकतायें">
+<!ENTITY menu.preferences "विकल्प">
+<!ENTITY menu.mac.services "Services">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.file "File">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY device.sync.playlist.title "Title">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY menu.tools "Tools">
+<!ENTITY import_media.prefs.title "Media Importer">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip " यह &brandShortName; को  मीडिया फ़ाइलो के संगत टैग में कलाकृति स्थापित करने की अनुमति देता है.">
+<!ENTITY device.dialog.wait_for_completion.title "Waiting for devices.">
+<!ENTITY tooltip.hide "छिपायें">
+<!ENTITY smart.following "of the following conditions:">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY menu.help.topics "Help Topics">
+<!ENTITY menu.file.smart "नयी चतुर गीतसूची...">
+<!ENTITY menu.file.remote "नया अभिदान...">
+<!ENTITY device.unsupported_media.dialog.title "Incompatible Files Detected">
+<!ENTITY import_library.prefs.path_group_caption "iTunes Music Library Location">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "अल्पविराम से अलग  होने वाली फाइलो के नाम की सूची दर्ज करें  ">
+<!ENTITY menu.control.repx "Repeat None">
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page...">
+<!ENTITY menu.help "मदद">
+<!ENTITY menu.file.newtab "New Tab">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY cdrip.lookup.multiple.title "Multiple CD Records Found">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY import_tracks_itunes_checkbox "Import music tracks from iTunes">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY equalizer.on.checkbox "On">
+<!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
+<!ENTITY mediapages.firstrun.title "Welcome to &brandShortName;">
+<!ENTITY smart.gb "GB">
+<!ENTITY menu.videotofront "Video to Front">
+<!ENTITY menu.switchplayercontrols "Player Controls">
+<!ENTITY menu.file.library "Import a Library...">
+<!ENTITY displaypane.name.browser "Content Pane Bottom">
+<!ENTITY device.sync.sync_selected.label "Sync selected playlists:">
+<!ENTITY window.browser.titledefault " ">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY about.version "संस्करण">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY equalizer.preset.soft_rock "Soft Rock">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Scan directories on my computer">
+<!ENTITY cdrip.prefpane.label "CD Rip">
+<!ENTITY cdrip.mediaview.rip_cd_button "सीडी रिप करो (सीडी  बनाओ)">
+<!ENTITY import_library.prefs.title "iTunes Import/Export">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
+<!ENTITY albumartpreferences.prefpane.priorities.label "fetcher  की प्राथमिकताओं">
+<!ENTITY displaypane.name.sidebar "Right Sidebar">
+<!ENTITY albumart.displaypane.not_selected_message "कुछ नहीं चुना गया |">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;&apos;s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;कोई गीतसूची नहीं&gt;">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY openImageCmdInDefaultBrowser.label "Open Image In Default Web Browser">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.errorconsole "Error Console">
+<!ENTITY first_run.feedback.email.textbox.emptytext "enter your email to stay up-to-date">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY about.buttons.credits "आभार">
+<!ENTITY subscribe.hours "Hour(s)">
+<!ENTITY smart.any "कोई भी">
+<!ENTITY podcast.creation_dialog.title "नया पोडकास्ट">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY watchfolder.title "फोल्डर देखें">
+<!ENTITY smart.matchsingle "Match the following condition:">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY first_run.add_ons.header.label "Recommended Add-ons">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY menu.edit "Edit">
+<!ENTITY equalizer.preset.soft "Soft">
+<!ENTITY videowindow.title "Video Window">
+<!ENTITY textbox.songbird_open_url "Enter the URL or path of the media you wish to playback:">
+<!ENTITY rapi.playback_read_disable.label "वेबसाइट्स को आपके द्वारा चलाये गए गानों का पता न चलने दें">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
+<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY feedback.dialog.no "नहीं">
+<!ENTITY tooltip.control.back "Previous Track">
+<!ENTITY smart.title "title">
+<!ENTITY smart.selectedby "selected by">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "फ़ाइल एक्सटेंशन खोजे">
+<!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
+<!ENTITY tooltip.browser.mediapages.list "List View">
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY menu.help.about "&brandShortName; के विषय में...">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
+<!ENTITY cdrip.mediaview.settings_button "प्राथमिकतायें">
+<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY about.credits.heading.translators "अनुवादक">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY command.device.devicesync "समकालन">
+<!ENTITY first_run.feedback.header.label "&brandShortName; को बेहतर बनाने मे मदद करें">
+<!ENTITY tooltip.control.fwd "अगला ट्रॅक">
+<!ENTITY prefpane.addons.label "Add-ons">
+<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY trackeditor.title "मैटाडैटा सम्पादक">
+<!ENTITY smart.autoupdate "अपने आप अपडेट करें">
+<!ENTITY menu.tools.reveal "Show File">
+<!ENTITY menu.mac.showall "Show All">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
+<!ENTITY device.dialog.setup.title "Device Setup">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.control.shuf "Shuffle">
+<!ENTITY feedback.dialog.sentence3 "Regards,">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY umsd.no_devices_present "कोई USB  स्टोरेज नहीं मिली">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY device.dialog.wait_for_completion.msg "Waiting for all device operations to complete.  Click &quot;Quit&quot; to stop waiting and quit application.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Apply selection to all playlists">
+<!ENTITY first_run.feedback.metrics.description "Metrics are completely anonymous and no personal information is collected.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "आर्टवर्क को मेटाडाटा के भीतर लिखें">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY menu.help.bugz "समस्या सूचित कीजिए">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY command.device.lookup "Lookup CD Information">
+<!ENTITY first_run.itunes.checkbox.export.label "नये गीत और गीतसूचियों को आईट्यून्स में भेजो">
+<!ENTITY albumart.displaypane.selected.menu.cut "काटें">
+<!ENTITY window.apply "Apply">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY command.device.renamedevice "नाम बदलें">
+<!ENTITY feedback.dialog.sentence1 "Will you help us make &brandShortName; better by taking a quick, anonymous survey?">
+<!ENTITY smart.low_rating "lowest rating">
+<!ENTITY import_playlists_itunes_checkbox "Import music playlists">
+<!ENTITY command.device.canceldeviceupdate "अपडेट बंद करो">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY device.info.product.label "Product">
+<!ENTITY albumart.displaypane.selected.menu.paste "चिपकाएँ">
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+<!ENTITY trackeditor.tab.edit.title "गुण">
+<!ENTITY tooltip.control.play "Play">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY jobprogress.details "Details">
+<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
+<!ENTITY setupprogress.cancel "रद्द करें">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY equalizer.preset.custom "Custom">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY umsd.video.tab "विडियो">
+<!ENTITY umsd.music.music_path_desc "When copying music files to the device, place them within the following directory:">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "अल्पविराम से अलग  होने वाली एक्सटेंशन की सूची दर्ज करें  ">
+<!ENTITY mediacore.error.preface "&brandShortName; has encountered the following playback error(s):">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY trackeditor.addtag.tag "Tag:">
+<!ENTITY smart.contenttypecondition.audio "संगीत">
+<!ENTITY menu.controlleronbottom "Display at Bottom">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
+<!ENTITY smart.most_added "most recently added">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.findagain "Find Again">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY command.device.ejectcddevice "Eject CD">
+<!ENTITY device.info.vendor.label "Manufacturer">
+<!ENTITY tooltip.control.mute "Mute">
+<!ENTITY subscribe.minutes "Minute(s)">
+<!ENTITY cdrip.lookup.track_name "Title">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY smart.high_rating "highest rating">
+<!ENTITY restartbox.restartlater "बाद में पुनरारंभ करें">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.paste "चिपकाएँ">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY first_run.import_media.header.label "Import Media">
+<!ENTITY wizard.button.next.label "जारी रखें ">
+<!ENTITY tooltip.maximize "Maximize/Restore">
+<!ENTITY tooltip.control.shuf_off "Shuffle Off">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY smart.least_added "least recently added">
+<!ENTITY prefs.security.addons.label "Add-on Installation">
+<!ENTITY playback.prefpane.streaming.label "Network and Streaming">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.control.playpause.spacebar "Spacebar">
+<!ENTITY downloadmgr.key "जे">
+<!ENTITY command.device.canceldevicedelete "हटाने की प्रक्रिया को रोकें">
+<!ENTITY playback.prefpane.audio_output.buffer "Output Buffer:">
+<!ENTITY menu.view "View">
+<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY menu.edit.cut "काटें">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY playback.prefpane.normalization.label "Normalization">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY first_run.eula.accept_checkbox.label "मैने लाईसेन्स की शर्ते पढी है और मुझे मंज़ूर है">
+<!ENTITY device.settings.disk.management.filename "Song files">
+<!ENTITY first_run.connection.header.label "&brandShortName; Cannot Connect to the Internet">
+<!ENTITY menu.controls "Controls">
+<!ENTITY smart.songs "items">
+<!ENTITY menu.help.keyboard "कीबोर्ड के शॉर्टकट">
+<!ENTITY feed.subscribe.close "Close">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "अपने आप एल्बम आर्टवर्क ले (एल्बम कलाकृति प्रदर्शन फलक के मोड पर निर्भर करता है). इस सुविधा से परदर्शन प्रभावित हो सकता है ">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY about.credits.footer.afterLink "Mozilla प्रोजेक्ट को">
+<!ENTITY hotkeys.set "Set">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY hotkeys.info "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.
+
+Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications.">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY displaypane.name.servicepane "Service Pane Bottom">
+<!ENTITY smart.genre "genre">
+<!ENTITY rapi.prefpane.access.caption "Web Integration Permissions">
+<!ENTITY menu.control.rep1 "Repeat One">
+<!ENTITY menu.control.pause.button "स्थगित करें">
+<!ENTITY first_run.import_media.description "Select what media you&apos;d like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
+<!ENTITY mediacore.error.stop "Stop Playback">
+<!ENTITY feedback.dialog.title "Help Make &brandShortName; Better!">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Keep the current &brandShortName; playlist (Do not import this playlist)">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY fetch_album_art.dialog.title "Get Artwork">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.control.next "Next Track">
+<!ENTITY device.info.icon.device "Generic device icon">
+<!ENTITY menu.edit.copy "पकड़ें">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY menu.updateCmd.label "Check for Updates...">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.tools.product_registration.title "Product Registration">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY umsd.music.music_files_group "संगीत की फाइलें">
+<!ENTITY tooltip.control.shuffle "Shuffle">
+<!ENTITY restartbox.restartnow "अभी पुनरारंभ करें">
+<!ENTITY menu.tools.exportmedia "Export Library Changes">
+<!ENTITY menu.linux.preferences "Preferences...">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY first_run.add_ons.loading.label "Retrieving recommended add-ons.">
+<!ENTITY first_run.feedback.email.header.label "मुझे जानकारी देते रहें">
+<!ENTITY equalizer.preset.full_treble "Full treble">
+<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
+<!ENTITY device.info.serial_number.label "Serial Number">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Open Link In Default Web Browser">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY first_run.connection.description "Check your Connection Settings or Continue with the Setup assistant.">
+<!ENTITY umsd.music.music_path_browse_msg "संगीत रखने के लिए इस उपकरण का कोई फोल्डर चुनें">
+<!ENTITY subscribe.autocheck "Automatically update every">
+<!ENTITY first_run.add_ons.load_failed.label "Unable to retrieve recommended add-ons.">
+<!ENTITY device.capacity.image.label "तस्वीर ">
+<!ENTITY tooltip.search "खोजें">
+<!ENTITY tooltip.control.pause "स्थगित करें">
+<!ENTITY smart.minutes "minutes">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY import_library.dialog.title "Import a library">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
+<!ENTITY window.save "सहेजें ">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY umsd.video.video_ext_desc "Copy video files with the following extensions to the device:">
+<!ENTITY smart.hours "hours">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
+<!ENTITY first_run.eula.header.label "License Agreement">
+<!ENTITY first_run.feedback.email.description "Subscribe to our newsletter to hear about new releases and important updates.">
+<!ENTITY umsd.video.video_files_group "Video files">
+<!ENTITY tooltip.browser.back "Browse Back">
+<!ENTITY sanitize.key "Del">
+<!ENTITY about.credits.description.champs.link.post "वे हमारे मंच पर सबसे उर्वर लोग हैं, और वे अथक काम के द्वारा यह सुनिश्चित करते है की हर songbird उपयोगकर्ता खुश हो.">
+<!ENTITY device.info.access.label "Access Compatibility">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "abhi kya chal rha hai">
+<!ENTITY importexport_show_notifications_checkbox "Show notifications when the import/export is complete">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY umsd.video.video_path_desc "When copying video files to the device, place them within the following directory:">
+<!ENTITY tooltip.control.stop "रद्द करना">
+<!ENTITY tabs.closeTab "Close tab">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY tooltip.close "Close">
+<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY cdrip.mediaview.stop_rip_button "रिप करना बंद करे.">
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY menu.control.pause "स्थगित करें">
+<!ENTITY tooltip.exit "Exit">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY cdrip.prefpane.quality "कुँलिटी ">
+<!ENTITY device.tools.support.title "Support">
+<!ENTITY device.sync.playlist.video.duration "Video Duration">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY cdrip.prefpane.format "पूर्णतः खाली करें">
+<!ENTITY feedback.dialog.yes "हाँ">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY tooltip.browser.refresh "Refresh">
+<!ENTITY tooltip.browser.fwd "Browse Forward">
+<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback">
+<!ENTITY playMediaCmd.label "बजाओ">
+<!ENTITY menu.control.play "बजाअो">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY cdrip.lookup.info_not_found.artist "कलाकार">
+<!ENTITY device.sync.sync_all.label "Sync all media and playlists">
+<!ENTITY locationbar.key "L">
+<!ENTITY smart.most_recent "most recently played">
+<!ENTITY menu.file.new "नयी गानसूची">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY menu.control.jumpto "Jump To...">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY device.repair.menuitem.default "Repair my device">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY downloadMediaCmd.label "Download To Library">
+<!ENTITY command.device.canceldevicesync "समकालन बंद करो">
+<!ENTITY tooltip.control.volume "Volume">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY menu.mac.exit "Quit &brandShortName;">
+<!ENTITY equalizer.key "E">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY command.device.getdeviceinfo "जानकारी लेकर आयें">
+<!ENTITY device.management.tabs.music.label "संगीत">
+<!ENTITY watch_folder.prefs.settings_group_caption "फोल्डर सेटिंग देखें ">
+<!ENTITY watch_folder.prefs.enable_checkbox "Automatically watch for changes in the following folder">
+<!ENTITY servicepane.title.label "Service Pane">
+<!ENTITY playback.prefpane.audio_output.label "Audio Output">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "इस उपकरण को अनदेखा करें">
+<!ENTITY copySelectionCmd.label "Copy Selected Text">
+<!ENTITY jumptofile.search "खोजें:">
+<!ENTITY umsd.video.video_path_browse_msg "विडियो रखने के लिए इस उपकरण का कोई फोल्डर चुनें">
+<!ENTITY command.device.formatdevice "पूर्णतः खाली करें">
+<!ENTITY first_run.itunes.header.label "iTunes Import/Export">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY albumartpreferences.prefpane.priorities.up "ऊपर">
+<!ENTITY import_library.library_file_label "Library File:">
+<!ENTITY mediacore.error.title "Playback Error">
+<!ENTITY tooltip.servicepane.show "Show Service Pane">
+<!ENTITY smart.all "सभी">
+<!ENTITY hotkeys.hotkey "Hotkey">
+<!ENTITY menu.control.stop.button "रद्द करना">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY import_library.prefs.options_group_caption "Import/Export Options">
+<!ENTITY first_run.feedback.metrics.label "Collect and send my metrics to the &brandShortName; team">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY playback.prefpane.streaming.buffer "Streaming Buffer:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Alert me when unsupported tracks or playlists are not imported">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY equalizer.preset.large_hall "Large Hall">
+<!ENTITY device.info.capacity.label "क्षमता">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY device.management.tabs.video.label "वीडियो">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY tabs.listAllTabs "List all tabs">
+<!ENTITY smart.least_often "least often played">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY first_run.eula.language.label "भाषा :">
+<!ENTITY device.tools.product_registration.label "Register product">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY cdrip.mediaview.format_label "पूर्णतः खाली करें:">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY smart.contenttypecondition.video "वीडियो">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY device.unsupported_media.dialog.enable "Tell me when incompatible files are detected">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY device.info.friendly_name.label "नाम">
+<!ENTITY tooltip.browser.subscription "Subscribe to this page">
+<!ENTITY rapi.whitelist.label "Exceptions...">
+<!ENTITY rapi.library_write_disable.label "Block websites from adding/editing media and playlists in my Library and devices">
+<!ENTITY openPageCmdInDefaultBrowser.label "Open Page In Default Web Browser">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Open Frame In Default Web Browser">
+<!ENTITY menu.edit.redo "Redo">
+<!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY albumart.displaypane.selected.menu.copy "पकड़ें">
+<!ENTITY window.ok "हाँ">
+<!ENTITY prefs.homepage.label "मुख्य पन्ना">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY menu.mac.preferences "Preferences...">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.edit.selall "Select All">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY device.settings.music.transcoding.label "संगीत कूटलेखन (संगीत को ट्रांसकोडे किया जा रहा है)">
+<!ENTITY tooltip.control.curtrack "Find Current Track">
+<!ENTITY export_playlists_itunes_checkbox "Export music playlists">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY import_library.dirty_playlist_dialog.note "Note: Merge and replace cannot be undone.">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY device.info.firmware_version.label "Firmware Version">
+<!ENTITY menu.edit.delete "हटाओ">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction समर्थन फोरम.">
+<!ENTITY first_run.itunes.description "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY trackeditor.key2 "आई">
+<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
+<!ENTITY equalizer.preset.small_speakers "Laptop/Headphones">
+<!ENTITY device.tools.update_firmware.title "Update Firmware">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY first_run.install_add_ons.title "Downloading Add-ons">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY subscribe.destinationfolder "Select destination folder:">
+<!ENTITY device.firmware.wizard.check.page.title "Check for Updated Firmware">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY window.browse "ढूंढें">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY tooltip.servicepane.newnode "नयी गानसूची">
+<!ENTITY tooltip.minimize "Minimize">
+<!ENTITY hotkeys.useglobalhotkeys "Use Global Hotkeys">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY wizard.button.back.label "पीछे जाएँ">
+<!ENTITY watch_folder.prefs.watch_folder_label "फोल्डर:">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY smart.album "एल्बम">
+<!ENTITY setupprogress.pleasewait "कृपया प्रतीक्षा करें">
+<!ENTITY rapi.prefpane.title "Web Integration">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.edit.find "Find">
+<!ENTITY albumart.displaypane.contextmenu.showselected "abhi kya chuna hua hai">
+<!ENTITY first_run.welcome.header.label "&brandShortName; मे आपका स्वागत है">
+<!ENTITY wizard.button.finish.label "समाप्त">
+<!ENTITY window.cancel "रद्द ">
+<!ENTITY tooltip.fullscreen "Fullscreen">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY smart.window "Smart Playlist">
+<!ENTITY rapi.prefpane.access.text "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration.">
+<!ENTITY albumart.displaypane.selected.menu.clear "मिटायें">
+<!ENTITY albumart.displaypane.drag_and_drop "अलबम चित्र को यहा खीचे">
+<!ENTITY device.capacity.video.label "वीडियो">
+<!ENTITY window.no "नहीं">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY smart.match "Match">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY hotkeys.prefpane "Hotkeys">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY trackeditor.addtag.title "Add Tag">
+<!ENTITY smart.least_recent "least recently played">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY feed.subscribe.label "Subscribe">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY device.info.icon.readonly "Read-only lock icon">
+<!ENTITY feedback.dialog.sentence4 "The &brandShortName; Team">
+<!ENTITY smart.random "random">
+<!ENTITY open_url.title "Open URL">
+<!ENTITY addMediaToPlaylistCmd.label "गीतसूची मे डाउनलोड करे">
+<!ENTITY albumart.displaypane.not_playing_message "कुछ नही चल रहा है |">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY smart.artist "कलाकार">
+<!ENTITY device.capacity.other.label "Other">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Track">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY feedback.dialog.sentence2 "If you&apos;re not interested, we will not ask you again.  Thanks for considering and we appreciate you using &brandShortName;!">
+<!ENTITY command.device.cancel "रद्द करना">
+<!ENTITY command.device.canceldevicecopy "प्रितिलिप रद्द करें ">
+<!ENTITY device.management.tabs.tools.label "Tools">
+<!ENTITY device.tools.format_device.title "Format Device">
+<!ENTITY menu.file.open "Open File...">
+<!ENTITY watch_folder.prefs.description "&brandShortName; एक फोल्डर की चीज़ों पर नज़र रख सकता है और अपने आप और चीज़ें डाल या हटा सकता है।">
+<!ENTITY subscribe.days "Day(s)">
+<!ENTITY smart.playlistcondition.library "Library">
+<!ENTITY prefs.homepage.url.label "य़ूरल">
+<!ENTITY playback.prefpane.units.ms "मिलिसेकंड">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY equalizer.preset.classical "Classical">
+<!ENTITY jumptofile.title "Jump to">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+<!ENTITY trackeditor.tab.summary.title "सारांश">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY first_run.feedback.description "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
+<!ENTITY mediacore.error.continue "जारी रखें ">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY menu.controllerontop "Display at Top">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "नयी गीतसूची">
+<!ENTITY about.credits.footer.linkText "सहायक">
+<!ENTITY export_tracks_itunes_checkbox "Export music tracks to iTunes">
+<!ENTITY tooltip.browser.mediapages "Switch Media Views...">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY add_on_bundle_installer.error_box.label "विवरण">
+<!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY tooltip.browser.stop "Stop Browser">
+<!ENTITY playback.prefpane.label "Playback">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.capacity.free.label "अप्रयुक्त">
+<!ENTITY device.info.playback_formats.label "File Formats">
+<!ENTITY about.credits.heading.champs "महारथी">
+<!ENTITY about.credits.intro "हम अपने सहायकों को धन्यवाद देना चाहते हैं जिनके प्रयासों के कारण ही सॉंगबर्ड इस स्तर पर पंहुचा है. इन लोगों ने कोड लिखने, पत्राचार और परखने में मदद की है. इन्होंने इस सॉफ्टवेयर  और संबंधित चीज़ों, निर्माण उपकरणों और वेबसाइटओं की रचना की और उन्हें क़ायम रखा है | इनके नाम उनके आई.आर.सी (IRC) उपनामों के साथ दिए गये हैं, irc.mozilla.org में #songbird पर आकर अपना अभिवादन करें.">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY menu.edit.undo "Undo">
+<!ENTITY about.credits.footer.beforeLink "अवश्य ही ,यह सब इनकी कड़ी मेहनत और प्रयासों के बिना सम्भव न था :">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY command.device.rip "Rip CD">
+

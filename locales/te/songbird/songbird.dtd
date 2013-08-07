@@ -1,0 +1,708 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+%brandDTD;
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY menu.mac.hideothers "Hide Others">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY prefpane.content.label "జాల విషయం">
+<!ENTITY device.tools.support.label "View support resources">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Merge the current &brandShortName; and iTunes playlists">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "ఫైల్ పేరు కోసం వెతుకు">
+<!ENTITY device.sync.images.all.template "అన్ని ఫొటోలు (&#37;S)">
+<!ENTITY first_run.itunes.checkbox.export.description "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "సరిచేయి">
+<!ENTITY command.device.cancel.accesskey "సి(C)">
+<!ENTITY getartwork.key "G">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
+<!ENTITY menu.control.repa "అన్నింటిని మరలా వినిపించు">
+<!ENTITY menu.file.scan "Import Media...">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "ఎన్(n)">
+<!ENTITY command.device.ignoredevice.accesskey "ఐ(i)">
+<!ENTITY enable_recommended_addons_update.label "Recommended Add-ons">
+<!ENTITY albumartpreferences.prefpane.priorities.down "కింద">
+<!ENTITY command.device.ejectdevice "తెరువు">
+<!ENTITY smart.to "to">
+<!ENTITY menu.file.playlist "Import a Playlist...">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY device.capacity.music.label "సంగీతం">
+<!ENTITY export_smartplaylists_itunes_checkbox "Export music smart playlists">
+<!ENTITY window.yes "అవును">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY smart.most_often "most often played">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY hotkeys.add "చేర్చు">
+<!ENTITY wizard.button.back.accesskey "బి(B)">
+<!ENTITY songbird "సాంగ్‌బర్డ్">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY cdrip.mediaview.quality_label "నాణ్యత:">
+<!ENTITY menu.control.prev "క్రితం ట్రాకు">
+<!ENTITY device.progress.sync "Sync">
+<!ENTITY tooltip.control.resume "కొనసాగించు">
+<!ENTITY setupprogress.installingextensions "Installing Add-ons">
+<!ENTITY recommended_add_ons.title "&brandShortName; Setup">
+<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY cdrip.prefpane.eject_after_rip "సిడి రిప్(కాపీ) పూర్తయిన తరవాత సిడిని తెరువు ">
+<!ENTITY device.tools.format_volume.button.label "ఫార్మాట్">
+<!ENTITY watch_folder.prefs.title "ఫోల్డరులను గమనించు">
+<!ENTITY umsd.music.tab "సంగీతం">
+<!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
+<!ENTITY smart.mb "మెబై">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY import_library.import_command "సమాచారాన్ని దిగుమతిచేయి">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY jumpto.key "J">
+<!ENTITY device.settings.disk.label "Disk Management">
+<!ENTITY subscribe.title "చందాదారులుకండి">
+<!ENTITY menu.downloadmgr "File Downloads...">
+<!ENTITY hotkeys.remove "తొలగించు">
+<!ENTITY device.firmware.wizard.title "Update Firmware">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
+<!ENTITY command.device.getdeviceinfo.accesskey "ఐ(i)">
+<!ENTITY command.device.stoprip "రిప్‌ను ఆపు">
+<!ENTITY rapi.library_read_disable.label "Block websites from viewing information about media in my Library and devices">
+<!ENTITY command.device.ignoredevice "వదలివేయి">
+<!ENTITY device.sync.images.filecount "ఫొటోలు">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY albumartpreferences.prefpane.label "బొమ్మ">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY tooltip.browser.home "ఇల్లు">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
+<!ENTITY command.device.canceldeviceupdate.accesskey "సి(C)">
+<!ENTITY cdinfo.other.label "వివరాలు తెలియవు">
+<!ENTITY device.dialog.wait_for_completion.quit "చాలించు">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY menu.fullscreen "నిండుతెర">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "సిడి రిప్(కాపీ) పూర్తయిన తరువాత  చప్పుడుద్వారా తెలియపరచు">
+<!ENTITY device.sync.auto_sync.label "Sync">
+<!ENTITY smart.limit "Limit to">
+<!ENTITY menu.clearprivatedata "వ్యక్తిగత భోగట్టాని తుడిచివేయి...">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY menu.tools.getartwork "Get Artwork">
+<!ENTITY device.error.dialog.link "పొరపాటు వివరాలను చూడండి">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
+<!ENTITY command.device.formatdevice.accesskey "ఎఫ్(F)">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY rapi.restore_defaults.label "Restore to Default">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
+<!ENTITY first_run.connection.settings.button "అనుసంధానపు అమరికలు...">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY trackeditor.tab.lyrics.title "సాహిత్యం">
+<!ENTITY menu.extensions "పొడగింతలు...">
+<!ENTITY locale.language "భాష">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY cdrip.mediaview.eject.modifiers "యాక్సెల్ మార్పు">
+<!ENTITY feed.subscribe.dontask "ఈ సమాచారాన్ని ఇంకెప్పుడూ చూపకు.">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY wizard.button.cancel.label "రద్దుచేయి">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY first_run.import_media.radio.dont_import.label "Do not import media">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+<!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY cdrip.prefpane.providers.title "సిడి సమాచారం కోసం చూడండి">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY device.sync.header.label "Sync Settings">
+<!ENTITY first_run.welcome.description.line2 "">
+<!ENTITY cdrip.mediaview.eject_cd_button "సిడి ని తెరువు">
+<!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY menu.mac.hide "Hide &brandShortName;">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY cdrip.mediaview.view_tracks_button "ట్రాక్స్    చూడు">
+<!ENTITY albumart.coverpreview.title "బొమ్మ">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY restartbox.restartonplaybackend "Restart on End of Playback">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.exit "Exit">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY equalizer.preset.full_bass "Full bass">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY hotkeys.action "చర్య">
+<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY device.info.battery.label "batary">
+<!ENTITY menu.file.url "URL నుండి తెరువు...">
+<!ENTITY command.device.devicesync.accesskey "ఎస్(S)">
+<!ENTITY menu.control.play.button "పాడించు">
+<!ENTITY device.firmware.wizard.check.release_notes.label "విడుదల విశేషాలు">
+<!ENTITY watchfolder.folderlist "Watch these folders for new media:">
+<!ENTITY videowindow.fullscreen "నిండుతెర">
+<!ENTITY import_library.dirty_playlist_dialog.title "పాటలజాబితా మార్చబడినది">
+<!ENTITY search.key "F">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY first_run.title "&brandShortName; అమర్పు">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+<!ENTITY device.tools.format_device.label "Format device">
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View">
+<!ENTITY menu.file.closetab "Close Tab">
+<!ENTITY device.settings.header.label "అమరికలు">
+<!ENTITY device.management.tabs.settings.label "అమరికలు">
+<!ENTITY menu.preferences "ఎంపికలు...">
+<!ENTITY menu.mac.services "సేవలు">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.file "ఫైలు">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY device.sync.playlist.title "శీర్షిక">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY subscribeMediaFrameCmd.accesskey "యు(u)">
+<!ENTITY menu.tools "పనిముట్లు">
+<!ENTITY import_media.prefs.title "Media Importer">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
+<!ENTITY device.dialog.wait_for_completion.title "Waiting for devices.">
+<!ENTITY tooltip.hide "దాచు">
+<!ENTITY smart.following "of the following conditions:">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY menu.help.topics "సహాయపు అంశాలు">
+<!ENTITY menu.file.smart "New Smart Playlist...">
+<!ENTITY menu.file.remote "New Subscription...">
+<!ENTITY device.unsupported_media.dialog.title "Incompatible Files Detected">
+<!ENTITY import_library.prefs.path_group_caption "iTunes Music Library Location">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "ఫైల్ పేర్లను కామాతో వేరుచేసి ఇక్కడ రాయండి">
+<!ENTITY menu.control.repx "దేన్నీ మరలా వినిపించకు">
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY subscribeMediaPageCmd.label "ఈ పేజీకి చందాదారులు కండి">
+<!ENTITY menu.help "సహాయం">
+<!ENTITY menu.file.newtab "కొత్త టాబు">
+<!ENTITY cdrip.mediaview.rip.modifiers "యాక్సెల్ మార్పు">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY cdrip.lookup.multiple.title "బహుళ CD రికార్డింగులు కనుగొనబడ్డాయి">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY import_tracks_itunes_checkbox "Import music tracks from iTunes">
+<!ENTITY cdrip.lookup.info_not_found.album "ఆల్బం">
+<!ENTITY equalizer.on.checkbox "On">
+<!ENTITY cdrip.lookup.info_not_found.title "సిడి వివరములు తెలియలేదు">
+<!ENTITY mediapages.firstrun.title "&brandShortName;కి స్వాగతం">
+<!ENTITY smart.gb "గిబై">
+<!ENTITY menu.videotofront "Video to Front">
+<!ENTITY menu.switchplayercontrols "Player Controls">
+<!ENTITY menu.file.library "Import a Library...">
+<!ENTITY displaypane.name.browser "Content Pane Bottom">
+<!ENTITY device.sync.sync_selected.label "Sync selected playlists:">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
+<!ENTITY about.version "సంచిక">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY equalizer.preset.soft_rock "Soft Rock">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY command.device.canceldevicedelete.accesskey "సి(C)">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Scan directories on my computer">
+<!ENTITY cdrip.prefpane.label "సిడి రిప్(కాపీ)">
+<!ENTITY cdrip.mediaview.rip_cd_button "సిడి ని రిప్(కాపీ) చేయి">
+<!ENTITY import_library.prefs.title "iTunes Import/Export">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
+<!ENTITY displaypane.name.sidebar "కుడి ప్రక్కపట్టీ">
+<!ENTITY albumart.displaypane.not_selected_message "మీరు ఇంకా దేనినీ ఎంచుకోలేదు">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;&apos;s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;పాటల జాబితాలు లేవు&gt;">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY openImageCmdInDefaultBrowser.label "Open Image In Default Web Browser">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.errorconsole "Error Console">
+<!ENTITY first_run.feedback.email.textbox.emptytext "enter your email to stay up-to-date">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY about.buttons.credits "ఖ్యాతి">
+<!ENTITY subscribe.hours "గంట(లు)">
+<!ENTITY smart.any "ఏదైనా">
+<!ENTITY podcast.creation_dialog.title "New Podcast">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY watchfolder.title "ఫోల్డరులను గమనించు">
+<!ENTITY smart.matchsingle "Match the following condition:">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY first_run.add_ons.header.label "Recommended Add-ons">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY menu.edit "Edit">
+<!ENTITY equalizer.preset.soft "Soft">
+<!ENTITY videowindow.title "దృశ్యకపు కిటికీ">
+<!ENTITY textbox.songbird_open_url "Enter the URL or path of the media you wish to playback:">
+<!ENTITY rapi.playback_read_disable.label "Block websites from viewing information about playing media">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
+<!ENTITY videowindow.actualsize "అసలు పరిమాణం">
+<!ENTITY feedback.dialog.no "కాదు">
+<!ENTITY tooltip.control.back "ఇంతకుముందు పాట">
+<!ENTITY smart.title "శీర్షిక">
+<!ENTITY smart.selectedby "selected by">
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "ఫైళ్ల రకాల కోసం ఇక్కడ వెతకండి ">
+<!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
+<!ENTITY tooltip.browser.mediapages.list "జాబితాని చూపు">
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY menu.help.about "సాంగ్‌బర్డ్ గురించి...">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
+<!ENTITY cdrip.mediaview.settings_button "అమరికలు">
+<!ENTITY cdrip.lookup.multiple.description "క్రింది వానిలో ఏదైనా ఒకటి ఎంచుకోండి లేదా మీ సొంత సమాచారమును జతపరచండి. ">
+<!ENTITY command.device.renamedevice.accesskey "ఆర్(R)">
+<!ENTITY about.credits.heading.translators "అనువాదకులు">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY command.device.devicesync "సింక్రొనైజ్">
+<!ENTITY first_run.feedback.header.label "Help Make &brandShortName; Better">
+<!ENTITY tooltip.control.fwd "తర్వాతి ట్రాకు">
+<!ENTITY prefpane.addons.label "పొడగింతలు">
+<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY trackeditor.title "Metadata Editor">
+<!ENTITY smart.autoupdate "Auto update">
+<!ENTITY menu.tools.reveal "Show File">
+<!ENTITY menu.mac.showall "అన్నీ చూపించు">
+<!ENTITY menu.file.url.accesskey "U">
+<!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
+<!ENTITY device.dialog.setup.title "పరికరపు అమర్పు">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.control.shuf "కలగాపులగం">
+<!ENTITY feedback.dialog.sentence3 "గురించి,">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY umsd.no_devices_present "No USB mass-storage devices are connected.">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY device.dialog.wait_for_completion.msg "Waiting for all device operations to complete.  Click &quot;Quit&quot; to stop waiting and quit application.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Apply selection to all playlists">
+<!ENTITY first_run.feedback.metrics.description "Metrics are completely anonymous and no personal information is collected.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "మెటా సమాచారమునకు చిత్రకళను వ్రాయి">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY menu.help.bugz "దోషాన్ని నివేదించండి">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY command.device.lookup "CDలోని సమాచారమును చూడు">
+<!ENTITY first_run.itunes.checkbox.export.label "Export new music tracks and playlists to iTunes">
+<!ENTITY albumart.displaypane.selected.menu.cut "కట్ చేయి">
+<!ENTITY window.apply "ఆపాదించు">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY command.device.renamedevice "పేరుమార్చు">
+<!ENTITY feedback.dialog.sentence1 "దయచేసి మా వేగవంతమైన అభిప్రాయసేకరణ లో మీ అభిప్రాయాలను తెలపటం ద్వారా &brandShortName; ని మెరుగుపరచటంలో మాకు సహాయపడండి.">
+<!ENTITY smart.low_rating "తక్కువ రేటింగు">
+<!ENTITY import_playlists_itunes_checkbox "Import music playlists">
+<!ENTITY command.device.canceldeviceupdate "నవీకరణను రద్దుచెయ్యి">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY device.info.product.label "ఉత్పాదన">
+<!ENTITY albumart.displaypane.selected.menu.paste "ఇక్కడ అతికించు(పేస్ట్ చేయి)">
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+<!ENTITY trackeditor.tab.edit.title "లక్షణాలు">
+<!ENTITY tooltip.control.play "పాడించు">
+<!ENTITY command.device.ejectcddevice.accesskey "ఇ(E)">
+<!ENTITY jobprogress.details "వివరాలు">
+<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
+<!ENTITY setupprogress.cancel "రద్దుచేయి">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY equalizer.preset.custom "Custom">
+<!ENTITY device.settings.general.label "సాధారణం">
+<!ENTITY umsd.video.tab "వీడియో">
+<!ENTITY umsd.music.music_path_desc "When copying music files to the device, place them within the following directory:">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY device.sync.images.browse "సంచయాన్ని ఎంచుకోండి...">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "యు(u)">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "ఫైళ్ల రకాలను కామాతో వేరుచేసి ఇక్కడ రాయండి">
+<!ENTITY mediacore.error.preface "&brandShortName; has encountered the following playback error(s):">
+<!ENTITY cdrip.prefpane.quality.units.kbps "కెబిపియస్">
+<!ENTITY trackeditor.addtag.tag "టాగు:">
+<!ENTITY smart.contenttypecondition.audio "సంగీతం">
+<!ENTITY menu.controlleronbottom "Display at Bottom">
+<!ENTITY locationbar.key2 "డి(D)">
+<!ENTITY cdrip.mediaview.stop_rip.key "ఎక్స్(X)">
+<!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
+<!ENTITY smart.most_added "most recently added">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.edit.findagain "Find Again">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY command.device.ejectcddevice "సిడిని తెరువు">
+<!ENTITY device.info.vendor.label "తయారీదారు">
+<!ENTITY tooltip.control.mute "నిశ్శబ్దం">
+<!ENTITY subscribe.minutes "నిమిషము(లు)">
+<!ENTITY cdrip.lookup.track_name "Title">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY smart.high_rating "ఎక్కువ రేటింగు">
+<!ENTITY restartbox.restartlater "Restart Later">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.paste "అతికించు">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY first_run.import_media.header.label "Import Media">
+<!ENTITY wizard.button.next.label "కొనసాగించు">
+<!ENTITY tooltip.maximize "పెద్దగా చేయి/మామూలుగా చేయి">
+<!ENTITY tooltip.control.shuf_off "కలగాపులగం చేయకు">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY smart.least_added "least recently added">
+<!ENTITY prefs.security.addons.label "Add-on Installation">
+<!ENTITY playback.prefpane.streaming.label "Network and Streaming">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.control.playpause.spacebar "Spacebar">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY command.device.canceldevicedelete "నిర్మూలనను రద్దు చెయ్యి">
+<!ENTITY playback.prefpane.audio_output.buffer "Output Buffer:">
+<!ENTITY menu.view "View">
+<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY command.device.canceldevicesync.accesskey "సి(C)">
+<!ENTITY menu.edit.cut "కత్తిరించు">
+<!ENTITY device.sync.images.all.label "అన్ని ఫొటోలు">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+<!ENTITY playback.prefpane.normalization.label "Normalization">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY first_run.eula.accept_checkbox.label "ఈ లైసెన్సు యొక్క నియమాలని చదివాను మరియు వాటికి అంగీకరిస్తున్నాను.">
+<!ENTITY device.settings.disk.management.filename "పాటల ఫైళ్ళు">
+<!ENTITY first_run.connection.header.label "&brandShortName; Cannot Connect to the Internet">
+<!ENTITY menu.controls "నియంత్రణలు">
+<!ENTITY smart.songs "పాటలు">
+<!ENTITY menu.help.keyboard "Keyboard Shortcuts">
+<!ENTITY feed.subscribe.close "తీసివేయి">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+<!ENTITY cdrip.mediaview.rip.key "సి(C)">
+<!ENTITY about.credits.footer.afterLink "మొజిల్లా ప్రాజెక్ట్ కి">
+<!ENTITY hotkeys.set "Set">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY hotkeys.info "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.
+
+Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications.">
+<!ENTITY equalizer.preset.techno "టెక్నో">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY displaypane.name.servicepane "Service Pane Bottom">
+<!ENTITY smart.genre "genre">
+<!ENTITY rapi.prefpane.access.caption "Web Integration Permissions">
+<!ENTITY menu.control.rep1 "ఒక్కదాన్ని మరలా వినిపించు ">
+<!ENTITY menu.control.pause.button "నిలుపు">
+<!ENTITY first_run.import_media.description "Select what media you&apos;d like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
+<!ENTITY mediacore.error.stop "Stop Playback">
+<!ENTITY feedback.dialog.title "&brandShortName;ను ఇంకా మెరుగుపరచటంలో మాకు సహాయపడండి.">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Keep the current &brandShortName; playlist (Do not import this playlist)">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY fetch_album_art.dialog.title "బొమ్మకోసం వెతుకు">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.control.next "తర్వాతి ట్రాకు">
+<!ENTITY device.info.icon.device "Generic device icon">
+<!ENTITY menu.edit.copy "కాపీచేయి">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY menu.updateCmd.label "తాజాకరణలకోసం చూడు...">
+<!ENTITY menu.file.library.accesskey "Y">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY device.tools.product_registration.title "ఉత్పాదన నమోదు">
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY umsd.music.music_files_group "సంగీతపు ఫైళ్ళు">
+<!ENTITY tooltip.control.shuffle "కలగాపులగం">
+<!ENTITY restartbox.restartnow "ఇప్పుడు పునఃప్రారంభించు">
+<!ENTITY menu.tools.exportmedia "Export Library Changes">
+<!ENTITY menu.linux.preferences "అభిరుచులు...">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY first_run.add_ons.loading.label "Retrieving recommended add-ons.">
+<!ENTITY first_run.feedback.email.header.label "Keep Me Posted">
+<!ENTITY equalizer.preset.full_treble "Full treble">
+<!ENTITY cdrip.prefpane.quality_desc "ఎక్కువ కెబిపియస్ నాణ్యత అమరిక మార్పు ఎక్కువ నాణ్యతగల శ్రవణత మరియు ఎక్కువ పరిమాణంగల ఫైలుని తయారు చేస్తుంది.">
+<!ENTITY device.info.serial_number.label "క్రమ సంఖ్య">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Open Link In Default Web Browser">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY first_run.connection.description "Check your Connection Settings or Continue with the Setup assistant.">
+<!ENTITY umsd.music.music_path_browse_msg "Select the device directory in which to place music files.">
+<!ENTITY subscribe.autocheck "Automatically update every">
+<!ENTITY first_run.add_ons.load_failed.label "Unable to retrieve recommended add-ons.">
+<!ENTITY device.capacity.image.label "ఫొటోలు">
+<!ENTITY tooltip.search "వెతుకు">
+<!ENTITY tooltip.control.pause "నిలుపు">
+<!ENTITY smart.minutes "నిమిషాలు">
+<!ENTITY searchFocus.key "K">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY import_library.dialog.title "సమాచారాన్ని దిగుమతిచేయి">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "సిడి రిప్(కాపీ) అమరికలు">
+<!ENTITY window.save "భద్రపరచు">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY umsd.video.video_ext_desc "Copy video files with the following extensions to the device:">
+<!ENTITY smart.hours "గంటలు">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
+<!ENTITY first_run.eula.header.label "లైసెన్సు ఒప్పందం">
+<!ENTITY first_run.feedback.email.description "Subscribe to our newsletter to hear about new releases and important updates.">
+<!ENTITY umsd.video.video_files_group "వీడియో ఫైళ్ళు">
+<!ENTITY tooltip.browser.back "విహరణ వెనుకకు">
+<!ENTITY sanitize.key "Del">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+<!ENTITY device.info.access.label "Access Compatibility">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "ఇప్పుడు వస్తూన్నపాటని చూపించు">
+<!ENTITY importexport_show_notifications_checkbox "Show notifications when the import/export is complete">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY umsd.video.video_path_desc "When copying video files to the device, place them within the following directory:">
+<!ENTITY tooltip.control.stop "ఆపు">
+<!ENTITY tabs.closeTab "టాబు మూసేయ్యి">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY tooltip.close "మూసివేయి">
+<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY cdrip.mediaview.stop_rip_button "రిప్(కాపీ) ఆపివేయి">
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY menu.control.pause "Pause">
+<!ENTITY tooltip.exit "నిష్క్రమించు">
+<!ENTITY switchfeathers.key "ఎం(M)">
+<!ENTITY subscribeMediaPageCmd.accesskey "యు(u)">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY cdrip.prefpane.quality "నాణ్యత">
+<!ENTITY device.tools.support.title "తోడ్పాటు">
+<!ENTITY device.sync.playlist.video.duration "దృశ్యకపు నిడివి">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY cdrip.prefpane.format "ఫార్మాట్">
+<!ENTITY feedback.dialog.yes "అవును">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY first_run.welcome.description.line1 "">
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY tooltip.browser.refresh "తాజా">
+<!ENTITY tooltip.browser.fwd "విహరణ ముందుకు">
+<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback">
+<!ENTITY playMediaCmd.label "ఆడించు">
+<!ENTITY menu.control.play "పాడించు/నిలుపు">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY cdrip.lookup.info_not_found.artist "గాయకుడు/గాయకురాలు">
+<!ENTITY device.sync.sync_all.label "Sync all media and playlists">
+<!ENTITY locationbar.key "L">
+<!ENTITY smart.most_recent "most recently played">
+<!ENTITY menu.file.new "New Playlist">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY menu.control.jumpto "గెంతు...">
+<!ENTITY window.browser.titlepreface "">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY device.repair.menuitem.default "Repair my device">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY downloadMediaCmd.label "Download To Library">
+<!ENTITY command.device.canceldevicesync "సింక్రొనైజ్‌ను రద్దుచెయ్యి">
+<!ENTITY tooltip.control.volume "శబ్దం">
+<!ENTITY playqueue.inprogress "Adding tracks">
+<!ENTITY menu.mac.exit "Quit &brandShortName;">
+<!ENTITY equalizer.key "E">
+<!ENTITY cdrip.mediaview.eject.key "ఇ(E)">
+<!ENTITY command.device.getdeviceinfo "సమాచారమును పొందు">
+<!ENTITY device.management.tabs.music.label "సంగీతం">
+<!ENTITY watch_folder.prefs.settings_group_caption "ఫోల్డరుల అమరికను గమనించు">
+<!ENTITY watch_folder.prefs.enable_checkbox "ఈ ఫోల్డరును మార్పులకోసం గమనించు">
+<!ENTITY servicepane.title.label "Service Pane">
+<!ENTITY playback.prefpane.audio_output.label "Audio Output">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
+<!ENTITY copySelectionCmd.label "ఎంచుకున్నదాన్ని కాపీ చేయు">
+<!ENTITY jumptofile.search "వెతుకు:">
+<!ENTITY umsd.video.video_path_browse_msg "Select the device directory in which to place video files.">
+<!ENTITY command.device.formatdevice "ఫార్మాట్">
+<!ENTITY first_run.itunes.header.label "iTunes Import/Export">
+<!ENTITY command.device.canceldevicecopy.accesskey "సి(C)">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.file.scan.accesskey "C">
+<!ENTITY albumartpreferences.prefpane.priorities.up "పైన">
+<!ENTITY import_library.library_file_label "Library File:">
+<!ENTITY mediacore.error.title "Playback Error">
+<!ENTITY tooltip.servicepane.show "Show Service Pane">
+<!ENTITY smart.all "అన్నీ">
+<!ENTITY hotkeys.hotkey "Hotkey">
+<!ENTITY menu.control.stop.button "ఆపు">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY import_library.prefs.options_group_caption "Import/Export Options">
+<!ENTITY first_run.feedback.metrics.label "Collect and send my metrics to the &brandShortName; team">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY playback.prefpane.streaming.buffer "Streaming Buffer:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Alert me when unsupported tracks or playlists are not imported">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY bookmarkPage.key "డి(D)">
+<!ENTITY equalizer.preset.large_hall "Large Hall">
+<!ENTITY device.info.capacity.label "సామర్థ్యం">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY device.management.tabs.video.label "దృశ్యకం">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY tabs.listAllTabs "అన్ని టాబుల జాబితా">
+<!ENTITY smart.least_often "least often played">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY first_run.eula.language.label "భాష">
+<!ENTITY device.tools.product_registration.label "Register product">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY cdrip.mediaview.format_label "ఫార్మాట్:">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY device.unsupported_media.dialog.enable "Tell me when incompatible files are detected">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY device.info.friendly_name.label "పేరు">
+<!ENTITY tooltip.browser.subscription "ఈ పేజీకి చందాదారులు కండి">
+<!ENTITY rapi.whitelist.label "మినహాయింపులు...">
+<!ENTITY rapi.library_write_disable.label "Block websites from adding/editing media and playlists in my Library and devices">
+<!ENTITY openPageCmdInDefaultBrowser.label "Open Page In Default Web Browser">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Open Frame In Default Web Browser">
+<!ENTITY menu.edit.redo "Redo">
+<!ENTITY cdrip.lookup.info_not_found.descr "మీరు ఇక్కడ గాయకుడు/గాయకురాలు మరియు ఆల్బం వివరములు జతచేర్చవచ్చు , మిగతా వివరాలన్ని సిడిరిప్ పాటలజాబితాలో మార్చుకోవచ్చు.">
+<!ENTITY albumart.displaypane.selected.menu.copy "నకలు తీయి(కాపీ చేయి)">
+<!ENTITY window.ok "సరే">
+<!ENTITY prefs.homepage.label "మొదటి పుట">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY menu.mac.preferences "అభిరుచులు...">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY menu.edit.selall "అన్నీ ఎంచుకో">
+<!ENTITY command.device.ejectdevice.accesskey "ఇ(E)">
+<!ENTITY device.settings.music.transcoding.label "Music Conversion">
+<!ENTITY tooltip.control.curtrack "Find Current Track">
+<!ENTITY export_playlists_itunes_checkbox "Export music playlists">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY import_library.dirty_playlist_dialog.note "Note: Merge and replace cannot be undone.">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY device.info.firmware_version.label "Firmware Version">
+<!ENTITY menu.edit.delete "తొలగించు">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY first_run.itunes.description "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
+<!ENTITY equalizer.preset.small_speakers "Laptop/Headphones">
+<!ENTITY device.tools.update_firmware.title "Update Firmware">
+<!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
+<!ENTITY first_run.install_add_ons.title "Downloading Add-ons">
+<!ENTITY addMediaToPlaylistCmd.accesskey "ఎ(a)">
+<!ENTITY subscribe.destinationfolder "Select destination folder:">
+<!ENTITY device.firmware.wizard.check.page.title "Check for Updated Firmware">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY window.browse "విహరించు...">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY tooltip.servicepane.newnode "ఇంకొక పాటల జాబితా">
+<!ENTITY tooltip.minimize "చిన్నగించు">
+<!ENTITY hotkeys.useglobalhotkeys "Use Global Hotkeys">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "యాక్సెల్ మార్పు">
+<!ENTITY wizard.button.back.label "వెనక్కి వెళ్ళు">
+<!ENTITY watch_folder.prefs.watch_folder_label "ఫోల్డరు">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY smart.album "album">
+<!ENTITY setupprogress.pleasewait "దయచేసి వేచిఉండండి...">
+<!ENTITY rapi.prefpane.title "Web Integration">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.edit.find "Find">
+<!ENTITY albumart.displaypane.contextmenu.showselected "ఇప్పుడు ఎంచుకొన్నది చూపించు">
+<!ENTITY first_run.welcome.header.label "&brandShortName;కు స్వాగతం.">
+<!ENTITY wizard.button.finish.label "ముగించు">
+<!ENTITY window.cancel "వద్దు">
+<!ENTITY tooltip.fullscreen "నిండుతెర">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY smart.window "Smart Playlist">
+<!ENTITY rapi.prefpane.access.text "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration.">
+<!ENTITY albumart.displaypane.selected.menu.clear "చెరిపివేయి(క్లీయర్ చేయి)">
+<!ENTITY albumart.displaypane.drag_and_drop "బొమ్మను ఇక్కడికి లాగండి">
+<!ENTITY device.capacity.video.label "దృశ్యకం">
+<!ENTITY window.no "కాదు">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY smart.match "Match">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY hotkeys.prefpane "Hotkeys">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY trackeditor.addtag.title "టాగు చేర్చు">
+<!ENTITY smart.least_recent "least recently played">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY feed.subscribe.label "చందాదారులుగా చేరండి">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY device.info.icon.readonly "Read-only lock icon">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; బృందసభ్యులు.">
+<!ENTITY smart.random "యాదృచ్ఛిక">
+<!ENTITY open_url.title "URL తెరువు">
+<!ENTITY addMediaToPlaylistCmd.label "పాటలజాబితాకి జతచేయి">
+<!ENTITY albumart.displaypane.not_playing_message "ఏమీ ప్లే చేయటంలేదు">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY smart.artist "గాయకుడు">
+<!ENTITY device.capacity.other.label "ఇతర">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Track">
+<!ENTITY command.device.rip.accesskey "ఆర్(R)">
+<!ENTITY fetch_album_art.dialog.message "ఇది ఇంకా అమలుపరచబడలేదు(బగ్ 14281 ని చూడండి).">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY feedback.dialog.sentence2 "మీరు ఆసక్తిగా లేనట్లయితే,ఇంకోసారి మేము మిమ్మల్ని సంప్రదించము...&brandShortName;! ఉపయోగించినందుకు అభినందిస్తున్నాము..ధన్యవాదములు.">
+<!ENTITY command.device.cancel "రద్దుచేయి">
+<!ENTITY command.device.canceldevicecopy "నకలు(కాపీ) ని ఆపివేయి">
+<!ENTITY device.management.tabs.tools.label "పనిముట్లు">
+<!ENTITY device.tools.format_device.title "Format Device">
+<!ENTITY menu.file.open "ఫైలు తెరువు...">
+<!ENTITY watch_folder.prefs.description "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
+<!ENTITY subscribe.days "రోజు(లు)">
+<!ENTITY smart.playlistcondition.library "Library">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY equalizer.preset.classical "సంప్రదాయికం">
+<!ENTITY jumptofile.title "గెంతు">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+<!ENTITY first_run.DLNA.name "Songbird Media Server">
+<!ENTITY wizard.button.next.accesskey "సి(C)">
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+<!ENTITY trackeditor.tab.summary.title "సారాంశం">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY first_run.feedback.description "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
+<!ENTITY mediacore.error.continue "కొనసాగించు">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY menu.controllerontop "Display at Top">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "ఇంకో పాటల జాబితా">
+<!ENTITY about.credits.footer.linkText "సహాయపడినవాళ్లు">
+<!ENTITY export_tracks_itunes_checkbox "Export music tracks to iTunes">
+<!ENTITY tooltip.browser.mediapages "Switch Media Views...">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY add_on_bundle_installer.error_box.label "వివరాలు">
+<!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY tooltip.browser.stop "విహరిణిని ఆపు">
+<!ENTITY playback.prefpane.label "Playback">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY device.capacity.free.label "ఖాళీ">
+<!ENTITY device.info.playback_formats.label "File Formats">
+<!ENTITY about.credits.heading.champs "విజేతలు">
+<!ENTITY about.credits.intro "We would like to thank our contributors, whose efforts make Songbird what it is. These people have helped by writing code and documentation, and by testing. They have created and maintained this product, its associated development kits, our build tools and our web sites.  Names are followed by IRC nicks, come by #songbird on irc.mozilla.org and say hello!">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY menu.edit.undo "Undo">
+<!ENTITY about.credits.footer.beforeLink "ఈ కింద తెలపబడిన వారి కృషి వల్లనే ఇదంతా సాధ్యమయింది.">
+<!ENTITY device.sync.images.foldername "సంచయపు పేరు">
+<!ENTITY device.management.tabs.image.label "ఫొటోలు">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY command.device.rip "సిడి రిప్(కాపీ)">
+
