@@ -6,7 +6,7 @@
 <!ENTITY prefpane.content.label "Web Content">
 <!ENTITY device.tools.support.label "View support resources">
 <!ENTITY menu.control.repx.accesskey "E">
-<!ENTITY import_library.dirty_playlist_dialog.merge "Għaqqad il-kollezzjonijiet ta Songbird u iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Għaqqad il-kollezzjonijiet ta &brandShortName; u iTunes">
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Search file names:">
 <!ENTITY device.sync.images.all.template "All photos (&#37;S)">
 <!ENTITY first_run.itunes.checkbox.export.description "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
@@ -115,7 +115,7 @@
 <!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
 <!ENTITY cdrip.mediaview.eject_cd_button "Eject CD">
 <!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY menu.mac.hide "Aħbi Songbird">
+<!ENTITY menu.mac.hide "Aħbi &brandShortName;">
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
 <!ENTITY cdrip.mediaview.view_tracks_button "View Tracks">
 <!ENTITY albumart.coverpreview.title "Album Art">
@@ -248,7 +248,7 @@
 <!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
 <!ENTITY tooltip.browser.mediapages.list "List View">
 <!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY menu.help.about "Dwar Songbird...">
+<!ENTITY menu.help.about "Dwar &brandShortName;...">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
 <!ENTITY cdrip.mediaview.settings_button "Settings">
 <!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
@@ -256,7 +256,7 @@
 <!ENTITY about.credits.heading.translators "Tradutturi">
 <!ENTITY device.info.model.label "Mudell">
 <!ENTITY command.device.devicesync "Issinkronizza">
-<!ENTITY first_run.feedback.header.label "Għinna ngħamlu Songbird ahjar">
+<!ENTITY first_run.feedback.header.label "Għinna ngħamlu &brandShortName; ahjar">
 <!ENTITY tooltip.control.fwd "Next Track">
 <!ENTITY prefpane.addons.label "Add-ons">
 <!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
@@ -287,7 +287,7 @@
 <!ENTITY window.apply "Apply">
 <!ENTITY menu.file.smart.key "N">
 <!ENTITY command.device.renamedevice "Biddel l-Isem">
-<!ENTITY feedback.dialog.sentence1 "Tgħinna ngħamlu Songbird aħjar billi tgħamel survey qasir u anonimu?">
+<!ENTITY feedback.dialog.sentence1 "Tgħinna ngħamlu &brandShortName; aħjar billi tgħamel survey qasir u anonimu?">
 <!ENTITY smart.low_rating "lowest rating">
 <!ENTITY import_playlists_itunes_checkbox "Import music playlists">
 <!ENTITY command.device.canceldeviceupdate "Ikkanċella l-Update">
@@ -362,7 +362,7 @@
 <!ENTITY menu.file.podcast.accesskey "P">
 <!ENTITY first_run.eula.accept_checkbox.label "I have read and accepted the terms of this license.">
 <!ENTITY device.settings.disk.management.filename "Song files">
-<!ENTITY first_run.connection.header.label "Songbird ma jistax jikkonnettja mal-Internet">
+<!ENTITY first_run.connection.header.label "&brandShortName; ma jistax jikkonnettja mal-Internet">
 <!ENTITY menu.controls "Controls">
 <!ENTITY smart.songs "items">
 <!ENTITY menu.help.keyboard "Keyboard Shortcuts">
@@ -385,7 +385,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.pause.button "Issospendi">
 <!ENTITY first_run.import_media.description "Select what media you&apos;d like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
 <!ENTITY mediacore.error.stop "Stop Playback">
-<!ENTITY feedback.dialog.title "Għinna nagħmlu Songbird ahjar!">
+<!ENTITY feedback.dialog.title "Għinna nagħmlu &brandShortName; ahjar!">
 <!ENTITY import_library.dirty_playlist_dialog.keep "Keep the current &brandShortName; playlist (Do not import this playlist)">
 <!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
 <!ENTITY trackeditor.prev.accesskey "P">
@@ -437,7 +437,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
 <!ENTITY window.save "Save">
-<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY umsd.video.video_ext_desc "Copy video files with the following extensions to the device:">
 <!ENTITY smart.hours "hours">
 <!ENTITY menu.tools.accesskey "T">
@@ -455,7 +455,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY umsd.video.video_path_desc "When copying video files to the device, place them within the following directory:">
 <!ENTITY tooltip.control.stop "Waqqaf">
 <!ENTITY tabs.closeTab "Close tab">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY tooltip.close "Close">
 <!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
 <!ENTITY menu.tools.reveal.accesskey "F">
@@ -508,7 +508,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY command.device.canceldevicesync "Ikkanċella s-Sinkronizzazjoni">
 <!ENTITY tooltip.control.volume "Volum">
 <!ENTITY playqueue.inprogress "Adding tracks">
-<!ENTITY menu.mac.exit "Oħrog minn Songbird">
+<!ENTITY menu.mac.exit "Oħrog minn &brandShortName;">
 <!ENTITY equalizer.key "E">
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY command.device.getdeviceinfo "Ara l-Informazzjoni">
@@ -526,7 +526,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.itunes.header.label "iTunes Import/Export">
 <!ENTITY command.device.canceldevicecopy.accesskey "C">
 <!ENTITY menu.linux.preferences.accesskey "N">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY menu.file.scan.accesskey "M">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Up">
 <!ENTITY import_library.library_file_label "Library File:">
@@ -537,12 +537,12 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.stop.button "Waqqaf">
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY import_library.prefs.options_group_caption "Import/Export Options">
-<!ENTITY first_run.feedback.metrics.label "Iġbor u ibgħat l-istatistiċi tiegħi u ibgħathom lit-tim ta&apos; Songbird">
+<!ENTITY first_run.feedback.metrics.label "Iġbor u ibgħat l-istatistiċi tiegħi u ibgħathom lit-tim ta&apos; &brandShortName;">
 <!ENTITY trackeditor.next.button.label "&gt;">
 <!ENTITY playback.prefpane.streaming.buffer "Streaming Buffer:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
 <!ENTITY menu.file.open.key "O">
-<!ENTITY import_library.unsupported_media_alert_checkbox "Għidli meta xi tracks jew playlists li ma jaqblux ma&apos; Songbird ma jiġux imdahhla">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Għidli meta xi tracks jew playlists li ma jaqblux ma&apos; &brandShortName; ma jiġux imdahhla">
 <!ENTITY menu.controls.accesskey "C">
 <!ENTITY equalizer.band2.label "125">
 <!ENTITY bookmarkPage.key "D">
@@ -619,7 +619,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.file.accesskey "F">
 <!ENTITY menu.edit.find "Find">
 <!ENTITY albumart.displaypane.contextmenu.showselected "Show Now Selected">
-<!ENTITY first_run.welcome.header.label "Merħba għal Songbird">
+<!ENTITY first_run.welcome.header.label "Merħba għal &brandShortName;">
 <!ENTITY wizard.button.finish.label "Ikkonkludi">
 <!ENTITY window.cancel "Ikkanċella">
 <!ENTITY tooltip.fullscreen "Fullscreen">
@@ -645,7 +645,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY feed.subscribe.label "Subscribe">
 <!ENTITY device.settings.disk.management.label "Customize directory structure">
 <!ENTITY device.info.icon.readonly "Read-only lock icon">
-<!ENTITY feedback.dialog.sentence4 "It-Tim ta&apos; Songbird">
+<!ENTITY feedback.dialog.sentence4 "It-Tim ta&apos; &brandShortName;">
 <!ENTITY smart.random "random">
 <!ENTITY open_url.title "Open URL">
 <!ENTITY addMediaToPlaylistCmd.label "Iddawnlowdja għall-playlist">
@@ -657,7 +657,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY command.device.rip.accesskey "R">
 <!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
-<!ENTITY feedback.dialog.sentence2 "Jekk ma intix interessat, ma nergħux insaqsuk darba oħra. Grazzi tal-konsiderazzjoni u napprezzaw li tuża Songbird!">
+<!ENTITY feedback.dialog.sentence2 "Jekk ma intix interessat, ma nergħux insaqsuk darba oħra. Grazzi tal-konsiderazzjoni u napprezzaw li tuża &brandShortName;!">
 <!ENTITY command.device.cancel "Ikkanċella">
 <!ENTITY command.device.canceldevicecopy "Ikkanċella l-ikkupjar">
 <!ENTITY device.management.tabs.tools.label "Għodda">
@@ -677,7 +677,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY trackeditor.tab.summary.title "Summary">
 <!ENTITY menu.help.keyboard.accesskey "K">
-<!ENTITY first_run.feedback.description "Tgħinna ngħamlu Songbird aħjar billi tibghatilna feedback fil-forma ta&apos; statistika anonima fuq kif tuża dan il-programm?">
+<!ENTITY first_run.feedback.description "Tgħinna ngħamlu &brandShortName; aħjar billi tibghatilna feedback fil-forma ta&apos; statistika anonima fuq kif tuża dan il-programm?">
 <!ENTITY mediacore.error.continue "Kompli">
 <!ENTITY subscribe.url "URL:">
 <!ENTITY menu.controllerontop "Display at Top">

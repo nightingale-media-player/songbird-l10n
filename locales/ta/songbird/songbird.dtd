@@ -275,7 +275,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.next "அடுத்த பாடல்">
 <!ENTITY umsd.video.video_path_browse_msg "Select the device directory in which to place video files.">
 <!ENTITY setupprogress.pleasewait "தயவுசெய்து காத்திருக்கவும்...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "பெரிய அரங்கம் ">
 <!ENTITY first_run.eula.accept_checkbox.label "I have read and accepted the terms of this license.">
@@ -606,7 +606,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "&brandShortName; பற்றி...">
 <!ENTITY device.settings.general.label "பொதுவான">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">

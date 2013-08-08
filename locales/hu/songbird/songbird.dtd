@@ -42,7 +42,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "Kivágás">
 <!ENTITY cdrip.prefpane.providers.title "CD-információ szolgáltató">
 <!ENTITY subscribe.title "Előfizetés">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "Intelligens lejátszólista szerkesztése">
 <!ENTITY openImageCmdInDefaultBrowser.label "Kép megnyitása az alapértelmezett böngészővel">
 <!ENTITY menu.help.about.accesskey "A">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Következő dal">
 <!ENTITY umsd.video.video_path_browse_msg "Válassz ki az eszközön egy mappát, ahová a videofájlok kerüljenek.">
 <!ENTITY setupprogress.pleasewait "Kérlek, várj...">
-<!ENTITY menu.help.homepage "Songbird weboldal">
+<!ENTITY menu.help.homepage "&brandShortName; weboldal">
 <!ENTITY equalizer.preset.soft "Lágy">
 <!ENTITY equalizer.preset.large_hall "Nagy csarnok">
 <!ENTITY first_run.eula.accept_checkbox.label "Elolvastam és elfogadom a felhasználás feltételeit.">
@@ -413,7 +413,7 @@
 <!ENTITY displaypane.name.servicepane "Alsó szolgáltatásablak">
 <!ENTITY menu.clearprivatedata "Személyes adatok törlése...">
 <!ENTITY window.ok "OK">
-<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Keresés">
 <!ENTITY first_run.add_ons.description.line2 "A kiegészítők más alkalmazásokat és szolgáltatásokat integrálnak, támogatják külső eszközök csatolását, megváltoztatják az alkalmazás megjelenését stb. A Kiegészítők a &brandShortName; erre fenntartott oldaláról tölthetők le.">
 <!ENTITY menu.updateCmd.label "Frissítések keresése...">
@@ -588,7 +588,7 @@
 <!ENTITY window.browser.titledefault "">
 <!ENTITY subscribe.url "URL:">
 <!ENTITY smart.to "ehhez">
-<!ENTITY rapi.prefpane.access.text "Engedélyezheted a weboldalak számára, hogy beépüljenek a Songbirdbe és ezzel egy szorosabb kapcsolatot építsenek ki a világháló és a médiaanyagaid között. Állítsd be, hogy a Songbird hogyan kezelje a különböző mértékű beépüléseket.">
+<!ENTITY rapi.prefpane.access.text "Engedélyezheted a weboldalak számára, hogy beépüljenek a &brandShortName; és ezzel egy szorosabb kapcsolatot építsenek ki a világháló és a médiaanyagaid között. Állítsd be, hogy a &brandShortName; hogyan kezelje a különböző mértékű beépüléseket.">
 <!ENTITY equalizer.preset.ska "Ska">
 <!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
 <!ENTITY podcast.creation_dialog.title "Új podcast">
@@ -602,9 +602,9 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Új firmware automatikus keresése">
 <!ENTITY smart.least_recent "legrégebbi">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "A Songbird névjegye...">
+<!ENTITY menu.help.about "A &brandShortName; névjegye...">
 <!ENTITY device.settings.general.label "Általános">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "b">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "A CD-bemásolás befejeztével adja ki a CD-t">

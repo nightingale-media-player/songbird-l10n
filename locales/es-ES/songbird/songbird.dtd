@@ -83,7 +83,7 @@
 <!ENTITY subscribe.destinationfolder "Seleccione la carpeta de destino:">
 <!ENTITY playqueue.label "Reproducir lista">
 <!ENTITY playqueue.instructions "Arrastre y suelte canciones o listas de reproducción aquí para crear una lista sobre la marcha">
-<!ENTITY first_run.welcome.description.line2 "Este asistente te proporciona una forma rápida y eficiente de poner a punto Songbird.">
+<!ENTITY first_run.welcome.description.line2 "Este asistente te proporciona una forma rápida y eficiente de poner a punto &brandShortName;.">
 <!ENTITY currentTrackCmd.commandKey "L">
 <!ENTITY menu.control.repx "No repetir">
 <!ENTITY command.device.canceldevicesync.accesskey "S">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Pista siguiente">
 <!ENTITY umsd.video.video_path_browse_msg "Seleccione la carpeta del dispositivo donde colocar los archivos de vídeo.">
 <!ENTITY setupprogress.pleasewait "Por favor, espere...">
-<!ENTITY menu.help.homepage "Web de Songbird">
+<!ENTITY menu.help.homepage "Web de &brandShortName;">
 <!ENTITY equalizer.preset.soft "Suave">
 <!ENTITY equalizer.preset.large_hall "Salón grande">
 <!ENTITY first_run.eula.accept_checkbox.label "He leído y acepto las condiciones de esta licencia.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "I">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Versión actual del firmware:">
-<!ENTITY first_run.itunes.checkbox.export.description "La música comprada con Songbird puede ser exportada a iTunes para así poder transferirla a tu iPod o iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "La música comprada con &brandShortName; puede ser exportada a iTunes para así poder transferirla a tu iPod o iPhone.">
 <!ENTITY device.tools.update_firmware.label "Comprobar actualizaciones de firmware">
 <!ENTITY device.info.icon.device "Icono genérico de dispositivo">
 <!ENTITY restartbox.restartlater "Reiniciar más tarde">
@@ -427,7 +427,7 @@
 <!ENTITY device.progress.sync "Sincronización">
 <!ENTITY device.dialog.wait_for_completion.quit "Cerrar">
 <!ENTITY tooltip.browser.mediapages.list "Vista en lista">
-<!ENTITY rapi.library_read_disable.label "Impedir que las páginas web puedan informarse sobre los medios de Songbird">
+<!ENTITY rapi.library_read_disable.label "Impedir que las páginas web puedan informarse sobre los medios de &brandShortName;">
 <!ENTITY feedback.dialog.sentence1 "¿Nos ayudaría a mejorar &brandShortName; haciendo una rápida encuesta anónima?">
 <!ENTITY feed.subscribe.label "Suscribir">
 <!ENTITY tooltip.servicepane.show "Mostrar panel de servicio">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Cumplir la siguiente condición:">
 <!ENTITY importexport_show_notifications_checkbox "Mostrar notificaciones al completar la importación/exportación">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Los podcasts y música comprada en iTunes puede ser importada a Songbird. Esta sincronización funciona perfectamente si has elegido Songbird como tu reproductor de música por defecto.">
+<!ENTITY first_run.itunes.checkbox.import.description "Los podcasts y música comprada en iTunes puede ser importada a &brandShortName;. Esta sincronización funciona perfectamente si has elegido &brandShortName; como tu reproductor de música por defecto.">
 <!ENTITY device.sync.images.foldername "Nombre de la carpeta">
 <!ENTITY device.capacity.video.label "Vídeo">
 <!ENTITY menu.control.next.accesskey "N">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "O">
 <!ENTITY menu.help.about "Acerca de &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "El Gestor Multimedia ha sido desabilitado en Songbird desde la versión 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "El Gestor Multimedia ha sido desabilitado en &brandShortName; desde la versión 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Expulsar CD al completar la grabación">

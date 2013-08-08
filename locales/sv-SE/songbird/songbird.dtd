@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Nästa spår">
 <!ENTITY umsd.video.video_path_browse_msg "Välj enhetsbibliotek för videofiler. ">
 <!ENTITY setupprogress.pleasewait "Vänta...">
-<!ENTITY menu.help.homepage "Songbird Hemsida">
+<!ENTITY menu.help.homepage "&brandShortName; Hemsida">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Stor hall">
 <!ENTITY first_run.eula.accept_checkbox.label "Jag har läst och accepterar villkoren i licensavtalet.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "R">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Nuvarande firmwareversion">
-<!ENTITY first_run.itunes.checkbox.export.description "Musik som lagts till via Songbird kan exporteras till iTunes så det kan föras över till iPod eller iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "Musik som lagts till via &brandShortName; kan exporteras till iTunes så det kan föras över till iPod eller iPhone.">
 <!ENTITY device.tools.update_firmware.label "Sök efter ny firmware">
 <!ENTITY device.info.icon.device "Generell enhetsikon">
 <!ENTITY restartbox.restartlater "Starta om senare">
@@ -595,7 +595,7 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Spår">
 <!ENTITY menu.errorconsole.accesskey "K">
 <!ENTITY about.credits.footer.afterLink "till Mozilla-projektet.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Det här kommer att tillåta Songbird att bädda in omslagsbilder i kompatibla taggar för mediafiler.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Det här kommer att tillåta &brandShortName; att bädda in omslagsbilder i kompatibla taggar för mediafiler.">
 <!ENTITY menu.control.rep1.accesskey "U">
 <!ENTITY hotkeys.add "Lägg till">
 <!ENTITY export_playlists_itunes_checkbox "Exportera musikspellistor">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "H">
 <!ENTITY menu.help.about "Om &brandShortName;...">
 <!ENTITY device.settings.general.label "Generellt">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediahanteringen har tagits bort från Songbird fr o m version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediahanteringen har tagits bort från &brandShortName; fr o m version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "T">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Mata ut skivan när importeringen är färdig">

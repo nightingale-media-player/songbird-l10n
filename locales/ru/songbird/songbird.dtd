@@ -33,7 +33,7 @@
 <!ENTITY displaypane.default.image.pre "Выбрать дополнение из меню">
 <!ENTITY device.capacity.free.label "Свободно">
 <!ENTITY playMediaCmd.accesskey "з">
-<!ENTITY hotkeys.info "Горячие клавиши позволяют пользоваться удобством Songbird, даже если его окно не активно. Некоторые комбинации горячих клавиш должны быть изменены для минимизации их обработки другими приложениями.">
+<!ENTITY hotkeys.info "Горячие клавиши позволяют пользоваться удобством &brandShortName;, даже если его окно не активно. Некоторые комбинации горячих клавиш должны быть изменены для минимизации их обработки другими приложениями.">
 <!ENTITY device.capacity.music.label "Музыка">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "г">
 <!ENTITY tooltip.browser.stop "Остановить загрузку страницы">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "Н">
 <!ENTITY menu.help.bugz.accesskey "к">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Текущая версия прошивки:">
-<!ENTITY first_run.itunes.checkbox.export.description "Музыка, приобретённая с помощью Songbird, может быть экспортирована в iTunes, чтобы в дальнейшем она была передана на ваш iPod или iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "Музыка, приобретённая с помощью &brandShortName;, может быть экспортирована в iTunes, чтобы в дальнейшем она была передана на ваш iPod или iPhone.">
 <!ENTITY device.tools.update_firmware.label "Проверить на наличие обновлений прошивки">
 <!ENTITY device.info.icon.device "Общий значок устройств">
 <!ENTITY restartbox.restartlater "Перезапустить позже">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Подбирать по следующим критериям:">
 <!ENTITY importexport_show_notifications_checkbox "Уведомлять о завершении импорта/экспорта">
 <!ENTITY cdrip.mediaview.eject.key "И">
-<!ENTITY first_run.itunes.checkbox.import.description "Подкасты и музыкальные файлы, купленные в магазине iTunes, могут быть импортированы в Songbird. Эта функция работает корректно, если в будущем вы собираетесь использовать Songbird в качестве основного музыкального плеера.">
+<!ENTITY first_run.itunes.checkbox.import.description "Подкасты и музыкальные файлы, купленные в магазине iTunes, могут быть импортированы в &brandShortName;. Эта функция работает корректно, если в будущем вы собираетесь использовать &brandShortName; в качестве основного музыкального плеера.">
 <!ENTITY device.sync.images.foldername "название папки">
 <!ENTITY device.capacity.video.label "Видео">
 <!ENTITY menu.control.next.accesskey "С">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "й">
 <!ENTITY menu.help.about "О программе &brandShortName;...">
 <!ENTITY device.settings.general.label "Общий">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "в">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Когда процесс оцифровки будет завершён, извлеките компакт-диск из привода">

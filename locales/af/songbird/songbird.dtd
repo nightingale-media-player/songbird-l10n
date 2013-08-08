@@ -275,7 +275,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.next "Volgende Snit">
 <!ENTITY umsd.video.video_path_browse_msg "Select the device directory in which to place video files.">
 <!ENTITY setupprogress.pleasewait "Wag Asseblief...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Sag">
 <!ENTITY equalizer.preset.large_hall "Groot Saal">
 <!ENTITY first_run.eula.accept_checkbox.label "I have read and accepted the terms of this license.">
@@ -604,9 +604,9 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "minste onlangs">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Oor Songbird...">
+<!ENTITY menu.help.about "Oor &brandShortName;...">
 <!ENTITY device.settings.general.label "Algemeen">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">

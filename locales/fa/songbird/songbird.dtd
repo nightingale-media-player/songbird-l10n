@@ -606,7 +606,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "درباره‌ی &brandShortName;...">
 <!ENTITY device.settings.general.label "عمومی">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "وقتی سی دی ریپ شد خارجش کن.">

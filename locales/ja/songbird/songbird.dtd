@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "次のトラック">
 <!ENTITY umsd.video.video_path_browse_msg "ビデオファイルを置くディレクトリを選択してください。">
 <!ENTITY setupprogress.pleasewait "しばらくお待ちください...">
-<!ENTITY menu.help.homepage "Songbird ウェブサイト">
+<!ENTITY menu.help.homepage "&brandShortName; ウェブサイト">
 <!ENTITY equalizer.preset.soft "ソフト">
 <!ENTITY equalizer.preset.large_hall "大ホール">
 <!ENTITY first_run.eula.accept_checkbox.label "ライセンス条項を読み、これに同意します。">
@@ -354,7 +354,7 @@
 <!ENTITY playback.prefpane.normalization.enable "可能な場合オーディオノーマライズデータを使用する">
 <!ENTITY menu.mac.hideothers.key "H">
 <!ENTITY menu.help.help.accesskey "H">
-<!ENTITY displaypane.default.link.text "Songbird アドオンのサイト">
+<!ENTITY displaypane.default.link.text "&brandShortName; アドオンのサイト">
 <!ENTITY command.device.lookup.accesskey "L">
 <!ENTITY device.tools.support.title "サポート">
 <!ENTITY device.sync.auto_sync.label "同期">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "&brandShortName; について...">
 <!ENTITY device.settings.general.label "一般">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "メディアの管理機能は Songbird バージョン 1.10 で無効化されています。">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "メディアの管理機能は &brandShortName; バージョン 1.10 で無効化されています。">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "取り込み完了時に CD を取り出す">

@@ -44,7 +44,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY albumart.displaypane.selected.menu.cut "Knippe">
 <!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
 <!ENTITY subscribe.title "Abonnearje">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "Tûke spyllist">
 <!ENTITY openImageCmdInDefaultBrowser.label "Iepenje ôfbylding yn standert websneuper">
 <!ENTITY menu.help.about.accesskey "O">
@@ -275,7 +275,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.next "Folgjende nûmer">
 <!ENTITY umsd.video.video_path_browse_msg "Selektearje de apparaatmap wêr&apos;t de fideobestannen pleatst wurde moatte.">
 <!ENTITY setupprogress.pleasewait "Wachtsje asjebleaft...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Sêft">
 <!ENTITY equalizer.preset.large_hall "Grutte hal">
 <!ENTITY first_run.eula.accept_checkbox.label "Ik haw de lisinsjebetingsten lêzen en akseptearre.">
@@ -604,9 +604,9 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "minst resint spile">
 <!ENTITY menu.tools.getartwork.accesskey "K">
-<!ENTITY menu.help.about "Oer Songbird...">
+<!ENTITY menu.help.about "Oer &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "s">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">

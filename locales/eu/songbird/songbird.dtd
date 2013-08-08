@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Hurrengo pista">
 <!ENTITY umsd.video.video_path_browse_msg "Bideo fitxategiak kokatuko diren gailuko karpeta aukeratu.">
 <!ENTITY setupprogress.pleasewait "Itxaron mesedez...">
-<!ENTITY menu.help.homepage "Songbird Webgunea">
+<!ENTITY menu.help.homepage "&brandShortName; Webgunea">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Areto handia">
 <!ENTITY first_run.eula.accept_checkbox.label "Lizentzia hau irakurri dut eta bere baldintzak onartzen ditut.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "A">
 <!ENTITY menu.help.about "&brandShortName;i buruz...">
 <!ENTITY device.settings.general.label "Nagusia">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "I">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "CD erauzketa bukatzean kanporatu CD-a">

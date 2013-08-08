@@ -42,7 +42,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "Изрязване">
 <!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
 <!ENTITY subscribe.title "Абонамент">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "„Умен“ плейлист">
 <!ENTITY openImageCmdInDefaultBrowser.label "Отвори снимка в основния интернет браузър">
 <!ENTITY menu.help.about.accesskey "A">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Следваща песен">
 <!ENTITY umsd.video.video_path_browse_msg "Избор на папка в устройството за поставяне на видео файлове.">
 <!ENTITY setupprogress.pleasewait "Моля изчакайте...">
-<!ENTITY menu.help.homepage "Сайт на Songbird">
+<!ENTITY menu.help.homepage "Сайт на &brandShortName;">
 <!ENTITY equalizer.preset.soft "Нежна">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
 <!ENTITY first_run.eula.accept_checkbox.label "Прочетох и приемам условията на този договор за ползване.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "B">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
-<!ENTITY first_run.itunes.checkbox.export.description "Музиката, придобитa чрез Songbird, може да бъде изнасяха в iTunes, така че тя може да бъде прехвърлена на Вашия iPod или iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "Музиката, придобитa чрез &brandShortName;, може да бъде изнасяха в iTunes, така че тя може да бъде прехвърлена на Вашия iPod или iPhone.">
 <!ENTITY device.tools.update_firmware.label "Check for updated firmware">
 <!ENTITY device.info.icon.device "Generic device icon">
 <!ENTITY restartbox.restartlater "Отлагане на рестартирането">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Отговаря на следните условия">
 <!ENTITY importexport_show_notifications_checkbox "Покажи известие, когато внасянето/изнасянето е готово">
 <!ENTITY cdrip.mediaview.eject.key "Е">
-<!ENTITY first_run.itunes.checkbox.import.description "Подкастове и музика, закупени от iTunes Store, могат да бъдат внесени в Songbird. Тази опция работи добре, ако Songbird e Вашият музикален плеър по подразбиране.">
+<!ENTITY first_run.itunes.checkbox.import.description "Подкастове и музика, закупени от iTunes Store, могат да бъдат внесени в &brandShortName;. Тази опция работи добре, ако &brandShortName; e Вашият музикален плеър по подразбиране.">
 <!ENTITY device.sync.images.foldername "Folder Name">
 <!ENTITY device.capacity.video.label "Видео">
 <!ENTITY menu.control.next.accesskey "N">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "За &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">

@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "&brandShortName;... معلومات عن ">
 <!ENTITY device.settings.general.label "عام">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "إخراج القرص المدمج بعد إنتهاء نسخ أغاني القرص المدمج">

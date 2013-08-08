@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Kënga e Mëpasshme">
 <!ENTITY umsd.video.video_path_browse_msg "Zgjidh dosjen e njësisë në të cilën do të vendosen skedarët video.">
 <!ENTITY setupprogress.pleasewait "Të lutem prit...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
 <!ENTITY first_run.eula.accept_checkbox.label "Lexova dhe pranoj kushtet e kësaj license.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Mbi &brandShortName;-in...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">

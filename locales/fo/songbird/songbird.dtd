@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Næsta spor">
 <!ENTITY umsd.video.video_path_browse_msg "Vel tóleindarskjáttu at leggja videofílur.">
 <!ENTITY setupprogress.pleasewait "Vinarliga bíða...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Bleytt">
 <!ENTITY equalizer.preset.large_hall "Stór høll">
 <!ENTITY first_run.eula.accept_checkbox.label "Eg havi lisið og góðtikið treytirnar í hesum loyvi.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "B">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Verandi fastbúnaðarútgáva:">
-<!ENTITY first_run.itunes.checkbox.export.description "Tónleikur fingin umvegis Songbird kann verða útfluttur til iTunes, so at hann kann verða fluttur til tín iPod ella iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "Tónleikur fingin umvegis &brandShortName; kann verða útfluttur til iTunes, so at hann kann verða fluttur til tín iPod ella iPhone.">
 <!ENTITY device.tools.update_firmware.label "Leita eftir dagførdum fastbúnaði">
 <!ENTITY device.info.icon.device "Ikon fyri vanligar tóleindir">
 <!ENTITY restartbox.restartlater "Lat aftur og upp seinri">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Svarar til hesar treytir:">
 <!ENTITY importexport_show_notifications_checkbox "Vís fráboðan, tá inn/útflutningur er liðugur">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Podvørp og tónleikur keypt frá iTunes Store kunnu verða innflutt til Songbird. Hesin hentleiki virkar væl, um Songbird fer at vera høvuðstónleikaspælari hjá tær.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podvørp og tónleikur keypt frá iTunes Store kunnu verða innflutt til &brandShortName;. Hesin hentleiki virkar væl, um &brandShortName; fer at vera høvuðstónleikaspælari hjá tær.">
 <!ENTITY device.sync.images.foldername "Folder Name">
 <!ENTITY device.capacity.video.label "Video">
 <!ENTITY menu.control.next.accesskey "N">
@@ -595,7 +595,7 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Spor">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY about.credits.footer.afterLink "Mozilla-verkætlanina">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Hetta loyvir Songbird at innføra myndlist í sambærilig eyðkenni fyri miðlafílur.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Hetta loyvir &brandShortName; at innføra myndlist í sambærilig eyðkenni fyri miðlafílur.">
 <!ENTITY menu.control.rep1.accesskey "O">
 <!ENTITY hotkeys.add "Legg afturat">
 <!ENTITY export_playlists_itunes_checkbox "Útflyt spælilistar">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Um &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">

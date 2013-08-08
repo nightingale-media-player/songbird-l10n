@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Faixa seguinte">
 <!ENTITY umsd.video.video_path_browse_msg "Selecione a pasta do dispositivo na qual os ficheiros serão colocados.">
 <!ENTITY setupprogress.pleasewait "Por favor, aguarde...">
-<!ENTITY menu.help.homepage "Página web do Songbird">
+<!ENTITY menu.help.homepage "Página web do &brandShortName;">
 <!ENTITY equalizer.preset.soft "Suave">
 <!ENTITY equalizer.preset.large_hall "Salão">
 <!ENTITY first_run.eula.accept_checkbox.label "Eu li e aceito os termos desta licença.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "B">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Versão atual de &quot;firmware&quot;:">
-<!ENTITY first_run.itunes.checkbox.export.description "A musica adquirida através do Songbird pode ser exportada para o iTunes e posteriormente para o seu iPod ou iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "A musica adquirida através do &brandShortName; pode ser exportada para o iTunes e posteriormente para o seu iPod ou iPhone.">
 <!ENTITY device.tools.update_firmware.label "Procurar atualizações de &quot;firmware&quot;">
 <!ENTITY device.info.icon.device "Ícone de dispositivo genérico">
 <!ENTITY restartbox.restartlater "Reiniciar mais tarde">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Coincide com a seguinte condição:">
 <!ENTITY importexport_show_notifications_checkbox "Mostrar notificações ao concluir a importação/exportação">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Os podcasts e a música compradas na loja do iTunes podem ser importadas para o Songbird. Esta característica é ótima se o Songbird vier a ser o seu principal leitor de música.">
+<!ENTITY first_run.itunes.checkbox.import.description "Os podcasts e a música compradas na loja do iTunes podem ser importadas para o &brandShortName;. Esta característica é ótima se o &brandShortName; vier a ser o seu principal leitor de música.">
 <!ENTITY device.sync.images.foldername "Nome da pasta">
 <!ENTITY device.capacity.video.label "Vídeo">
 <!ENTITY menu.control.next.accesskey "N">

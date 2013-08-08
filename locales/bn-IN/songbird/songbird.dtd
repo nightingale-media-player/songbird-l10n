@@ -595,7 +595,7 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Track">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY about.credits.footer.afterLink "মজিলা প্রজেক্টকে">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "এইটি মিডিয়া ফাইলের জন্য সঙ্গতিপূর্ণ ট্যাগে আর্টওয়ার্ক সন্নিবেশ করতে Songbird কে অনুমোদন করবে।">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "এইটি মিডিয়া ফাইলের জন্য সঙ্গতিপূর্ণ ট্যাগে আর্টওয়ার্ক সন্নিবেশ করতে &brandShortName; কে অনুমোদন করবে।">
 <!ENTITY menu.control.rep1.accesskey "O">
 <!ENTITY hotkeys.add "যোগ">
 <!ENTITY export_playlists_itunes_checkbox "Export music playlists">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "সংবার্ড সম্পর্কে...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "গান কপি শেষ হলে সিডি বার করুন">

@@ -33,7 +33,7 @@
 <!ENTITY displaypane.default.image.pre "Select an add-on from the">
 <!ENTITY device.capacity.free.label "Vala">
 <!ENTITY playMediaCmd.accesskey "p">
-<!ENTITY hotkeys.info "Kurterêyên Gloal derfeta kontrola Songbirdê dide ger Songbird ne sepana çalak be jî. Some Hotkey combinations must include modifier keys to minimize unwanted interference with other applications.">
+<!ENTITY hotkeys.info "Kurterêyên Gloal derfeta kontrola &brandShortName; dide ger &brandShortName; ne sepana çalak be jî. Some Hotkey combinations must include modifier keys to minimize unwanted interference with other applications.">
 <!ENTITY device.capacity.music.label "Mûzîk">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
 <!ENTITY tooltip.browser.stop "Gerokê Bisekinîne">
@@ -42,7 +42,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "Jê bike">
 <!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
 <!ENTITY subscribe.title "Erêkirin">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "Çêkera Lîsteyên Lêdanê ya Baqil">
 <!ENTITY openImageCmdInDefaultBrowser.label "Wêneyê bi geroka bixweber veke">
 <!ENTITY menu.help.about.accesskey "A">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Strana Pêş">
 <!ENTITY umsd.video.video_path_browse_msg "Cihê amura ku wê pelên vîdyoyê lê bê bicîkirin, hilbijêrin.">
 <!ENTITY setupprogress.pleasewait "Li bendê be...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
 <!ENTITY first_run.eula.accept_checkbox.label "Min xalên lîsansê wend û pejirand.">
@@ -413,7 +413,7 @@
 <!ENTITY displaypane.name.servicepane "Bişkojka Paceya Servîsê">
 <!ENTITY menu.clearprivatedata "Daneyên Taybet Paqij Bike...">
 <!ENTITY window.ok "ERÊ">
-<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Bibîne">
 <!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
 <!ENTITY menu.updateCmd.label "Li Rojanekirinan Venêre...">
@@ -453,7 +453,7 @@
 <!ENTITY command.device.canceldevicecopy "Jibergirtinê Betal Bike">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
-<!ENTITY feedback.dialog.sentence4 "Koma Songbird">
+<!ENTITY feedback.dialog.sentence4 "Koma &brandShortName;">
 <!ENTITY smart.title "sernav">
 <!ENTITY menu.tools.reveal "Pelên Bijartî Nîşan Bide">
 <!ENTITY menu.controllerontop "li jor nîşan bide">
@@ -588,7 +588,7 @@
 <!ENTITY window.browser.titledefault "">
 <!ENTITY subscribe.url "URL:">
 <!ENTITY smart.to "to">
-<!ENTITY rapi.prefpane.access.text "You can allow websites to integrate with Songbird to create a tighter coupling between the web and your media. Please configure Songbird to allow or block websites usage of the following points of integration.">
+<!ENTITY rapi.prefpane.access.text "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the web and your media. Please configure &brandShortName; to allow or block websites usage of the following points of integration.">
 <!ENTITY equalizer.preset.ska "Ska">
 <!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
 <!ENTITY podcast.creation_dialog.title "New Podcast">
@@ -602,9 +602,9 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "herî kevin">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Dermafê Songbirdê...">
+<!ENTITY menu.help.about "Dermafê &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
@@ -650,7 +650,7 @@
 <!ENTITY import_library.dirty_playlist_dialog.merge "Merge the current &brandShortName; and iTunes playlists">
 <!ENTITY import_tracks_itunes_checkbox "Import music tracks from iTunes">
 <!ENTITY first_run.welcome.header.label "Bi xêr hatî li &brandShortName;">
-<!ENTITY feedback.dialog.title "Alikariya Pêşdebirina Songbird Bike">
+<!ENTITY feedback.dialog.title "Alikariya Pêşdebirina &brandShortName; Bike">
 <!ENTITY window.yes "Erê">
 <!ENTITY subscribeMediaPageCmd.label "Bibe endamê vê rûpelê...">
 <!ENTITY menu.file.new.key "N">

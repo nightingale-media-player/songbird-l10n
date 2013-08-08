@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Neste spor">
 <!ENTITY umsd.video.video_path_browse_msg "Velg en mappe på enheten til videofiler.">
 <!ENTITY setupprogress.pleasewait "Vent...">
-<!ENTITY menu.help.homepage "Songbird Nettsted">
+<!ENTITY menu.help.homepage "&brandShortName; Nettsted">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Stor hall">
 <!ENTITY first_run.eula.accept_checkbox.label "Jeg har lest og godtatt vilkårene i denne avtalen.">
@@ -312,7 +312,7 @@
 <!ENTITY menu.help.keyboard.accesskey "K">
 <!ENTITY menu.file.new.accesskey "N">
 <!ENTITY menu.edit.undo.accesskey "U">
-<!ENTITY first_run.import_media.description "Denne siden vil lede deg gjennom å importere mediafiler til &brandShortName; ved å prøve å oppdage lokale media. Med en gang Songbird starter kan du legge til mer media på mange måter.">
+<!ENTITY first_run.import_media.description "Denne siden vil lede deg gjennom å importere mediafiler til &brandShortName; ved å prøve å oppdage lokale media. Med en gang &brandShortName; starter kan du legge til mer media på mange måter.">
 <!ENTITY umsd.video.video_ext_desc "Kopier videofiler av følgende filtype til enheten:">
 <!ENTITY smart.most_added "mest nylig spilt">
 <!ENTITY rapi.library_read_disable.accesskey "s">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Stemmer med følgende kriterie:">
 <!ENTITY importexport_show_notifications_checkbox "Vis melding når importering/eksportering er ferdig">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Podcaster og musikk kjøpt gjennom iTunes kan importeres til Songbird. Denne muligheten er nyttig hvis &brandShortName; er din primære musikkspiller.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcaster og musikk kjøpt gjennom iTunes kan importeres til &brandShortName;. Denne muligheten er nyttig hvis &brandShortName; er din primære musikkspiller.">
 <!ENTITY device.sync.images.foldername "Mappenavn">
 <!ENTITY device.capacity.video.label "Video">
 <!ENTITY menu.control.next.accesskey "N">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Om &brandShortName;...">
 <!ENTITY device.settings.general.label "Generell">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediahåndtering har blitt tatt bort fra Songbird etter version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediahåndtering har blitt tatt bort fra &brandShortName; etter version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Løs ut CD&apos;en når rippingen er fullført">

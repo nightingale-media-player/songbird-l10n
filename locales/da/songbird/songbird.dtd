@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Næste spor">
 <!ENTITY umsd.video.video_path_browse_msg "Vælg mappen på enheden hvori der skal gemmes videofiler.">
 <!ENTITY setupprogress.pleasewait "Vent venligst...">
-<!ENTITY menu.help.homepage "Songbirds websted">
+<!ENTITY menu.help.homepage "&brandShortName; websted">
 <!ENTITY equalizer.preset.soft "Blød">
 <!ENTITY equalizer.preset.large_hall "Stor sal">
 <!ENTITY first_run.eula.accept_checkbox.label "Jeg har læst og accepterer betingelserne for denne licens.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "H">
 <!ENTITY menu.help.about "Om &brandShortName;...">
 <!ENTITY device.settings.general.label "Generelt">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediehåndtering er blevet fjernet fra Songbird siden version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediehåndtering er blevet fjernet fra &brandShortName; siden version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "L">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Skub CD&apos;en ud efter rip">

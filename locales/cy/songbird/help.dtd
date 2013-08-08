@@ -90,7 +90,7 @@
 <!ENTITY help.keyboard.name.video.bringtofront "Fideo ar y Brig">
 <!ENTITY help.keyboard.key.f9 "F9">
 <!ENTITY help.keyboard.key.f14 "F14">
-<!ENTITY help.keyboard.title "Llwybrau Byr Bysellfwrdd Songbird">
+<!ENTITY help.keyboard.title "Llwybrau Byr Bysellfwrdd &brandShortName;">
 <!ENTITY help.keyboard.name.edit.copy "Copïo">
 <!ENTITY help.keyboard.section.library "Llyfrgell a Rhestrau Chwarae">
 <!ENTITY help.keyboard.key.f15 "F15">

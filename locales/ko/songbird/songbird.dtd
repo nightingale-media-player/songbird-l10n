@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "&brandShortName;에 대하여...">
 <!ENTITY device.settings.general.label "일반">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "미디어 관리 기능이 Songbird 1.10 버전부터 제거됩니다.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "미디어 관리 기능이 &brandShortName; 1.10 버전부터 제거됩니다.">
 <!ENTITY menu.file.closetab.accesskey "W">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "CD Rip이 완료되면 CD 꺼내기">

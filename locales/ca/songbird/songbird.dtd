@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Peça següent">
 <!ENTITY umsd.video.video_path_browse_msg "Seleccioneu el directori del dispositiu on voleu desar els fitxers de vídeo.">
 <!ENTITY setupprogress.pleasewait "Espereu…">
-<!ENTITY menu.help.homepage "Lloc web del Songbird">
+<!ENTITY menu.help.homepage "Lloc web del &brandShortName;">
 <!ENTITY equalizer.preset.soft "Suau">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
 <!ENTITY first_run.eula.accept_checkbox.label "He llegit les condicions de la llicència i les accepto.">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Condicions per complir:">
 <!ENTITY importexport_show_notifications_checkbox "Mostra una notificació quan s&apos;hagi completat la importació/exportació">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Els podcasts i la música adquirida a l&apos;iTunes Store es pot importar al Songbird. Aquesta funció va bé si feu, el Songbird, el vostre reproductor per defecte.">
+<!ENTITY first_run.itunes.checkbox.import.description "Els podcasts i la música adquirida a l&apos;iTunes Store es pot importar al &brandShortName;. Aquesta funció va bé si feu, el &brandShortName;, el vostre reproductor per defecte.">
 <!ENTITY device.sync.images.foldername "Nom de la carpeta">
 <!ENTITY device.capacity.video.label "Vídeo">
 <!ENTITY menu.control.next.accesskey "E">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Quant al &brandShortName;…">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "El gestor de suports es va eliminar del Songbird a la versió 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "El gestor de suports es va eliminar del &brandShortName; a la versió 1.10.">
 <!ENTITY menu.file.closetab.accesskey "c">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Expulsa el CD quan s&apos;acabi la gravació">

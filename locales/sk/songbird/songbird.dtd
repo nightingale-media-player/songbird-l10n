@@ -33,7 +33,7 @@
 <!ENTITY displaypane.default.image.pre "Select an add-on from the">
 <!ENTITY device.capacity.free.label "Voľné">
 <!ENTITY playMediaCmd.accesskey "P">
-<!ENTITY hotkeys.info "Globálne klávesové skratky umožňujú prístup k funkciám &brandShortName; aj v prípade, že Songbird nie je aktívnou aplikáciou. Niektoré kombinácie klávesov musia obsahovať klávesový modifikátor, aby sa minimalizoval konflikt s inými aplikáciami.">
+<!ENTITY hotkeys.info "Globálne klávesové skratky umožňujú prístup k funkciám &brandShortName; aj v prípade, že &brandShortName; nie je aktívnou aplikáciou. Niektoré kombinácie klávesov musia obsahovať klávesový modifikátor, aby sa minimalizoval konflikt s inými aplikáciami.">
 <!ENTITY device.capacity.music.label "Hudba">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "P">
 <!ENTITY tooltip.browser.stop "Zastaviť prehliadač">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Ďalšia skladba">
 <!ENTITY umsd.video.video_path_browse_msg "Vyberte priečinok v zariadení, kam umiestniť videosúbory.">
 <!ENTITY setupprogress.pleasewait "Čakajte prosím...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Jemné">
 <!ENTITY equalizer.preset.large_hall "Veľká hala">
 <!ENTITY first_run.eula.accept_checkbox.label "Prečítal som si túto licenciu a súhlasím s jej podmienkami.">
@@ -312,7 +312,7 @@
 <!ENTITY menu.help.keyboard.accesskey "K">
 <!ENTITY menu.file.new.accesskey "N">
 <!ENTITY menu.edit.undo.accesskey "p">
-<!ENTITY first_run.import_media.description "Vyberte médiá, ktoré chcete importovať do &brandShortName;. Po spustení Songbirdu môžete mnohými spôsobmi pridať ďalšie médiá.">
+<!ENTITY first_run.import_media.description "Vyberte médiá, ktoré chcete importovať do &brandShortName;. Po spustení &brandShortName; môžete mnohými spôsobmi pridať ďalšie médiá.">
 <!ENTITY umsd.video.video_ext_desc "Kopírovať do zariadenia videosúbory s týmito príponami:">
 <!ENTITY smart.most_added "naposledy pridané">
 <!ENTITY rapi.library_read_disable.accesskey "s">
@@ -320,7 +320,7 @@
 <!ENTITY menu.edit.paste.accesskey "P">
 <!ENTITY first_run.eula.header.label "Licenčné podmienky">
 <!ENTITY device.capacity.image.label "Obrázky">
-<!ENTITY about.credits.intro "Chceli by sme poďakovať našim spolupracovníkom, ktorých úsilie spravilo zo Songbirdu to, čo je. Títo ľudia nám pomohli s písaním kódu, dokumentácie a testovaním. Vytvorili a podporovali tento produkt, vývojárske sady, naše stavebné nástroje a naše webové stránky. Mená sú zoradené podľa IRC prezývok, príďte cez #songbird na irc.mozilla.org a povedzte ahoj!">
+<!ENTITY about.credits.intro "Chceli by sme poďakovať našim spolupracovníkom, ktorých úsilie spravilo zo &brandShortName; to, čo je. Títo ľudia nám pomohli s písaním kódu, dokumentácie a testovaním. Vytvorili a podporovali tento produkt, vývojárske sady, naše stavebné nástroje a naše webové stránky. Mená sú zoradené podľa IRC prezývok, príďte cez #songbird na irc.mozilla.org a povedzte ahoj!">
 <!ENTITY menu.mac.showall "Zobraziť všetko">
 <!ENTITY first_run.connection.description "Skontrolujte vaše nastavenie pripojenia alebo pokračujte so Sprievodcom nastavenia.">
 <!ENTITY equalizer.preset.full_bass "Plné basy">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "r">
 <!ENTITY menu.help.bugz.accesskey "c">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Súčasná verzia firmvéru:">
-<!ENTITY first_run.itunes.checkbox.export.description "Hudbu získanú pomocou programu Songbird môžete preniesť do programu iTunes a taktiež do vášho iPodu alebo iPhonu.">
+<!ENTITY first_run.itunes.checkbox.export.description "Hudbu získanú pomocou programu &brandShortName; môžete preniesť do programu iTunes a taktiež do vášho iPodu alebo iPhonu.">
 <!ENTITY device.tools.update_firmware.label "Vyhľadať aktualizovaný firmvér">
 <!ENTITY device.info.icon.device "Všeobecná ikona zriadenia">
 <!ENTITY restartbox.restartlater "Reštartovať neskôr">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Zodpovedať nasledujúcej podmienke:">
 <!ENTITY importexport_show_notifications_checkbox "Zobraziť upozornenie keď je importovanie/exportovanie dokomčené">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Podcasty a hudba zakúpené z obchodu iTunes je možné importovať do Songbirdu. Táto funkcia pracuje správne, len ak máte Songbird nastavený ako predvolený hudobný prehrávač.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasty a hudba zakúpené z obchodu iTunes je možné importovať do &brandShortName;. Táto funkcia pracuje správne, len ak máte &brandShortName; nastavený ako predvolený hudobný prehrávač.">
 <!ENTITY device.sync.images.foldername "Folder Name">
 <!ENTITY device.capacity.video.label "Video">
 <!ENTITY menu.control.next.accesskey "a">
@@ -595,7 +595,7 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Skladba">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY about.credits.footer.afterLink "na projekt Mozilla.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Toto nastavenie umožní Songbirdu vkladať obal albumu v kompatibilných značkách pre súbory médií.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Toto nastavenie umožní &brandShortName; vkladať obal albumu v kompatibilných značkách pre súbory médií.">
 <!ENTITY menu.control.rep1.accesskey "j">
 <!ENTITY hotkeys.add "Pridať">
 <!ENTITY export_playlists_itunes_checkbox "Exportovať zoznamy skladieb">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "Z">
 <!ENTITY menu.help.about "O programe &brandShortName;...">
 <!ENTITY device.settings.general.label "Hlavné">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "u">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Vysunúť disk, keď bude kopírovanie CD dokončené">

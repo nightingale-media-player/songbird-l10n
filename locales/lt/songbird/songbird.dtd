@@ -33,7 +33,7 @@
 <!ENTITY displaypane.default.image.pre "Pasirinkite priedą iš">
 <!ENTITY device.capacity.free.label "Laisva">
 <!ENTITY playMediaCmd.accesskey "G">
-<!ENTITY hotkeys.info "Globalūs spartieji klavišai leidžia valdyti Songbird net jei programa nėra aktyvi. Norint išvengti problemų su kitų programų sparčiaisiais klavišais, reiktų rinktis jose nenaudojamas klavišų kombinacijas.">
+<!ENTITY hotkeys.info "Globalūs spartieji klavišai leidžia valdyti &brandShortName; net jei programa nėra aktyvi. Norint išvengti problemų su kitų programų sparčiaisiais klavišais, reiktų rinktis jose nenaudojamas klavišų kombinacijas.">
 <!ENTITY device.capacity.music.label "Muzika">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
 <!ENTITY tooltip.browser.stop "Stabdyti naršyklę">
@@ -42,7 +42,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "Iškirpti">
 <!ENTITY cdrip.prefpane.providers.title "Informacijos apie CD tiekėjas">
 <!ENTITY subscribe.title "Prenumeruoti">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "Sumanaus grojaraščio vedlys">
 <!ENTITY openImageCmdInDefaultBrowser.label "Atverti paveiksliuką naršyklėje">
 <!ENTITY menu.help.about.accesskey "A">
@@ -181,7 +181,7 @@
 <!ENTITY smart.genre "žanras">
 <!ENTITY menu.file.playlist.accesskey "g">
 <!ENTITY hotkeys.hotkey "Spartusis klavišas">
-<!ENTITY first_run.feedback.header.label "Padėkite tobulinti „Songbird“">
+<!ENTITY first_run.feedback.header.label "Padėkite tobulinti &brandShortName;">
 <!ENTITY menu.edit.selall.accesskey "v">
 <!ENTITY export_smartplaylists_itunes_checkbox "Eksportuoti sumaniuosius grojaraščius">
 <!ENTITY device.tools.support.label "Peržiūrėti palaikymo šaltinius">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Paskesnė daina">
 <!ENTITY umsd.video.video_path_browse_msg "Pasirinkite įrenginio katalogą, į kurį perkelti vaizdo įrašus.">
 <!ENTITY setupprogress.pleasewait "Prašom palaukti...">
-<!ENTITY menu.help.homepage "Songbird tinklalapis">
+<!ENTITY menu.help.homepage "&brandShortName; tinklalapis">
 <!ENTITY equalizer.preset.soft "Minkštas">
 <!ENTITY equalizer.preset.large_hall "Didelė salė">
 <!ENTITY first_run.eula.accept_checkbox.label "Perskaičiau licenciją ir sutinku su jos sąlygomis.">
@@ -312,7 +312,7 @@
 <!ENTITY menu.help.keyboard.accesskey "K">
 <!ENTITY menu.file.new.accesskey "N">
 <!ENTITY menu.edit.undo.accesskey "A">
-<!ENTITY first_run.import_media.description "Šis puslapis padės įkelti failus į „&brandShortName;“ ieškodamas failų. Kai Songbird pasileis, failus bus galima įtraukti keliais būdais.">
+<!ENTITY first_run.import_media.description "Šis puslapis padės įkelti failus į „&brandShortName;“ ieškodamas failų. Kai &brandShortName; pasileis, failus bus galima įtraukti keliais būdais.">
 <!ENTITY umsd.video.video_ext_desc "Į prietaisą bus kopijuojami video failai su nurodytais plėtiniais:">
 <!ENTITY smart.most_added "įtraukta paskiausiai">
 <!ENTITY rapi.library_read_disable.accesskey "s">
@@ -413,7 +413,7 @@
 <!ENTITY displaypane.name.servicepane "Paslaugų skilties apačia">
 <!ENTITY menu.clearprivatedata "Pašalinti privačius duomenis…">
 <!ENTITY window.ok "Gerai">
-<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Ieškoti">
 <!ENTITY first_run.add_ons.description.line2 "Jie gali jungtis su kitomis programomis ir paslaugomis, palaikyti išorinius prietaisus, pakeisti programos išvaizdą ir dar daugiau!">
 <!ENTITY menu.updateCmd.label "Tikrinti ar yra naujinimų…">
@@ -427,14 +427,14 @@
 <!ENTITY device.progress.sync "Sinchronizuoti">
 <!ENTITY device.dialog.wait_for_completion.quit "Baigti darbą">
 <!ENTITY tooltip.browser.mediapages.list "Sąrašo rodinys">
-<!ENTITY rapi.library_read_disable.label "Neleisti tinklalapiams matyti duomenų apie kūrinius Songbird">
-<!ENTITY feedback.dialog.sentence1 "Ar padėsite mums tobulinti Songbird užpildydami trumpą klausimyną?">
+<!ENTITY rapi.library_read_disable.label "Neleisti tinklalapiams matyti duomenų apie kūrinius &brandShortName;">
+<!ENTITY feedback.dialog.sentence1 "Ar padėsite mums tobulinti &brandShortName; užpildydami trumpą klausimyną?">
 <!ENTITY feed.subscribe.label "Prenumeruoti">
 <!ENTITY tooltip.servicepane.show "Rodyti paslaugų skiltį">
 <!ENTITY tooltip.control.stop "Stabdyti">
 <!ENTITY menu.file.remote "Prenumeruoti…">
 <!ENTITY menu.file.podcast "Nauja laidos prenumerata...">
-<!ENTITY feedback.dialog.sentence2 "Jeigu Jūs nenorite, daugiau nebesiūlysime. Dėkojame už nuomonę ir linkime malonaus naudojimosi Songbird! ">
+<!ENTITY feedback.dialog.sentence2 "Jeigu Jūs nenorite, daugiau nebesiūlysime. Dėkojame už nuomonę ir linkime malonaus naudojimosi &brandShortName;! ">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Dar nerealizuota (žiūrėkite riktą 14281)">
 <!ENTITY menu.edit "Taisa">
@@ -453,7 +453,7 @@
 <!ENTITY command.device.canceldevicecopy "Nutraukti kopijavimą">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "N">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Pasirinkite kaupiklį, kurį valdys &brandShortName;:">
-<!ENTITY feedback.dialog.sentence4 "Songbird komanda">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; komanda">
 <!ENTITY smart.title "pavadinimas">
 <!ENTITY menu.tools.reveal "Rodyti parinktą failą">
 <!ENTITY menu.controllerontop "Rodyti viršuje">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Apie &brandShortName;...">
 <!ENTITY device.settings.general.label "">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "U">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Išstumti CD, kai skleidimas baigsis">
@@ -650,7 +650,7 @@
 <!ENTITY import_library.dirty_playlist_dialog.merge "Sulieti dabartinį &brandShortName; ir iTunes grojaraštį">
 <!ENTITY import_tracks_itunes_checkbox "Importuoti takelius iš iTunes">
 <!ENTITY first_run.welcome.header.label "Sveiki! Čia „&brandShortName;“">
-<!ENTITY feedback.dialog.title "Padėkite tobulinti Songbird!">
+<!ENTITY feedback.dialog.title "Padėkite tobulinti &brandShortName;!">
 <!ENTITY window.yes "Taip">
 <!ENTITY subscribeMediaPageCmd.label "Prenumeruoti šį tinklalapį…">
 <!ENTITY menu.file.new.key "N">

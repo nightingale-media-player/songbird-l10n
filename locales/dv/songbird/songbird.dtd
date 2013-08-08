@@ -275,7 +275,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.next "ޖެހިގެން އިން ޓްރެކް">
 <!ENTITY umsd.video.video_path_browse_msg "ވީޑިއޯ ފައިލްތައް ބަހައްޓަންވީ ޑައިރެކްޓްރީ ސެލެކްޓްކުރޭ">
 <!ENTITY setupprogress.pleasewait "މަޑުކޮއްލައްވާ">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
 <!ENTITY first_run.eula.accept_checkbox.label "އަހަރެން މިލައިސަންސްގަިއވާ ނުކުތާތައް ކިޔައި އޭގައިވާ ކަންތައްތަކަށް އެއްބަސްވަމެވެ.">
@@ -606,7 +606,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "ތައާރަފް">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "ސީ">
 <!ENTITY menu.edit.findagain.key "ޖީ">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">

@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Volgende nummer">
 <!ENTITY umsd.video.video_path_browse_msg "Selecteer de map op het apparaat voor het opslaan van videobestanden.">
 <!ENTITY setupprogress.pleasewait "Even geduld…">
-<!ENTITY menu.help.homepage "Songbird-website">
+<!ENTITY menu.help.homepage "&brandShortName;-website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Grote zaal">
 <!ENTITY first_run.eula.accept_checkbox.label "Ik heb deze licentieovereenkomst gelezen en geaccepteerd.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "h">
 <!ENTITY menu.help.about "Over &brandShortName;…">
 <!ENTITY device.settings.general.label "Algemeen">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediabeheer is vanaf versie 1.10 uit Songbird verwijderd.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediabeheer is vanaf versie 1.10 uit &brandShortName; verwijderd.">
 <!ENTITY menu.file.closetab.accesskey "s">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "CD uitwerpen na het importeren">

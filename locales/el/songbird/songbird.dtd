@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Επόμενο Κομμάτι">
 <!ENTITY umsd.video.video_path_browse_msg "Επιλέξτε τον κατάλογο στη συσκευή που θα τοποθετούνται τα αρχεία βίντεο.">
 <!ENTITY setupprogress.pleasewait "Παρακαλώ περιμένετε...">
-<!ENTITY menu.help.homepage "Ιστοσελίδα του Songbird">
+<!ENTITY menu.help.homepage "Ιστοσελίδα του &brandShortName;">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Μεγάλη Αίθουσα">
 <!ENTITY first_run.eula.accept_checkbox.label "Διάβασα και συμφώνησα με τους όρους αυτής της άδειας.">
@@ -595,7 +595,7 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Κομμάτι">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY about.credits.footer.afterLink "στο έργο Mozilla.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Αυτό θα επιτρέψει στο Songbird να ενθέσει τα εξώφυλλα σε συμβατές ετικέτες για τα αρχεία media.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Αυτό θα επιτρέψει στο &brandShortName; να ενθέσει τα εξώφυλλα σε συμβατές ετικέτες για τα αρχεία media.">
 <!ENTITY menu.control.rep1.accesskey "O">
 <!ENTITY hotkeys.add "Προσθήκη">
 <!ENTITY export_playlists_itunes_checkbox "Εξαγωγή λιστών αναπαραγωγής">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Σχετικά με το &brandShortName;...">
 <!ENTITY device.settings.general.label "Γενικά">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Εξαγωγή δίσκου (CD) μετά το τέλος της εγγραφής">

@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Наступна доріжка">
 <!ENTITY umsd.video.video_path_browse_msg "Оберіть каталог пристрою для відео-файлів.">
 <!ENTITY setupprogress.pleasewait "Будь ласка, зачекайте...">
-<!ENTITY menu.help.homepage "Веб-сайт Songbird">
+<!ENTITY menu.help.homepage "Веб-сайт &brandShortName;">
 <!ENTITY equalizer.preset.soft "М&apos;яко">
 <!ENTITY equalizer.preset.large_hall "Велике приміщення">
 <!ENTITY first_run.eula.accept_checkbox.label "Я прочитав і погодився з умовами цієї ліцензії.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "П">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Поточна версія прошивки:">
-<!ENTITY first_run.itunes.checkbox.export.description "Музика, придбана за допомогою Songbird, може бути експортована в iTunes, для подальшого перенесення на ваш iPod або iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "Музика, придбана за допомогою &brandShortName;, може бути експортована в iTunes, для подальшого перенесення на ваш iPod або iPhone.">
 <!ENTITY device.tools.update_firmware.label "Перевірити наявність оновлень прошивки">
 <!ENTITY device.info.icon.device "Загальна іконка пристроїв">
 <!ENTITY restartbox.restartlater "Перезапустити пізніше">
@@ -453,7 +453,7 @@
 <!ENTITY command.device.canceldevicecopy "Скасувати копіювання">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "Н">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Виберіть носій даних, яким &brandShortName; буде керувати:">
-<!ENTITY feedback.dialog.sentence4 "Команда Songbird">
+<!ENTITY feedback.dialog.sentence4 "Команда &brandShortName;">
 <!ENTITY smart.title "за назвою">
 <!ENTITY menu.tools.reveal "Показати файл">
 <!ENTITY menu.controllerontop "Показувати зверху">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Порівняти за такими умовами:">
 <!ENTITY importexport_show_notifications_checkbox "Показувати повідомлення, коли імпорт/експорт завершено">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Підкасти та музичні файли, куплені в магазині iTunes, можуть бути імпортовані в Songbird. Ця функція працює коректно, якщо в майбутньому ви збираєтеся використовувати Songbird в якості основного музичного плеєра.">
+<!ENTITY first_run.itunes.checkbox.import.description "Підкасти та музичні файли, куплені в магазині iTunes, можуть бути імпортовані в &brandShortName;. Ця функція працює коректно, якщо в майбутньому ви збираєтеся використовувати &brandShortName; в якості основного музичного плеєра.">
 <!ENTITY device.sync.images.foldername "Назва каталогу">
 <!ENTITY device.capacity.video.label "Відео">
 <!ENTITY menu.control.next.accesskey "Н">

@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "下一首歌">
 <!ENTITY umsd.video.video_path_browse_msg "選擇要放置視訊檔案的裝置目錄。">
 <!ENTITY setupprogress.pleasewait "請稍候...">
-<!ENTITY menu.help.homepage "Songbird 網站">
+<!ENTITY menu.help.homepage "&brandShortName; 網站">
 <!ENTITY equalizer.preset.soft "輕柔(Soft)">
 <!ENTITY equalizer.preset.large_hall "大廳(Large Hall)">
 <!ENTITY first_run.eula.accept_checkbox.label "我已經閱讀並同意這份授權合約的條款。">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "關於&brandShortName;...">
 <!ENTITY device.settings.general.label "一般">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "媒體管理已在Songbird 版本 1.10 被移除。">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "媒體管理已在&brandShortName; 版本 1.10 被移除。">
 <!ENTITY menu.file.closetab.accesskey "W">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "當CD抓取完畢時退出CD">

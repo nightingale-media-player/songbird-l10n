@@ -33,7 +33,7 @@
 <!ENTITY displaypane.default.image.pre "Wybierz dodatek z">
 <!ENTITY device.capacity.free.label "Puste">
 <!ENTITY playMediaCmd.accesskey "T">
-<!ENTITY hotkeys.info "Globalne skróty klawiszowe pozwalają na dostęp do funkcji Songbirda nawet jeśli nie jest on aktywnym programem. Aby uniknąć konfliktów z innymi programami, niektóre skróty muszą wykorzystywać dodatkowy klawisz zwany modyfikatorem.">
+<!ENTITY hotkeys.info "Globalne skróty klawiszowe pozwalają na dostęp do funkcji &brandShortName; nawet jeśli nie jest on aktywnym programem. Aby uniknąć konfliktów z innymi programami, niektóre skróty muszą wykorzystywać dodatkowy klawisz zwany modyfikatorem.">
 <!ENTITY device.capacity.music.label "Muzyka">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "D">
 <!ENTITY tooltip.browser.stop "Zatrzymaj">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Następny utwór">
 <!ENTITY umsd.video.video_path_browse_msg "Wybierz w urządzeniu folder, w którym umieścić pliki wideo.">
 <!ENTITY setupprogress.pleasewait "Proszę czekać…">
-<!ENTITY menu.help.homepage "Strona Songbirda">
+<!ENTITY menu.help.homepage "Strona &brandShortName;">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Duża hala">
 <!ENTITY first_run.eula.accept_checkbox.label "Akceptuję postanowienia tej licencji.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "P">
 <!ENTITY menu.help.bugz.accesskey "Z">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Aktualna wersja oprogramowania:">
-<!ENTITY first_run.itunes.checkbox.export.description "Muzyka uzyskana poprzez Songbirda może zostać wyeksportowana do iTunes, w celu wgrania jej na iPod&apos;a, albo iPhone&apos;a.">
+<!ENTITY first_run.itunes.checkbox.export.description "Muzyka uzyskana poprzez &brandShortName; może zostać wyeksportowana do iTunes, w celu wgrania jej na iPod&apos;a, albo iPhone&apos;a.">
 <!ENTITY device.tools.update_firmware.label "Sprawdź dostępność aktualizacji">
 <!ENTITY device.info.icon.device "Standardowa ikona urządzenia">
 <!ENTITY restartbox.restartlater "Uruchom ponownie później">
@@ -428,7 +428,7 @@
 <!ENTITY device.dialog.wait_for_completion.quit "Zakończ">
 <!ENTITY tooltip.browser.mediapages.list "Widok Listy">
 <!ENTITY rapi.library_read_disable.label "Blokuj stronom możliwość sprawdzania informacji o utworach w bibliotece i urządzeniach">
-<!ENTITY feedback.dialog.sentence1 "Czy pomożesz nam rozwijać Songbirda wypełniając krótką, anonimową ankietę?">
+<!ENTITY feedback.dialog.sentence1 "Czy pomożesz nam rozwijać &brandShortName; wypełniając krótką, anonimową ankietę?">
 <!ENTITY feed.subscribe.label "Subskrybuj">
 <!ENTITY tooltip.servicepane.show "Wyświetl panel serwisowy">
 <!ENTITY tooltip.control.stop "Zatrzymaj">
@@ -453,7 +453,7 @@
 <!ENTITY command.device.canceldevicecopy "Anuluj kopiowanie">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "N">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Wybierz media którymi &brandShortName; ma zarządzać:">
-<!ENTITY feedback.dialog.sentence4 "Zespół Songbirda">
+<!ENTITY feedback.dialog.sentence4 "Zespół &brandShortName;">
 <!ENTITY smart.title "tytuł">
 <!ENTITY menu.tools.reveal "Wyświetl wybrany plik">
 <!ENTITY menu.controllerontop "Wyświetl na górze">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Porównaj następujące warunki:">
 <!ENTITY importexport_show_notifications_checkbox "Wyświetlaj komunikat o zakończeniu importowania/eksportowania">
 <!ENTITY cdrip.mediaview.eject.key "W">
-<!ENTITY first_run.itunes.checkbox.import.description "Podcasty i muzyka zakupiona przez iTunes może być zaimportowana do Songbirda. Ta funkcja działa znakomicie jeżeli Songbird jest używany jako główny odtwarzacz muzyki.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasty i muzyka zakupiona przez iTunes może być zaimportowana do &brandShortName;. Ta funkcja działa znakomicie jeżeli &brandShortName; jest używany jako główny odtwarzacz muzyki.">
 <!ENTITY device.sync.images.foldername "Nazwa folderu">
 <!ENTITY device.capacity.video.label "Wideo">
 <!ENTITY menu.control.next.accesskey "N">
@@ -588,14 +588,14 @@
 <!ENTITY window.browser.titledefault "">
 <!ENTITY subscribe.url "URL:">
 <!ENTITY smart.to "Do">
-<!ENTITY rapi.prefpane.access.text "Aby lepiej powiązać sieć i twoje utwory, możesz zezwolić stronom na integrację z programem &brandShortName;. Skonfiguruj Songbirda tak, by zezwolić lub zabronić integracji w następujących obszarach.">
+<!ENTITY rapi.prefpane.access.text "Aby lepiej powiązać sieć i twoje utwory, możesz zezwolić stronom na integrację z programem &brandShortName;. Skonfiguruj &brandShortName; tak, by zezwolić lub zabronić integracji w następujących obszarach.">
 <!ENTITY equalizer.preset.ska "Ska">
 <!ENTITY tooltip.servicepane.collapse "Zamknij panel serwisowy">
 <!ENTITY podcast.creation_dialog.title "Nowy podcast">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Utwór">
 <!ENTITY menu.errorconsole.accesskey "K">
 <!ENTITY about.credits.footer.afterLink "projektu Mozilla.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Pozwoli to Songbirdowi na dołączanie okładek płyt do plików mediów jako odpowiednie etykietki.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Pozwoli to &brandShortName; na dołączanie okładek płyt do plików mediów jako odpowiednie etykietki.">
 <!ENTITY menu.control.rep1.accesskey "U">
 <!ENTITY hotkeys.add "Dodaj">
 <!ENTITY export_playlists_itunes_checkbox "Eksportuj listy odtwarzania">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "B">
 <!ENTITY menu.help.about "O programie &brandShortName;…">
 <!ENTITY device.settings.general.label "Ogólne">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "M">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Po zakończeniu zgrywania wysuń dysk CD">
@@ -650,7 +650,7 @@
 <!ENTITY import_library.dirty_playlist_dialog.merge "Połącz bieżącą listę odtwarzania programu &brandShortName; z listą odtwarzania iTunes">
 <!ENTITY import_tracks_itunes_checkbox "Importuj utwory z iTunes">
 <!ENTITY first_run.welcome.header.label "Witaj w programie &brandShortName;">
-<!ENTITY feedback.dialog.title "Pomóż nam stworzyć lepszego Songbirda!">
+<!ENTITY feedback.dialog.title "Pomóż nam stworzyć lepszego &brandShortName;!">
 <!ENTITY window.yes "Tak">
 <!ENTITY subscribeMediaPageCmd.label "Subskrybuj stronę…">
 <!ENTITY menu.file.new.key "N">

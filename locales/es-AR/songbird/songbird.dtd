@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Pista Siguiente">
 <!ENTITY umsd.video.video_path_browse_msg "Seleccione la carpeta del dispositivo en la cual colocará los archivos de video.">
 <!ENTITY setupprogress.pleasewait "Por favor espera...">
-<!ENTITY menu.help.homepage "Sitio Web de Songbird">
+<!ENTITY menu.help.homepage "Sitio Web de &brandShortName;">
 <!ENTITY equalizer.preset.soft "Liviano">
 <!ENTITY equalizer.preset.large_hall "Hall Largo">
 <!ENTITY first_run.eula.accept_checkbox.label "He leido y aceptado los terminos de la licencia.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "B">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Versión actual del firmware:">
-<!ENTITY first_run.itunes.checkbox.export.description "La musica obtenida a traves de Songbird, se puede exportar a iTunes y asi poder ser transferida a tu iPod o iPhone">
+<!ENTITY first_run.itunes.checkbox.export.description "La musica obtenida a traves de &brandShortName;, se puede exportar a iTunes y asi poder ser transferida a tu iPod o iPhone">
 <!ENTITY device.tools.update_firmware.label "Buscar Firmware actualizado">
 <!ENTITY device.info.icon.device "Icono de dispositivo genérico">
 <!ENTITY restartbox.restartlater "Reiniciar Mas Tarde">
@@ -427,7 +427,7 @@
 <!ENTITY device.progress.sync "Sincronizar">
 <!ENTITY device.dialog.wait_for_completion.quit "Salir">
 <!ENTITY tooltip.browser.mediapages.list "Vista de Lista">
-<!ENTITY rapi.library_read_disable.label "Bloquear el acceso a información de los medios en tu Songbird">
+<!ENTITY rapi.library_read_disable.label "Bloquear el acceso a información de los medios en tu &brandShortName;">
 <!ENTITY feedback.dialog.sentence1 "Nos ayudarias a mejorar &brandShortName; completando una rapida encuesta anónima?">
 <!ENTITY feed.subscribe.label "Suscribir">
 <!ENTITY tooltip.servicepane.show "Mostrar Panel de Servicio">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Coincidir la siguiente condicion:">
 <!ENTITY importexport_show_notifications_checkbox "Mostrar notificaciones cuando la importación / exportación se haya completado">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "La música y los podcasts adquiridos con iTunes Store se pueden importar en Songbird. Esta opción es buena si Songbird va a ser tu reproductor de música primario.">
+<!ENTITY first_run.itunes.checkbox.import.description "La música y los podcasts adquiridos con iTunes Store se pueden importar en &brandShortName;. Esta opción es buena si &brandShortName; va a ser tu reproductor de música primario.">
 <!ENTITY device.sync.images.foldername "Nombre del directorio">
 <!ENTITY device.capacity.video.label "Vídeo">
 <!ENTITY menu.control.next.accesskey "N">
@@ -595,7 +595,7 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Tema">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY about.credits.footer.afterLink "al proyecto Mozilla.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Esto permitira a Songbird relacionar las carátulas de álbum con etiquetas, a los archivos de medios.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Esto permitira a &brandShortName; relacionar las carátulas de álbum con etiquetas, a los archivos de medios.">
 <!ENTITY menu.control.rep1.accesskey "O">
 <!ENTITY hotkeys.add "Agregar">
 <!ENTITY export_playlists_itunes_checkbox "Exportar listas de reproducción">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Acerca de &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Gestión de Medios ha sido eliminado de Songbird desde la versión 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Gestión de Medios ha sido eliminado de &brandShortName; desde la versión 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Cuando el CD Rip se haya completado saldrá el CD">

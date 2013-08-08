@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Seuraava kappale">
 <!ENTITY umsd.video.video_path_browse_msg "Valitse laitteen hakemisto, johon videotiedostot sijoitetaan.">
 <!ENTITY setupprogress.pleasewait "Odota...">
-<!ENTITY menu.help.homepage "Songbirdin kotisivu">
+<!ENTITY menu.help.homepage "&brandShortName; kotisivu">
 <!ENTITY equalizer.preset.soft "Pehmeä">
 <!ENTITY equalizer.preset.large_hall "Iso halli">
 <!ENTITY first_run.eula.accept_checkbox.label "Olen lukenut ja hyväksyn nämä käyttöoikeusehdot.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Tietoja kohteesta &brandShortName;...">
 <!ENTITY device.settings.general.label "Yleisasetukset">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Medianhallinta on poistettu Songbirdistä versiosta 1.10. lähtien.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Medianhallinta on poistettu &brandShortName; versiosta 1.10. lähtien.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Avaa CD-asema kopioinnin päätyttyä">

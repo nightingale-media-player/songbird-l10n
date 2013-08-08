@@ -44,7 +44,7 @@
 <!ENTITY device.progress.sync "Сынхранізаванне">
 <!ENTITY tooltip.control.resume "Працягнуць">
 <!ENTITY setupprogress.installingextensions "Усталёўка дадаткаў">
-<!ENTITY recommended_add_ons.title "Усталёўка Songbird">
+<!ENTITY recommended_add_ons.title "Усталёўка &brandShortName;">
 <!ENTITY menu.file.metadata "View Metadata...">
 <!ENTITY menu.extensions.accesskey "A">
 <!ENTITY equalizer.band7.label "4K">
@@ -115,7 +115,7 @@
 <!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
 <!ENTITY cdrip.mediaview.eject_cd_button "Выняць CD">
 <!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY menu.mac.hide "Схаваць Songbird">
+<!ENTITY menu.mac.hide "Схаваць &brandShortName;">
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
 <!ENTITY cdrip.mediaview.view_tracks_button "View Tracks">
 <!ENTITY albumart.coverpreview.title "Вокладка альбому">
@@ -140,7 +140,7 @@
 <!ENTITY search.key "F">
 <!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.hideothers.modifiers "accel,alt">
-<!ENTITY first_run.title "Усталёўка Songbird">
+<!ENTITY first_run.title "Усталёўка &brandShortName;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY device.tools.format_device.label "Format device">
@@ -186,7 +186,7 @@
 <!ENTITY cdrip.lookup.info_not_found.album "Album">
 <!ENTITY equalizer.on.checkbox "On">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
-<!ENTITY mediapages.firstrun.title "Ласкава запрашаем у Songbird">
+<!ENTITY mediapages.firstrun.title "Ласкава запрашаем у &brandShortName;">
 <!ENTITY smart.gb "Гб">
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY menu.switchplayercontrols "Player Controls">
@@ -248,7 +248,7 @@
 <!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
 <!ENTITY tooltip.browser.mediapages.list "List View">
 <!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY menu.help.about "Пра Songbird...">
+<!ENTITY menu.help.about "Пра &brandShortName;...">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
 <!ENTITY cdrip.mediaview.settings_button "Settings">
 <!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
@@ -385,7 +385,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.pause.button "Прыпыніць">
 <!ENTITY first_run.import_media.description "Select what media you&apos;d like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
 <!ENTITY mediacore.error.stop "Stop Playback">
-<!ENTITY feedback.dialog.title "Дапамажыце зрабіць Songbird лепей!">
+<!ENTITY feedback.dialog.title "Дапамажыце зрабіць &brandShortName; лепей!">
 <!ENTITY import_library.dirty_playlist_dialog.keep "Keep the current &brandShortName; playlist (Do not import this playlist)">
 <!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
 <!ENTITY trackeditor.prev.accesskey "P">
@@ -437,7 +437,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
 <!ENTITY window.save "Захаваць">
-<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY umsd.video.video_ext_desc "Капіяваць відэя файлы з наступнымі пашырэннямі да прыстасавання:">
 <!ENTITY smart.hours "гадзін">
 <!ENTITY menu.tools.accesskey "T">
@@ -455,7 +455,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY umsd.video.video_path_desc "When copying video files to the device, place them within the following directory:">
 <!ENTITY tooltip.control.stop "Спыніць">
 <!ENTITY tabs.closeTab "Зачыніць устаўку">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY tooltip.close "Close">
 <!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
 <!ENTITY menu.tools.reveal.accesskey "F">
@@ -478,14 +478,14 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY feedback.dialog.yes "Так">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY equalizer.band0.label "32">
-<!ENTITY first_run.welcome.description.line1 "Songbird - багата пашыраемая альтэрнатыва традыцыйным мэдыя прайгравальнікам.">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; - багата пашыраемая альтэрнатыва традыцыйным мэдыя прайгравальнікам.">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY tooltip.browser.refresh "Аднавіць">
 <!ENTITY tooltip.browser.fwd "Наперад">
 <!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback">
 <!ENTITY playMediaCmd.label "Граць">
 <!ENTITY menu.control.play "Граць">
-<!ENTITY import_library.dirty_playlist_dialog.replace "Замяніць спіс Songbird на бягучы спіс з iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Замяніць спіс &brandShortName; на бягучы спіс з iTunes">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
 <!ENTITY cdrip.lookup.info_not_found.artist "Artist">
 <!ENTITY device.sync.sync_all.label "Sync all media and playlists">
@@ -508,7 +508,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY command.device.canceldevicesync "Скасаваць сынхранізыцыю">
 <!ENTITY tooltip.control.volume "Гучнасць">
 <!ENTITY playqueue.inprogress "Adding tracks">
-<!ENTITY menu.mac.exit "Завяршыць працу Songbird">
+<!ENTITY menu.mac.exit "Завяршыць працу &brandShortName;">
 <!ENTITY equalizer.key "E">
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY command.device.getdeviceinfo "Атрымаць звесткі">
@@ -526,7 +526,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.itunes.header.label "iTunes Import/Export">
 <!ENTITY command.device.canceldevicecopy.accesskey "С">
 <!ENTITY menu.linux.preferences.accesskey "N">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY menu.file.scan.accesskey "M">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Уверх">
 <!ENTITY import_library.library_file_label "Файл бібліятэкі:">
@@ -619,7 +619,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.file.accesskey "F">
 <!ENTITY menu.edit.find "Знайсьці">
 <!ENTITY albumart.displaypane.contextmenu.showselected "Show Now Selected">
-<!ENTITY first_run.welcome.header.label "Ласкава запрашаем у Songbird">
+<!ENTITY first_run.welcome.header.label "Ласкава запрашаем у &brandShortName;">
 <!ENTITY wizard.button.finish.label "Завяршыць">
 <!ENTITY window.cancel "Скасаваць">
 <!ENTITY tooltip.fullscreen "Ва ўвесь экран">
@@ -645,7 +645,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY feed.subscribe.label "Subscribe">
 <!ENTITY device.settings.disk.management.label "Customize directory structure">
 <!ENTITY device.info.icon.readonly "Read-only lock icon">
-<!ENTITY feedback.dialog.sentence4 "каманда Songbird">
+<!ENTITY feedback.dialog.sentence4 "каманда &brandShortName;">
 <!ENTITY smart.random "выпадкова">
 <!ENTITY open_url.title "Адкрыць спасылку">
 <!ENTITY addMediaToPlaylistCmd.label "Сцягнуць да спісу">

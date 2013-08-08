@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Lagu Selanjutnya">
 <!ENTITY umsd.video.video_path_browse_msg "Pilih direktori pada perangkat untuk lokasi menyimpan berkas video.">
 <!ENTITY setupprogress.pleasewait "Silakan menunggu...">
-<!ENTITY menu.help.homepage "Website Songbird">
+<!ENTITY menu.help.homepage "Website &brandShortName;">
 <!ENTITY equalizer.preset.soft "Lembut">
 <!ENTITY equalizer.preset.large_hall "Gedung Besar">
 <!ENTITY first_run.eula.accept_checkbox.label "Saya telah membaca dan menyetujui persyaratan lisensi ini.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "B">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware versi:">
-<!ENTITY first_run.itunes.checkbox.export.description "Musik yang diambil melalui Songbird dapat diekspor ke iTunes sehingga dapat ditransfer ke iPod atau iPhone anda.">
+<!ENTITY first_run.itunes.checkbox.export.description "Musik yang diambil melalui &brandShortName; dapat diekspor ke iTunes sehingga dapat ditransfer ke iPod atau iPhone anda.">
 <!ENTITY device.tools.update_firmware.label "Periksa firmware terbaru">
 <!ENTITY device.info.icon.device "Ikon perangkat generik">
 <!ENTITY restartbox.restartlater "Restart Nanti">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Cocok dengan berikut:">
 <!ENTITY importexport_show_notifications_checkbox "Tampilkan pemberitahuan ketika impor/ekspor selesai">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Podcast dan musik yang dibeli dari iTunes Store dapat diimpor ke Songbird. Fitur ini berjalan dengan baik jika Songbird adalah program pemutar musik utama Anda.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcast dan musik yang dibeli dari iTunes Store dapat diimpor ke &brandShortName;. Fitur ini berjalan dengan baik jika &brandShortName; adalah program pemutar musik utama Anda.">
 <!ENTITY device.sync.images.foldername "Nama Folder">
 <!ENTITY device.capacity.video.label "Video">
 <!ENTITY menu.control.next.accesskey "N">
@@ -595,7 +595,7 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Lagu">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY about.credits.footer.afterLink "ke proyek Mozilla.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Songbird akan menggabungkan artwork pada tag yang kompatibel dengan berkas media.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "&brandShortName; akan menggabungkan artwork pada tag yang kompatibel dengan berkas media.">
 <!ENTITY menu.control.rep1.accesskey "O">
 <!ENTITY hotkeys.add "Tambah">
 <!ENTITY export_playlists_itunes_checkbox "Ekspor daftar putar">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Tentang &brandShortName;...">
 <!ENTITY device.settings.general.label "Umum">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Setelah selesai diekstraksi, keluarkan CD">

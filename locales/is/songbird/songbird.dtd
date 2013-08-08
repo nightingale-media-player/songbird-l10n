@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Næsta lag">
 <!ENTITY umsd.video.video_path_browse_msg "Veldu möppu í tækinu þar sem setja á myndbandaskrár.">
 <!ENTITY setupprogress.pleasewait "Vinsamlegast hinkraðu...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Rólegt">
 <!ENTITY equalizer.preset.large_hall "Stór salur">
 <!ENTITY first_run.eula.accept_checkbox.label "Ég hef lesið og samþykkt skilmála þessara höfundalaga.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "S">
 <!ENTITY menu.help.bugz.accesskey "g">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Núverandi útgáfa fastbúnaðar:">
-<!ENTITY first_run.itunes.checkbox.export.description "Tónlist sem er fengin í gegnum Songbird er hægt að flytja út í iTunes þannig að hægt sé að flytja þá tónlist í iPod eða iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "Tónlist sem er fengin í gegnum &brandShortName; er hægt að flytja út í iTunes þannig að hægt sé að flytja þá tónlist í iPod eða iPhone.">
 <!ENTITY device.tools.update_firmware.label "Athuga nýjar útgáfur fastbúnaðar">
 <!ENTITY device.info.icon.device "Almennt tækistákn">
 <!ENTITY restartbox.restartlater "Endurræsa síðar">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Passar við eftirfarandi skilyrði:">
 <!ENTITY importexport_show_notifications_checkbox "Sýna upplýsingar þegar innflutningi/útflutningi er lokið.">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Hlaðvörp og tónlist sem er keypt frá iTunes búðinni er hægt að flytja inn í Songbird. Þessi eiginleiki virkar vel ef Songbird mun verða notaður sem þinn aðaltónlistarspilari.">
+<!ENTITY first_run.itunes.checkbox.import.description "Hlaðvörp og tónlist sem er keypt frá iTunes búðinni er hægt að flytja inn í &brandShortName;. Þessi eiginleiki virkar vel ef &brandShortName; mun verða notaður sem þinn aðaltónlistarspilari.">
 <!ENTITY device.sync.images.foldername "Folder Name">
 <!ENTITY device.capacity.video.label "Myndskeið">
 <!ENTITY menu.control.next.accesskey "N">
@@ -595,7 +595,7 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Lag">
 <!ENTITY menu.errorconsole.accesskey "V">
 <!ENTITY about.credits.footer.afterLink "til Mozilla-verkefnisins.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Þetta leyfir Songbird að geyma plötuumslag í gögnum fyrir margmiðlunarskrár">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Þetta leyfir &brandShortName; að geyma plötuumslag í gögnum fyrir margmiðlunarskrár">
 <!ENTITY menu.control.rep1.accesskey "R">
 <!ENTITY hotkeys.add "Bæta">
 <!ENTITY export_playlists_itunes_checkbox "Flytja út lagalista">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "p">
 <!ENTITY menu.help.about "Um &brandShortName;...">
 <!ENTITY device.settings.general.label "Almennt">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "L">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Þegar afritun á geisladisk er lokið ýta þá geisladisk út">

@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Naslednji posnetek">
 <!ENTITY umsd.video.video_path_browse_msg "Izberi mapo na napravi, kamor naj se namestijo video datoteke.">
 <!ENTITY setupprogress.pleasewait "Prosimo, počakajte ...">
-<!ENTITY menu.help.homepage "Spletno mesto Songbird">
+<!ENTITY menu.help.homepage "Spletno mesto &brandShortName;">
 <!ENTITY equalizer.preset.soft "Mehko">
 <!ENTITY equalizer.preset.large_hall "Velika dvorana">
 <!ENTITY first_run.eula.accept_checkbox.label "Pogoje te licence razumem in se z njimi strinjam.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "N">
 <!ENTITY menu.help.about "O programu &brandShortName; ...">
 <!ENTITY device.settings.general.label "Splošno">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Z različico 1.10 je bilo iz Songbirda odpravljeno upravljanje z mediji.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Z različico 1.10 je bilo iz &brandShortName; odpravljeno upravljanje z mediji.">
 <!ENTITY menu.file.closetab.accesskey "Z">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Ko je paranje zgoščenke dokončano, jo izvrzi">

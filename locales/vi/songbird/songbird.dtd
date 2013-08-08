@@ -33,7 +33,7 @@
 <!ENTITY displaypane.default.image.pre "Chọn một tiện ích từ">
 <!ENTITY device.capacity.free.label "Còn trống">
 <!ENTITY playMediaCmd.accesskey "p">
-<!ENTITY hotkeys.info "Phím Tắt Chung cho phép bạn sử dụng các chức năng của Songbird ngay cả khi Songbird không phải là chương trình đang được chọn. Một số Phím Tắt phải có phím điều chỉnh để không ảnh hưởng đến các chương trình khác.">
+<!ENTITY hotkeys.info "Phím Tắt Chung cho phép bạn sử dụng các chức năng của &brandShortName; ngay cả khi &brandShortName; không phải là chương trình đang được chọn. Một số Phím Tắt phải có phím điều chỉnh để không ảnh hưởng đến các chương trình khác.">
 <!ENTITY device.capacity.music.label "Nhạc">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
 <!ENTITY tooltip.browser.stop "Ngừng trình duyệt">
@@ -42,7 +42,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "Cắt">
 <!ENTITY cdrip.prefpane.providers.title "Nhà cung cấp Tra cứu CD">
 <!ENTITY subscribe.title "Đăng kí">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "Xây dựng danh sách nhạc thông minh">
 <!ENTITY openImageCmdInDefaultBrowser.label "Mở ảnh bằng trình duyệt Web mặc định">
 <!ENTITY menu.help.about.accesskey "A">
@@ -116,7 +116,7 @@
 <!ENTITY smart.following "Với (các) điều kiện sau:">
 <!ENTITY menu.mac.exit.modifiers "accel">
 <!ENTITY device.settings.disk.management.filename "Tập tin nhạc">
-<!ENTITY about.credits.description.champs.link.post "Họ là những người bạn năng nổ nhất của chúng tối, và làm việc không mệt mỏi để đảm bảo rằng tất cả những người dùng Songbird đều là những người dùng Songbird hạnh phúc">
+<!ENTITY about.credits.description.champs.link.post "Họ là những người bạn năng nổ nhất của chúng tối, và làm việc không mệt mỏi để đảm bảo rằng tất cả những người dùng Songbird đều là những người dùng  hạnh phúc">
 <!ENTITY mediapage.next.key "S">
 <!ENTITY device.management.tabs.video.label "Video">
 <!ENTITY albumartpreferences.prefpane.priorities.down "Xuống">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Bài hát tiếp theo">
 <!ENTITY umsd.video.video_path_browse_msg "Lựa chọn thư mục chứa các file video cho thiết bị.">
 <!ENTITY setupprogress.pleasewait "Xin hãy đợi...">
-<!ENTITY menu.help.homepage "Website Songbird">
+<!ENTITY menu.help.homepage "Website &brandShortName;">
 <!ENTITY equalizer.preset.soft "Nhẹ">
 <!ENTITY equalizer.preset.large_hall "Sảnh lớn">
 <!ENTITY first_run.eula.accept_checkbox.label "Tôi đã đọc và chấp thuận các điều khoản bản quyền này.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "B">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Phiên bản firmware hiện tại:">
-<!ENTITY first_run.itunes.checkbox.export.description "Nhạc lấy từ Songbird có thể được xuất sang iTunes để có thể chuyển san iPod hoặc iPhone của bạn.">
+<!ENTITY first_run.itunes.checkbox.export.description "Nhạc lấy từ &brandShortName; có thể được xuất sang iTunes để có thể chuyển san iPod hoặc iPhone của bạn.">
 <!ENTITY device.tools.update_firmware.label "Kiểm tra cập nhật firmware">
 <!ENTITY device.info.icon.device "Biểu tượng Thiết bị (nói chung)">
 <!ENTITY restartbox.restartlater "Khởi động lại sau">
@@ -427,7 +427,7 @@
 <!ENTITY device.progress.sync "Đồng bộ">
 <!ENTITY device.dialog.wait_for_completion.quit "Thoát">
 <!ENTITY tooltip.browser.mediapages.list "Hiển thi danh sách">
-<!ENTITY rapi.library_read_disable.label "Ngăn chặn không cho Website thấy thông tin về các file giải trí trong Songbird">
+<!ENTITY rapi.library_read_disable.label "Ngăn chặn không cho Website thấy thông tin về các file giải trí trong &brandShortName;">
 <!ENTITY feedback.dialog.sentence1 "Bạn có muốn giúp  &brandShortName; tốt hơn bằng cách tham gia một cuộc khảo sát ẩn danh nhanh?">
 <!ENTITY feed.subscribe.label "Đang kí">
 <!ENTITY tooltip.servicepane.show "Hiện Bảng dịch vụ">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Khớp điều kiện sau:">
 <!ENTITY importexport_show_notifications_checkbox "Nhắc nhở khi quá trình nhập/xuất hoàn tất">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Podcasts và nhạc mua từ iTunes Store có thể được nhập vào Songbird. Chức năng này làm việc tốt nếu Songbird là trình chơi nhạc chính của bạn.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts và nhạc mua từ iTunes Store có thể được nhập vào &brandShortName;. Chức năng này làm việc tốt nếu &brandShortName; là trình chơi nhạc chính của bạn.">
 <!ENTITY device.sync.images.foldername "Tên thư mục">
 <!ENTITY device.capacity.video.label "Video">
 <!ENTITY menu.control.next.accesskey "N">
@@ -588,23 +588,23 @@
 <!ENTITY window.browser.titledefault "">
 <!ENTITY subscribe.url "URL:">
 <!ENTITY smart.to "với">
-<!ENTITY rapi.prefpane.access.text "Bạn có thể cho phép các trang Web kết hợp với Songbird để tạo ra một sự liên kết chặt chẽ hơn giữa Web với các file giải trí của bạn. Hãy tinh chỉnh Songbird để cho phép hoặc ngăn chặn sự hoạt động của các trang Web tại các điểm liên kết sau.">
+<!ENTITY rapi.prefpane.access.text "Bạn có thể cho phép các trang Web kết hợp với &brandShortName; để tạo ra một sự liên kết chặt chẽ hơn giữa Web với các file giải trí của bạn. Hãy tinh chỉnh &brandShortName; để cho phép hoặc ngăn chặn sự hoạt động của các trang Web tại các điểm liên kết sau.">
 <!ENTITY equalizer.preset.ska "Ska">
 <!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
 <!ENTITY podcast.creation_dialog.title "Pod cast mới">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Bài">
 <!ENTITY menu.errorconsole.accesskey "T">
 <!ENTITY about.credits.footer.afterLink "đến dự án Mozilla.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Cho phép Songbird chép hình album vào những thẻ thích hợp của các file đa phương tiện.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Cho phép &brandShortName; chép hình album vào những thẻ thích hợp của các file đa phương tiện.">
 <!ENTITY menu.control.rep1.accesskey "O">
 <!ENTITY hotkeys.add "Thêm">
 <!ENTITY export_playlists_itunes_checkbox "Xuất danh sách nhạc">
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Tự động kiểm tra firmware mới">
 <!ENTITY smart.least_recent "cách hiện tại xa nhất">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Về Songbird...">
+<!ENTITY menu.help.about "Về &brandShortName;...">
 <!ENTITY device.settings.general.label "Chung">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Khi rip xong CD, nhả CD ra.">

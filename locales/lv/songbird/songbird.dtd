@@ -275,7 +275,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.next "Nākamais celiņš">
 <!ENTITY umsd.video.video_path_browse_msg "Izvēlies ierīces mapi, kurā ievietot video failus.">
 <!ENTITY setupprogress.pleasewait "Lūdzu uzgaidiet...">
-<!ENTITY menu.help.homepage "Songbird Tīmekļa Vietne">
+<!ENTITY menu.help.homepage "&brandShortName; Tīmekļa Vietne">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
 <!ENTITY first_run.eula.accept_checkbox.label "Esmu izlasījis un piekrītu licences noteikumiem.">
@@ -430,13 +430,13 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.dialog.wait_for_completion.quit "Iziet">
 <!ENTITY tooltip.browser.mediapages.list "List View">
 <!ENTITY rapi.library_read_disable.label "Block websites from viewing information about media in my Library and devices">
-<!ENTITY feedback.dialog.sentence1 "Vai vēlaties palūdzēt uzlabot Songbird, piedaloties nelielā, anonīmā aptaujā?">
+<!ENTITY feedback.dialog.sentence1 "Vai vēlaties palūdzēt uzlabot &brandShortName;, piedaloties nelielā, anonīmā aptaujā?">
 <!ENTITY feed.subscribe.label "Subscribe">
 <!ENTITY tooltip.servicepane.show "Rādīt servisa rūti">
 <!ENTITY tooltip.control.stop "Apturēt">
 <!ENTITY menu.file.remote "Jauns pieraksts...">
 <!ENTITY menu.file.podcast "New Podcast...">
-<!ENTITY feedback.dialog.sentence2 "Ja jums tas neinteresē, mēs vairs jums to nepiedāvāsim. Paldies, ka apsvērāt, un mēs priecājamies, ka lietojat Songbird.">
+<!ENTITY feedback.dialog.sentence2 "Ja jums tas neinteresē, mēs vairs jums to nepiedāvāsim. Paldies, ka apsvērāt, un mēs priecājamies, ka lietojat &brandShortName;.">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
 <!ENTITY menu.edit "Rediģēt">
@@ -455,7 +455,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY command.device.canceldevicecopy "Atcelt kopēšanu">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
-<!ENTITY feedback.dialog.sentence4 "Songbird komanda">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; komanda">
 <!ENTITY smart.title "nosaukums">
 <!ENTITY menu.tools.reveal "Parādīt failu">
 <!ENTITY menu.controllerontop "Rādīt augšā">
@@ -606,7 +606,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Par &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
@@ -652,7 +652,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY import_library.dirty_playlist_dialog.merge "Merge the current &brandShortName; and iTunes playlists">
 <!ENTITY import_tracks_itunes_checkbox "Importēt dziesmas no iTunes">
 <!ENTITY first_run.welcome.header.label "Laipni lūdzam &brandShortName;">
-<!ENTITY feedback.dialog.title "Palīdziet uzlabot Songbird!">
+<!ENTITY feedback.dialog.title "Palīdziet uzlabot &brandShortName;!">
 <!ENTITY window.yes "Jā">
 <!ENTITY subscribeMediaPageCmd.label "Parakstīties uz šo lapu...">
 <!ENTITY menu.file.new.key "N">

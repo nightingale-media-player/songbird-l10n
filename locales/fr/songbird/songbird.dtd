@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Piste suivante">
 <!ENTITY umsd.video.video_path_browse_msg "Sélectionnez le dossier dans lequel vous voulez placer les fichiers vidéo.">
 <!ENTITY setupprogress.pleasewait "Merci de patienter...">
-<!ENTITY menu.help.homepage "Site Web de Songbird">
+<!ENTITY menu.help.homepage "Site Web de &brandShortName;">
 <!ENTITY equalizer.preset.soft "Doux">
 <!ENTITY equalizer.preset.large_hall "Grande salle">
 <!ENTITY first_run.eula.accept_checkbox.label "J&apos;ai lu et j&apos;accepte les termes de cette licence.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "p">
 <!ENTITY menu.help.about "À propos de &brandShortName;...">
 <!ENTITY device.settings.general.label "Général">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Le gestionnaire de médias a été désactivé depuis Songbird 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Le gestionnaire de médias a été désactivé depuis &brandShortName; 1.10.">
 <!ENTITY menu.file.closetab.accesskey "m">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Quand l&apos;extraction des pistes est terminée, éjecter le CD">

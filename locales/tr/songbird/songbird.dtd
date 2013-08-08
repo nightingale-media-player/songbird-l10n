@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Sonraki Parça">
 <!ENTITY umsd.video.video_path_browse_msg "Video dosyalarının yerleştireceği aygıt klasörünü seçin.">
 <!ENTITY setupprogress.pleasewait "Lütfen bekleyin...">
-<!ENTITY menu.help.homepage "Songbird Sitesi">
+<!ENTITY menu.help.homepage "&brandShortName; Sitesi">
 <!ENTITY equalizer.preset.soft "Yumuşak">
 <!ENTITY equalizer.preset.large_hall "Büyük Hol">
 <!ENTITY first_run.eula.accept_checkbox.label "Lisans anlaşmasının maddelerini okudum ve kabul ediyorum.">

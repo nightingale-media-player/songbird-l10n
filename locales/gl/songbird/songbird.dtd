@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Pista Seguinte">
 <!ENTITY umsd.video.video_path_browse_msg "Selecciona o cartafol do dispositivo no que se colocarán os ficheiros de vídeo.">
 <!ENTITY setupprogress.pleasewait "Espera...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Suave">
 <!ENTITY equalizer.preset.large_hall "Gran Auditorio">
 <!ENTITY first_run.eula.accept_checkbox.label "Lin e acepto os termos desta licenza.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Acerca de &brandShortName;...">
 <!ENTITY device.settings.general.label "Xeral">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Expulsar o CD cando remate o Ripado">

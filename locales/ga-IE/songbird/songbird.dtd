@@ -44,7 +44,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY albumart.displaypane.selected.menu.cut "Gearr">
 <!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
 <!ENTITY subscribe.title "Liostáil">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "Cruthaitheoir Seinnréim Chliste">
 <!ENTITY openImageCmdInDefaultBrowser.label "Oscail an Íomhá Sa Líonléitheoir Réamhshocraithe">
 <!ENTITY menu.help.about.accesskey "A">
@@ -183,7 +183,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY smart.genre "aicme">
 <!ENTITY menu.file.playlist.accesskey "I">
 <!ENTITY hotkeys.hotkey "Aicearra">
-<!ENTITY first_run.feedback.header.label "Cuidigh Linn Songbird A Fheabhsú">
+<!ENTITY first_run.feedback.header.label "Cuidigh Linn &brandShortName; A Fheabhsú">
 <!ENTITY menu.edit.selall.accesskey "A">
 <!ENTITY export_smartplaylists_itunes_checkbox "Export music smart playlists">
 <!ENTITY device.tools.support.label "Féach ar acmhainní tacaíochta">
@@ -275,7 +275,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.next "An Rian Ar Aghaidh">
 <!ENTITY umsd.video.video_path_browse_msg "Roghnaigh an chomhadlann chun comhaid físeáin a chur ann.">
 <!ENTITY setupprogress.pleasewait "Fan le do thoil...">
-<!ENTITY menu.help.homepage "Láithreán Gréasáin Songbird">
+<!ENTITY menu.help.homepage "Láithreán Gréasáin &brandShortName;">
 <!ENTITY equalizer.preset.soft "Bog">
 <!ENTITY equalizer.preset.large_hall "Halla Mór">
 <!ENTITY first_run.eula.accept_checkbox.label "Léigh mé agus ghlac mé leis na coinníollacha a bhaineann leis an ceadúnas seo.">
@@ -415,7 +415,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY displaypane.name.servicepane "Service Pane Bottom">
 <!ENTITY menu.clearprivatedata "Glan na Sonraí Caonda...">
 <!ENTITY window.ok "Tá go maith">
-<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Aimsigh">
 <!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
 <!ENTITY menu.updateCmd.label "Téigh ar thóir Nuashonruithe...">
@@ -455,7 +455,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY command.device.canceldevicecopy "Cealaigh an Macasamhlú">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
-<!ENTITY feedback.dialog.sentence4 "Foireann Songbird">
+<!ENTITY feedback.dialog.sentence4 "Foireann &brandShortName;">
 <!ENTITY smart.title "teideal">
 <!ENTITY menu.tools.reveal "Taispeáin an Comhad Roghnaithe">
 <!ENTITY menu.controllerontop "Taispeáin Ar Bharr">
@@ -604,9 +604,9 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Téigh ar thóir dochtearraí nua go huathoibríoch">
 <!ENTITY smart.least_recent "is lú seinnte le déanaí">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Maidir le Songbird...">
+<!ENTITY menu.help.about "Maidir le &brandShortName;...">
 <!ENTITY device.settings.general.label "Coiteann">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
@@ -652,7 +652,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY import_library.dirty_playlist_dialog.merge "Merge the current &brandShortName; and iTunes playlists">
 <!ENTITY import_tracks_itunes_checkbox "Tabhair isteach rianta ceoil ó iTunes">
 <!ENTITY first_run.welcome.header.label "Fáilte go &brandShortName;">
-<!ENTITY feedback.dialog.title "Cuidigh Linn Songbird A Fheabhsú!">
+<!ENTITY feedback.dialog.title "Cuidigh Linn &brandShortName; A Fheabhsú!">
 <!ENTITY window.yes "Tá">
 <!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page...">
 <!ENTITY menu.file.new.key "N">

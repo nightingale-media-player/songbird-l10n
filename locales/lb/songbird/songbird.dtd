@@ -158,7 +158,7 @@
 <!ENTITY subscribeMediaFrameCmd.accesskey "u">
 <!ENTITY menu.tools "Tools">
 <!ENTITY import_media.prefs.title "Media Importer">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Dëst wärt Songbird arlaabed, Artworken an kompatibel Plaketten fir Mediadateien anzebauen.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Dëst wärt &brandShortName; arlaabed, Artworken an kompatibel Plaketten fir Mediadateien anzebauen.">
 <!ENTITY device.dialog.wait_for_completion.title "Amgaang op d&apos;Viirriichtungen ze waarden">
 <!ENTITY tooltip.hide "Hide">
 <!ENTITY smart.following "of the following conditions:">
@@ -455,7 +455,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY umsd.video.video_path_desc "Beim Kopéieren vun Videodateien op d&apos;Gerät, plazéier se an deen heiten Uërdner:">
 <!ENTITY tooltip.control.stop "Stop">
 <!ENTITY tabs.closeTab "Close tab">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY tooltip.close "Close">
 <!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
 <!ENTITY menu.tools.reveal.accesskey "F">
@@ -526,7 +526,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.itunes.header.label "iTunes Import/Export">
 <!ENTITY command.device.canceldevicecopy.accesskey "C">
 <!ENTITY menu.linux.preferences.accesskey "N">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY menu.file.scan.accesskey "M">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Erop">
 <!ENTITY import_library.library_file_label "Library File:">

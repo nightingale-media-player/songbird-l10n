@@ -38,7 +38,7 @@
 <!ENTITY help.keyboard.name.quit "Выйсці">
 <!ENTITY help.keyboard.key.end "End">
 <!ENTITY help.keyboard.name.mac.hideothers "Схаваць іншыя аплікацыі">
-<!ENTITY help.keyboard.title "Клавіятурныя скарачэнні Songbird">
+<!ENTITY help.keyboard.title "Клавіятурныя скарачэнні &brandShortName;">
 <!ENTITY help.keyboard.section.windows "Вокны і ўстаўкі">
 <!ENTITY help.keyboard.key.shift "Shift">
 <!ENTITY help.keyboard.subtitle "Клавіятурныя скарачэнні">

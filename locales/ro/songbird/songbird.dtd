@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Piesa următoare">
 <!ENTITY umsd.video.video_path_browse_msg "Selectați dosarul dispozitivului în care să se amplaseze fișierele video.">
 <!ENTITY setupprogress.pleasewait "Vă rugăm așteptați...">
-<!ENTITY menu.help.homepage "Site-ul Songbird">
+<!ENTITY menu.help.homepage "Site-ul &brandShortName;">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Sală mare">
 <!ENTITY first_run.eula.accept_checkbox.label "Am citit și am acceptat termenii acestei licențe.">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "G">
 <!ENTITY menu.help.about "Despre &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Managementul Media (Mediilor) a fost înlăturat din Songbird începând cu versiunea 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Managementul Media (Mediilor) a fost înlăturat din &brandShortName; începând cu versiunea 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Scoate CD-ul după ce extragerea de pe acesta a fost terminată">

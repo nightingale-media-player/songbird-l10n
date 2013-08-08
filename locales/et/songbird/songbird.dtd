@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Järgmine lugu">
 <!ENTITY umsd.video.video_path_browse_msg "Select the device directory in which to place video files.">
 <!ENTITY setupprogress.pleasewait "Palun oota...">
-<!ENTITY menu.help.homepage "Songbird&apos;i veebileht">
+<!ENTITY menu.help.homepage "&brandShortName;&apos;i veebileht">
 <!ENTITY equalizer.preset.soft "Mahe">
 <!ENTITY equalizer.preset.large_hall "Suur saal">
 <!ENTITY first_run.eula.accept_checkbox.label "Ma olen lugenud ja nõustunud tingimustega">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "H">
 <!ENTITY menu.help.about "&brandShortName;ist lähemalt...">
 <!ENTITY device.settings.general.label "Üldine">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "u">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Kui CD rippimine on lõpetatud väljuta CD">

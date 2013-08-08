@@ -42,7 +42,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "גזור">
 <!ENTITY cdrip.prefpane.providers.title "ספק איתור תקליטור">
 <!ENTITY subscribe.title "הרשם">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "רשימות השמעה חכמות">
 <!ENTITY openImageCmdInDefaultBrowser.label "הצג תמונה בדפדפן האינטרנט">
 <!ENTITY menu.help.about.accesskey "A">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "רצועה הבאה">
 <!ENTITY umsd.video.video_path_browse_msg "בחר את ההתקן בו תרצה למקם את קובצי הוידאו">
 <!ENTITY setupprogress.pleasewait "...נא להמתין">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "מוזיקה קלה">
 <!ENTITY equalizer.preset.large_hall "אולם גדול">
 <!ENTITY first_run.eula.accept_checkbox.label "קראתי את פרטי הרשיון ואני מסכים.">
@@ -413,7 +413,7 @@
 <!ENTITY displaypane.name.servicepane "לוח שליטה תחתי">
 <!ENTITY menu.clearprivatedata "נקה מידע אישי">
 <!ENTITY window.ok "אישור">
-<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "חפש">
 <!ENTITY first_run.add_ons.description.line2 "תוספים יכולים להשתלב עם תוכניות ושירותים אחרים, לתמוך בחיבור להתקנים חיצוניים, לשנות את צורת התוכנה ועוד! אתה יכול להוריד עוד באתר התוספים של סונגבירד.">
 <!ENTITY menu.updateCmd.label "...בדוק עדכונים">
@@ -602,9 +602,9 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label " בדוק אוטומטית  עדכוני  קושחה">
 <!ENTITY smart.least_recent "שנוגן הכי פחות לאחרונה">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Songbird אודות">
+<!ENTITY menu.help.about "&brandShortName; אודות">
 <!ENTITY device.settings.general.label "כללי">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "הוצא דיסק כאשר הריפ מסתיים">

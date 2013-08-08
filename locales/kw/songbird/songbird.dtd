@@ -42,7 +42,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "Trehi">
 <!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
 <!ENTITY subscribe.title "Ragbrena">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "Kanrol Gonnyk">
 <!ENTITY openImageCmdInDefaultBrowser.label "Ygeri Imaj y&apos;n Beurel Savonek">
 <!ENTITY menu.help.about.accesskey "A">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Nessa Hyns">
 <!ENTITY umsd.video.video_path_browse_msg "Dewis arayel dhevisow rag gorra restrennow gwydheo ynni">
 <!ENTITY setupprogress.pleasewait "Gorta mar pleg...">
-<!ENTITY menu.help.homepage "Gwiasva Songbird">
+<!ENTITY menu.help.homepage "Gwiasva &brandShortName;">
 <!ENTITY equalizer.preset.soft "Medhel">
 <!ENTITY equalizer.preset.large_hall "Hel vras">
 <!ENTITY first_run.eula.accept_checkbox.label "My re redyas ha degemeres termow an leshyans ma.">
@@ -413,7 +413,7 @@
 <!ENTITY displaypane.name.servicepane "Goles Kwarel Gonis">
 <!ENTITY menu.clearprivatedata "Gwakhe Derivadow Privedh...">
 <!ENTITY window.ok "Da Lowr">
-<!ENTITY window.browser.titlemodifier "Songbird">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Kavos">
 <!ENTITY first_run.add_ons.description.line2 "Keworansow a yll kesjunya gans towlennow ha gonisow erel, skoodhya kevrenna gans devisow a-ves, chanjya mien an dowlen ha moy! Y hyllir iskarga moy anedha yn wiasva Geworansow  &brandShortName;.">
 <!ENTITY menu.updateCmd.label "Checkya rag Nowedhansow...">
@@ -602,9 +602,9 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Checkya rag firmware nowyth yn awtomatek">
 <!ENTITY smart.least_recent "an kottha senys">
 <!ENTITY menu.tools.getartwork.accesskey "K">
-<!ENTITY menu.help.about "A-dro dhe Songbird...">
+<!ENTITY menu.help.about "A-dro dhe &brandShortName;...">
 <!ENTITY device.settings.general.label "Ollgemmyn">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "D">
 <!ENTITY menu.edit.findagain.key "R">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">

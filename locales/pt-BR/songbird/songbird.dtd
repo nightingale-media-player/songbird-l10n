@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Próxima Faixa">
 <!ENTITY umsd.video.video_path_browse_msg "Selecione o diretório do dipositivo a qual deseja copiar os arquivos de vídeo.">
 <!ENTITY setupprogress.pleasewait "Por favor, aguarde...">
-<!ENTITY menu.help.homepage "Site do Songbird">
+<!ENTITY menu.help.homepage "Site do &brandShortName;">
 <!ENTITY equalizer.preset.soft "Light">
 <!ENTITY equalizer.preset.large_hall "Grande Salão">
 <!ENTITY first_run.eula.accept_checkbox.label "Eu li e aceito os termos desta licensa.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "B">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Versão atual do firmware:">
-<!ENTITY first_run.itunes.checkbox.export.description "Músicas adquiridas através do Songbird podem ser exportadas para o iTunes para que ele possa ser transferido para seu iPod ou iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "Músicas adquiridas através do &brandShortName; podem ser exportadas para o iTunes para que ele possa ser transferido para seu iPod ou iPhone.">
 <!ENTITY device.tools.update_firmware.label "Checar por atualização na firmware">
 <!ENTITY device.info.icon.device "Ícone de dispositivo genérico">
 <!ENTITY restartbox.restartlater "Reiniciar Depois">
@@ -427,7 +427,7 @@
 <!ENTITY device.progress.sync "Sincronização">
 <!ENTITY device.dialog.wait_for_completion.quit "Sair">
 <!ENTITY tooltip.browser.mediapages.list "Lista de Exibição">
-<!ENTITY rapi.library_read_disable.label "Impedir busca de informações sobre mídia no meu Songbird.">
+<!ENTITY rapi.library_read_disable.label "Impedir busca de informações sobre mídia no meu &brandShortName;.">
 <!ENTITY feedback.dialog.sentence1 "Você nos ajudará a melhorar o &brandShortName; respondendo uma rápida pesquisa anônima?">
 <!ENTITY feed.subscribe.label "Assinar">
 <!ENTITY tooltip.servicepane.show "Mostrar Painel de Serviço">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Coincidir com a seguinte condição:">
 <!ENTITY importexport_show_notifications_checkbox "Mostrar notificações quando completar importação/exportação">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "Podcasts e músicas compradas na Loja do iTunes podem ser importada para o Songbird. Este recurso só funciona se o Songbird está sendo o seu reprodutor de música primário.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts e músicas compradas na Loja do iTunes podem ser importada para o &brandShortName;. Este recurso só funciona se o &brandShortName; está sendo o seu reprodutor de música primário.">
 <!ENTITY device.sync.images.foldername "Nome do Diretório">
 <!ENTITY device.capacity.video.label "Vídeo">
 <!ENTITY menu.control.next.accesskey "N">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "g">
 <!ENTITY menu.help.about "Sobre o &brandShortName;...">
 <!ENTITY device.settings.general.label "Geral">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Gerenciamento de mídia foi desativada Songbird a partir da versão 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Gerenciamento de mídia foi desativada &brandShortName; a partir da versão 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Ao terminar de Ripar o CD, ejetar o CD">

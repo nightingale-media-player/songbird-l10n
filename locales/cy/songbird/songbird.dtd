@@ -33,7 +33,7 @@
 <!ENTITY displaypane.default.image.pre "Dewis ategyn o&apos;r ">
 <!ENTITY device.capacity.free.label "Rhydd">
 <!ENTITY playMediaCmd.accesskey "p">
-<!ENTITY hotkeys.info "Mae Bysellau poeth yn caniatáu mynediad i swyddogaethau Songbird hyd yn oed os nad yw Songbird yn weithredol.Rhaid i rai cyfuniadau Bysellau Poeth gynnwys bysellau addasu i leihau ymyrraeth ddiangen o raglenni eraill.">
+<!ENTITY hotkeys.info "Mae Bysellau poeth yn caniatáu mynediad i swyddogaethau &brandShortName; hyd yn oed os nad yw Songbird yn weithredol.Rhaid i rai cyfuniadau Bysellau Poeth gynnwys bysellau addasu i leihau ymyrraeth ddiangen o raglenni eraill.">
 <!ENTITY device.capacity.music.label "Cerddoriaeth">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
 <!ENTITY tooltip.browser.stop "Peidio Pori">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Trac Nesaf">
 <!ENTITY umsd.video.video_path_browse_msg "Dewis y cyfeiriadur dyfais er mwyn gosod y ffeiliau fideo.">
 <!ENTITY setupprogress.pleasewait "Arhoswch...">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Meddal">
 <!ENTITY equalizer.preset.large_hall "Neuadd Fawr">
 <!ENTITY first_run.eula.accept_checkbox.label "Rwyf wedi darllen a derbyn amodau&apos;r drwydded.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "D">
 <!ENTITY menu.help.bugz.accesskey "A">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Fersiwn caledwar cyfredol:">
-<!ENTITY first_run.itunes.checkbox.export.description "Mae modd allforio cerddoriaeth brynwyd drwy Songbird i iTunes fel bod modd eu trosglwyddo i&apos;ch iPod neu iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "Mae modd allforio cerddoriaeth brynwyd drwy &brandShortName; i iTunes fel bod modd eu trosglwyddo i&apos;ch iPod neu iPhone.">
 <!ENTITY device.tools.update_firmware.label "Gwirio am galedwedd diweddarwyd">
 <!ENTITY device.info.icon.device "Eicon dyfais generig">
 <!ENTITY restartbox.restartlater "Ailgychwyn yn Ddiweddarach">
@@ -427,7 +427,7 @@
 <!ENTITY device.progress.sync "Cydweddu">
 <!ENTITY device.dialog.wait_for_completion.quit "Gadael">
 <!ENTITY tooltip.browser.mediapages.list "Golwg Rhestr">
-<!ENTITY rapi.library_read_disable.label "Rhwystro gwefannau rhag edrych ar wybodaeth am gyfrwng ar Songbird">
+<!ENTITY rapi.library_read_disable.label "Rhwystro gwefannau rhag edrych ar wybodaeth am gyfrwng ar &brandShortName;">
 <!ENTITY feedback.dialog.sentence1 "A wnewch chi ein cynorthwyo i wella &brandShortName; drwy gymryd rhan mewn arolwg dienw?">
 <!ENTITY feed.subscribe.label "Tanysgrifio">
 <!ENTITY tooltip.servicepane.show "Dangos Paen Gwasanaeth">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "Cydweddu&apos;r cyflwr canlynol:">
 <!ENTITY importexport_show_notifications_checkbox "Hysbysu pan fydd y mewnforio/allforio wedi ei gwblhau">
 <!ENTITY cdrip.mediaview.eject.key "B">
-<!ENTITY first_run.itunes.checkbox.import.description "Fe all mewnforio podlediadau a cherddoriaeth a brynwyd yn siop iTunes i mewn i Songbird. Mae&apos;r nodwedd yma yn gweithio’n dda os mae Songbird yw eich prif chwaraewyr cerddoriaeth.">
+<!ENTITY first_run.itunes.checkbox.import.description "Fe all mewnforio podlediadau a cherddoriaeth a brynwyd yn siop iTunes i mewn i &brandShortName;. Mae&apos;r nodwedd yma yn gweithio’n dda os mae &brandShortName; yw eich prif chwaraewyr cerddoriaeth.">
 <!ENTITY device.sync.images.foldername "Enw&apos;r Ffolder">
 <!ENTITY device.capacity.video.label "Fideo">
 <!ENTITY menu.control.next.accesskey "N">
@@ -588,14 +588,14 @@
 <!ENTITY window.browser.titledefault "">
 <!ENTITY subscribe.url "URL:">
 <!ENTITY smart.to "i">
-<!ENTITY rapi.prefpane.access.text "Mae modd i chi ganiatáu i wefannau integreiddio gyda Songbird er mwyn creu cyswllt tynnach rhwng y we a&apos;ch cyfrwng. Ffurfweddwch Songbird i ganiatáu neu rwystro gwefannau rhag defnyddio&apos;r pwyntiau integreiddio canlynol.">
+<!ENTITY rapi.prefpane.access.text "Mae modd i chi ganiatáu i wefannau integreiddio gyda &brandShortName; er mwyn creu cyswllt tynnach rhwng y we a&apos;ch cyfrwng. Ffurfweddwch &brandShortName; i ganiatáu neu rwystro gwefannau rhag defnyddio&apos;r pwyntiau integreiddio canlynol.">
 <!ENTITY equalizer.preset.ska "Ska">
 <!ENTITY tooltip.servicepane.collapse "Cau&apos;r Paen Gwasanaeth">
 <!ENTITY podcast.creation_dialog.title "Podlediad Newydd">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Trac">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY about.credits.footer.afterLink "i broject Mozilla.">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Bydd hwn yn caniatáu i Songbird i fewnosod gwaith celf mewn tagiau cydweddus ar gyfer ffeiliau cyfrwng">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Bydd hwn yn caniatáu i &brandShortName; i fewnosod gwaith celf mewn tagiau cydweddus ar gyfer ffeiliau cyfrwng">
 <!ENTITY menu.control.rep1.accesskey "O">
 <!ENTITY hotkeys.add "Ychwanegu">
 <!ENTITY export_playlists_itunes_checkbox "Allforio rhestrau chwarae">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "A">
 <!ENTITY menu.help.about "Ynghylch &brandShortName;...">
 <!ENTITY device.settings.general.label "Cyffredinol">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "a">
 <!ENTITY menu.edit.findagain.key "E">
 <!ENTITY cdrip.prefpane.eject_after_rip "Wedi i CD gael ei rwygo ei fwrw allan">

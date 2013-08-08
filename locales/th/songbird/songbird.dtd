@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "เพลงต่อไป">
 <!ENTITY umsd.video.video_path_browse_msg "เลือกไดเรคทอรีของอุปกรณ์ที่ต้องการเก็บไฟล์วิดีโอ">
 <!ENTITY setupprogress.pleasewait "กรุณารอสักครู่">
-<!ENTITY menu.help.homepage "Songbird Website">
+<!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "ซอฟต์">
 <!ENTITY equalizer.preset.large_hall "ห้องโถง">
 <!ENTITY first_run.eula.accept_checkbox.label "ฉันได้อ่านและยอมรับข้อตกลงนี้.">
@@ -391,7 +391,7 @@
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.help.bugz.accesskey "ผ">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
-<!ENTITY first_run.itunes.checkbox.export.description "เพลงที่ Songbird นำเข้ามาจะถูกส่งต่อไปยัง iTunes นั่นทำให้ท่านสามารถโอนไปยัง iPod หรือ iPhone ได้">
+<!ENTITY first_run.itunes.checkbox.export.description "เพลงที่ &brandShortName; นำเข้ามาจะถูกส่งต่อไปยัง iTunes นั่นทำให้ท่านสามารถโอนไปยัง iPod หรือ iPhone ได้">
 <!ENTITY device.tools.update_firmware.label "Check for updated firmware">
 <!ENTITY device.info.icon.device "Generic device icon">
 <!ENTITY restartbox.restartlater "เริ่มต้นใหม่ภายหลัง">
@@ -428,7 +428,7 @@
 <!ENTITY device.dialog.wait_for_completion.quit "ออก">
 <!ENTITY tooltip.browser.mediapages.list "แสดงรายการ">
 <!ENTITY rapi.library_read_disable.label "ปิดกั้นเว็บไซต์จากการดูข้อมูลเกี่ยวกับสื่อในตู้เพลงและอุปกรณ์ของฉัน">
-<!ENTITY feedback.dialog.sentence1 "คุณสามารถช่วยทำให้ Songbird ดีขึ้นได้โดยแสดงความคิดเห็นในการทำแบบสำรวจ">
+<!ENTITY feedback.dialog.sentence1 "คุณสามารถช่วยทำให้ &brandShortName; ดีขึ้นได้โดยแสดงความคิดเห็นในการทำแบบสำรวจ">
 <!ENTITY feed.subscribe.label "บอกรับ">
 <!ENTITY tooltip.servicepane.show "แสดงบานหน้าต่างเซอร์วิส">
 <!ENTITY tooltip.control.stop "หยุด">
@@ -510,7 +510,7 @@
 <!ENTITY smart.matchsingle "ตรงกับเงื่อนไขต่อไปนี้:">
 <!ENTITY importexport_show_notifications_checkbox "แจ้งเมื่อการนำเข้า/ส่งออกเสร็จ">
 <!ENTITY cdrip.mediaview.eject.key "E">
-<!ENTITY first_run.itunes.checkbox.import.description "ท่านสามารถนำพอดแคสต์ และ เพลง ที่ซื้อจาก iTunes Store เข้ามาใน Songbird ได้ โดยหากท่านเลือกให้ Songbird เป็นตัวเล่นเพลงหลักของระบบจะทำให้ความสามารถนี้ทำงานได้ดี">
+<!ENTITY first_run.itunes.checkbox.import.description "ท่านสามารถนำพอดแคสต์ และ เพลง ที่ซื้อจาก iTunes Store เข้ามาใน &brandShortName; ได้ โดยหากท่านเลือกให้ &brandShortName; เป็นตัวเล่นเพลงหลักของระบบจะทำให้ความสามารถนี้ทำงานได้ดี">
 <!ENTITY device.sync.images.foldername "ชื่อโฟลเดอร์">
 <!ENTITY device.capacity.video.label "วีดีโอ">
 <!ENTITY menu.control.next.accesskey "ต">
@@ -604,7 +604,7 @@
 <!ENTITY menu.tools.getartwork.accesskey "อ">
 <!ENTITY menu.help.about "เกี่ยวกับ &brandShortName;...">
 <!ENTITY device.settings.general.label "General">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "ป">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "เมื่อแปลงซีดีเป็นไฟล์เสร็จให้ดีดซีดีออก">

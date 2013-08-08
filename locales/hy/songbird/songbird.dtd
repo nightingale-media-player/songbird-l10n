@@ -42,7 +42,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "Կտրել">
 <!ENTITY cdrip.prefpane.providers.title "CD փնտրման մատակարար">
 <!ENTITY subscribe.title "Գրվել">
-<!ENTITY songbird "Songbird">
+<!ENTITY songbird "&brandShortName;">
 <!ENTITY smart.window "Ստեղծել Խելացի խաղացանկ">
 <!ENTITY openImageCmdInDefaultBrowser.label "Բացել նկարը հիմնական դիտարկիչում">
 <!ENTITY menu.help.about.accesskey "a">
@@ -273,7 +273,7 @@
 <!ENTITY menu.control.next "Հաջորդ շավիղը">
 <!ENTITY umsd.video.video_path_browse_msg "Ընտրեք սարքի ճանապարհը, որում պետք է տեղադրել տեսանյութերը:">
 <!ENTITY setupprogress.pleasewait "Խնդրում ենք սպասել...">
-<!ENTITY menu.help.homepage "Songbird-ի կայքը">
+<!ENTITY menu.help.homepage "&brandShortName;-ի կայքը">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Մեծ դահլիճ">
 <!ENTITY first_run.eula.accept_checkbox.label "Ես կարդացել եմ և ընդունել լիցենզիայի պայմանները:">
@@ -602,9 +602,9 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Ինքնաշխատ ստուգել firmware-ի թարմացումները">
 <!ENTITY smart.least_recent "ամենավերջին">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Songbird-ի մասին...">
+<!ENTITY menu.help.about "&brandShortName;-ի մասին...">
 <!ENTITY device.settings.general.label "Գլխավորը">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Մեդիայի կառավարումը հեռացվել է սկսած Songbird 1.10-ից:">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Մեդիայի կառավարումը հեռացվել է սկսած &brandShortName; 1.10-ից:">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "Երբ CD-ի պատճենումը ավարտվի, հանեք CD-ն">
