@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Թաքցնել">
 <!ENTITY tooltip.browser.subscription "Բաժանորդագրվել այս էջին">
 <!ENTITY smart.playlistcondition.library "Գրադարան">
-<!ENTITY menu.help.bugz "Զեկուցել սխալը">
+<!ENTITY menu.help.bugz "Զեկուցել սխալը...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Նայել թղթապանակի փոփոխությունները">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Իրական չափը">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Ձևաչափը:">
 <!ENTITY about.credits.heading.translators "Թարգմանիևչներ">
 <!ENTITY menu.view "Տեսքը">
-<!ENTITY menu.preferences "Ընտրանքներ...">
+<!ENTITY menu.preferences "Ընտրանքներ">
 <!ENTITY command.device.canceldevicedelete "Կանգնեցնել ջնջումը">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Ավարտել">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Նոր խաղացանկ">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Բացել շրջանակը հիմնական դիտարկիչում">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Նոր խաղացանկ">
+<!ENTITY menu.file.new "Նոր խաղացանկ...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "c">
 <!ENTITY watch_folder.prefs.watch_folder_label "Թղթապանակը.">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Բացառություններ...">
 <!ENTITY menu.updateCmd.accessKey "Օ">
 <!ENTITY menu.file.url "Բացել URL-ից...">
-<!ENTITY menu.downloadmgr "Ֆայլի բեռնում...">
+<!ENTITY menu.downloadmgr "Ֆայլի բեռնում">
 <!ENTITY device.settings.auto_launch.checkbox.label "Բացել &brandShortName;-ը, երբ սարքը որոշվի">
 <!ENTITY first_run.itunes.checkbox.import.label "Ներմուծել երգեր և խաղացանկեր iTunes-ից">
 <!ENTITY cdrip.lookup.info_not_found.title "CD տեղեկությունը չի գտնվել">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "անտեսել սարքը">
 <!ENTITY tooltip.displaypane.options "Բովանդ. վահանակի ընտրանքներ">
 <!ENTITY menu.tools.exportmedia "Արտածել Շտեմարանիչ փոփոխությունները">
-<!ENTITY menu.mac.preferences "Կարգավորումներ...">
+<!ENTITY menu.mac.preferences "Կարգավորումներ">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Փոխարինել &brandShortName; -ի այս խաղացանկը iTunes-ի ընթացիկ խաղացանկով:">
 <!ENTITY device.tools.reset_warnings.title "Ետարկել զգուշացումները">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Ամբողջ էկրանով">
 <!ENTITY tooltip.browser.refresh "Թարմացնել">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Add-Ons...">
+<!ENTITY menu.extensions "Add-Ons">
 <!ENTITY equalizer.preset.club "Ակումբային">
 <!ENTITY equalizer.preset.full_bass_treble "Ամբողջական բասս և եռակի">
 <!ENTITY menu.edit.copy "Պատճենել">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Կրկին փորձեք, երբ գործողությունը ավարտվի:">
 <!ENTITY first_run.connection.settings.description "Ձեր համակարգիչը պաշտպանված է firewall-ով կամ պրոքսիով: Ստուգեք կարգավորումները:">
 <!ENTITY watch_folder.prefs.enable_checkbox "Ինքնաշխատ ստուգել հետևյալ թղթապանակի փոփոխությունները">
-<!ENTITY menu.file.metadata "Նայել մետատվյալը...">
+<!ENTITY menu.file.metadata "Նայել մետատվյալը">
 <!ENTITY device.info.firmware_version.label "Firmware-ի տարբերակը">
 <!ENTITY device.info.access.label "Մուտքի հասանելիությունը">
 <!ENTITY tooltip.control.back "Նախորդ շավիղը">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Ինքնաշխատ ստուգել firmware-ի թարմացումները">
 <!ENTITY smart.least_recent "ամենավերջին">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "&brandShortName;-ի մասին...">
+<!ENTITY menu.help.about "&brandShortName;-ի մասին">
 <!ENTITY device.settings.general.label "Գլխավորը">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Մեդիայի կառավարումը հեռացվել է սկսած &brandShortName; 1.10-ից:">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Բեռնվում է նոր firmware-ը...">
 <!ENTITY cdrip.prefpane.format "Ձևաչափը">
 <!ENTITY smart.mb "Մբ">
-<!ENTITY menu.linux.preferences "Կարգավորումներ...">
+<!ENTITY menu.linux.preferences "Կարգավորումներ">
 <!ENTITY menu.file "Ֆայլ">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Երաժշտական Շտեմարանի Տեղը">

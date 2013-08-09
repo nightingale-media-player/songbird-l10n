@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "감추기">
 <!ENTITY tooltip.browser.subscription "이 페이지를 구독하기">
 <!ENTITY smart.playlistcondition.library "라이브러리">
-<!ENTITY menu.help.bugz "결함 보고하기">
+<!ENTITY menu.help.bugz "결함 보고하기...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "이 폴더의 변화를 주시">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "실제 크기">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "파일 형식:">
 <!ENTITY about.credits.heading.translators "번역자">
 <!ENTITY menu.view "보기">
-<!ENTITY menu.preferences "환경설정...">
+<!ENTITY menu.preferences "환경설정">
 <!ENTITY command.device.canceldevicedelete "삭제 중지">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "종료">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "새 재생목록">
 <!ENTITY openFrameCmdInDefaultBrowser.label "기본 웹 브라우저에서 프레임 열기">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "새 재생목록">
+<!ENTITY menu.file.new "새 재생목록...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "폴더:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "설정">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "URL 주소 열기...">
-<!ENTITY menu.downloadmgr "파일 다운로드...">
+<!ENTITY menu.downloadmgr "파일 다운로드">
 <!ENTITY device.settings.auto_launch.checkbox.label "이 장치를 발견하면 &brandShortName;을 열기">
 <!ENTITY first_run.itunes.checkbox.import.label "iTunes에서 트랙과 재생목록들을 가져오기">
 <!ENTITY cdrip.lookup.info_not_found.title "CD 정보를 찾을 수 없습니다">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "장치 무시">
 <!ENTITY tooltip.displaypane.options "컨텐츠 패널 옵션">
 <!ENTITY menu.tools.exportmedia "라이브러리 변경사항 내보내기">
-<!ENTITY menu.mac.preferences "환경 설정...">
+<!ENTITY menu.mac.preferences "환경 설정">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "이 &brandShortName; 재생목록을 현재의 iTunes 재생목록으로 대체합니다">
 <!ENTITY device.tools.reset_warnings.title "경고창 재설정">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "전체 화면">
 <!ENTITY tooltip.browser.refresh "새로고침">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "확장기능...">
+<!ENTITY menu.extensions "확장기능">
 <!ENTITY equalizer.preset.club "클럽">
 <!ENTITY equalizer.preset.full_bass_treble "풀 베이스 &amp; 트레블">
 <!ENTITY menu.edit.copy "복사">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "자동으로 새 펌웨어 확인">
 <!ENTITY smart.least_recent "재생일이 오래된 순">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "&brandShortName;에 대하여...">
+<!ENTITY menu.help.about "&brandShortName;에 대하여">
 <!ENTITY device.settings.general.label "일반">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "미디어 관리 기능이 &brandShortName; 1.10 버전부터 제거됩니다.">
 <!ENTITY menu.file.closetab.accesskey "W">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "새 펌웨어를 내려 받는 중...">
 <!ENTITY cdrip.prefpane.format "형식">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "환경 설정...">
+<!ENTITY menu.linux.preferences "환경 설정">
 <!ENTITY menu.file "파일">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes 음악 라이브러리 위치">

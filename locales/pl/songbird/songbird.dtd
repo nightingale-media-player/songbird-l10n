@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ukryj">
 <!ENTITY tooltip.browser.subscription "Subskrybuj tę stronę">
 <!ENTITY smart.playlistcondition.library "Biblioteka">
-<!ENTITY menu.help.bugz "Zgłoś błąd">
+<!ENTITY menu.help.bugz "Zgłoś błąd…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Monitoruj zawartość tego folderu">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Aktualny Rozmiar">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format:">
 <!ENTITY about.credits.heading.translators "Tłumacze">
 <!ENTITY menu.view "Widok">
-<!ENTITY menu.preferences "Opcje…">
+<!ENTITY menu.preferences "Opcje">
 <!ENTITY command.device.canceldevicedelete "Anuluj usuwanie">
 <!ENTITY enable_recommended_addons_update.accesskey "d">
 <!ENTITY wizard.button.finish.label "Zakończ">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Wyjątki…">
 <!ENTITY menu.updateCmd.accessKey "a">
 <!ENTITY menu.file.url "Otwórz lokalizację…">
-<!ENTITY menu.downloadmgr "Pobieranie plików…">
+<!ENTITY menu.downloadmgr "Pobieranie plików">
 <!ENTITY device.settings.auto_launch.checkbox.label "Otwieraj &brandShortName;, gdy to urządzenie zostanie wykryte">
 <!ENTITY first_run.itunes.checkbox.import.label "Importuj utwory i listy odtwarzania z iTunes.">
 <!ENTITY cdrip.lookup.info_not_found.title "Brak informacji o dysku CD">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorować to urządzenie">
 <!ENTITY tooltip.displaypane.options "Zawartość panelu ustawień">
 <!ENTITY menu.tools.exportmedia "Eksportuj zmiany dokonane w bibliotece">
-<!ENTITY menu.mac.preferences "Ustawienia…">
+<!ENTITY menu.mac.preferences "Ustawienia">
 <!ENTITY menu.mac.exit.key "Z">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Zamień tę listę odtwarzania programu &brandShortName; z bieżącą listą odtwarzania iTunes">
 <!ENTITY device.tools.reset_warnings.title "Resetuj ostrzeżenia">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Pełny Ekran">
 <!ENTITY tooltip.browser.refresh "Odśwież">
 <!ENTITY rapi.library_write_disable.accesskey "U">
-<!ENTITY menu.extensions "Dodatki…">
+<!ENTITY menu.extensions "Dodatki">
 <!ENTITY equalizer.preset.club "Klubowa">
 <!ENTITY equalizer.preset.full_bass_treble "Pełen bas oraz sopran">
 <!ENTITY menu.edit.copy "Kopiuj">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Spróbuj ponownie po zakończeniu obecnej czynności urządzenia.">
 <!ENTITY first_run.connection.settings.description "Czy twój komputer lub sieć lokalna są chronione za pomocą zapory sieciowej lub proxy? Korekta nieprawidłowych ustawień połączenia może pomóc w rozwiązaniu wielu problemów z siecią. ">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatycznie śledź zmiany w następujących folderach:">
-<!ENTITY menu.file.metadata "Wyświetl metadane…">
+<!ENTITY menu.file.metadata "Wyświetl metadane">
 <!ENTITY device.info.firmware_version.label "Wersja oprogramowania">
 <!ENTITY device.info.access.label "Kompatybilność dostępu">
 <!ENTITY tooltip.control.back "Poprzedni utwór">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Sprawdzaj automatycznie dostępność nowych wersji oprogramowania">
 <!ENTITY smart.least_recent "najrzadziej otwierany">
 <!ENTITY menu.tools.getartwork.accesskey "B">
-<!ENTITY menu.help.about "O programie &brandShortName;…">
+<!ENTITY menu.help.about "O programie &brandShortName;">
 <!ENTITY device.settings.general.label "Ogólne">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "M">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Pobieranie nowego oprogramowania…">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Ustawienia…">
+<!ENTITY menu.linux.preferences "Ustawienia">
 <!ENTITY menu.file "Plik">
 <!ENTITY menu.downloadmgr.accesskey "O">
 <!ENTITY import_library.prefs.path_group_caption "Lokalizacja biblioteki iTunes">

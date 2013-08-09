@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Amaga">
 <!ENTITY tooltip.browser.subscription "Crea una subscripció">
 <!ENTITY smart.playlistcondition.library "Biblioteca">
-<!ENTITY menu.help.bugz "Informa d&apos;un error">
+<!ENTITY menu.help.bugz "Informa d&apos;un error…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Vigila els canvis d&apos;aquesta carpeta">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Mida actual">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format:">
 <!ENTITY about.credits.heading.translators "Equip de traducció">
 <!ENTITY menu.view "Visualitza">
-<!ENTITY menu.preferences "Opcions…">
+<!ENTITY menu.preferences "Opcions">
 <!ENTITY command.device.canceldevicedelete "Atura l&apos;eliminació">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Finalitza">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Excepcions…">
 <!ENTITY menu.updateCmd.accessKey "z">
 <!ENTITY menu.file.url "Obre una ubicació…">
-<!ENTITY menu.downloadmgr "Baixades de fitxers…">
+<!ENTITY menu.downloadmgr "Baixades de fitxers">
 <!ENTITY device.settings.auto_launch.checkbox.label "Obre el &brandShortName; quan es detecti aquest dispositiu">
 <!ENTITY first_run.itunes.checkbox.import.label "Importa peces i llistes de reproducció de l&apos;iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "No s&apos;ha pogut trobar la informació del CD">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignora aquest dispositiu">
 <!ENTITY tooltip.displaypane.options "Opcions de la subfinestra de contingut">
 <!ENTITY menu.tools.exportmedia "Exporta els canvis de la biblioteca">
-<!ENTITY menu.mac.preferences "Preferències…">
+<!ENTITY menu.mac.preferences "Preferències">
 <!ENTITY menu.mac.exit.key "u">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Reemplaça aquesta llista de reproducció del &brandShortName; per l&apos;actual de l&apos;iTunes">
 <!ENTITY device.tools.reset_warnings.title "Reinicia els avisos">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Pantalla completa">
 <!ENTITY tooltip.browser.refresh "Actualitza">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Complements…">
+<!ENTITY menu.extensions "Complements">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Greus i agutscomplets">
 <!ENTITY menu.edit.copy "Copia">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Torneu-ho a intentar quan el dispositiu hagi completat l&apos;operació en curs.">
 <!ENTITY first_run.connection.settings.description "Teniu l&apos;ordinador o la connexió protegits per un tallafocs o un proxi? Revisar els Paràmetres de la connexió incorrectes pot resoldre els problemes més comuns.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Vigila automàticament els canvis de la següent carpeta">
-<!ENTITY menu.file.metadata "Visualitza les metadades...">
+<!ENTITY menu.file.metadata "Visualitza les metadades">
 <!ENTITY device.info.firmware_version.label "Versió del microprogramari">
 <!ENTITY device.info.access.label "Compatibilitat d&apos;accés">
 <!ENTITY tooltip.control.back "Peça anterior">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Comprova si hi ha nou microprogramari automàticament">
 <!ENTITY smart.least_recent "reproduït menys recentment">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Quant al &brandShortName;…">
+<!ENTITY menu.help.about "Quant al &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "El gestor de suports es va eliminar del &brandShortName; a la versió 1.10.">
 <!ENTITY menu.file.closetab.accesskey "c">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "S&apos;està descarregant noves versions del microprogramari...">
 <!ENTITY cdrip.prefpane.format "Formata">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Preferències…">
+<!ENTITY menu.linux.preferences "Preferències">
 <!ENTITY menu.file "Fitxer">
 <!ENTITY menu.downloadmgr.accesskey "B">
 <!ENTITY import_library.prefs.path_group_caption "Ruta de la biblioteca de l&apos;iTunes">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Sembunyikan">
 <!ENTITY tooltip.browser.subscription "Berlangganan halaman ini">
 <!ENTITY smart.playlistcondition.library "Pustaka">
-<!ENTITY menu.help.bugz "Laporkan Bug">
+<!ENTITY menu.help.bugz "Laporkan Bug...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Monitor perubahan pada folder ini">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Ukuran Sebenar">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format:">
 <!ENTITY about.credits.heading.translators "Penerjemah">
 <!ENTITY menu.view "Tampilan">
-<!ENTITY menu.preferences "Pengaturan...">
+<!ENTITY menu.preferences "Pengaturan">
 <!ENTITY command.device.canceldevicedelete "Batalkan Penghapusan">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Selesai">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Senarai Putar Baru">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Buka Bingkai pada Peramban Web Default">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Senarai Putar Baru">
+<!ENTITY menu.file.new "Senarai Putar Baru...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Folder:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Pengecualian...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Buka Alamat...">
-<!ENTITY menu.downloadmgr "Unduhan Berkas...">
+<!ENTITY menu.downloadmgr "Unduhan Berkas">
 <!ENTITY device.settings.auto_launch.checkbox.label "Buka &brandShortName; ketika perangkat ini terdeteksi">
 <!ENTITY first_run.itunes.checkbox.import.label "Impor lagu dan senarai putar dari iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Informasi CD Tidak Ditemukan">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "Mengabaikan perangkat ini">
 <!ENTITY tooltip.displaypane.options "Opsi Panel Konten">
 <!ENTITY menu.tools.exportmedia "Ekspor Perubahan Pustaka">
-<!ENTITY menu.mac.preferences "Pengaturan...">
+<!ENTITY menu.mac.preferences "Pengaturan">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Ganti daftar putar &brandShortName; dengan daftar putar dari iTunes.">
 <!ENTITY device.tools.reset_warnings.title "Reset peringatan">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Layar Penuh">
 <!ENTITY tooltip.browser.refresh "Muat Ulang">
 <!ENTITY rapi.library_write_disable.accesskey "">
-<!ENTITY menu.extensions "Pengaya...">
+<!ENTITY menu.extensions "Pengaya">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Bass Penuh dan Treble">
 <!ENTITY menu.edit.copy "Salin">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Periksa firmware baru secara otomatis">
 <!ENTITY smart.least_recent "paling terakhir diputar">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Tentang &brandShortName;...">
+<!ENTITY menu.help.about "Tentang &brandShortName;">
 <!ENTITY device.settings.general.label "Umum">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Mengunduh firmware baru...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Pengaturan...">
+<!ENTITY menu.linux.preferences "Pengaturan">
 <!ENTITY menu.file "Berkas">
 <!ENTITY menu.downloadmgr.accesskey "U">
 <!ENTITY import_library.prefs.path_group_caption "Lokasi iTunes Music Library">

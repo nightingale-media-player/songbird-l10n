@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ocultar">
 <!ENTITY tooltip.browser.subscription "Criar assinatura">
 <!ENTITY smart.playlistcondition.library "Biblioteca">
-<!ENTITY menu.help.bugz "Reportar uma falha">
+<!ENTITY menu.help.bugz "Reportar uma falha...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Monitore este diretório para mudanças">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Tamanho Atual">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Formato:">
 <!ENTITY about.credits.heading.translators "Tradutores">
 <!ENTITY menu.view "Exibir">
-<!ENTITY menu.preferences "Opções...">
+<!ENTITY menu.preferences "Opções">
 <!ENTITY command.device.canceldevicedelete "Parar exclusão">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Terminar">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Configurar">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Abrir endereço...">
-<!ENTITY menu.downloadmgr "Arquivos Baixados...">
+<!ENTITY menu.downloadmgr "Arquivos Baixados">
 <!ENTITY device.settings.auto_launch.checkbox.label "Abrir &brandShortName; quando este dispositivo for detectado.">
 <!ENTITY first_run.itunes.checkbox.import.label "Importar faixas e listas de reprodução do iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Informação do CD não encontrada">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorar este dispositivo">
 <!ENTITY tooltip.displaypane.options "Opções do Painel de conteúdo">
 <!ENTITY menu.tools.exportmedia "Exportar Mudanças da Biblioteca">
-<!ENTITY menu.mac.preferences "Preferências...">
+<!ENTITY menu.mac.preferences "Preferências">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Substituir a Lista de Reprodução do &brandShortName; com a mesma Lista de Reprodução do iTunes">
 <!ENTITY device.tools.reset_warnings.title "Resetar alertas">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Tela Inteira">
 <!ENTITY tooltip.browser.refresh "Atualizar">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Complementos...">
+<!ENTITY menu.extensions "Complementos">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Total de Grave e Agudo">
 <!ENTITY menu.edit.copy "Copiar">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Por favor, tente novamente depois que seu dispositivo tiver completado a operação atual.">
 <!ENTITY first_run.connection.settings.description "O seu computador ou rede é protegido por um firewall ou proxy? Corrigir configurações de conexão incorretas pode resolver problemas de rede comuns.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automaticamente monitorar por alterações no seguinte diretório">
-<!ENTITY menu.file.metadata "Exibir Metadado...">
+<!ENTITY menu.file.metadata "Exibir Metadado">
 <!ENTITY device.info.firmware_version.label "Versão do Firmware">
 <!ENTITY device.info.access.label "Compatibilidade de acesso">
 <!ENTITY tooltip.control.back "Faixa Anterior">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Checar por novo firmware automaticamente">
 <!ENTITY smart.least_recent "Menos adicionados recentemente">
 <!ENTITY menu.tools.getartwork.accesskey "g">
-<!ENTITY menu.help.about "Sobre o &brandShortName;...">
+<!ENTITY menu.help.about "Sobre o &brandShortName;">
 <!ENTITY device.settings.general.label "Geral">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Gerenciamento de mídia foi desativada &brandShortName; a partir da versão 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Baixando novo firmware">
 <!ENTITY cdrip.prefpane.format "Formatar">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Preferências...">
+<!ENTITY menu.linux.preferences "Preferências">
 <!ENTITY menu.file "Arquivo">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Caminho da Biblioteca de Músicas do iTunes">

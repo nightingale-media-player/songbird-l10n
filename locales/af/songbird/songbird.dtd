@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Versteek">
 <!ENTITY tooltip.browser.subscription "Teken in op hierdie bladsy">
 <!ENTITY smart.playlistcondition.library "Versameling">
-<!ENTITY menu.help.bugz "Raporteer &apos;n fout">
+<!ENTITY menu.help.bugz "Raporteer &apos;n fout...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Werklike Grootte">
@@ -73,7 +73,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.mediaview.format_label "Formaat:">
 <!ENTITY about.credits.heading.translators "Vertalers">
 <!ENTITY menu.view "View">
-<!ENTITY menu.preferences "Opsies...">
+<!ENTITY menu.preferences "Opsies">
 <!ENTITY command.device.canceldevicedelete "Kanselleer Skrap">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Klaar">
@@ -204,7 +204,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY rapi.whitelist.label "Uitsonderinge...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Maak oop van URL...">
-<!ENTITY menu.downloadmgr "Lêer Aflaai-sessies...">
+<!ENTITY menu.downloadmgr "Lêer Aflaai-sessies">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Informasie nie gevind nie">
@@ -267,7 +267,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignoreer hierdie toestel">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "Preferences...">
+<!ENTITY menu.mac.preferences "Preferences">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -373,7 +373,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY videowindow.fullscreen "Volskerm">
 <!ENTITY tooltip.browser.refresh "Verfris">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Uitbreidings...">
+<!ENTITY menu.extensions "Uitbreidings">
 <!ENTITY equalizer.preset.club "Klub">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "Kopiëer">
@@ -556,7 +556,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatically watch for changes in the following folder">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY device.info.firmware_version.label "Firmware Version">
 <!ENTITY device.info.access.label "Access Compatibility">
 <!ENTITY tooltip.control.back "Vorige Snit">
@@ -604,7 +604,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "minste onlangs">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Oor &brandShortName;...">
+<!ENTITY menu.help.about "Oor &brandShortName;">
 <!ENTITY device.settings.general.label "Algemeen">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -636,7 +636,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "Formaat">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Preferences...">
+<!ENTITY menu.linux.preferences "Preferences">
 <!ENTITY menu.file "Lêer">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Music Library Location">

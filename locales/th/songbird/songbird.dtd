@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "ซ่อน">
 <!ENTITY tooltip.browser.subscription "สมัครหน้านี้">
 <!ENTITY smart.playlistcondition.library "ตู้เพลง">
-<!ENTITY menu.help.bugz "รายงานข้อผิดพลาด">
+<!ENTITY menu.help.bugz "รายงานข้อผิดพลาด...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "จับตามองโฟลเดอร์นี้เพื่อดูการเปลี่ยนแปลง">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "ฟอร์แมต:">
 <!ENTITY about.credits.heading.translators "ทีมแปล">
 <!ENTITY menu.view "มุมมอง">
-<!ENTITY menu.preferences "ตัวเลือก...">
+<!ENTITY menu.preferences "ตัวเลือก">
 <!ENTITY command.device.canceldevicedelete "ยกเลิกการลบ">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "เสร็จสิ้น">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "รายการเพลงใหม่">
 <!ENTITY openFrameCmdInDefaultBrowser.label "เปิดเฟรมด้วยเว็บเบราวเซอร์ปริยาย">
 <!ENTITY menu.file.newtab.accesskey "ท">
-<!ENTITY menu.file.new "รายการเพลงใหม่">
+<!ENTITY menu.file.new "รายการเพลงใหม่...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "ค">
 <!ENTITY watch_folder.prefs.watch_folder_label "โฟลเดอร์:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "ยกเว้น...">
 <!ENTITY menu.updateCmd.accessKey "ป">
 <!ENTITY menu.file.url "เปิดจากที่ตั้ง...">
-<!ENTITY menu.downloadmgr "ดาวน์โหลด...">
+<!ENTITY menu.downloadmgr "ดาวน์โหลด">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "นำเข้าเพลงและรายการเพลงจาก iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "ไม่พบข้อมูลซีดี">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "เต็มจอ">
 <!ENTITY tooltip.browser.refresh "โหลดใหม่">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "ส่วนเสริม...">
+<!ENTITY menu.extensions "ส่วนเสริม">
 <!ENTITY equalizer.preset.club "คลับ">
 <!ENTITY equalizer.preset.full_bass_treble "เน้นเบสและเสียงแหลม">
 <!ENTITY menu.edit.copy "คัดลอก">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "คอมพิวเตอร์หรือเครือข่ายของคุณได้ถูกปกป้องโดย กำแพงไฟ (Firewall) หรือ พร็อกซี่ (Proxy) หรือไม่? แก้ตั้งค่าการเชื่อต่อที่ผิดพลาดสามารถช่วยในปัญหาของการเชื่อมต่อไ้ด้">
 <!ENTITY watch_folder.prefs.enable_checkbox "จับตาการเปลี่ยนโฟลเดอร์เหล่านี้อัตโนมัติ">
-<!ENTITY menu.file.metadata "ดูข้อมูลเพิ่มเติม...">
+<!ENTITY menu.file.metadata "ดูข้อมูลเพิ่มเติม">
 <!ENTITY device.info.firmware_version.label "เวอร์ชั่นเฟอมแวร์">
 <!ENTITY device.info.access.label "การเข้าถึงที่เข้ากันได้">
 <!ENTITY tooltip.control.back "เพลงก่อนหน้า">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "เล่นนานมาแล้ว">
 <!ENTITY menu.tools.getartwork.accesskey "อ">
-<!ENTITY menu.help.about "เกี่ยวกับ &brandShortName;...">
+<!ENTITY menu.help.about "เกี่ยวกับ &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "ป">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "ฟอร์แมต">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "ตัวเลือก...">
+<!ENTITY menu.linux.preferences "ตัวเลือก">
 <!ENTITY menu.file "แฟ้ม">
 <!ENTITY menu.downloadmgr.accesskey "ด">
 <!ENTITY import_library.prefs.path_group_caption "ที่ตั้งของรายการของ iTunes">

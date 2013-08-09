@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ocultar">
 <!ENTITY tooltip.browser.subscription "Suscribirse a esta pagina">
 <!ENTITY smart.playlistcondition.library "Biblioteca">
-<!ENTITY menu.help.bugz "Reportar un Fallo">
+<!ENTITY menu.help.bugz "Reportar un Fallo...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Ver los cambios en esta carpeta">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Tamaño Actual">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Formato:">
 <!ENTITY about.credits.heading.translators "Traductores">
 <!ENTITY menu.view "Ver">
-<!ENTITY menu.preferences "Preferencias...">
+<!ENTITY menu.preferences "Preferencias">
 <!ENTITY command.device.canceldevicedelete "Cancelar Borrado">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Finalizar">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nueva Lista de Reproducción">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Abrir la Pagina en el Explorador Web Predeterminado">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Nueva Lista de Reproducción">
+<!ENTITY menu.file.new "Nueva Lista de Reproducción...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Carpeta:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Excepciones...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Abrir Carpeta...">
-<!ENTITY menu.downloadmgr "Archivos Descargados...">
+<!ENTITY menu.downloadmgr "Archivos Descargados">
 <!ENTITY device.settings.auto_launch.checkbox.label "Abrir &brandShortName; cuando el dispositivo sea detectado">
 <!ENTITY first_run.itunes.checkbox.import.label "Importar canciones y listas de reproducción desde iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Información del CD no encontrada">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorar este dispositivo">
 <!ENTITY tooltip.displaypane.options "Opciones del Panel de Contenido">
 <!ENTITY menu.tools.exportmedia "Exportar Cambios de la Biblioteca">
-<!ENTITY menu.mac.preferences "Preferencias...">
+<!ENTITY menu.mac.preferences "Preferencias">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Reemplazar esta lista de reproduccion de &brandShortName; con la actual lista de iTunes">
 <!ENTITY device.tools.reset_warnings.title "Reiniciar advertencias">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Pantalla Completa">
 <!ENTITY tooltip.browser.refresh "Actualizar">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Extensiones...">
+<!ENTITY menu.extensions "Extensiones">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Bajos y Agudos">
 <!ENTITY menu.edit.copy "Copiar">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Buscar nuevo firmware automaticamente">
 <!ENTITY smart.least_recent "últimas reproducidas recientemente">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Acerca de &brandShortName;...">
+<!ENTITY menu.help.about "Acerca de &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Gestión de Medios ha sido eliminado de &brandShortName; desde la versión 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Descargando nuevo firmware...">
 <!ENTITY cdrip.prefpane.format "Formateo">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Preferencias...">
+<!ENTITY menu.linux.preferences "Preferencias">
 <!ENTITY menu.file "Archivo">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Lugar de la Biblioteca Musical de iTunes">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ocultar">
 <!ENTITY tooltip.browser.subscription "Suscribirse a esta página">
 <!ENTITY smart.playlistcondition.library "Biblioteca">
-<!ENTITY menu.help.bugz "Informar de un error">
+<!ENTITY menu.help.bugz "Informar de un error...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Vigilar esta carpeta a la espera de cambios">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Tamaño actual">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Formato:">
 <!ENTITY about.credits.heading.translators "Traductores">
 <!ENTITY menu.view "Ver">
-<!ENTITY menu.preferences "Opciones...">
+<!ENTITY menu.preferences "Opciones">
 <!ENTITY command.device.canceldevicedelete "Detener borrado">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Continuar">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Excepciones...">
 <!ENTITY menu.updateCmd.accessKey "u">
 <!ENTITY menu.file.url "Abrir una dirección...">
-<!ENTITY menu.downloadmgr "Descargas de archivos...">
+<!ENTITY menu.downloadmgr "Descargas de archivos">
 <!ENTITY device.settings.auto_launch.checkbox.label "Abrir &brandShortName; cuando el dispositivo sea detectado">
 <!ENTITY first_run.itunes.checkbox.import.label "Importar pistas y playlists desde iTunes.">
 <!ENTITY cdrip.lookup.info_not_found.title "No se encontró información del disco">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorar este dispositivo">
 <!ENTITY tooltip.displaypane.options "Opciones de panel de contenido">
 <!ENTITY menu.tools.exportmedia "Exportar cambios en la Biblioteca">
-<!ENTITY menu.mac.preferences "Preferencias...">
+<!ENTITY menu.mac.preferences "Preferencias">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Reemplazar esta &brandShortName; biblioteca con la biblioteca actual de iTunes">
 <!ENTITY device.tools.reset_warnings.title "Reiniciar advertencias">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Pantalla completa">
 <!ENTITY tooltip.browser.refresh "Actualizar">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Complementos...">
+<!ENTITY menu.extensions "Complementos">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Graves y agudos completos">
 <!ENTITY menu.edit.copy "Copiar">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Por favor, inténtelo de nuevo cuando su dispositivo haya completado la operación actual.">
 <!ENTITY first_run.connection.settings.description "¿Está tu ordenador o red protegida mediante un cortafuegos o proxy? Arreglar los fallos en Ajustes de conexión puede ayudar a solucionar problemas comunes de la red.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Vigilar automáticamente cambios en la siguiente carpeta">
-<!ENTITY menu.file.metadata "Ver metadatos...">
+<!ENTITY menu.file.metadata "Ver metadatos">
 <!ENTITY device.info.firmware_version.label "Versión del firmware">
 <!ENTITY device.info.access.label "Compatibilidad de acceso">
 <!ENTITY tooltip.control.back "Pista previa">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Buscar nuevo firmware automaticament">
 <!ENTITY smart.least_recent "el menos reproducido recientemente">
 <!ENTITY menu.tools.getartwork.accesskey "O">
-<!ENTITY menu.help.about "Acerca de &brandShortName;...">
+<!ENTITY menu.help.about "Acerca de &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "El Gestor Multimedia ha sido desabilitado en &brandShortName; desde la versión 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Descargando nuevo firmware...">
 <!ENTITY cdrip.prefpane.format "Formatear">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Preferencias...">
+<!ENTITY menu.linux.preferences "Preferencias">
 <!ENTITY menu.file "Archivo">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Ruta de la biblioteca musical de iTunes">

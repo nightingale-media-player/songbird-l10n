@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Gizle">
 <!ENTITY tooltip.browser.subscription "Bu sayfaya abone ol">
 <!ENTITY smart.playlistcondition.library "Kütüphane">
-<!ENTITY menu.help.bugz "Hata Bildirme">
+<!ENTITY menu.help.bugz "Hata Bildirme...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Bu klasördeki değişiklikleri takip et">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Gerçek Boyutu">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Biçim:">
 <!ENTITY about.credits.heading.translators "Çevirenler">
 <!ENTITY menu.view "Görünüm">
-<!ENTITY menu.preferences "Seçenekler...">
+<!ENTITY menu.preferences "Seçenekler">
 <!ENTITY command.device.canceldevicedelete "Silmeyi İptal Et">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Son">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Yeni Çalma Listesi">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Çerçeveyi Varsayılan Web Tarayıcısı ile Aç">
 <!ENTITY menu.file.newtab.accesskey "M">
-<!ENTITY menu.file.new "Yeni Çalma Listesi">
+<!ENTITY menu.file.new "Yeni Çalma Listesi...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Klasör:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "İstisnalar...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Konum Aç...">
-<!ENTITY menu.downloadmgr "İndirilen Dosyalar...">
+<!ENTITY menu.downloadmgr "İndirilen Dosyalar">
 <!ENTITY device.settings.auto_launch.checkbox.label "Algılandığında , &brandShortName; adlı cihazı aç">
 <!ENTITY first_run.itunes.checkbox.import.label "Parçaları ve Çalma listelerini iTunes&apos;ten al.">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Bilgisi Bulunamadı">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "Bu cihazı yoksay">
 <!ENTITY tooltip.displaypane.options "İçerik Paneli Seçenekleri">
 <!ENTITY menu.tools.exportmedia "Kitaplıktaki değişiklikleri dışarı aktar">
-<!ENTITY menu.mac.preferences "Tercihler...">
+<!ENTITY menu.mac.preferences "Tercihler">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Bu &brandShortName; çalma listesini şu anki iTunes çalma listesiyle değiştir">
 <!ENTITY device.tools.reset_warnings.title "Uyarıları sıfırla">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Lütfen cihaz şuanki operasyonunu tamamladıktan sonra tekrar deneyin.">
 <!ENTITY first_run.connection.settings.description "Bilgisayarınız ya da ağınız bir güvenlik duvarı ya da proxy tarafından korunuyor mu? Hatalı Bağlantı Ayarlarını düzeltmek genel ağ sorunlarını çözmenize yardımcı olabilir.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Bu klasördeki değişiklikleri otomatik olarak izle">
-<!ENTITY menu.file.metadata "Metadatayı gör...">
+<!ENTITY menu.file.metadata "Metadatayı gör">
 <!ENTITY device.info.firmware_version.label "Cihaz Yazılımı Versiyonu">
 <!ENTITY device.info.access.label "Erişim Uyumluluğu">
 <!ENTITY tooltip.control.back "Önceki Parça">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Yeni yazılım için otomatik kontrol et.">
 <!ENTITY smart.least_recent "en uzun süredir çalınmayan">
 <!ENTITY menu.tools.getartwork.accesskey "B">
-<!ENTITY menu.help.about "&brandShortName; Hakkında...">
+<!ENTITY menu.help.about "&brandShortName; Hakkında">
 <!ENTITY device.settings.general.label "Genel">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Ortam Yönetimi Sonbird&apos;den 1.10 versiynu itibariyle kaldırılmıştır.">
 <!ENTITY menu.file.closetab.accesskey "A">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Yeni Sürüm İndiriliyor.">
 <!ENTITY cdrip.prefpane.format "Biçim">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Tercihler...">
+<!ENTITY menu.linux.preferences "Tercihler">
 <!ENTITY menu.file "Dosya">
 <!ENTITY menu.downloadmgr.accesskey "İ">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Müzik Kütüphanesi Konumu">

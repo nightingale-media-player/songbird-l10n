@@ -73,7 +73,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.mediaview.format_label "ფორმატი:">
 <!ENTITY about.credits.heading.translators "თარჯიმნები">
 <!ENTITY menu.view "ჩვენება">
-<!ENTITY menu.preferences "პარამეტრები...">
+<!ENTITY menu.preferences "პარამეტრები">
 <!ENTITY command.device.canceldevicedelete "წაშლის გაჩერება">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "დამთავრება">
@@ -373,7 +373,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY videowindow.fullscreen "მთლიანი ეკრანი">
 <!ENTITY tooltip.browser.refresh "განახლება">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "გაფართოებები...">
+<!ENTITY menu.extensions "გაფართოებები">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "დაკოპირება">

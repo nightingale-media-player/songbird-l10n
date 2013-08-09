@@ -45,7 +45,7 @@
 <!ENTITY tooltip.control.resume "కొనసాగించు">
 <!ENTITY setupprogress.installingextensions "Installing Add-ons">
 <!ENTITY recommended_add_ons.title "&brandShortName; Setup">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY menu.extensions.accesskey "A">
 <!ENTITY equalizer.band7.label "4K">
 <!ENTITY cdrip.prefpane.eject_after_rip "సిడి రిప్(కాపీ) పూర్తయిన తరవాత సిడిని తెరువు ">
@@ -61,7 +61,7 @@
 <!ENTITY jumpto.key "J">
 <!ENTITY device.settings.disk.label "Disk Management">
 <!ENTITY subscribe.title "చందాదారులుకండి">
-<!ENTITY menu.downloadmgr "File Downloads...">
+<!ENTITY menu.downloadmgr "File Downloads">
 <!ENTITY hotkeys.remove "తొలగించు">
 <!ENTITY device.firmware.wizard.title "Update Firmware">
 <!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
@@ -97,7 +97,7 @@
 <!ENTITY first_run.connection.settings.button "అనుసంధానపు అమరికలు...">
 <!ENTITY equalizer.band6.label "2K">
 <!ENTITY trackeditor.tab.lyrics.title "సాహిత్యం">
-<!ENTITY menu.extensions "పొడగింతలు...">
+<!ENTITY menu.extensions "పొడగింతలు">
 <!ENTITY locale.language "భాష">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.mediaview.eject.modifiers "యాక్సెల్ మార్పు">
@@ -148,7 +148,7 @@
 <!ENTITY menu.file.closetab "Close Tab">
 <!ENTITY device.settings.header.label "అమరికలు">
 <!ENTITY device.management.tabs.settings.label "అమరికలు">
-<!ENTITY menu.preferences "ఎంపికలు...">
+<!ENTITY menu.preferences "ఎంపికలు">
 <!ENTITY menu.mac.services "సేవలు">
 <!ENTITY menu.help.help.accesskey "H">
 <!ENTITY menu.file "ఫైలు">
@@ -248,7 +248,7 @@
 <!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
 <!ENTITY tooltip.browser.mediapages.list "జాబితాని చూపు">
 <!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY menu.help.about "సాంగ్‌బర్డ్ గురించి...">
+<!ENTITY menu.help.about "సాంగ్‌బర్డ్ గురించి">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
 <!ENTITY cdrip.mediaview.settings_button "అమరికలు">
 <!ENTITY cdrip.lookup.multiple.description "క్రింది వానిలో ఏదైనా ఒకటి ఎంచుకోండి లేదా మీ సొంత సమాచారమును జతపరచండి. ">
@@ -279,7 +279,7 @@
 <!ENTITY first_run.feedback.metrics.description "Metrics are completely anonymous and no personal information is collected.">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "మెటా సమాచారమునకు చిత్రకళను వ్రాయి">
 <!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY menu.help.bugz "దోషాన్ని నివేదించండి">
+<!ENTITY menu.help.bugz "దోషాన్ని నివేదించండి...">
 <!ENTITY mediapage.next.key "S">
 <!ENTITY command.device.lookup "CDలోని సమాచారమును చూడు">
 <!ENTITY first_run.itunes.checkbox.export.label "Export new music tracks and playlists to iTunes">
@@ -407,7 +407,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.control.shuffle "కలగాపులగం">
 <!ENTITY restartbox.restartnow "ఇప్పుడు పునఃప్రారంభించు">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.linux.preferences "అభిరుచులు...">
+<!ENTITY menu.linux.preferences "అభిరుచులు">
 <!ENTITY menu.equalizer.accesskey "Q">
 <!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
@@ -491,7 +491,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.sync.sync_all.label "Sync all media and playlists">
 <!ENTITY locationbar.key "L">
 <!ENTITY smart.most_recent "most recently played">
-<!ENTITY menu.file.new "New Playlist">
+<!ENTITY menu.file.new "New Playlist...">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY device.settings.music.transcoding.format.label "Encoding format">
 <!ENTITY menu.control.jumpto "గెంతు...">
@@ -579,7 +579,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY window.ok "సరే">
 <!ENTITY prefs.homepage.label "మొదటి పుట">
 <!ENTITY playback.prefpane.units.kilobytes "kB">
-<!ENTITY menu.mac.preferences "అభిరుచులు...">
+<!ENTITY menu.mac.preferences "అభిరుచులు">
 <!ENTITY menu.help.about.accesskey "A">
 <!ENTITY menu.edit.selall "అన్నీ ఎంచుకో">
 <!ENTITY command.device.ejectdevice.accesskey "ఇ(E)">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Скриване">
 <!ENTITY tooltip.browser.subscription "Създаване на абонамент">
 <!ENTITY smart.playlistcondition.library "Библиотека">
-<!ENTITY menu.help.bugz "Докладване за грешка">
+<!ENTITY menu.help.bugz "Докладване за грешка...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Следи тези директории за промени">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Формат:">
 <!ENTITY about.credits.heading.translators "Преводачи">
 <!ENTITY menu.view "Изглед">
-<!ENTITY menu.preferences "Настройки...">
+<!ENTITY menu.preferences "Настройки">
 <!ENTITY command.device.canceldevicedelete "Прекрати изтриване">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Завърши">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Конфигуриране">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Отвори адрес...">
-<!ENTITY menu.downloadmgr "Файлове за сваляне ...">
+<!ENTITY menu.downloadmgr "Файлове за сваляне">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Внасяне на песни и плейлистове от iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Данни за CD не са намерени">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Изнасяне на промени в библиотеката">
-<!ENTITY menu.mac.preferences "Настройки...">
+<!ENTITY menu.mac.preferences "Настройки">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Замени този &brandShortName; плейлист с актуалния iTunes плейлист.">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Full Screen">
 <!ENTITY tooltip.browser.refresh "Опресняване">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Добавки...">
+<!ENTITY menu.extensions "Добавки">
 <!ENTITY equalizer.preset.club "Клубна">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "Копиране">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "последно изпълнен">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "За &brandShortName;...">
+<!ENTITY menu.help.about "За &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "Форматиране">
 <!ENTITY smart.mb "мБ">
-<!ENTITY menu.linux.preferences "Предпочитания ...">
+<!ENTITY menu.linux.preferences "Предпочитания">
 <!ENTITY menu.file "Файл">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Път до библиотеката на iTunes">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ferstoppe">
 <!ENTITY tooltip.browser.subscription "">
 <!ENTITY smart.playlistcondition.library "Bibleteek">
-<!ENTITY menu.help.bugz "Rapportearje in bug">
+<!ENTITY menu.help.bugz "Rapportearje in bug...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Besjoch dizze map fiar wizigings">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -73,7 +73,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.mediaview.format_label "Format: ">
 <!ENTITY about.credits.heading.translators "Oersetters">
 <!ENTITY menu.view "Byld">
-<!ENTITY menu.preferences "Opsjes...">
+<!ENTITY menu.preferences "Opsjes">
 <!ENTITY command.device.canceldevicedelete "Fuortsmiten annulearje">
 <!ENTITY enable_recommended_addons_update.accesskey "o">
 <!ENTITY wizard.button.finish.label "Foltôgje">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "Nije Ofspyllist">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Iepenje frame yn standert websneuper">
 <!ENTITY menu.file.newtab.accesskey "l">
-<!ENTITY menu.file.new "Nije ôfspyllist">
+<!ENTITY menu.file.new "Nije ôfspyllist...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "i">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Map:">
@@ -204,7 +204,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY rapi.whitelist.label "Utsûnderings...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Iepenje lokaasje...">
-<!ENTITY menu.downloadmgr "Ynladen bestannen...">
+<!ENTITY menu.downloadmgr "Ynladen bestannen">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Tracks en spyllisten ymportearje fan iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Ynformaasje Net Fûn">
@@ -267,7 +267,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Eksportearje bibleteekwizigings">
-<!ENTITY menu.mac.preferences "Foarkarren...">
+<!ENTITY menu.mac.preferences "Foarkarren">
 <!ENTITY menu.mac.exit.key "o">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -373,7 +373,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY videowindow.fullscreen "Full Screen">
 <!ENTITY tooltip.browser.refresh "Fernije">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Add-Ons...">
+<!ENTITY menu.extensions "Add-Ons">
 <!ENTITY equalizer.preset.club "Klub">
 <!ENTITY equalizer.preset.full_bass_treble "Folsleine bas en treble">
 <!ENTITY menu.edit.copy "Kopiearje">
@@ -604,7 +604,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "minst resint spile">
 <!ENTITY menu.tools.getartwork.accesskey "K">
-<!ENTITY menu.help.about "Oer &brandShortName;...">
+<!ENTITY menu.help.about "Oer &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "s">
@@ -636,7 +636,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Foarkarren...">
+<!ENTITY menu.linux.preferences "Foarkarren">
 <!ENTITY menu.file "Bestân">
 <!ENTITY menu.downloadmgr.accesskey "Y">
 <!ENTITY import_library.prefs.path_group_caption "Lokaasje iTunse muzykbibleteek">

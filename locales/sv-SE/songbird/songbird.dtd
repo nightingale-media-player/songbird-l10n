@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Dölj">
 <!ENTITY tooltip.browser.subscription "Prenumerera på denna sida">
 <!ENTITY smart.playlistcondition.library "Bibliotek">
-<!ENTITY menu.help.bugz "Rapportera fel">
+<!ENTITY menu.help.bugz "Rapportera fel...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Bevaka ändringar i denna mapp">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Faktisk storlek">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format:">
 <!ENTITY about.credits.heading.translators "Översättare">
 <!ENTITY menu.view "Visa">
-<!ENTITY menu.preferences "Inställningar...">
+<!ENTITY menu.preferences "Inställningar">
 <!ENTITY command.device.canceldevicedelete "Avbryt radering">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Avsluta">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Ny spellista">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Öppna ram i förvald webbläsare">
 <!ENTITY menu.file.newtab.accesskey "L">
-<!ENTITY menu.file.new "Ny spellista">
+<!ENTITY menu.file.new "Ny spellista...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "O">
 <!ENTITY watch_folder.prefs.watch_folder_label "Mapp:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Undantag...">
 <!ENTITY menu.updateCmd.accessKey "S">
 <!ENTITY menu.file.url "Öppna URL...">
-<!ENTITY menu.downloadmgr "Filhämtning...">
+<!ENTITY menu.downloadmgr "Filhämtning">
 <!ENTITY device.settings.auto_launch.checkbox.label "Öppna &brandShortName; när enheten ansluts">
 <!ENTITY first_run.itunes.checkbox.import.label "Importera musikspår och spellistor från iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD information hittades inte">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorera den här enheten">
 <!ENTITY tooltip.displaypane.options "Alternativ för panel">
 <!ENTITY menu.tools.exportmedia "Exportera biblioteksändringar">
-<!ENTITY menu.mac.preferences "Inställningar...">
+<!ENTITY menu.mac.preferences "Inställningar">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Byt ut spellistan i &brandShortName; mot den aktuella spellistan iTunes">
 <!ENTITY device.tools.reset_warnings.title "Nollställ varningar">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Fullskärm">
 <!ENTITY tooltip.browser.refresh "Uppdatera">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Tillägg...">
+<!ENTITY menu.extensions "Tillägg">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full bas och diskant">
 <!ENTITY menu.edit.copy "Kopiera">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Var god försök igen när enheten är klar att användas.">
 <!ENTITY first_run.connection.settings.description "Är din dator eller ditt nätverk skyddat av brandvägg eller proxy? Rätta till felaktiga inställningar för anslutning kan lösa kända nätverksproblem.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Sök automatiskt efter ändringar i följande mapp">
-<!ENTITY menu.file.metadata "Se Metadata...">
+<!ENTITY menu.file.metadata "Se Metadata">
 <!ENTITY device.info.firmware_version.label "Firmware-version">
 <!ENTITY device.info.access.label "Accepterad tillgång">
 <!ENTITY tooltip.control.back "Föregående spår">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Sök efter ny firmware automatiskt">
 <!ENTITY smart.least_recent "minst nyligen spelade">
 <!ENTITY menu.tools.getartwork.accesskey "H">
-<!ENTITY menu.help.about "Om &brandShortName;...">
+<!ENTITY menu.help.about "Om &brandShortName;">
 <!ENTITY device.settings.general.label "Generellt">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Mediahanteringen har tagits bort från &brandShortName; fr o m version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "T">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Laddar ner ny firmware...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Inställningar...">
+<!ENTITY menu.linux.preferences "Inställningar">
 <!ENTITY menu.file "Arkiv">
 <!ENTITY menu.downloadmgr.accesskey "F">
 <!ENTITY import_library.prefs.path_group_caption "Sökväg till biblioteket för musik i iTunes ">

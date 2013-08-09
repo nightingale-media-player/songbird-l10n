@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ezkutatu">
 <!ENTITY tooltip.browser.subscription "Orri honetara harpidetu">
 <!ENTITY smart.playlistcondition.library "Liburutegia">
-<!ENTITY menu.help.bugz "Errore baten berri eman">
+<!ENTITY menu.help.bugz "Errore baten berri eman...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Karpeta hau zelatu aldaketen zain">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Momentu honetako tamaina">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Formatua:">
 <!ENTITY about.credits.heading.translators "Itzultzaileak">
 <!ENTITY menu.view "Ikusi">
-<!ENTITY menu.preferences "Aukerak...">
+<!ENTITY menu.preferences "Aukerak">
 <!ENTITY command.device.canceldevicedelete "Ezabatzea gelditu">
 <!ENTITY enable_recommended_addons_update.accesskey "g">
 <!ENTITY wizard.button.finish.label "Bukatu">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Erreprodukzio-zerrenda berria">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Ireki markoa nabigatzaile lehenetsian">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Erreprodukzio-zerrenda berria">
+<!ENTITY menu.file.new "Erreprodukzio-zerrenda berria...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "i">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Karpeta:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Salbuespenak...">
 <!ENTITY menu.updateCmd.accessKey "b">
 <!ENTITY menu.file.url "Ireki helbidea...">
-<!ENTITY menu.downloadmgr "Deskargak...">
+<!ENTITY menu.downloadmgr "Deskargak">
 <!ENTITY device.settings.auto_launch.checkbox.label "&brandShortName; ireki gailu hau aurkitzean">
 <!ENTITY first_run.itunes.checkbox.import.label "Pista eta erreprodukzio-zerrendak iTunes-etik inportatu">
 <!ENTITY cdrip.lookup.info_not_found.title "Ez da aurkitu CD-ari buruzko informaziorik">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "gailu hau kontuan ez hartzea">
 <!ENTITY tooltip.displaypane.options "Eduki panelaren aukerak">
 <!ENTITY menu.tools.exportmedia "Liburutegiko aldaketak esportatu">
-<!ENTITY menu.mac.preferences "Hobespenak...">
+<!ENTITY menu.mac.preferences "Hobespenak">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Ordezkatu &brandShortName;eko erreprodukzio-zerrenda hau iTunes-eko erreprodukzio-zerrendarekin">
 <!ENTITY device.tools.reset_warnings.title "Oharrak garbitu">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Pantaila osoan">
 <!ENTITY tooltip.browser.refresh "Berritu">
 <!ENTITY rapi.library_write_disable.accesskey "g">
-<!ENTITY menu.extensions "Gehigarriak...">
+<!ENTITY menu.extensions "Gehigarriak">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Guztiz grabea eta zorrotza">
 <!ENTITY menu.edit.copy "Kopiatu">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Mesedez, saiatu berriz gailuak momentu honetako jarduera burutu ondoren.">
 <!ENTITY first_run.connection.settings.description "Zure ordenagailua edo sarea suebaki edo proxy batek babesten du? Baliteke konexio ezarpenak sareko ohizko arazoak konpontzen laguntzea.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Karpeta honetako aldaketak automatikoki jarraitu">
-<!ENTITY menu.file.metadata "Metadatuak ikusi...">
+<!ENTITY menu.file.metadata "Metadatuak ikusi">
 <!ENTITY device.info.firmware_version.label "Firmware bertsioa">
 <!ENTITY device.info.access.label "Sarrera bateragarritasuna">
 <!ENTITY tooltip.control.back "Aurreko pista">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Automatikoki bilatu firmware berria">
 <!ENTITY smart.least_recent "duela asko erreproduzitua">
 <!ENTITY menu.tools.getartwork.accesskey "A">
-<!ENTITY menu.help.about "&brandShortName;i buruz...">
+<!ENTITY menu.help.about "&brandShortName;i buruz">
 <!ENTITY device.settings.general.label "Nagusia">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "I">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Firmware berria deskargatzen...">
 <!ENTITY cdrip.prefpane.format "Formatua">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Hobespenak...">
+<!ENTITY menu.linux.preferences "Hobespenak">
 <!ENTITY menu.file "Fitxategia">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes-eko musika liburutegiaren helbidea">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "গোপন">
 <!ENTITY tooltip.browser.subscription "গ্রাহকীর সৃষ্টিকরণ">
 <!ENTITY smart.playlistcondition.library "সংগ্রহ">
-<!ENTITY menu.help.bugz "ত্রুটির বার্তা পাঠাও">
+<!ENTITY menu.help.bugz "ত্রুটির বার্তা পাঠাও...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "পরিবর্তনের জন্য এই ভাঁজকটি নিরীক্ষণ করুন">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "ফরমেট করুন:">
 <!ENTITY about.credits.heading.translators "অনুবাদকরা">
 <!ENTITY menu.view "দর্শন">
-<!ENTITY menu.preferences "প্রিয় নির্ধারণমানসমূহ...">
+<!ENTITY menu.preferences "প্রিয় নির্ধারণমানসমূহ">
 <!ENTITY command.device.canceldevicedelete "অপসারণ রদ">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "সমাপ্ত">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "বিন্যাস">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "ইউআরএল থেকে উন্মীলন...">
-<!ENTITY menu.downloadmgr "সঞ্চিকা অধঃভরণগুলি...">
+<!ENTITY menu.downloadmgr "সঞ্চিকা অধঃভরণগুলি">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "প্রিয় নির্ধারণমানসমূহ...">
+<!ENTITY menu.mac.preferences "প্রিয় নির্ধারণমানসমূহ">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "এই &brandShortName; বাদনতালিকার পরিবর্তে বর্তমান আইট্যুন্স বাদনতালিকা">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Full Screen">
 <!ENTITY tooltip.browser.refresh "উজ্জীবন">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "বিস্তারকসমূহ...">
+<!ENTITY menu.extensions "বিস্তারকসমূহ">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "প্রতিলিপি">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "আপনার কম্প্যুটার বা ক্রিয়াজাল কি অগ্নিপ্রাচীর বা প্রতিনিধি দ্বারা সুরক্ষিত? ভুল সংযোগ নির্ধারণমানসমূহ সংশোধন করলে সাধারণ ক্রিয়াজাল সম্পর্কিত সমস্যাগুলির সমাধান করা যায়।">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatically watch for changes in the following folder">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY device.info.firmware_version.label "Firmware Version">
 <!ENTITY device.info.access.label "অভিগমন অনুকূলতা">
 <!ENTITY tooltip.control.back "পুর্ববর্তী গীতধারা">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "ন্যূনতম সাম্প্রতিক">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "সংবার্ড সম্পর্কে...">
+<!ENTITY menu.help.about "সংবার্ড সম্পর্কে">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">

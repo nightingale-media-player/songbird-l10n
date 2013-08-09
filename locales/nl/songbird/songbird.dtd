@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Verbergen">
 <!ENTITY tooltip.browser.subscription "Abonneren op deze pagina">
 <!ENTITY smart.playlistcondition.library "Collectie">
-<!ENTITY menu.help.bugz "Een bug melden">
+<!ENTITY menu.help.bugz "Een bug melden…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Deze map op wijzigingen controleren">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Ware grootte">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Uitzonderingen…">
 <!ENTITY menu.updateCmd.accessKey "C">
 <!ENTITY menu.file.url "Locatie openen…">
-<!ENTITY menu.downloadmgr "Bestandsdownloads…">
+<!ENTITY menu.downloadmgr "Bestandsdownloads">
 <!ENTITY device.settings.auto_launch.checkbox.label "&brandShortName; openen wanneer dit apparaat wordt gedetecteerd">
 <!ENTITY first_run.itunes.checkbox.import.label "Muzieknummers en afspeellijsten van iTunes importeren">
 <!ENTITY cdrip.lookup.info_not_found.title "Geen CD-informatie gevonden">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "dit apparaat negeren">
 <!ENTITY tooltip.displaypane.options "Opties van inhoudsvenster">
 <!ENTITY menu.tools.exportmedia "Wijzigingen in collectie exporteren">
-<!ENTITY menu.mac.preferences "Voorkeuren…">
+<!ENTITY menu.mac.preferences "Voorkeuren">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Deze &brandShortName;-afspeellijst vervangen door de huidige iTunes-afspeellijst">
 <!ENTITY device.tools.reset_warnings.title "Waarschuwingen opnieuw instellen">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Volledig scherm">
 <!ENTITY tooltip.browser.refresh "Vernieuwen">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Uitbreidingen…">
+<!ENTITY menu.extensions "Uitbreidingen">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Volle bas en hoge tonen">
 <!ENTITY menu.edit.copy "Kopiëren">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Probeer het nogmaals nadat uw apparaat zijn huidige bewerking heeft voltooid.">
 <!ENTITY first_run.connection.settings.description "Is uw computer of netwerk beveiligd door een firewall of proxy? Het corrigeren van verkeerde verbindingsinstellingen kan het probleem mogelijk verhelpen.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatisch controleren op wijzigingen in de volgende map">
-<!ENTITY menu.file.metadata "Metagegevens bekijken…">
+<!ENTITY menu.file.metadata "Metagegevens bekijken">
 <!ENTITY device.info.firmware_version.label "Firmwareversie">
 <!ENTITY device.info.access.label "Toegankelijkheid">
 <!ENTITY tooltip.control.back "Vorige nummer">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Automatisch op nieuwe firmware controleren">
 <!ENTITY smart.least_recent "minst recent afgespeeld">
 <!ENTITY menu.tools.getartwork.accesskey "h">
-<!ENTITY menu.help.about "Over &brandShortName;…">
+<!ENTITY menu.help.about "Over &brandShortName;">
 <!ENTITY device.settings.general.label "Algemeen">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Mediabeheer is vanaf versie 1.10 uit &brandShortName; verwijderd.">
 <!ENTITY menu.file.closetab.accesskey "s">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Nieuwe firmware downloaden…">
 <!ENTITY cdrip.prefpane.format "Formaat">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Voorkeuren…">
+<!ENTITY menu.linux.preferences "Voorkeuren">
 <!ENTITY menu.file "Bestand">
 <!ENTITY menu.downloadmgr.accesskey "d">
 <!ENTITY import_library.prefs.path_group_caption "Locatie van iTunes-muziekcollectie">

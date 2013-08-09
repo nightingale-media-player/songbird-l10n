@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Slēpt">
 <!ENTITY tooltip.browser.subscription "Parakstīties uz šo lapu">
 <!ENTITY smart.playlistcondition.library "Bibliotēka">
-<!ENTITY menu.help.bugz "Ziņot par kļūdu">
+<!ENTITY menu.help.bugz "Ziņot par kļūdu...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Novērot izmaiņas šajā mapē">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Patiesais izmērs">
@@ -73,7 +73,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.mediaview.format_label "Formāts">
 <!ENTITY about.credits.heading.translators "Tulkotāji">
 <!ENTITY menu.view "Skats">
-<!ENTITY menu.preferences "Iestatījumi...">
+<!ENTITY menu.preferences "Iestatījumi">
 <!ENTITY command.device.canceldevicedelete "Atcelt dzēšanu">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Beigt">
@@ -204,7 +204,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY rapi.whitelist.label "Izņēmumi">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Atvērt atrašanās vietu">
-<!ENTITY menu.downloadmgr "Failu Lejuplādes...">
+<!ENTITY menu.downloadmgr "Failu Lejuplādes">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Informācija Nav Atrasta">
@@ -226,7 +226,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY trackeditor.tab.edit.title "Iestatījumi">
 <!ENTITY rapi.playback_read_disable.label "Block websites from viewing information about playing media">
 <!ENTITY menu.tools.reveal.modifiers "accel,shift">
-<!ENTITY menu.mac.hide "Paslēpt &brandShortName;...">
+<!ENTITY menu.mac.hide "Paslēpt &brandShortName;">
 <!ENTITY device.sync.sync_all.label "Sync all media and playlists">
 <!ENTITY cdrip.mediaview.quality_label "Kvalitāte">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopēt">
@@ -267,7 +267,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Eksportēt Bibliotēkas Izmaiņas">
-<!ENTITY menu.mac.preferences "Iestatījumi...">
+<!ENTITY menu.mac.preferences "Iestatījumi">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -373,7 +373,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY videowindow.fullscreen "Pa visu ekrānu">
 <!ENTITY tooltip.browser.refresh "Atsvaidzināt">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Papildinājumi...">
+<!ENTITY menu.extensions "Papildinājumi">
 <!ENTITY equalizer.preset.club "Klubu">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "Kopēt">
@@ -556,7 +556,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automātiski vērot izmaiņas šajā mapē">
-<!ENTITY menu.file.metadata "Apskatīt Metadatus...">
+<!ENTITY menu.file.metadata "Apskatīt Metadatus">
 <!ENTITY device.info.firmware_version.label "Firmware Version">
 <!ENTITY device.info.access.label "Access Compatibility">
 <!ENTITY tooltip.control.back "Iepriekšējais ieraksts">
@@ -604,7 +604,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "least recently played">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Par &brandShortName;...">
+<!ENTITY menu.help.about "Par &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -636,7 +636,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "Formāts">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Iestatījumi...">
+<!ENTITY menu.linux.preferences "Iestatījumi">
 <!ENTITY menu.file "Datne">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Mūzikas Bibliotēkas Atrašanās Vieta">

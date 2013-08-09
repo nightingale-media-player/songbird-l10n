@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Skryť">
 <!ENTITY tooltip.browser.subscription "Prihlásiť sa k odberu">
 <!ENTITY smart.playlistcondition.library "Knižnica">
-<!ENTITY menu.help.bugz "Ohlásiť chybu">
+<!ENTITY menu.help.bugz "Ohlásiť chybu...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Sledovať tento priečinok kvôli zmenám">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Formát:">
 <!ENTITY about.credits.heading.translators "Lokalizátori">
 <!ENTITY menu.view "Zobraziť">
-<!ENTITY menu.preferences "Možnosti...">
+<!ENTITY menu.preferences "Možnosti">
 <!ENTITY command.device.canceldevicedelete "Zrušiť odstránenie">
 <!ENTITY enable_recommended_addons_update.accesskey "O">
 <!ENTITY wizard.button.finish.label "Koniec">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nový zoznam skladieb">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Otvoriť rámec v predvolenom webovom prehliadači">
 <!ENTITY menu.file.newtab.accesskey "t">
-<!ENTITY menu.file.new "Nový zoznam skladieb">
+<!ENTITY menu.file.new "Nový zoznam skladieb...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "p">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Priečinok:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Výnimky...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Otvoriť umiestnenie...">
-<!ENTITY menu.downloadmgr "Preberanie súboru...">
+<!ENTITY menu.downloadmgr "Preberanie súboru">
 <!ENTITY device.settings.auto_launch.checkbox.label "Spustiť &brandShortName; pri zistení zariadenia">
 <!ENTITY first_run.itunes.checkbox.import.label "Importuj skladby a zoznamy skladieb z programu iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorovať toto zariadenie">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Exportovať zmeny v knižnici">
-<!ENTITY menu.mac.preferences "Nastavenia...">
+<!ENTITY menu.mac.preferences "Nastavenia">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Nahradiť zoznam skladieb programu &brandShortName; aktuálnym zoznamom skladieb programu iTunes">
 <!ENTITY device.tools.reset_warnings.title "Vynulovať varovania">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Full Screen">
 <!ENTITY tooltip.browser.refresh "Obnoviť">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Doplnky...">
+<!ENTITY menu.extensions "Doplnky">
 <!ENTITY equalizer.preset.club "Klub">
 <!ENTITY equalizer.preset.full_bass_treble "Plné basy a výšky">
 <!ENTITY menu.edit.copy "Kopírovať">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Skontrolovať aktualizácie firmvéru automaticky">
 <!ENTITY smart.least_recent "nedávno prehrávané">
 <!ENTITY menu.tools.getartwork.accesskey "Z">
-<!ENTITY menu.help.about "O programe &brandShortName;...">
+<!ENTITY menu.help.about "O programe &brandShortName;">
 <!ENTITY device.settings.general.label "Hlavné">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "u">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Preberá sa nová verzia firmvéru...">
 <!ENTITY cdrip.prefpane.format "Naformátovať">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Nastavenia...">
+<!ENTITY menu.linux.preferences "Nastavenia">
 <!ENTITY menu.file "Súbor">
 <!ENTITY menu.downloadmgr.accesskey "P">
 <!ENTITY import_library.prefs.path_group_caption "Cesta ku iTunes knižnici">

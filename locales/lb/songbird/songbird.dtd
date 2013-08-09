@@ -45,7 +45,7 @@
 <!ENTITY tooltip.control.resume "Resume">
 <!ENTITY setupprogress.installingextensions "Installing Add-ons">
 <!ENTITY recommended_add_ons.title "&brandShortName; Setup">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY menu.extensions.accesskey "A">
 <!ENTITY equalizer.band7.label "4K">
 <!ENTITY cdrip.prefpane.eject_after_rip "Wann d&apos;CD färdeg gerippt ass, d&apos;CD auswerfen">
@@ -61,7 +61,7 @@
 <!ENTITY jumpto.key "J">
 <!ENTITY device.settings.disk.label "Disk Management">
 <!ENTITY subscribe.title "Subscribe">
-<!ENTITY menu.downloadmgr "File Downloads...">
+<!ENTITY menu.downloadmgr "File Downloads">
 <!ENTITY hotkeys.remove "Läschen">
 <!ENTITY device.firmware.wizard.title "Firmware ged geupdated">
 <!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
@@ -97,7 +97,7 @@
 <!ENTITY first_run.connection.settings.button "Connections astellungen...">
 <!ENTITY equalizer.band6.label "2K">
 <!ENTITY trackeditor.tab.lyrics.title "Lyrics">
-<!ENTITY menu.extensions "Add-ons...">
+<!ENTITY menu.extensions "Add-ons">
 <!ENTITY locale.language "Sprooch">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
@@ -148,7 +148,7 @@
 <!ENTITY menu.file.closetab "Close Tab">
 <!ENTITY device.settings.header.label "Astellungen">
 <!ENTITY device.management.tabs.settings.label "Astellungen">
-<!ENTITY menu.preferences "Options...">
+<!ENTITY menu.preferences "Options">
 <!ENTITY menu.mac.services "Services">
 <!ENTITY menu.help.help.accesskey "H">
 <!ENTITY menu.file "File">
@@ -248,7 +248,7 @@
 <!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
 <!ENTITY tooltip.browser.mediapages.list "List View">
 <!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY menu.help.about "About &brandShortName;...">
+<!ENTITY menu.help.about "About &brandShortName;">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
 <!ENTITY cdrip.mediaview.settings_button "Astellungen">
 <!ENTITY cdrip.lookup.multiple.description "">
@@ -279,7 +279,7 @@
 <!ENTITY first_run.feedback.metrics.description "Metrics are completely anonymous and no personal information is collected.">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "En Album Artwork fir d&apos;Meta Data schreiwen">
 <!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY menu.help.bugz "Report a Bug">
+<!ENTITY menu.help.bugz "Report a Bug...">
 <!ENTITY mediapage.next.key "S">
 <!ENTITY command.device.lookup "Schlo CD Informatioun no">
 <!ENTITY first_run.itunes.checkbox.export.label "Export new music tracks and playlists to iTunes">
@@ -407,7 +407,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.control.shuffle "Shuffle">
 <!ENTITY restartbox.restartnow "Restart Now">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.linux.preferences "Preferences...">
+<!ENTITY menu.linux.preferences "Preferences">
 <!ENTITY menu.equalizer.accesskey "Q">
 <!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
@@ -491,7 +491,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.sync.sync_all.label "All d&apos;Musék, Videoen a Widdergaablëschten">
 <!ENTITY locationbar.key "L">
 <!ENTITY smart.most_recent "most recently played">
-<!ENTITY menu.file.new "New Playlist">
+<!ENTITY menu.file.new "New Playlist...">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY device.settings.music.transcoding.format.label "Encoding format">
 <!ENTITY menu.control.jumpto "Jump To...">
@@ -579,7 +579,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY window.ok "OK">
 <!ENTITY prefs.homepage.label "Home Page">
 <!ENTITY playback.prefpane.units.kilobytes "kB">
-<!ENTITY menu.mac.preferences "Preferences...">
+<!ENTITY menu.mac.preferences "Preferences">
 <!ENTITY menu.help.about.accesskey "A">
 <!ENTITY menu.edit.selall "Select All">
 <!ENTITY command.device.ejectdevice.accesskey "E">

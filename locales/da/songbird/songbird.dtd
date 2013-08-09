@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Skjul">
 <!ENTITY tooltip.browser.subscription "Opret abonnement">
 <!ENTITY smart.playlistcondition.library "Bibliotek">
-<!ENTITY menu.help.bugz "Rapporter en fejl">
+<!ENTITY menu.help.bugz "Rapporter en fejl...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Overvåg denne mappe for ændringer">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Rigtig størrelse">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format:">
 <!ENTITY about.credits.heading.translators "Oversættere">
 <!ENTITY menu.view "Vis">
-<!ENTITY menu.preferences "Indstillinger...">
+<!ENTITY menu.preferences "Indstillinger">
 <!ENTITY command.device.canceldevicedelete "Annuller sletning">
 <!ENTITY enable_recommended_addons_update.accesskey "a">
 <!ENTITY wizard.button.finish.label "Afslut">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Undtagelser...">
 <!ENTITY menu.updateCmd.accessKey "T">
 <!ENTITY menu.file.url "Åbn URL-placering...">
-<!ENTITY menu.downloadmgr "Filhentninger...">
+<!ENTITY menu.downloadmgr "Filhentninger">
 <!ENTITY device.settings.auto_launch.checkbox.label "Åbn &brandShortName; når denne enhed opdages">
 <!ENTITY first_run.itunes.checkbox.import.label "Importer spor og afspilningslister fra iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD information blev ikke fundet">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorer denne enhed">
 <!ENTITY tooltip.displaypane.options "Kontrolpanels indstillinger">
 <!ENTITY menu.tools.exportmedia "Eksporter biblioteksændringer">
-<!ENTITY menu.mac.preferences "Indstillinger...">
+<!ENTITY menu.mac.preferences "Indstillinger">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Erstat denne afspilningsliste fra &brandShortName; med den nuværende fra iTunes">
 <!ENTITY device.tools.reset_warnings.title "Nulstil advarsler">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Fuld skærm">
 <!ENTITY tooltip.browser.refresh "Genindlæs">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Tilføjelser...">
+<!ENTITY menu.extensions "Tilføjelser">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Fuld bas og diskant">
 <!ENTITY menu.edit.copy "Kopier">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Prøv igen efter din enhed har fuldført dens nuværende handling.">
 <!ENTITY first_run.connection.settings.description "Er din computer eller dit netværk beskyttet af en firewall eller proxy? Almindelige netværksproblemer kan løses ved at rette forkerte forbindelsesindstillinger.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Hold automatisk øje med ændringer i den følgende mappe">
-<!ENTITY menu.file.metadata "Vis metadata...">
+<!ENTITY menu.file.metadata "Vis metadata">
 <!ENTITY device.info.firmware_version.label "Firmware version">
 <!ENTITY device.info.access.label "Adgangskompatibilitet">
 <!ENTITY tooltip.control.back "Forrige spor">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Tjek automatisk for nyt firmware">
 <!ENTITY smart.least_recent "Mindst nyligt afspillet">
 <!ENTITY menu.tools.getartwork.accesskey "H">
-<!ENTITY menu.help.about "Om &brandShortName;...">
+<!ENTITY menu.help.about "Om &brandShortName;">
 <!ENTITY device.settings.general.label "Generelt">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Mediehåndtering er blevet fjernet fra &brandShortName; siden version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "L">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Henter ny firmware...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Indstillinger...">
+<!ENTITY menu.linux.preferences "Indstillinger">
 <!ENTITY menu.file "Filer">
 <!ENTITY menu.downloadmgr.accesskey "F">
 <!ENTITY import_library.prefs.path_group_caption "Placering af iTunes-musikbibliotek">

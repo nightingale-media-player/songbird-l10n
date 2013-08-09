@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Elrejtés">
 <!ENTITY tooltip.browser.subscription "Feliratkozás">
 <!ENTITY smart.playlistcondition.library "Médiatár">
-<!ENTITY menu.help.bugz "Hibabejelentés">
+<!ENTITY menu.help.bugz "Hibabejelentés...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Mappa változásainak figyelése">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Jelenlegi méret">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Formátum:">
 <!ENTITY about.credits.heading.translators "Fordítók">
 <!ENTITY menu.view "Nézet">
-<!ENTITY menu.preferences "Beállítások...">
+<!ENTITY menu.preferences "Beállítások">
 <!ENTITY command.device.canceldevicedelete "Törlés megszakítása">
 <!ENTITY enable_recommended_addons_update.accesskey "a">
 <!ENTITY wizard.button.finish.label "Befejezés">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Új lejátszólista">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Keret megnyitása az alapértelmezett böngészővel">
 <!ENTITY menu.file.newtab.accesskey "l">
-<!ENTITY menu.file.new "Új lejátszólista">
+<!ENTITY menu.file.new "Új lejátszólista...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "a">
 <!ENTITY menu.edit.copy.accesskey "M">
 <!ENTITY watch_folder.prefs.watch_folder_label "Mappa:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Kivételek...">
 <!ENTITY menu.updateCmd.accessKey "F">
 <!ENTITY menu.file.url "URL megnyitása...">
-<!ENTITY menu.downloadmgr "Letöltések...">
+<!ENTITY menu.downloadmgr "Letöltések">
 <!ENTITY device.settings.auto_launch.checkbox.label "A &brandShortName; indítása az eszköz érzékelésekor">
 <!ENTITY first_run.itunes.checkbox.import.label "Dalok és lejátszólisták importja iTunes-ból">
 <!ENTITY cdrip.lookup.info_not_found.title "CD-információ nem található">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "mellőzze az eszköz használatát">
 <!ENTITY tooltip.displaypane.options "Tartalomablak beállításai">
 <!ENTITY menu.tools.exportmedia "Médiatár változásainak exportálása">
-<!ENTITY menu.mac.preferences "Beállítások...">
+<!ENTITY menu.mac.preferences "Beállítások">
 <!ENTITY menu.mac.exit.key "K">
 <!ENTITY import_library.dirty_playlist_dialog.replace "A &brandShortName; lejátszólista felülírása a jelenlegi iTunes lejátszólistával.">
 <!ENTITY device.tools.reset_warnings.title "Figyelmeztetések visszaállítása">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Teljes képernyő">
 <!ENTITY tooltip.browser.refresh "Aktuális oldal újratöltése">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Kiegészítők...">
+<!ENTITY menu.extensions "Kiegészítők">
 <!ENTITY equalizer.preset.club "Klub">
 <!ENTITY equalizer.preset.full_bass_treble "Teljes basszus és közép">
 <!ENTITY menu.edit.copy "Másolás">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Próbálja újra, amint az eszköz befejezte a jelenlegi műveletet.">
 <!ENTITY first_run.connection.settings.description "A számítógép vagy a hálózat tűzfal, vagy proxy védelme alatt áll? A kapcsolat helyes beállítsa segíthet kiküszöbölni az általános hálózati problémákat.">
 <!ENTITY watch_folder.prefs.enable_checkbox "A következő mappák változásait automatikusan kövesse">
-<!ENTITY menu.file.metadata "Metaadatok megtekintése...">
+<!ENTITY menu.file.metadata "Metaadatok megtekintése">
 <!ENTITY device.info.firmware_version.label "Firmware verziója">
 <!ENTITY device.info.access.label "Hozzáférési kompatibilitás">
 <!ENTITY tooltip.control.back "Előző dal">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Új firmware automatikus keresése">
 <!ENTITY smart.least_recent "legrégebbi">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "A &brandShortName; névjegye...">
+<!ENTITY menu.help.about "A &brandShortName; névjegye">
 <!ENTITY device.settings.general.label "Általános">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "b">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Új firmware letöltése...">
 <!ENTITY cdrip.prefpane.format "Formátum">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Beállítások...">
+<!ENTITY menu.linux.preferences "Beállítások">
 <!ENTITY menu.file "Fájl">
 <!ENTITY menu.downloadmgr.accesskey "F">
 <!ENTITY import_library.prefs.path_group_caption "iTunes médiatár helye">

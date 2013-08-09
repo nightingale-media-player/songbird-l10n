@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Сокриј">
 <!ENTITY tooltip.browser.subscription "Претплати ме на оваа страница">
 <!ENTITY smart.playlistcondition.library "Библиотека">
-<!ENTITY menu.help.bugz "Испрати извештај за бубачка">
+<!ENTITY menu.help.bugz "Испрати извештај за бубачка...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Набљудувај ја оваа папка за промени">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -73,7 +73,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.mediaview.format_label "Format: ">
 <!ENTITY about.credits.heading.translators "Преведувачи">
 <!ENTITY menu.view "Види">
-<!ENTITY menu.preferences "Опции...">
+<!ENTITY menu.preferences "Опции">
 <!ENTITY command.device.canceldevicedelete "Откажи го избришењето">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Заврши">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "Нова плејлиста">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Отвори ја рамката во зададениот веб прелистувач">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Нова плејлиста">
+<!ENTITY menu.file.new "Нова плејлиста...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Папка:">
@@ -204,7 +204,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY rapi.whitelist.label "Исклучоци...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Отвори локација...">
-<!ENTITY menu.downloadmgr "Превземани датотеки...">
+<!ENTITY menu.downloadmgr "Превземани датотеки">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Информации за Cd-то не се пронајдени">
@@ -267,7 +267,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "Преференции...">
+<!ENTITY menu.mac.preferences "Преференции">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Замени ја оваа плејлиста од &brandShortName; со тековната плејлиста на  iTunes">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -373,7 +373,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY videowindow.fullscreen "Full Screen">
 <!ENTITY tooltip.browser.refresh "Освежи">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Додатоци...">
+<!ENTITY menu.extensions "Додатоци">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "Копирај">
@@ -556,7 +556,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Набљудувај автоматски за промени во следната папка">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY device.info.firmware_version.label "Firmware Version">
 <!ENTITY device.info.access.label "Подносливост на пристап">
 <!ENTITY tooltip.control.back "Претходна песна">
@@ -604,7 +604,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "least recently played">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "За &brandShortName;...">
+<!ENTITY menu.help.about "За &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -636,7 +636,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Преференции...">
+<!ENTITY menu.linux.preferences "Преференции">
 <!ENTITY menu.file "Датотека">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Локација на библиотека за музика на iTunes">

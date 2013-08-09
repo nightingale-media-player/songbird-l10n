@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ascunde">
 <!ENTITY tooltip.browser.subscription "Abonare la această pagină">
 <!ENTITY smart.playlistcondition.library "Bibliotecă">
-<!ENTITY menu.help.bugz "Raportează un defect">
+<!ENTITY menu.help.bugz "Raportează un defect...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Supraveghează acest dosar pentru schimbări">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Dimensiunea reală">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format:">
 <!ENTITY about.credits.heading.translators "Translatorii">
 <!ENTITY menu.view "Vizualizare">
-<!ENTITY menu.preferences "Opțiuni...">
+<!ENTITY menu.preferences "Opțiuni">
 <!ENTITY command.device.canceldevicedelete "Anulează ștergerea">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Termină">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Listă de redare nouă">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Deschide cadrul în navigatorul de internet implicit">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Listă de redare nouă">
+<!ENTITY menu.file.new "Listă de redare nouă...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Dosar:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Excepții de...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Deschide o adresă...">
-<!ENTITY menu.downloadmgr "Descărcări de fișiere...">
+<!ENTITY menu.downloadmgr "Descărcări de fișiere">
 <!ENTITY device.settings.auto_launch.checkbox.label "Deschide &brandShortName; când acest dispozitiv este detectat">
 <!ENTITY first_run.itunes.checkbox.import.label "Importă piese și liste de redare din iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Nu au fost găsite informațiile despre CD">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorați acest dispozitiv">
 <!ENTITY tooltip.displaypane.options "Opțiunile spațiului de conținut">
 <!ENTITY menu.tools.exportmedia "Exportă schimbările bibliotecii">
-<!ENTITY menu.mac.preferences "Preferințe...">
+<!ENTITY menu.mac.preferences "Preferințe">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Înlocuiește această listă de redare din &brandShortName; cu cea actuală din iTunes">
 <!ENTITY device.tools.reset_warnings.title "Resetare avertizări">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Pe tot ecranul">
 <!ENTITY tooltip.browser.refresh "Reîmprospătare">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Extensii...">
+<!ENTITY menu.extensions "Extensii">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Numai bass și înalte">
 <!ENTITY menu.edit.copy "Copiază">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Vă rugăm să încercați din nou după ce dispozitivul a completat operațiunea actuală.">
 <!ENTITY first_run.connection.settings.description "Calculatorul și rețeaua dumneavoastră sunt protejate printr-un firewall sau proxy? Repararea unor setări incorecte ale conexiunii poate ajuta în remedierea multor probleme de rețea des întâlnite.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Detectează automat schimbările apărute în următorul dosar">
-<!ENTITY menu.file.metadata "Vizualizare metadate...">
+<!ENTITY menu.file.metadata "Vizualizare metadate">
 <!ENTITY device.info.firmware_version.label "Versiune firmware">
 <!ENTITY device.info.access.label "Compatibilitate acces">
 <!ENTITY tooltip.control.back "Piesa precedentă">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Verifică automat pentru firmware mai nou">
 <!ENTITY smart.least_recent "cel mai puțin redate recent">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Despre &brandShortName;...">
+<!ENTITY menu.help.about "Despre &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Managementul Media (Mediilor) a fost înlăturat din &brandShortName; începând cu versiunea 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Descărcare firmware nou...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Preferințe...">
+<!ENTITY menu.linux.preferences "Preferințe">
 <!ENTITY menu.file "Fișier">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Locația bibliotecii de muzică din iTunes">

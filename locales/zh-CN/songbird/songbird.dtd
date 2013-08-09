@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "隐藏">
 <!ENTITY tooltip.browser.subscription "订阅此页">
 <!ENTITY smart.playlistcondition.library "媒体库">
-<!ENTITY menu.help.bugz "报告软件缺陷">
+<!ENTITY menu.help.bugz "报告软件缺陷...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "监视该文件夹的改动">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "实际尺寸">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "格式：">
 <!ENTITY about.credits.heading.translators "翻译者">
 <!ENTITY menu.view "显示">
-<!ENTITY menu.preferences "选项...">
+<!ENTITY menu.preferences "选项">
 <!ENTITY command.device.canceldevicedelete "停止删除">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "完成">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "新建播放列表">
 <!ENTITY openFrameCmdInDefaultBrowser.label "在默认浏览器中打开帧">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "新建播放列表">
+<!ENTITY menu.file.new "新建播放列表...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "文件夹：">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "例外...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "按网址打开...">
-<!ENTITY menu.downloadmgr "文件下载...">
+<!ENTITY menu.downloadmgr "文件下载">
 <!ENTITY device.settings.auto_launch.checkbox.label "当侦测到这个设备，运行&brandShortName;">
 <!ENTITY first_run.itunes.checkbox.import.label "从iTunes里导入音轨和播放列表">
 <!ENTITY cdrip.lookup.info_not_found.title "无法找到CD信息">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "忽略此设备">
 <!ENTITY tooltip.displaypane.options "内容面板选项">
 <!ENTITY menu.tools.exportmedia "导出库的改变">
-<!ENTITY menu.mac.preferences "首选项...">
+<!ENTITY menu.mac.preferences "首选项">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "用当前iTunes播放列表替换 &brandShortName; ">
 <!ENTITY device.tools.reset_warnings.title "重置警告">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "全屏">
 <!ENTITY tooltip.browser.refresh "刷新">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "扩展...">
+<!ENTITY menu.extensions "扩展">
 <!ENTITY equalizer.preset.club "Club(俱乐部)">
 <!ENTITY equalizer.preset.full_bass_treble "重低音重高音">
 <!ENTITY menu.edit.copy "复制">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "请在设备完成当前操作后重试。">
 <!ENTITY first_run.connection.settings.description "电脑或网络是否受防火墙或代理保护？修复不正确的连接设置将会帮助解决常见的网络问题。">
 <!ENTITY watch_folder.prefs.enable_checkbox "自动检测下面文件夹的变化">
-<!ENTITY menu.file.metadata "查看元数据...">
+<!ENTITY menu.file.metadata "查看元数据">
 <!ENTITY device.info.firmware_version.label "Firmware版本">
 <!ENTITY device.info.access.label "访问兼容性">
 <!ENTITY tooltip.control.back "上一首音乐">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "自动检查是否有新的固件">
 <!ENTITY smart.least_recent "近期最少播放的">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "关于 &brandShortName;...">
+<!ENTITY menu.help.about "关于 &brandShortName;">
 <!ENTITY device.settings.general.label "一般">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "媒体管理器已经从&brandShortName; 1.10版本中去除。">
 <!ENTITY menu.file.closetab.accesskey "W">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "正在下载新固件...">
 <!ENTITY cdrip.prefpane.format "格式">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "首选项...">
+<!ENTITY menu.linux.preferences "首选项">
 <!ENTITY menu.file "文件">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes 媒体库路径">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "மறை">
 <!ENTITY tooltip.browser.subscription "Subscribe to this page">
 <!ENTITY smart.playlistcondition.library "நூலகம்">
-<!ENTITY menu.help.bugz "Report a Bug">
+<!ENTITY menu.help.bugz "Report a Bug...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "உண்மையான அளவு ">
@@ -73,7 +73,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.mediaview.format_label "வ‌டிவ‌மைத்த‌ல்:">
 <!ENTITY about.credits.heading.translators "மொழிபெயர்பாளர்கள்">
 <!ENTITY menu.view "பார்வை">
-<!ENTITY menu.preferences "தெரிவுகள்...">
+<!ENTITY menu.preferences "தெரிவுகள்">
 <!ENTITY command.device.canceldevicedelete "அழித்தலை ரத்து செய்">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "முடி">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "புதிய இசைப்பட்டியல்">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Open Frame In Default Web Browser">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "புதிய இசைப்பட்டியல்">
+<!ENTITY menu.file.new "புதிய இசைப்பட்டியல்...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "அடைவு:">
@@ -204,7 +204,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY rapi.whitelist.label "Exceptions...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "இடத்தை திற...">
-<!ENTITY menu.downloadmgr "கோப்பு பதிவிறக்கங்கள்...">
+<!ENTITY menu.downloadmgr "கோப்பு பதிவிறக்கங்கள்">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "குறுந்தகடு விவரம் கிடைக்கவில்லை">
@@ -267,7 +267,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.dialog.setup.explainIgnore.linkText "இந்த சாதனத்தை புறக்கணி">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "விருப்பங்கள்...">
+<!ENTITY menu.mac.preferences "விருப்பங்கள்">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -373,7 +373,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY videowindow.fullscreen "முழுத்திரையில் ">
 <!ENTITY tooltip.browser.refresh "மீளேற்று">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "செருகல்கள்...">
+<!ENTITY menu.extensions "செருகல்கள்">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "நகலெடு">
@@ -604,7 +604,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "தானாக புதிய மென்பொருள் உள்ளதா எனப்பார்">
 <!ENTITY smart.least_recent "least recently played">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "&brandShortName; பற்றி...">
+<!ENTITY menu.help.about "&brandShortName; பற்றி">
 <!ENTITY device.settings.general.label "பொதுவான">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -636,7 +636,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.download.title "புதிய‌ மென்பொருளை இற‌க்க‌ம் செய்கிற‌து">
 <!ENTITY cdrip.prefpane.format "வடிவம் ">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "விருப்பங்கள்...">
+<!ENTITY menu.linux.preferences "விருப்பங்கள்">
 <!ENTITY menu.file "கோப்பு">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Music Library Location">

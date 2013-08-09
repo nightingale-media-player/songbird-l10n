@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Kudha">
 <!ENTITY tooltip.browser.subscription "Gwruthyl Ragbren">
 <!ENTITY smart.playlistcondition.library "Lyverva">
-<!ENTITY menu.help.bugz "Derivas Pryv">
+<!ENTITY menu.help.bugz "Derivas Pryv...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Golyas an blegel ma rag chanjyow">
 <!ENTITY equalizer.band3.label "0">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Furvas:">
 <!ENTITY about.credits.heading.translators "Treylyoryon">
 <!ENTITY menu.view "Gweles">
-<!ENTITY menu.preferences "Dewisyansow...">
+<!ENTITY menu.preferences "Dewisyansow">
 <!ENTITY command.device.canceldevicedelete "Hedhi Dilea">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Gorfenna">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Marnas...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Ygeri dhyworth URL...">
-<!ENTITY menu.downloadmgr "Iskargansow Restren...">
+<!ENTITY menu.downloadmgr "Iskargansow Restren">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Ymperthi hynsow ha kanrolyow dhyworth iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "Dewisyansow...">
+<!ENTITY menu.mac.preferences "Dewisyansow">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Aslea an ganrol &brandShortName; ma gans an ganrol iTunes a-lemmyn">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Skrin Leun">
 <!ENTITY tooltip.browser.refresh "Dasnowedha">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Keworansow...">
+<!ENTITY menu.extensions "Keworansow">
 <!ENTITY equalizer.preset.club "Klub">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "Kopia">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "Yw dha jynn-amontya po rosweyth gwithys gans fos-tan po proksi? Ewnhe Settyansow Omjunya kamm a yll digelmi nebes problemow rosweyth kemmyn.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Golyas awtomatek rag chanjyow y&apos;n blegel a dheu">
-<!ENTITY menu.file.metadata "Gweles Metadata:::">
+<!ENTITY menu.file.metadata "Gweles Metadata">
 <!ENTITY device.info.firmware_version.label "Versyon an Firmware">
 <!ENTITY device.info.access.label "Kesplegyans Hedhans">
 <!ENTITY tooltip.control.back "Hyns Kyns">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Checkya rag firmware nowyth yn awtomatek">
 <!ENTITY smart.least_recent "an kottha senys">
 <!ENTITY menu.tools.getartwork.accesskey "K">
-<!ENTITY menu.help.about "A-dro dhe &brandShortName;...">
+<!ENTITY menu.help.about "A-dro dhe &brandShortName;">
 <!ENTITY device.settings.general.label "Ollgemmyn">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "D">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Owth iskarga fastweyth...">
 <!ENTITY cdrip.prefpane.format "Furvas">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Dewisyansow...">
+<!ENTITY menu.linux.preferences "Dewisyansow">
 <!ENTITY menu.file "Restren">
 <!ENTITY menu.downloadmgr.accesskey "I">
 <!ENTITY import_library.prefs.path_group_caption "Tyller Lyverva Ilow iTunes">

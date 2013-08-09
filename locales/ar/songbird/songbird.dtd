@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "إخفاء">
 <!ENTITY tooltip.browser.subscription "إشترك في هذه الصفحة">
 <!ENTITY smart.playlistcondition.library "مكتبة">
-<!ENTITY menu.help.bugz "أبلغ عن خطأ">
+<!ENTITY menu.help.bugz "أبلغ عن خطأ...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "قم بمراقبة هذا المجلد للتغييرات">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "الحجم الفعلي">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "تهيئه : ">
 <!ENTITY about.credits.heading.translators "المترجمون">
 <!ENTITY menu.view "عرض">
-<!ENTITY menu.preferences "خيارات...">
+<!ENTITY menu.preferences "خيارات">
 <!ENTITY command.device.canceldevicedelete "ايقاف الحذف">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "إتمام">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "قائمة جديدة">
 <!ENTITY openFrameCmdInDefaultBrowser.label "افتح الإطار في متصفح الشبكة المبدئي">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "قائمة جديدة">
+<!ENTITY menu.file.new "قائمة جديدة...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "المجلد:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "استثناءات...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "افتح مكاناً...">
-<!ENTITY menu.downloadmgr "تنزيل الملفات ...">
+<!ENTITY menu.downloadmgr "تنزيل الملفات">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "استيراد مقطوعات الموسيقي وقوائم التشغيل من اي تيونز">
 <!ENTITY cdrip.lookup.info_not_found.title "لم يتم ايجاد معلومات القرص المضغوط">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "تجاهل هذاالجهاز">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "استيراد تغييرات المكتبة">
-<!ENTITY menu.mac.preferences "تفضيلات...">
+<!ENTITY menu.mac.preferences "تفضيلات">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "قم باستبدال قائمة &brandShortName; بقائمة آي تيونز iTunes الحالية">
 <!ENTITY device.tools.reset_warnings.title "مسح الاخطا">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "الشاشه كامله الحجم">
 <!ENTITY tooltip.browser.refresh "أعد التنزيل">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "الإضافات ...">
+<!ENTITY menu.extensions "الإضافات">
 <!ENTITY equalizer.preset.club "نادي">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "انسخ">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "تديث نظام التشغيل دوريا">
 <!ENTITY smart.least_recent "الأقدم تشغيلاً">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "&brandShortName;... معلومات عن ">
+<!ENTITY menu.help.about "&brandShortName; معلومات عن ">
 <!ENTITY device.settings.general.label "عام">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "تحميل تظام ثابت جديد">
 <!ENTITY cdrip.prefpane.format "تهيئه">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "تفضيلات...">
+<!ENTITY menu.linux.preferences "تفضيلات">
 <!ENTITY menu.file "ملف">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "مكان قائمة موسيقى iTunes">

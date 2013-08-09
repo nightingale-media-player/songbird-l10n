@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ẩn">
 <!ENTITY tooltip.browser.subscription "Đăng kí vào trang này">
 <!ENTITY smart.playlistcondition.library "Thư viện">
-<!ENTITY menu.help.bugz "Báo cáo lỗi">
+<!ENTITY menu.help.bugz "Báo cáo lỗi...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Xem xét sự thay đổi của thư mục này">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Kích Thước Thật">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Định dạng:">
 <!ENTITY about.credits.heading.translators "Người dịch">
 <!ENTITY menu.view "Hiển thị">
-<!ENTITY menu.preferences "Các tùy chọn...">
+<!ENTITY menu.preferences "Các tùy chọn">
 <!ENTITY command.device.canceldevicedelete "Hủy việc Xóa">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Kết thúc">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Danh sách nhạc mới">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Mở khung này bằng trình duyệt Web mặc định">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Danh sách nhạc mới">
+<!ENTITY menu.file.new "Danh sách nhạc mới...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Thư mục:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Ngoại lệ...">
 <!ENTITY menu.updateCmd.accessKey "U">
 <!ENTITY menu.file.url "Mở từ URL">
-<!ENTITY menu.downloadmgr "Tải tập tin...">
+<!ENTITY menu.downloadmgr "Tải tập tin">
 <!ENTITY device.settings.auto_launch.checkbox.label "Mở &brandShortName; khi thiết bị được phát hiện">
 <!ENTITY first_run.itunes.checkbox.import.label "Nhập nhạc và danh sách nhạc từ iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Không tìm thấy thông tin CD">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "bác bỏ thiết bị này">
 <!ENTITY tooltip.displaypane.options "Tùy chọn Bảng Nội dung">
 <!ENTITY menu.tools.exportmedia "Xuất các thay đổi của thư viện">
-<!ENTITY menu.mac.preferences "Tùy chọn...">
+<!ENTITY menu.mac.preferences "Tùy chọn">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Thay thế playlist &brandShortName; với playlist hiện tại của iTunes">
 <!ENTITY device.tools.reset_warnings.title "Thiết lập lại các cảnh báo">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Toàn Màn Hình">
 <!ENTITY tooltip.browser.refresh "Làm mới">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Các phần mở rộng...">
+<!ENTITY menu.extensions "Các phần mở rộng">
 <!ENTITY equalizer.preset.club "Vũ trường">
 <!ENTITY equalizer.preset.full_bass_treble "Full bass và treble">
 <!ENTITY menu.edit.copy "Sao chép">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Xin vui lòng thử lại sau khi thiết bị của bạn đã hoàn thành hoạt động hiện tại của nó.">
 <!ENTITY first_run.connection.settings.description "Máy tính của bạn có kết nối thông qua tường lửa hoặc proxy không? Chỉnh sửa lại các Thiết lập kết nối chưa đúng có thể sẽ giải quyết được nhiều vấn đề về mạng thường gặp.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Tự động theo dõi thay đổi trong thư mục sau">
-<!ENTITY menu.file.metadata "Xem siêu dữ liệu...">
+<!ENTITY menu.file.metadata "Xem siêu dữ liệu">
 <!ENTITY device.info.firmware_version.label "Phiên bản Firmware">
 <!ENTITY device.info.access.label "Tương thích truy cập">
 <!ENTITY tooltip.control.back "Bài hát trước">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Tự động kiểm tra firmware mới">
 <!ENTITY smart.least_recent "cách hiện tại xa nhất">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Về &brandShortName;...">
+<!ENTITY menu.help.about "Về &brandShortName;">
 <!ENTITY device.settings.general.label "Chung">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Đang tải xuống firmware mới...">
 <!ENTITY cdrip.prefpane.format "Định dạng">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Sở thích ...">
+<!ENTITY menu.linux.preferences "Sở thích">
 <!ENTITY menu.file "Tập tin">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Nơi chưa thư viện nhạc iTunes">

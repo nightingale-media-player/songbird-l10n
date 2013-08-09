@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Fela">
 <!ENTITY tooltip.browser.subscription "Búa til áskrift">
 <!ENTITY smart.playlistcondition.library "Safn">
-<!ENTITY menu.help.bugz "Láta vita af galla">
+<!ENTITY menu.help.bugz "Láta vita af galla...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Fylgjast með breytingum í þessari möppu">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "rétt stærð">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Forsníða:">
 <!ENTITY about.credits.heading.translators "Þýðendur">
 <!ENTITY menu.view "Skoða">
-<!ENTITY menu.preferences "Stillingar...">
+<!ENTITY menu.preferences "Stillingar">
 <!ENTITY command.device.canceldevicedelete "Hætta við eyðingu">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Ljúka">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nýr lagalisti">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Opna ramma í sjálfgefnum vafra">
 <!ENTITY menu.file.newtab.accesskey "f">
-<!ENTITY menu.file.new "Nýr lagalisti">
+<!ENTITY menu.file.new "Nýr lagalisti...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "A">
 <!ENTITY watch_folder.prefs.watch_folder_label "Möppur:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Undantekningar...">
 <!ENTITY menu.updateCmd.accessKey "p">
 <!ENTITY menu.file.url "Opna slóð...">
-<!ENTITY menu.downloadmgr "Niðurhalaðar skrár...">
+<!ENTITY menu.downloadmgr "Niðurhalaðar skrár">
 <!ENTITY device.settings.auto_launch.checkbox.label "Opna &brandShortName; þegar þetta tæki finnst">
 <!ENTITY first_run.itunes.checkbox.import.label "Flytja inn lög og spilunarlista frá iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Upplýsingar um disk fundust ekki">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "hunsa þetta tæki">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Flytja út breytingar á safni">
-<!ENTITY menu.mac.preferences "Stillingar...">
+<!ENTITY menu.mac.preferences "Stillingar">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Skipta þessum &brandShortName; lagalista út fyrir núverandi iTunes lagalista.">
 <!ENTITY device.tools.reset_warnings.title "Endurstilla aðvaranir">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Fullan skjá">
 <!ENTITY tooltip.browser.refresh "Endurnýja">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Viðbætur...">
+<!ENTITY menu.extensions "Viðbætur">
 <!ENTITY equalizer.preset.club "Klúbbur">
 <!ENTITY equalizer.preset.full_bass_treble "Fullur bassi og hátíðni">
 <!ENTITY menu.edit.copy "Afrita">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Reyndu aftur eftir að tækið hefur lokið núverandi aðgerð.">
 <!ENTITY first_run.connection.settings.description "Er tölvan þín eða net varið af eldvegg eða proxýju? Lagfæringar á röngum stillingum geta lagað flest netvandamál.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Sjálfkrafa fylgjast með breytingum í eftirfarandi möppu">
-<!ENTITY menu.file.metadata "Skoða lýsigögn...">
+<!ENTITY menu.file.metadata "Skoða lýsigögn">
 <!ENTITY device.info.firmware_version.label "Útgáfa fastbúnaðar">
 <!ENTITY device.info.access.label "Aðgangssamhæfni">
 <!ENTITY tooltip.control.back "Fyrra lag">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Athuga sjálfvirkt með nýjan fastbúnað">
 <!ENTITY smart.least_recent "minnst spilað">
 <!ENTITY menu.tools.getartwork.accesskey "p">
-<!ENTITY menu.help.about "Um &brandShortName;...">
+<!ENTITY menu.help.about "Um &brandShortName;">
 <!ENTITY device.settings.general.label "Almennt">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "L">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Niðurhala fastbúnaði...">
 <!ENTITY cdrip.prefpane.format "Forsníða">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Stillingar...">
+<!ENTITY menu.linux.preferences "Stillingar">
 <!ENTITY menu.file "Skrá">
 <!ENTITY menu.downloadmgr.accesskey "N">
 <!ENTITY import_library.prefs.path_group_caption "Staðsetning iTunes tónlistarsafns">

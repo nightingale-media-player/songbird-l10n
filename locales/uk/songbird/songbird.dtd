@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Приховати">
 <!ENTITY tooltip.browser.subscription "Підписатись на цю сторінку">
 <!ENTITY smart.playlistcondition.library "Збірка">
-<!ENTITY menu.help.bugz "Повідомити про помилку">
+<!ENTITY menu.help.bugz "Повідомити про помилку...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Слідкувати за змінами у цій теці">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Фактичний розмір">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Формат:">
 <!ENTITY about.credits.heading.translators "Перекладачі">
 <!ENTITY menu.view "Вигляд">
-<!ENTITY menu.preferences "Налаштування...">
+<!ENTITY menu.preferences "Налаштування">
 <!ENTITY command.device.canceldevicedelete "Скасувати стирання">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Завершити">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Новий список відтворення">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Відкрити фрейм у типовому браузері">
 <!ENTITY menu.file.newtab.accesskey "Н">
-<!ENTITY menu.file.new "Новий список відтворення">
+<!ENTITY menu.file.new "Новий список відтворення...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "В">
 <!ENTITY menu.edit.copy.accesskey "п">
 <!ENTITY watch_folder.prefs.watch_folder_label "Тека:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Винятки ...">
 <!ENTITY menu.updateCmd.accessKey "е">
 <!ENTITY menu.file.url "Відкрити в інтернеті...">
-<!ENTITY menu.downloadmgr "Завантажені файли...">
+<!ENTITY menu.downloadmgr "Завантажені файли">
 <!ENTITY device.settings.auto_launch.checkbox.label "Відкрийте &brandShortName; коли цей пристрій буде розпізнано">
 <!ENTITY first_run.itunes.checkbox.import.label "Імпортувати доріжки та списки відтворення з iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Не знайдено інформації про CD">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ігнорувати цей пристрій">
 <!ENTITY tooltip.displaypane.options "Параметри панелі інформації">
 <!ENTITY menu.tools.exportmedia "Експортувати зміни бібліотеки">
-<!ENTITY menu.mac.preferences "Налаштування...">
+<!ENTITY menu.mac.preferences "Налаштування">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Замінити цей список відтворення &brandShortName; поточним списком iTunes">
 <!ENTITY device.tools.reset_warnings.title "Видалити попередження">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "На весь екран">
 <!ENTITY tooltip.browser.refresh "Оновити">
 <!ENTITY rapi.library_write_disable.accesskey "д">
-<!ENTITY menu.extensions "Додатки...">
+<!ENTITY menu.extensions "Додатки">
 <!ENTITY equalizer.preset.club "Клубна">
 <!ENTITY equalizer.preset.full_bass_treble "Максимальні низькі та високі частоти">
 <!ENTITY menu.edit.copy "Копіювати">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Будь ласка, спробуйте знову після того, як ця ваш пристрій завершить дану операцію.">
 <!ENTITY first_run.connection.settings.description "Чи є ваш комп&apos;ютер або мережа захищені міжмережевим екраном або проксі-сервером? Усунення неправильних налаштувань може допомогти вирішити загальні проблеми мережі.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Автоматично слідкувати за змінами в наступній теці">
-<!ENTITY menu.file.metadata "Переглянути метадані...">
+<!ENTITY menu.file.metadata "Переглянути метадані">
 <!ENTITY device.info.firmware_version.label "Версія прошивки">
 <!ENTITY device.info.access.label "Сумісність">
 <!ENTITY tooltip.control.back "Попередня доріжка">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Автоматично перевіряти доступність нової прошивки">
 <!ENTITY smart.least_recent "відтворені раніше">
 <!ENTITY menu.tools.getartwork.accesskey "О">
-<!ENTITY menu.help.about "Про &brandShortName;...">
+<!ENTITY menu.help.about "Про &brandShortName;">
 <!ENTITY device.settings.general.label "Загальний">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Режим керування був вилучений в Sonbird версії 1.10.">
 <!ENTITY menu.file.closetab.accesskey "З">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Завантаження нової прошивки...">
 <!ENTITY cdrip.prefpane.format "Формат">
 <!ENTITY smart.mb "Мб">
-<!ENTITY menu.linux.preferences "Налаштування...">
+<!ENTITY menu.linux.preferences "Налаштування">
 <!ENTITY menu.file "Файл">
 <!ENTITY menu.downloadmgr.accesskey "З">
 <!ENTITY import_library.prefs.path_group_caption "Розташування музичної Збірки iTunes">

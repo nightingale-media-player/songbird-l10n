@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Skrij">
 <!ENTITY tooltip.browser.subscription "Naroči se na to stran">
 <!ENTITY smart.playlistcondition.library "Knjižnica">
-<!ENTITY menu.help.bugz "Prijavi hrošča">
+<!ENTITY menu.help.bugz "Prijavi hrošča ...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Spremljaj spremembe v tej mapi">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Dejanska velikost">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Zapis:">
 <!ENTITY about.credits.heading.translators "Prevajalci">
 <!ENTITY menu.view "Pogled">
-<!ENTITY menu.preferences "Možnosti ...">
+<!ENTITY menu.preferences "Možnosti">
 <!ENTITY command.device.canceldevicedelete "Prekliči brisanje">
 <!ENTITY enable_recommended_addons_update.accesskey "d">
 <!ENTITY wizard.button.finish.label "Dokončaj">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nov seznam predvajanja">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Odpri okvir v privzetem brskalniku">
 <!ENTITY menu.file.newtab.accesskey "Z">
-<!ENTITY menu.file.new "Nov seznam predvajanja">
+<!ENTITY menu.file.new "Nov seznam predvajanja ...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Mapa:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Izjeme ...">
 <!ENTITY menu.updateCmd.accessKey "b">
 <!ENTITY menu.file.url "Odpri mesto ...">
-<!ENTITY menu.downloadmgr "Prenosi ...">
+<!ENTITY menu.downloadmgr "Prenosi">
 <!ENTITY device.settings.auto_launch.checkbox.label "Odpri &brandShortName;, ko je zaznana ta naprava">
 <!ENTITY first_run.itunes.checkbox.import.label "Uvozi posnetke in sezname predvajanja iz iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Podatkov o zgoščenki ni mogoče najti">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "to napravo prezrete">
 <!ENTITY tooltip.displaypane.options "Možnosti podokna vsebine">
 <!ENTITY menu.tools.exportmedia "Izvozi spremembe knjižnice">
-<!ENTITY menu.mac.preferences "Nastavitve ...">
+<!ENTITY menu.mac.preferences "Nastavitve">
 <!ENTITY menu.mac.exit.key "z">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Nadomesti seznam predvajanja &brandShortName; s trenutnim seznamom predvajanja iTunes">
 <!ENTITY device.tools.reset_warnings.title "Ponastavi opozorila">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Celozaslonsko">
 <!ENTITY tooltip.browser.refresh "Osveži">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Dodatki ...">
+<!ENTITY menu.extensions "Dodatki">
 <!ENTITY equalizer.preset.club "Klub">
 <!ENTITY equalizer.preset.full_bass_treble "Polni nizki in visoki toni">
 <!ENTITY menu.edit.copy "Kopiraj">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Poskusite znova, ko bo vaša naprava končala s trenutnim opravilom.">
 <!ENTITY first_run.connection.settings.description "Je vaš računalnik za požarnim zidom ali posredovalnim strežnikom? Popravljanje nepravilnih nastavitev povezave lahko pomaga razrešiti običajne težave z omrežjem.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Samodejno glej za spremembami v naslednji mapi">
-<!ENTITY menu.file.metadata "Pokaži metapodatke ...">
+<!ENTITY menu.file.metadata "Pokaži metapodatke">
 <!ENTITY device.info.firmware_version.label "Različica strojnega programa">
 <!ENTITY device.info.access.label "Združljivost dostopa">
 <!ENTITY tooltip.control.back "Prejšnji posnetek">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Samodejno poišči nov stojni program">
 <!ENTITY smart.least_recent "najmanj nedavno predvajan">
 <!ENTITY menu.tools.getartwork.accesskey "N">
-<!ENTITY menu.help.about "O programu &brandShortName; ...">
+<!ENTITY menu.help.about "O programu &brandShortName;">
 <!ENTITY device.settings.general.label "Splošno">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Z različico 1.10 je bilo iz &brandShortName; odpravljeno upravljanje z mediji.">
 <!ENTITY menu.file.closetab.accesskey "Z">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Prenašanje novega strojnega programa ...">
 <!ENTITY cdrip.prefpane.format "Zapis">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Nastavitve ...">
+<!ENTITY menu.linux.preferences "Nastavitve">
 <!ENTITY menu.file "Datoteka">
 <!ENTITY menu.downloadmgr.accesskey "P">
 <!ENTITY import_library.prefs.path_group_caption "Mesto glasbene knjižnice iTunes">

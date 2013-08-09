@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "پنهان کن">
 <!ENTITY tooltip.browser.subscription "عضویت در این صفحه">
 <!ENTITY smart.playlistcondition.library "کتابخانه">
-<!ENTITY menu.help.bugz "گزارش باگ">
+<!ENTITY menu.help.bugz "گزارش باگ...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "تغییرات  این فولدر را در نظر بگیر">
 <!ENTITY equalizer.band3.label "۲۵۰">
 <!ENTITY videowindow.actualsize "اندازه حقیقی">
@@ -73,7 +73,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.mediaview.format_label "فرمت:">
 <!ENTITY about.credits.heading.translators "مترجمان">
 <!ENTITY menu.view "View">
-<!ENTITY menu.preferences "اختیارات...">
+<!ENTITY menu.preferences "اختیارات">
 <!ENTITY command.device.canceldevicedelete "انصراف از حذف">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "پایان">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "فهرست پخش جدید">
 <!ENTITY openFrameCmdInDefaultBrowser.label "باز کردن فریم در مرورگر پیش فرض">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "فهرست پخش جدید">
+<!ENTITY menu.file.new "فهرست پخش جدید...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "پوشه">
@@ -204,7 +204,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY rapi.whitelist.label "استثناها">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "باز کردن آدرس...">
-<!ENTITY menu.downloadmgr "دانلودها...">
+<!ENTITY menu.downloadmgr "دانلودها">
 <!ENTITY device.settings.auto_launch.checkbox.label "&brandShortName; را زمانی که شناخته شد باز کن">
 <!ENTITY first_run.itunes.checkbox.import.label "ورود ترک ها و لیست پخش های موسیقی از آیتونز">
 <!ENTITY cdrip.lookup.info_not_found.title "اطلاعات سی دی پیدا نشد">
@@ -267,7 +267,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.dialog.setup.explainIgnore.linkText "درنظر نگرفتن دستگاه">
 <!ENTITY tooltip.displaypane.options "گزینه های پنجره محتوا">
 <!ENTITY menu.tools.exportmedia "خروج تغییرات کتابخانه">
-<!ENTITY menu.mac.preferences "تنظیمات ...">
+<!ENTITY menu.mac.preferences "تنظیمات">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "جایگزینی &brandShortName; فعلی با فهرست پخش فعلی آیتونز">
 <!ENTITY device.tools.reset_warnings.title "بازنشانی هشدارها">
@@ -373,7 +373,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY videowindow.fullscreen "تمام صفحه">
 <!ENTITY tooltip.browser.refresh "رفرش">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "افزونه‌ها...">
+<!ENTITY menu.extensions "افزونه‌ها">
 <!ENTITY equalizer.preset.club "انجمنی">
 <!ENTITY equalizer.preset.full_bass_treble "بم تمام و صدای زیر">
 <!ENTITY menu.edit.copy "کپی">
@@ -604,7 +604,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "بررسی خودکار برای سیستم عامل جدیدتر">
 <!ENTITY smart.least_recent "به تازه گی کمتر از همه پخش شده">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "درباره‌ی &brandShortName;...">
+<!ENTITY menu.help.about "درباره‌ی &brandShortName;">
 <!ENTITY device.settings.general.label "عمومی">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">

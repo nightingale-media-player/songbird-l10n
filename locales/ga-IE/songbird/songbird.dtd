@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Folaigh">
 <!ENTITY tooltip.browser.subscription "Subscribe to this page">
 <!ENTITY smart.playlistcondition.library "Leabharlann">
-<!ENTITY menu.help.bugz "Fógraigh Fabht">
+<!ENTITY menu.help.bugz "Fógraigh Fabht...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Coinnigh súil ar an bhfillteán seo le haghaidh athruithe">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Fíormhéid">
@@ -73,7 +73,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.mediaview.format_label "Format: ">
 <!ENTITY about.credits.heading.translators "Aistritheoirí">
 <!ENTITY menu.view "Amharc">
-<!ENTITY menu.preferences "Roghanna...">
+<!ENTITY menu.preferences "Roghanna">
 <!ENTITY command.device.canceldevicedelete "Cealaigh an Scriosadh">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Críochnaigh">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "Seinnréim Nua">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Oscail an Fráma sa Líonléitheoir Réamhshocraithe">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Seinnréim Nua">
+<!ENTITY menu.file.new "Seinnréim Nua...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Fillteán:">
@@ -204,7 +204,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY rapi.whitelist.label "Cumraigh">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Oscail ó URL...">
-<!ENTITY menu.downloadmgr "Íosluchtuithe Comhaid...">
+<!ENTITY menu.downloadmgr "Íosluchtuithe Comhaid">
 <!ENTITY device.settings.auto_launch.checkbox.label "Oscail &brandShortName; nuair a aimsítear an gléas seo">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
@@ -373,7 +373,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY videowindow.fullscreen "Lánscáileán">
 <!ENTITY tooltip.browser.refresh "Athnuaigh">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Breiseáin...">
+<!ENTITY menu.extensions "Breiseáin">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "Macasamhlaigh">
@@ -556,7 +556,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Faire amach go huathoibríoch do athruithe sa bhfillteán seo a leanas">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY device.info.firmware_version.label "Firmware Version">
 <!ENTITY device.info.access.label "Access Compatibility">
 <!ENTITY tooltip.control.back "An Rian Roimhe">
@@ -604,7 +604,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Téigh ar thóir dochtearraí nua go huathoibríoch">
 <!ENTITY smart.least_recent "is lú seinnte le déanaí">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Maidir le &brandShortName;...">
+<!ENTITY menu.help.about "Maidir le &brandShortName;">
 <!ENTITY device.settings.general.label "Coiteann">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "W">
@@ -636,7 +636,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.download.title "Ag íosluchtú dochtearraí nua...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Sainroghanna...">
+<!ENTITY menu.linux.preferences "Sainroghanna">
 <!ENTITY menu.file "Comhad">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Conair na Leabharlainne">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Slėpti">
 <!ENTITY tooltip.browser.subscription "Kurti prenumeratą">
 <!ENTITY smart.playlistcondition.library "Biblioteka">
-<!ENTITY menu.help.bugz "Pranešti apie klaidą">
+<!ENTITY menu.help.bugz "Pranešti apie klaidą...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Stebėti aplanką dėl pokyčių">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Tikrasis dydis">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Formatas:">
 <!ENTITY about.credits.heading.translators "Vertėjai">
 <!ENTITY menu.view "Rodymas">
-<!ENTITY menu.preferences "Nuostatos...">
+<!ENTITY menu.preferences "Nuostatos">
 <!ENTITY command.device.canceldevicedelete "Nutraukti pašalinimą">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Baigti">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Konfigūruoti">
 <!ENTITY menu.updateCmd.accessKey "T">
 <!ENTITY menu.file.url "Atverti adresą…">
-<!ENTITY menu.downloadmgr "Atsiuntimai…">
+<!ENTITY menu.downloadmgr "Atsiuntimai">
 <!ENTITY device.settings.auto_launch.checkbox.label "Atverti &brandShortName; kai aptinkamas šis įrenginys">
 <!ENTITY first_run.itunes.checkbox.import.label "Importuoti takelius ir grojaraščius iš iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD informacija nerasta">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignoruoti šį įrenginį">
 <!ENTITY tooltip.displaypane.options "Turinio juostos nuostatos">
 <!ENTITY menu.tools.exportmedia "Eksportuoti bibliotekos pakeitimus">
-<!ENTITY menu.mac.preferences "Nuostatos…">
+<!ENTITY menu.mac.preferences "Nuostatos">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Pakeisti grojaraštį &brandShortName; su dabartiniu iTunes grojaraščiu">
 <!ENTITY device.tools.reset_warnings.title "Iš naujo nustatyti įspėjimus">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Pilnas ekranas">
 <!ENTITY tooltip.browser.refresh "Atnaujinti">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Priedai...">
+<!ENTITY menu.extensions "Priedai">
 <!ENTITY equalizer.preset.club "Klubinė">
 <!ENTITY equalizer.preset.full_bass_treble "Pilni žemi ir aukšti dažniai">
 <!ENTITY menu.edit.copy "Kopijuoti">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Bandykite dar kartą, kai įrenginys baigs vykdyti dabartinę operaciją.">
 <!ENTITY first_run.connection.settings.description "Galbūt kompiuteris ar tinklas apsaugotas ugniasiene ar proxy serveriu? Teisingos prisijungimo nuostatos dažnai išsprendžia kilusius nesklandumus.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatiškai aptikti pasikietimus šiame aplanke">
-<!ENTITY menu.file.metadata "Peržiūrėti metaduomenis...">
+<!ENTITY menu.file.metadata "Peržiūrėti metaduomenis">
 <!ENTITY device.info.firmware_version.label "Įrenginio programos versija">
 <!ENTITY device.info.access.label "Priėjimo suderinamumas">
 <!ENTITY tooltip.control.back "Ankstesnė daina">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Automatiškai ieškoti įrenginio programos atnaujinimų">
 <!ENTITY smart.least_recent "grota seniausiai">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Apie &brandShortName;...">
+<!ENTITY menu.help.about "Apie &brandShortName;">
 <!ENTITY device.settings.general.label "">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "U">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Atsiunčiama nauja įrenginio programa...">
 <!ENTITY cdrip.prefpane.format "Formatas">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Nuostatos…">
+<!ENTITY menu.linux.preferences "Nuostatos">
 <!ENTITY menu.file "Failas">
 <!ENTITY menu.downloadmgr.accesskey "s">
 <!ENTITY import_library.prefs.path_group_caption "Kelias iki bibliotekos">

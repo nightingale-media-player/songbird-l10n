@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Hide">
 <!ENTITY tooltip.browser.subscription "Subscribe to this page">
 <!ENTITY smart.playlistcondition.library "Library">
-<!ENTITY menu.help.bugz "Report a Bug">
+<!ENTITY menu.help.bugz "Report a Bug…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format:">
 <!ENTITY about.credits.heading.translators "Translators">
 <!ENTITY menu.view "View">
-<!ENTITY menu.preferences "Options...">
+<!ENTITY menu.preferences "Options">
 <!ENTITY command.device.canceldevicedelete "Stop Delete">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Continue">
@@ -138,7 +138,7 @@
 <!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
 <!ENTITY window.save "Save">
 <!ENTITY window.no "No">
-<!ENTITY tooltip.servicepane.newnode "New Playlist">
+<!ENTITY tooltip.servicepane.newnode "New Playlist…">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Open Frame In Default Web Browser">
 <!ENTITY menu.file.newtab.accesskey "T">
 <!ENTITY menu.file.new "New Playlist...">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Exceptions...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Open Location...">
-<!ENTITY menu.downloadmgr "File Downloads...">
+<!ENTITY menu.downloadmgr "File Downloads">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "Preferences...">
+<!ENTITY menu.mac.preferences "Preferences">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Full Screen">
 <!ENTITY tooltip.browser.refresh "Refresh">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Add-Ons...">
+<!ENTITY menu.extensions "Add-Ons">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "Copy">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed the current operation.">
 <!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatically watch for changes in the following folder">
-<!ENTITY menu.file.metadata "View Metadata…">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY device.info.firmware_version.label "Firmware Version">
 <!ENTITY device.info.access.label "Access Compatibility">
 <!ENTITY tooltip.control.back "Previous Track">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "least recently played">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "About &brandShortName;...">
+<!ENTITY menu.help.about "About &brandShortName;">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media management has been disabled in &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Preferences...">
+<!ENTITY menu.linux.preferences "Preferences">
 <!ENTITY menu.file "File">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Music Library Location">

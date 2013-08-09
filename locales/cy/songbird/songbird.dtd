@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Cuddio">
 <!ENTITY tooltip.browser.subscription "Creu Tystysgrifiad">
 <!ENTITY smart.playlistcondition.library "Llyfrgell">
-<!ENTITY menu.help.bugz "Adrodd ar Wall">
+<!ENTITY menu.help.bugz "Adrodd ar Wall...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Gwylio&apos;r ffolder am newid">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Maint Gwirioneddol">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Fformat:">
 <!ENTITY about.credits.heading.translators "Cyfieithwyr">
 <!ENTITY menu.view "Gweld">
-<!ENTITY menu.preferences "Dewisiadau...">
+<!ENTITY menu.preferences "Dewisiadau">
 <!ENTITY command.device.canceldevicedelete "Diddymu Dileu">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Gorffen">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Rhestr Chwarae Newydd">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Agor Ffrâm yn y Porwr Rhagosodedig">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Rhestr Chwarae Newydd">
+<!ENTITY menu.file.new "Rhestr Chwarae Newydd...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Ffolder:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Eithriadau...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Agor Lleoliad.">
-<!ENTITY menu.downloadmgr "Llwytho i Lawr...">
+<!ENTITY menu.downloadmgr "Llwytho i Lawr">
 <!ENTITY device.settings.auto_launch.checkbox.label "Agor &brandShortName; pan fydd y ddyfais wedi ei chanfod">
 <!ENTITY first_run.itunes.checkbox.import.label "Mewnforio traciau a rhestrau chwarae o iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Heb ganfod Gwybodaeth CD">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "anwybyddu&apos;r ddyfais hon">
 <!ENTITY tooltip.displaypane.options "Dewisiadau Cynnwys Paen">
 <!ENTITY menu.tools.exportmedia "Allforio Newidiadau&apos;r Llyfrgell">
-<!ENTITY menu.mac.preferences "Dewisiadau...">
+<!ENTITY menu.mac.preferences "Dewisiadau">
 <!ENTITY menu.mac.exit.key "G">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Amnewid rhestr chwarae &brandShortName; am un cyfredol iTunes">
 <!ENTITY device.tools.reset_warnings.title "Ailosod rhybuddion">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Gwirio am galedwar newydd yn awtomatig">
 <!ENTITY smart.least_recent "lleiaf diweddar">
 <!ENTITY menu.tools.getartwork.accesskey "A">
-<!ENTITY menu.help.about "Ynghylch &brandShortName;...">
+<!ENTITY menu.help.about "Ynghylch &brandShortName;">
 <!ENTITY device.settings.general.label "Cyffredinol">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "a">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Llwytho&apos;r cadarnwar newydd i lawr...">
 <!ENTITY cdrip.prefpane.format "Fformat">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Dewisiadau...">
+<!ENTITY menu.linux.preferences "Dewisiadau">
 <!ENTITY menu.file "Ffeil">
 <!ENTITY menu.downloadmgr.accesskey "L">
 <!ENTITY import_library.prefs.path_group_caption "Llwybr Llyfrgell">

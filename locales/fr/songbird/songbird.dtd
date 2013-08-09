@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Masquer">
 <!ENTITY tooltip.browser.subscription "S&apos;abonner">
 <!ENTITY smart.playlistcondition.library "Bibliothèque">
-<!ENTITY menu.help.bugz "Signaler un problème">
+<!ENTITY menu.help.bugz "Signaler un problème...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Surveiller les changements dans ce dossier">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Taille réelle">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format :">
 <!ENTITY about.credits.heading.translators "Traducteurs">
 <!ENTITY menu.view "Afficher">
-<!ENTITY menu.preferences "Options...">
+<!ENTITY menu.preferences "Options">
 <!ENTITY command.device.canceldevicedelete "Annuler la suppression">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Terminer">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Exceptions...">
 <!ENTITY menu.updateCmd.accessKey "R">
 <!ENTITY menu.file.url "Ouvrir l&apos;emplacement...">
-<!ENTITY menu.downloadmgr "Téléchargements de fichiers...">
+<!ENTITY menu.downloadmgr "Téléchargements de fichiers">
 <!ENTITY device.settings.auto_launch.checkbox.label "Ouvrir &brandShortName; lorsque cet appareil est détecté">
 <!ENTITY first_run.itunes.checkbox.import.label "Importer les morceaux et listes de lecture depuis iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Informations du CD non trouvées">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorer cet appareil">
 <!ENTITY tooltip.displaypane.options "Options du panneau">
 <!ENTITY menu.tools.exportmedia "Exporter les changements de la bibliothèque">
-<!ENTITY menu.mac.preferences "Préférences...">
+<!ENTITY menu.mac.preferences "Préférences">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Remplacer la liste de lecture &brandShortName; par la liste de lecture iTunes actuelle">
 <!ENTITY device.tools.reset_warnings.title "Réinitialiser les alertes">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Plein écran">
 <!ENTITY tooltip.browser.refresh "Actualiser">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Modules complémentaires...">
+<!ENTITY menu.extensions "Modules complémentaires">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Maximum d&apos;aigu et de grave">
 <!ENTITY menu.edit.copy "Copier">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Merci de réessayer une fois que votre appareil aura fini l&apos;opération en cours.">
 <!ENTITY first_run.connection.settings.description "Votre ordinateur ou votre réseau sont-ils protégés par un pare-feu ou un proxy ? Corriger des paramètres de connexion incorrects peut aider à résoudre la plupart des problèmes de réseau.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Surveiller automatiquement les changements dans le dossier suivant">
-<!ENTITY menu.file.metadata "Éditer les métadonnées...">
+<!ENTITY menu.file.metadata "Éditer les métadonnées">
 <!ENTITY device.info.firmware_version.label "Version du micrologiciel">
 <!ENTITY device.info.access.label "Compatibilité d&apos;accès">
 <!ENTITY tooltip.control.back "Piste précédente">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Vérifier automatiquement l&apos;existence d&apos;un nouveau micrologiciel">
 <!ENTITY smart.least_recent "moins récemment joué">
 <!ENTITY menu.tools.getartwork.accesskey "p">
-<!ENTITY menu.help.about "À propos de &brandShortName;...">
+<!ENTITY menu.help.about "À propos de &brandShortName;">
 <!ENTITY device.settings.general.label "Général">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Le gestionnaire de médias a été désactivé depuis &brandShortName; 1.10.">
 <!ENTITY menu.file.closetab.accesskey "m">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Téléchargement du nouveau micrologiciel en cours...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "Mo">
-<!ENTITY menu.linux.preferences "Préférences…">
+<!ENTITY menu.linux.preferences "Préférences">
 <!ENTITY menu.file "Fichier">
 <!ENTITY menu.downloadmgr.accesskey "T">
 <!ENTITY import_library.prefs.path_group_caption "Chemin d&apos;accès de la bibliothèque">

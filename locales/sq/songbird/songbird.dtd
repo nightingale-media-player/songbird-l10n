@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Fshih">
 <!ENTITY tooltip.browser.subscription "Abonohu tek kjo faqe">
 <!ENTITY smart.playlistcondition.library "Biblioteka">
-<!ENTITY menu.help.bugz "Reporto një Gabim">
+<!ENTITY menu.help.bugz "Reporto një Gabim...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Vëzhgo këtë dosje për ndryshime">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format: ">
 <!ENTITY about.credits.heading.translators "Përkthyesit">
 <!ENTITY menu.view "Pamja">
-<!ENTITY menu.preferences "Mundësitë...">
+<!ENTITY menu.preferences "Mundësitë">
 <!ENTITY command.device.canceldevicedelete "Anulo fshirjen">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Përfundo">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Përjashtimet...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Hap një pozicion...">
-<!ENTITY menu.downloadmgr "Shkarkimet e skedarëve...">
+<!ENTITY menu.downloadmgr "Shkarkimet e skedarëve">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "Preferencat...">
+<!ENTITY menu.mac.preferences "Preferencat">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Zëvendëso këtë listë riprodhimi të &brandShortName;-it me listën e riprodhimit të tanishme të iTunes-it">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Full Screen">
 <!ENTITY tooltip.browser.refresh "Fresko">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Shtesat...">
+<!ENTITY menu.extensions "Shtesat">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
 <!ENTITY menu.edit.copy "Kopjo">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "A është kompjuteri apo rrjeti yt i mbrojtur nga një firewall apo proxy? Ndreqja e parametrave të gabuara të lidhjes mund të ndihmojë të zgjidhjen e problemeve të zakonshme të rrjetit.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Vëzhgo automatikisht ndryshimet e kësaj dosje">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY device.info.firmware_version.label "Firmware Version">
 <!ENTITY device.info.access.label "Përputhshmëria e Hyrjes">
 <!ENTITY tooltip.control.back "Kënga e Mëparshme">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Preferencat...">
+<!ENTITY menu.linux.preferences "Preferencat">
 <!ENTITY menu.file "Skedar">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Pozicioni i Bibliotekës Muzikore të iTunes">

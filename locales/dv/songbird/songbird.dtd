@@ -556,7 +556,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "ތިޔަ ކޮމްޕިއުޓަރ ވަނީ ފަޔަރ ވޯލެއް ނުވަތަ ޕްރޮކްސީއެއްގެ ފަހަތުގަތޯ؟ ބައެއްފަހަރު ކަނެކްޝަން ސެޓިންގ ރަގަޅުކޮށްލުމުން އާދައިގެ މިފަދަ ނެޓްވާރކް މައްސަލަތައް ރަގަޅުވޭ">
 <!ENTITY watch_folder.prefs.enable_checkbox "ފޯލްޑަރ އަށް އަންނަ ބަދަލުތައް އޯޓޮމެޓިކަލީ ބަލަމުން ގެންދިއުން">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY device.info.firmware_version.label "ފަރމްވެއާ ނަންބަރު">
 <!ENTITY device.info.access.label "އެކްސެސް ކޮންޕެޓިބިލިޓީ">
 <!ENTITY tooltip.control.back "ކުރިން އަޑުއެހި ލަވަ">

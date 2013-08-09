@@ -45,7 +45,7 @@
 <!ENTITY tooltip.control.resume "Resume">
 <!ENTITY setupprogress.installingextensions "Installing Add-ons">
 <!ENTITY recommended_add_ons.title "&brandShortName; Setup">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY menu.extensions.accesskey "A">
 <!ENTITY equalizer.band7.label "4K">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
@@ -61,7 +61,7 @@
 <!ENTITY jumpto.key "J">
 <!ENTITY device.settings.disk.label "Disk Management">
 <!ENTITY subscribe.title "Subscribe">
-<!ENTITY menu.downloadmgr "File Downloads...">
+<!ENTITY menu.downloadmgr "File Downloads">
 <!ENTITY hotkeys.remove "हटाएँ">
 <!ENTITY device.firmware.wizard.title "Update Firmware">
 <!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
@@ -97,7 +97,7 @@
 <!ENTITY first_run.connection.settings.button "Connection Settings...">
 <!ENTITY equalizer.band6.label "2K">
 <!ENTITY trackeditor.tab.lyrics.title "गाने के बोल">
-<!ENTITY menu.extensions "Add-ons...">
+<!ENTITY menu.extensions "Add-ons">
 <!ENTITY locale.language "Language">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
@@ -407,7 +407,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.control.shuffle "Shuffle">
 <!ENTITY restartbox.restartnow "अभी पुनरारंभ करें">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.linux.preferences "Preferences...">
+<!ENTITY menu.linux.preferences "Preferences">
 <!ENTITY menu.equalizer.accesskey "Q">
 <!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
@@ -579,7 +579,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY window.ok "हाँ">
 <!ENTITY prefs.homepage.label "मुख्य पन्ना">
 <!ENTITY playback.prefpane.units.kilobytes "kB">
-<!ENTITY menu.mac.preferences "Preferences...">
+<!ENTITY menu.mac.preferences "Preferences">
 <!ENTITY menu.help.about.accesskey "A">
 <!ENTITY menu.edit.selall "Select All">
 <!ENTITY command.device.ejectdevice.accesskey "E">

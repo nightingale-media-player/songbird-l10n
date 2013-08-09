@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Скрыть">
 <!ENTITY tooltip.browser.subscription "Подписаться на эту страницу">
 <!ENTITY smart.playlistcondition.library "Медиатека">
-<!ENTITY menu.help.bugz "Сообщить об ошибке">
+<!ENTITY menu.help.bugz "Сообщить об ошибке...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Отслеживать изменения в этой папке">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Фактический размер">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Формат:">
 <!ENTITY about.credits.heading.translators "Переводчики">
 <!ENTITY menu.view "Вид">
-<!ENTITY menu.preferences "Настройки...">
+<!ENTITY menu.preferences "Настройки">
 <!ENTITY command.device.canceldevicedelete "Остановить удаление">
 <!ENTITY enable_recommended_addons_update.accesskey "р">
 <!ENTITY wizard.button.finish.label "Готово">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Новый плейлист">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Открыть фрейм в браузере по умолчанию">
 <!ENTITY menu.file.newtab.accesskey "в">
-<!ENTITY menu.file.new "Новый плейлист">
+<!ENTITY menu.file.new "Новый плейлист...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "О">
 <!ENTITY menu.edit.copy.accesskey "п">
 <!ENTITY watch_folder.prefs.watch_folder_label "Папка:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Исключения...">
 <!ENTITY menu.updateCmd.accessKey "о">
 <!ENTITY menu.file.url "Открыть в интернете...">
-<!ENTITY menu.downloadmgr "Загрузка файлов...">
+<!ENTITY menu.downloadmgr "Загрузка файлов">
 <!ENTITY device.settings.auto_launch.checkbox.label "Открыть &brandShortName; когда устройство обнаружено">
 <!ENTITY first_run.itunes.checkbox.import.label "Импортировать песни и плейлисты из iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Информация о CD не найдена">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "Игнорировать это устройство">
 <!ENTITY tooltip.displaypane.options "Параметры панели содержимого">
 <!ENTITY menu.tools.exportmedia "Экспортировать изменения медиатеки">
-<!ENTITY menu.mac.preferences "Настройки...">
+<!ENTITY menu.mac.preferences "Настройки">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Заменить этот плейлист &brandShortName; текущим списком из iTunes">
 <!ENTITY device.tools.reset_warnings.title "Убрать предупреждения">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Полноэкранный режим">
 <!ENTITY tooltip.browser.refresh "Обновить текущую страницу">
 <!ENTITY rapi.library_write_disable.accesskey "д">
-<!ENTITY menu.extensions "Дополнения...">
+<!ENTITY menu.extensions "Дополнения">
 <!ENTITY equalizer.preset.club "Клубная">
 <!ENTITY equalizer.preset.full_bass_treble "Максимальные бас и дискант">
 <!ENTITY menu.edit.copy "Копировать">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Пожалуйста, попробуйте снова после того, как ваше устройство завершит текущую операцию.">
 <!ENTITY first_run.connection.settings.description "Ваш компьютер или сеть защищены с помощью файрвола или прокси-сервера? Исправление некорректных настроек соединения может помочь решить наиболее распространённые проблемы, связанные с сетью.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Автоматически отслеживать изменения в следующей папке">
-<!ENTITY menu.file.metadata "Просмотреть метаданные...">
+<!ENTITY menu.file.metadata "Просмотреть метаданные">
 <!ENTITY device.info.firmware_version.label "Версия прошивки">
 <!ENTITY device.info.access.label "Совместимость">
 <!ENTITY tooltip.control.back "Предыдущий трек">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Автоматически проверять наличие новой прошивки">
 <!ENTITY smart.least_recent "из воспроизведенных давно">
 <!ENTITY menu.tools.getartwork.accesskey "й">
-<!ENTITY menu.help.about "О программе &brandShortName;...">
+<!ENTITY menu.help.about "О программе &brandShortName;">
 <!ENTITY device.settings.general.label "Общий">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "в">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Загружается новая прошивка...">
 <!ENTITY cdrip.prefpane.format "Формат">
 <!ENTITY smart.mb "МБ">
-<!ENTITY menu.linux.preferences "Настройки...">
+<!ENTITY menu.linux.preferences "Настройки">
 <!ENTITY menu.file "Файл">
 <!ENTITY menu.downloadmgr.accesskey "З">
 <!ENTITY import_library.prefs.path_group_caption "Путь к медиатеке iTunes">

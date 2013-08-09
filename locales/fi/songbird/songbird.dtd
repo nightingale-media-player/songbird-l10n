@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Piilota">
 <!ENTITY tooltip.browser.subscription "Tilaa tämä sivu">
 <!ENTITY smart.playlistcondition.library "Kirjasto">
-<!ENTITY menu.help.bugz "Ilmoita virhe">
+<!ENTITY menu.help.bugz "Ilmoita virhe...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Tarkkaile tätä hakemistoa muutosten varalta">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Todellinen koko">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Tiedostomuoto:">
 <!ENTITY about.credits.heading.translators "Kääntäjät">
 <!ENTITY menu.view "Näytä">
-<!ENTITY menu.preferences "Asetukset...">
+<!ENTITY menu.preferences "Asetukset">
 <!ENTITY command.device.canceldevicedelete "Peruuta poistaminen">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Valmis">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Poikkeukset...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Avaa sijainti...">
-<!ENTITY menu.downloadmgr "Tiedostolataukset...">
+<!ENTITY menu.downloadmgr "Tiedostolataukset">
 <!ENTITY device.settings.auto_launch.checkbox.label "Avaa &brandShortName; kun tämä laite havaitaan">
 <!ENTITY first_run.itunes.checkbox.import.label "Tuo kappaleet ja soittolistat iTunesista">
 <!ENTITY cdrip.lookup.info_not_found.title "CD:n tietoja ei löytynyt">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ohittaa tämän laitteen">
 <!ENTITY tooltip.displaypane.options "Sisältöruudun asetukset">
 <!ENTITY menu.tools.exportmedia "Vie kirjaston muutokset">
-<!ENTITY menu.mac.preferences "Asetukset...">
+<!ENTITY menu.mac.preferences "Asetukset">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Korvaa tämä &brandShortName;-soittolista nykyisellä iTunes-soittolistalla">
 <!ENTITY device.tools.reset_warnings.title "Nollaa varoitukset">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Koko näyttö">
 <!ENTITY tooltip.browser.refresh "Päivitä">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Lisäosat...">
+<!ENTITY menu.extensions "Lisäosat">
 <!ENTITY equalizer.preset.club "Klubi">
 <!ENTITY equalizer.preset.full_bass_treble "Täysi basso ja diskantti">
 <!ENTITY menu.edit.copy "Kopioi">
@@ -517,7 +517,7 @@
 <!ENTITY equalizer.band4.label "500">
 <!ENTITY umsd.music.music_files_group "Musiikkitiedostot">
 <!ENTITY trackeditor.tab.lyrics.title "Sanat">
-<!ENTITY menu.mac.exit "Sulje &brandShortName;...">
+<!ENTITY menu.mac.exit "Sulje &brandShortName;">
 <!ENTITY menu.control.play.button "Toista">
 <!ENTITY hotkeys.prefpane "Pikanäppäimet">
 <!ENTITY subscribeMediaFrameCmd.accesskey "u">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Yritä uudelleen, kun laitteesi on suorittanut nykyisen toiminnon loppuun.">
 <!ENTITY first_run.connection.settings.description "Onko tietokone tai verkko suojattu palomuurilla tai välityspalvelimella? Voit ratkaista yleisiä verkko-ongelmia määrittämällä yhteysasetukset oikein.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Seuraavan kansion muutoksia tarkkaillaan automaattisesti">
-<!ENTITY menu.file.metadata "Näytä metatiedot...">
+<!ENTITY menu.file.metadata "Näytä metatiedot">
 <!ENTITY device.info.firmware_version.label "Laiteohjelmistoversio">
 <!ENTITY device.info.access.label "Käytön yhteensopivuus">
 <!ENTITY tooltip.control.back "Edellinen kappale">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Tarkista uudet laiteohjelmistoversiot automaattisesti">
 <!ENTITY smart.least_recent "kauimmin sitten toistettu">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Tietoja kohteesta &brandShortName;...">
+<!ENTITY menu.help.about "Tietoja kohteesta &brandShortName;">
 <!ENTITY device.settings.general.label "Yleisasetukset">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Medianhallinta on poistettu &brandShortName; versiosta 1.10. lähtien.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Ladataan uutta laiteohjelmistoa...">
 <!ENTITY cdrip.prefpane.format "Tiedostomuoto">
 <!ENTITY smart.mb "Mt">
-<!ENTITY menu.linux.preferences "Asetukset...">
+<!ENTITY menu.linux.preferences "Asetukset">
 <!ENTITY menu.file "Tiedosto">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes-musiikkikirjaston sijainti">

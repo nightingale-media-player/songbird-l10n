@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "הסתר">
 <!ENTITY tooltip.browser.subscription "הרשם לעמוד זה">
 <!ENTITY smart.playlistcondition.library "ספריה">
-<!ENTITY menu.help.bugz "דווח על תקלה">
+<!ENTITY menu.help.bugz "דווח על תקלה...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "בדוק בתיקייה זו לעדכונים">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "גודל אמיתי">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "רשימת השמעה חדשה">
 <!ENTITY openFrameCmdInDefaultBrowser.label "פתח מסגרת בדפדפן ברירת המחדל">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "רשימה חדשה">
+<!ENTITY menu.file.new "רשימה חדשה...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "תיקיה:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "יוצאי דופן...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "פתח מיקום...">
-<!ENTITY menu.downloadmgr "הורדת קבצים...">
+<!ENTITY menu.downloadmgr "הורדת קבצים">
 <!ENTITY device.settings.auto_launch.checkbox.label "פתח &brandShortName; כאשר נמצא התקן זה">
 <!ENTITY first_run.itunes.checkbox.import.label "יבא קטעי שמע ורשימות השמעה מאייטונס">
 <!ENTITY cdrip.lookup.info_not_found.title "לא נמצא מידע תקליטור">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "התעלם מהתקן זה">
 <!ENTITY tooltip.displaypane.options "אפשרויות חלונית תוכן">
 <!ENTITY menu.tools.exportmedia "יצא שינויים בספרייה">
-<!ENTITY menu.mac.preferences "העדפות...">
+<!ENTITY menu.mac.preferences "העדפות">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "החלף את רשימת ההשמעה הזו של סונגבירד עם רשימת השמע הנוכחית של אייטונס">
 <!ENTITY device.tools.reset_warnings.title "אתחל אזהרות">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "נסה שוב אחרי שהרכיב יסיים את פעולתו הנוכחית">
 <!ENTITY first_run.connection.settings.description "האם המחשב או הרשת מוגנים ע&quot;י חומת אש או פרוקסי? תיקון הגדרות תקשורת שגויות יכול לפתור בעיות התקשרות נפוצות.">
 <!ENTITY watch_folder.prefs.enable_checkbox "עקוב אוטומטית אחר שינויים בתיקיה זו">
-<!ENTITY menu.file.metadata "הצד מטה דטה...">
+<!ENTITY menu.file.metadata "הצד מטה דטה">
 <!ENTITY device.info.firmware_version.label "גרסת קושחה">
 <!ENTITY device.info.access.label "תאימות גישה">
 <!ENTITY tooltip.control.back "רצועה קודמת">

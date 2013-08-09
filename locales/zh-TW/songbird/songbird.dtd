@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "隱藏">
 <!ENTITY tooltip.browser.subscription "建立訂閱">
 <!ENTITY smart.playlistcondition.library "媒體庫">
-<!ENTITY menu.help.bugz "回報臭蟲">
+<!ENTITY menu.help.bugz "回報臭蟲...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "監看這個資料夾的變更">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "實際大小">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "格式：">
 <!ENTITY about.credits.heading.translators "翻譯者">
 <!ENTITY menu.view "檢視">
-<!ENTITY menu.preferences "選項...">
+<!ENTITY menu.preferences "選項">
 <!ENTITY command.device.canceldevicedelete "取消刪除">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "完成">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "新的播放清單">
 <!ENTITY openFrameCmdInDefaultBrowser.label "用預設瀏覽器開啟框架">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "新增播放清單">
+<!ENTITY menu.file.new "新增播放清單...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "資料夾：">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "例外...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "開啟位置...">
-<!ENTITY menu.downloadmgr "檔案下載…">
+<!ENTITY menu.downloadmgr "檔案下載">
 <!ENTITY device.settings.auto_launch.checkbox.label "當這個裝置被偵測到時，打開 &brandShortName; ">
 <!ENTITY first_run.itunes.checkbox.import.label "從iTunes匯入音軌和播放清單">
 <!ENTITY cdrip.lookup.info_not_found.title "找不到CD資訊">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "忽略這項裝置">
 <!ENTITY tooltip.displaypane.options "內容窗格選項">
 <!ENTITY menu.tools.exportmedia "匯出媒體庫的變更">
-<!ENTITY menu.mac.preferences "偏好設定...">
+<!ENTITY menu.mac.preferences "偏好設定">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "用現在的 iTunes 來置換這個 &brandShortName; 播放清單">
 <!ENTITY device.tools.reset_warnings.title "重置警告">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "全螢幕">
 <!ENTITY tooltip.browser.refresh "重新整理">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "附加元件…">
+<!ENTITY menu.extensions "附加元件">
 <!ENTITY equalizer.preset.club "俱樂部(Club)">
 <!ENTITY equalizer.preset.full_bass_treble "全低音及全高音(Full Bass and Treble)">
 <!ENTITY menu.edit.copy "複製">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "在你的裝置已經完成正確的操作後再試一次。">
 <!ENTITY first_run.connection.settings.description "您的電腦或網路在防火牆或代理伺服器 (Proxy) 的保護之下嗎？修正不正確的網路設定可以幫助您解決大部份的網路問題。">
 <!ENTITY watch_folder.prefs.enable_checkbox "自動檢查以下的資料夾是否有變更">
-<!ENTITY menu.file.metadata "檢視標籤...">
+<!ENTITY menu.file.metadata "檢視標籤">
 <!ENTITY device.info.firmware_version.label "韌體版本">
 <!ENTITY device.info.access.label "存取相容性">
 <!ENTITY tooltip.control.back "上一首音軌">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "自動檢查是否有新韌體">
 <!ENTITY smart.least_recent "早期">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "關於&brandShortName;...">
+<!ENTITY menu.help.about "關於&brandShortName;">
 <!ENTITY device.settings.general.label "一般">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "媒體管理已在&brandShortName; 版本 1.10 被移除。">
 <!ENTITY menu.file.closetab.accesskey "W">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "下載新韌體...">
 <!ENTITY cdrip.prefpane.format "格式">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "偏好設定...">
+<!ENTITY menu.linux.preferences "偏好設定">
 <!ENTITY menu.file "檔案">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "媒體庫路徑">

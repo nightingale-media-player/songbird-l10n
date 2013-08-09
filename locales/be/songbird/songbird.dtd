@@ -45,7 +45,7 @@
 <!ENTITY tooltip.control.resume "Працягнуць">
 <!ENTITY setupprogress.installingextensions "Усталёўка дадаткаў">
 <!ENTITY recommended_add_ons.title "Усталёўка &brandShortName;">
-<!ENTITY menu.file.metadata "View Metadata...">
+<!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY menu.extensions.accesskey "A">
 <!ENTITY equalizer.band7.label "4K">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
@@ -61,7 +61,7 @@
 <!ENTITY jumpto.key "J">
 <!ENTITY device.settings.disk.label "Disk Management">
 <!ENTITY subscribe.title "Subscribe">
-<!ENTITY menu.downloadmgr "File Downloads...">
+<!ENTITY menu.downloadmgr "File Downloads">
 <!ENTITY hotkeys.remove "Прыбраць">
 <!ENTITY device.firmware.wizard.title "Update Firmware">
 <!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
@@ -97,7 +97,7 @@
 <!ENTITY first_run.connection.settings.button "Connection Settings...">
 <!ENTITY equalizer.band6.label "2K">
 <!ENTITY trackeditor.tab.lyrics.title "Тэкст">
-<!ENTITY menu.extensions "Дадаткі...">
+<!ENTITY menu.extensions "Дадаткі">
 <!ENTITY locale.language "Мова">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
@@ -148,7 +148,7 @@
 <!ENTITY menu.file.closetab "Зачыніць устаўку">
 <!ENTITY device.settings.header.label "Settings">
 <!ENTITY device.management.tabs.settings.label "Settings">
-<!ENTITY menu.preferences "Наладкі...">
+<!ENTITY menu.preferences "Наладкі">
 <!ENTITY menu.mac.services "Паслугі">
 <!ENTITY menu.help.help.accesskey "H">
 <!ENTITY menu.file "Файл">
@@ -248,7 +248,7 @@
 <!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
 <!ENTITY tooltip.browser.mediapages.list "List View">
 <!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY menu.help.about "Пра &brandShortName;...">
+<!ENTITY menu.help.about "Пра &brandShortName;">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
 <!ENTITY cdrip.mediaview.settings_button "Settings">
 <!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
@@ -279,7 +279,7 @@
 <!ENTITY first_run.feedback.metrics.description "Metrics are completely anonymous and no personal information is collected.">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Store artwork within each file&apos;s metadata">
 <!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY menu.help.bugz "Рэпартаваць аб памылцы">
+<!ENTITY menu.help.bugz "Рэпартаваць аб памылцы...">
 <!ENTITY mediapage.next.key "S">
 <!ENTITY command.device.lookup "Lookup CD Information">
 <!ENTITY first_run.itunes.checkbox.export.label "Export new music tracks and playlists to iTunes">
@@ -407,7 +407,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.control.shuffle "Картаваць">
 <!ENTITY restartbox.restartnow "Restart Now">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.linux.preferences "Наладкі...">
+<!ENTITY menu.linux.preferences "Наладкі">
 <!ENTITY menu.equalizer.accesskey "Q">
 <!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
@@ -491,7 +491,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.sync.sync_all.label "Sync all media and playlists">
 <!ENTITY locationbar.key "L">
 <!ENTITY smart.most_recent "most recently played">
-<!ENTITY menu.file.new "Новы спіс">
+<!ENTITY menu.file.new "Новы спіс...">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY device.settings.music.transcoding.format.label "Encoding format">
 <!ENTITY menu.control.jumpto "Перайсці да...">
@@ -579,7 +579,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY window.ok "Так">
 <!ENTITY prefs.homepage.label "Хатняя старонка">
 <!ENTITY playback.prefpane.units.kilobytes "Кб">
-<!ENTITY menu.mac.preferences "Наладкі...">
+<!ENTITY menu.mac.preferences "Наладкі">
 <!ENTITY menu.help.about.accesskey "A">
 <!ENTITY menu.edit.selall "Вылучыць усё">
 <!ENTITY command.device.ejectdevice.accesskey "E">

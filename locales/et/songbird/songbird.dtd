@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Peida">
 <!ENTITY tooltip.browser.subscription "Telli selle lehekülje sisu">
 <!ENTITY smart.playlistcondition.library "Kogu">
-<!ENTITY menu.help.bugz "Saada vearaport">
+<!ENTITY menu.help.bugz "Saada vearaport...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Jälgi selle kausta muutusi">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Tegelik suurus">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Vorming:">
 <!ENTITY about.credits.heading.translators "Tõlkijad">
 <!ENTITY menu.view "Vaade">
-<!ENTITY menu.preferences "Sätted...">
+<!ENTITY menu.preferences "Sätted">
 <!ENTITY command.device.canceldevicedelete "Peata kustutamine">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Lõpeta">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "seda seadet eirata">
 <!ENTITY tooltip.displaypane.options "Sisupaneeli valikud">
 <!ENTITY menu.tools.exportmedia "Ekspordi teegi muudatused">
-<!ENTITY menu.mac.preferences "Eelistused...">
+<!ENTITY menu.mac.preferences "Eelistused">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
 <!ENTITY device.tools.reset_warnings.title "Lähtesta hoiatused">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Palun proovige uuesti kui teie seade on oma praeguse toimingu lõpetanud.">
 <!ENTITY first_run.connection.settings.description "Kas teie arvuti või võrk on tulemüüri või proxy taga kaitstud? Valede ühenduse seadistuste parandamine võib aidata lahendada levinud võrguprobleeme.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automaatselt jälgi muutuseid antud kaustas">
-<!ENTITY menu.file.metadata "Vaata lisainfot...">
+<!ENTITY menu.file.metadata "Vaata lisainfot">
 <!ENTITY device.info.firmware_version.label "Püsivara versioon">
 <!ENTITY device.info.access.label "Pääsu ühilduvus">
 <!ENTITY tooltip.control.back "Eelmine lugu">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Otsi automaatselt uuemat püsivara">
 <!ENTITY smart.least_recent "vähim viimati mängitud">
 <!ENTITY menu.tools.getartwork.accesskey "H">
-<!ENTITY menu.help.about "&brandShortName;ist lähemalt...">
+<!ENTITY menu.help.about "&brandShortName;ist lähemalt">
 <!ENTITY device.settings.general.label "Üldine">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "u">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Laen alla uut püsivara...">
 <!ENTITY cdrip.prefpane.format "Vorming">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Eelistused...">
+<!ENTITY menu.linux.preferences "Eelistused">
 <!ENTITY menu.file "Fail">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes muusikateegi kasukoht">

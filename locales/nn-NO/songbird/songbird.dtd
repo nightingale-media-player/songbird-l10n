@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Skjul">
 <!ENTITY tooltip.browser.subscription "Abboner på denne sida">
 <!ENTITY smart.playlistcondition.library "Bibliotek">
-<!ENTITY menu.help.bugz "Rapporter feil">
+<!ENTITY menu.help.bugz "Rapporter feil …">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Overvak denne mappa for endringar">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Faktisk storleik">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Format:">
 <!ENTITY about.credits.heading.translators "Omsettarar">
 <!ENTITY menu.view "Vis">
-<!ENTITY menu.preferences "Innstillingar …">
+<!ENTITY menu.preferences "Innstillingar">
 <!ENTITY command.device.canceldevicedelete "Stopp sletting">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Fullfør">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Ny speleliste">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Opne ramme i standard nettlesar">
 <!ENTITY menu.file.newtab.accesskey "f">
-<!ENTITY menu.file.new "Ny speleliste">
+<!ENTITY menu.file.new "Ny speleliste …">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "b">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Mappe:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Unntak …">
 <!ENTITY menu.updateCmd.accessKey "å">
 <!ENTITY menu.file.url "Opne frå URL …">
-<!ENTITY menu.downloadmgr "Nedlastingar …">
+<!ENTITY menu.downloadmgr "Nedlastingar">
 <!ENTITY device.settings.auto_launch.checkbox.label "Opne &brandShortName; når denne eininga er oppdaga">
 <!ENTITY first_run.itunes.checkbox.import.label "Importer spor og spelelister frå iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD-informasjon ikkje funnen">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorere denne eininga">
 <!ENTITY tooltip.displaypane.options "Innstillingar for innhaldsrute">
 <!ENTITY menu.tools.exportmedia "Eksporter bibliotekendringar">
-<!ENTITY menu.mac.preferences "Innstillingar …">
+<!ENTITY menu.mac.preferences "Innstillingar">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Byt ut denne &brandShortName;-spelelista med spelelista i iTunes">
 <!ENTITY device.tools.reset_warnings.title "Nullstill åtvaringar">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Fullskjerm">
 <!ENTITY tooltip.browser.refresh "Oppdater">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Utvidingar …">
+<!ENTITY menu.extensions "Utvidingar">
 <!ENTITY equalizer.preset.club "Klubb">
 <!ENTITY equalizer.preset.full_bass_treble "Full bass og diskant">
 <!ENTITY menu.edit.copy "Kopier">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Prøv igjen etter at eininga har fullført denne handlinga.">
 <!ENTITY first_run.connection.settings.description "Er datamaskina di verna av ein brannmur eller ein mellomtenar? Å rette på feil innstillingar i tilkoplinga, kan hjelpe til med å rette på nettverksproblem. ">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatisk sjå etter endringar i følgjande mappe">
-<!ENTITY menu.file.metadata "Vis metadata …">
+<!ENTITY menu.file.metadata "Vis metadata">
 <!ENTITY device.info.firmware_version.label "Fastvareversjon">
 <!ENTITY device.info.access.label "Tilgangskompatiblitet">
 <!ENTITY tooltip.control.back "Førre spor">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Lastar ned ny fastvare …">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Innstillingar …">
+<!ENTITY menu.linux.preferences "Innstillingar">
 <!ENTITY menu.file "Fil">
 <!ENTITY menu.downloadmgr.accesskey "N">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Music Library-plassering">

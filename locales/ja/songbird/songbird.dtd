@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "隠す">
 <!ENTITY tooltip.browser.subscription "ページを定期購読する">
 <!ENTITY smart.playlistcondition.library "ライブラリ">
-<!ENTITY menu.help.bugz "バグを報告">
+<!ENTITY menu.help.bugz "バグを報告...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "このフォルダの変更を監視する">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "実サイズ">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "エンコード形式:">
 <!ENTITY about.credits.heading.translators "翻訳者">
 <!ENTITY menu.view "表示">
-<!ENTITY menu.preferences "環境設定...">
+<!ENTITY menu.preferences "環境設定">
 <!ENTITY command.device.canceldevicedelete "削除を中止">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "完了">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "例外設定...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "URL を開く...">
-<!ENTITY menu.downloadmgr "ダウンロード...">
+<!ENTITY menu.downloadmgr "ダウンロード">
 <!ENTITY device.settings.auto_launch.checkbox.label "このデバイスを検出したとき &brandShortName; を開く">
 <!ENTITY first_run.itunes.checkbox.import.label "iTunes からトラックとプレイリストをインポートする">
 <!ENTITY cdrip.lookup.info_not_found.title "CD の情報が見つかりませんでした">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "このデバイスを無視">
 <!ENTITY tooltip.displaypane.options "コンテンツペインオプション">
 <!ENTITY menu.tools.exportmedia "ライブラリの変更をエクスポート">
-<!ENTITY menu.mac.preferences "環境設定...">
+<!ENTITY menu.mac.preferences "環境設定">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "この &brandShortName; プレイリストを現在の iTunes プレイリストで置き換える">
 <!ENTITY device.tools.reset_warnings.title "警告のリセット">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "フルスクリーン">
 <!ENTITY tooltip.browser.refresh "再読み込み">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "アドオン...">
+<!ENTITY menu.extensions "アドオン">
 <!ENTITY equalizer.preset.club "クラブ">
 <!ENTITY equalizer.preset.full_bass_treble "フルベース＆トレブル">
 <!ENTITY menu.edit.copy "コピー">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "デバイスが現在の操作を完了してから再試行してください。">
 <!ENTITY first_run.connection.settings.description "あなたのコンピュータまたはネットワークがファイアウォールやプロキシによって保護されていませんか? 正しい接続設定に修正すれば一般的なネットワークの問題を解決することができます。">
 <!ENTITY watch_folder.prefs.enable_checkbox "次のフォルダの変更を自動的に監視する">
-<!ENTITY menu.file.metadata "メタデータを表示...">
+<!ENTITY menu.file.metadata "メタデータを表示">
 <!ENTITY device.info.firmware_version.label "ファームウェアのバージョン">
 <!ENTITY device.info.access.label "アクセス互換性">
 <!ENTITY tooltip.control.back "前のトラックへ戻る">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "自動で新しいファームウェアをチェックする">
 <!ENTITY smart.least_recent "再生日時が古い順">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "&brandShortName; について...">
+<!ENTITY menu.help.about "&brandShortName; について">
 <!ENTITY device.settings.general.label "一般">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "メディアの管理機能は &brandShortName; バージョン 1.10 で無効化されています。">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "新しいファームウェアをダウンロードしています...">
 <!ENTITY cdrip.prefpane.format "エンコード形式">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "環境設定...">
+<!ENTITY menu.linux.preferences "環境設定">
 <!ENTITY menu.file "ファイル">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes ミュージックライブラリの場所">

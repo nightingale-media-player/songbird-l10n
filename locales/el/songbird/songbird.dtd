@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Απόκρυψη">
 <!ENTITY tooltip.browser.subscription "Συνδρομή σε αυτή την σελίδα">
 <!ENTITY smart.playlistcondition.library "Συλλογή">
-<!ENTITY menu.help.bugz "Αναφορά Σφάλματος">
+<!ENTITY menu.help.bugz "Αναφορά Σφάλματος...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Παρακολούθηση αυτού του φακέλου για αλλαγές">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Πραγματικό μέγεθος">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Μορφή:">
 <!ENTITY about.credits.heading.translators "Μεταφραστές">
 <!ENTITY menu.view "Προβολή">
-<!ENTITY menu.preferences "Ρυθμίσεις...">
+<!ENTITY menu.preferences "Ρυθμίσεις">
 <!ENTITY command.device.canceldevicedelete "Ακύρωση διαγραφής">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Συνέχεια">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Νέα Λίστα Αναπαραγωγής">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Άνοιγμα πλαισίου στον προεπιλεγμένο Περιηγητή Ιστού">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Νεά Λίστα Αναπαραγωγής">
+<!ENTITY menu.file.new "Νεά Λίστα Αναπαραγωγής...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Φάκελος:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Εξαιρέσεις...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Άνοιγμα Τοποθεσίας">
-<!ENTITY menu.downloadmgr "Λήψεις Αρχείων...">
+<!ENTITY menu.downloadmgr "Λήψεις Αρχείων">
 <!ENTITY device.settings.auto_launch.checkbox.label "Άνοιγμα &brandShortName; όταν ανιχθευθεί η συσκευή">
 <!ENTITY first_run.itunes.checkbox.import.label "Εισαγωγή κομματιών και λιστών αναπαραγωγής απο iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Πληροφορίες CD δεν βρέθηκαν">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "Αγνόηση αυτής της συσκευής">
 <!ENTITY tooltip.displaypane.options "Επιλογές Πλαισίου Περιεχομένου">
 <!ENTITY menu.tools.exportmedia "Εξαγωγή αλλαγών Βιβλιοθήκης">
-<!ENTITY menu.mac.preferences "Προτιμήσεις...">
+<!ENTITY menu.mac.preferences "Προτιμήσεις">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Αντικατάσταση της &brandShortName; και των λιστών αναπαραγωγής του iTunes">
 <!ENTITY device.tools.reset_warnings.title "Επαναφορά προειδοποιήσεων">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Πλήρης οθόνη">
 <!ENTITY tooltip.browser.refresh "Ανανέωση">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Πρόσθετα...">
+<!ENTITY menu.extensions "Πρόσθετα">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Γεμάτο Μπάσα και Πρίμα">
 <!ENTITY menu.edit.copy "Αντιγραφή">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Παρακαλώ προσπαθήστε ξανά αφού η συσκευή σας ολοκληρώσει την τρέχουσα λειτουργία του.">
 <!ENTITY first_run.connection.settings.description "Είναι ο υπολογιστής ή το δίκτυό σας προστατευμένο από τείχος προστασίας ή proxy; Η επιδιόρθωση λανθασμένων Ρυθμίσεων Σύνδεσης μπορούν να βοηθήσουν στη λύση κοινών προβλημάτων δικτύου.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Αυτόματη παρακολούθηση αλλαγών στον παρακάτω φάκελο">
-<!ENTITY menu.file.metadata "Εμφάνιση Μεταδεδομένων...">
+<!ENTITY menu.file.metadata "Εμφάνιση Μεταδεδομένων">
 <!ENTITY device.info.firmware_version.label "Έκδοση Firmware">
 <!ENTITY device.info.access.label "Συμβατότητα Πρόσβασης">
 <!ENTITY tooltip.control.back "Επόμενο Κομμάτι">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Αυτόματος έλεγχος για νέο firmware">
 <!ENTITY smart.least_recent "λιγότερο συχνά αναπαραγμένο">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Σχετικά με το &brandShortName;...">
+<!ENTITY menu.help.about "Σχετικά με το &brandShortName;">
 <!ENTITY device.settings.general.label "Γενικά">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Λήψη νέου firmware...">
 <!ENTITY cdrip.prefpane.format "Μορφή">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Προτιμήσεις ...">
+<!ENTITY menu.linux.preferences "Προτιμήσεις">
 <!ENTITY menu.file "Αρχείο">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "Τοποθεσία Συλλογής Μουσικής του iTunes">

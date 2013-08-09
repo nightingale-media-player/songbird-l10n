@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Zkrýt">
 <!ENTITY tooltip.browser.subscription "Začít odebírat">
 <!ENTITY smart.playlistcondition.library "Sbírka">
-<!ENTITY menu.help.bugz "Nahlásit chybu">
+<!ENTITY menu.help.bugz "Nahlásit chybu...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Sledovat změny v této složce">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Skutečná velikost">
@@ -71,7 +71,7 @@
 <!ENTITY cdrip.mediaview.format_label "Formát:">
 <!ENTITY about.credits.heading.translators "Překladatelé">
 <!ENTITY menu.view "Zobrazení">
-<!ENTITY menu.preferences "Možnosti...">
+<!ENTITY menu.preferences "Možnosti">
 <!ENTITY command.device.canceldevicedelete "Zrušit odstraňování">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!ENTITY wizard.button.finish.label "Dokončit">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nový playlist">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Otevřít rámec ve výchozím internetovém prohlížeči">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Nový playlist">
+<!ENTITY menu.file.new "Nový playlist...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Složka:">
@@ -202,7 +202,7 @@
 <!ENTITY rapi.whitelist.label "Výjimka...">
 <!ENTITY menu.updateCmd.accessKey "o">
 <!ENTITY menu.file.url "Otevřít z adresy URL...">
-<!ENTITY menu.downloadmgr "Stahování souborů...">
+<!ENTITY menu.downloadmgr "Stahování souborů">
 <!ENTITY device.settings.auto_launch.checkbox.label "Otevřít &brandShortName; když je toto zařízení detekováno">
 <!ENTITY first_run.itunes.checkbox.import.label "Importovat stopy a playlisty z iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "Informace o CD nenalezeny">
@@ -265,7 +265,7 @@
 <!ENTITY device.dialog.setup.explainIgnore.linkText "toto zařízení ignorovat">
 <!ENTITY tooltip.displaypane.options "Nastavení obsahového panelu">
 <!ENTITY menu.tools.exportmedia "Exportovat změny sbírky">
-<!ENTITY menu.mac.preferences "Předvolby...">
+<!ENTITY menu.mac.preferences "Předvolby">
 <!ENTITY menu.mac.exit.key "k">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Nahradit tento playlist ze &brandShortName; aktuálním playlistem z iTunes">
 <!ENTITY device.tools.reset_warnings.title "Resetovat upozornění">
@@ -371,7 +371,7 @@
 <!ENTITY videowindow.fullscreen "Plná obrazovka">
 <!ENTITY tooltip.browser.refresh "Aktualizuje načtenou stránku">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "Doplňky...">
+<!ENTITY menu.extensions "Doplňky">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Plné basy a výšky">
 <!ENTITY menu.edit.copy "Kopírovat">
@@ -554,7 +554,7 @@
 <!ENTITY device.firmware.wizard.retry.description "Zkuste, prosím, znovu po dokončení současné operace na vašem zařízení.">
 <!ENTITY first_run.connection.settings.description "Je váš počítač nebo síť chráněná firewallem nebo proxy? Opravení nesprávného nastavení v nastavení připojení může pomoci vyřešit nejběžnější problémy se sítí.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automaticky vyhledávat změny v následující složce">
-<!ENTITY menu.file.metadata "Zobrazit metadata...">
+<!ENTITY menu.file.metadata "Zobrazit metadata">
 <!ENTITY device.info.firmware_version.label "Verze firmwaru">
 <!ENTITY device.info.access.label "Kompatibilita přístupu">
 <!ENTITY tooltip.control.back "Přehraje předchozí stopu">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Hledat nový firmware automaticky">
 <!ENTITY smart.least_recent "nejposledněji přehráno">
 <!ENTITY menu.tools.getartwork.accesskey "Z">
-<!ENTITY menu.help.about "O &brandShortName;...">
+<!ENTITY menu.help.about "O &brandShortName;">
 <!ENTITY device.settings.general.label "Obecné">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "Z">
@@ -634,7 +634,7 @@
 <!ENTITY device.firmware.wizard.download.title "Stahuji nový firmware...">
 <!ENTITY cdrip.prefpane.format "Formát">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "Předvolby...">
+<!ENTITY menu.linux.preferences "Předvolby">
 <!ENTITY menu.file "Soubor">
 <!ENTITY menu.downloadmgr.accesskey "s">
 <!ENTITY import_library.prefs.path_group_caption "Umístění sbírky iTunes">
