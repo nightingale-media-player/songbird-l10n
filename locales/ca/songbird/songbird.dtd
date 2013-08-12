@@ -155,7 +155,7 @@
 <!ENTITY menu.file.smart "Crea una llista de reproducció inteŀligent…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Mostra els detalls dels errors">
-<!ENTITY device.firmware.wizard.install.title "S&apos;està instaŀlant el microprogramari...">
+<!ENTITY device.firmware.wizard.install.title "S&apos;està instaŀlant el microprogramari…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "A">
 <!ENTITY menu.control.pause.button "Atura">
 <!ENTITY trackeditor.tab.summary.title "Resum">
@@ -433,7 +433,7 @@
 <!ENTITY tooltip.servicepane.show "Mostra la subfinestra de servei">
 <!ENTITY tooltip.control.stop "Atura">
 <!ENTITY menu.file.remote "Crea una subscripció…">
-<!ENTITY menu.file.podcast "Nou podcast...">
+<!ENTITY menu.file.podcast "Nou podcast…">
 <!ENTITY feedback.dialog.sentence2 "Si no hi esteu interessat, no us ho preguntarem més. Gràcies per la vostra atenció i per utilitzar el &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Encara no està implementat. (Vegeu l&apos;error 14281)">
@@ -473,7 +473,7 @@
 <!ENTITY device.info.capacity.label "Capacitat">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Escolliu les carpetes...">
+<!ENTITY device.sync.images.browse "Escolliu les carpetes…">
 <!ENTITY displaypane.default.link.post "per a navegar entre complements.">
 <!ENTITY menu.control.play.accesskey "R">
 <!ENTITY menu.file.open "Obre un fitxer…">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Totes les fotos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Dades de guany preferides:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "S&apos;està descarregant noves versions del microprogramari...">
+<!ENTITY device.firmware.wizard.download.title "S&apos;està descarregant noves versions del microprogramari…">
 <!ENTITY cdrip.prefpane.format "Formata">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Preferències">

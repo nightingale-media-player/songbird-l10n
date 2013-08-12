@@ -131,7 +131,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.import_media.radio.dont_import.label "މީޑިއާ އިމްޕޯރޓް ނުކުރޭ">
 <!ENTITY feedback.dialog.yes "ރަގަޅު">
 <!ENTITY about.buttons.credits "ހާއްސަ ޝުކުރު">
-<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware…">
 <!ENTITY downloadMediaCmd.accesskey "ޑީ">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "ލަވަތައް ލާނެ ޑިރެކްޓަރީއެއް ޚިޔާރުކުރައްވާ">
@@ -157,7 +157,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.file.smart "އާ ސްމާރޓް ޕްލޭލިސްޓެއް">
 <!ENTITY menu.edit.cut.key "އެކްސް">
 <!ENTITY device.error.dialog.link "View Error Details">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "ޝ">
 <!ENTITY menu.control.pause.button "ލަވަ މެދުކަޑާލާ">
 <!ENTITY trackeditor.tab.summary.title "ކުރު ތައާރަފް">
@@ -410,10 +410,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "ވެބް އިންޓެގްރޭޝަން">
-<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY menu.equalizer "Equalizer…">
 <!ENTITY first_run.add_ons.description.line1 "loabi">
 <!ENTITY displaypane.name.servicepane "ސައވިސް ޕޭން ތިރި">
-<!ENTITY menu.clearprivatedata "...ކުރީގެ ޑޭޓާ ފޮހެލާ">
+<!ENTITY menu.clearprivatedata "…ކުރީގެ ޑޭޓާ ފޮހެލާ">
 <!ENTITY window.ok "އޯކޭ">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "ހޯދާ">
@@ -435,10 +435,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.show "ސަރވިސް ޕޭން ދައްކާ">
 <!ENTITY tooltip.control.stop "ހުއްޓާ">
 <!ENTITY menu.file.remote "އާ ސަބްސްކްރިޕްޝަނެއް">
-<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY menu.file.podcast "New Podcast…">
 <!ENTITY feedback.dialog.sentence2 "މިކަމަށް ޝައުގުވެރިކަމެއް ނެތްނަމަ ދެންނާހާނަން. އަޅުގަނޑުމެންގެ އުފެއްދުން ހިޔާރުކުރެއްވީތީ ޝުކުރިއްޔާ. ތިޔަބޭފުޅާ  &brandShortName;ބޭނުން ކުރެއްވުމަކީ އަޅުގަނޑުމެން އުފަލާއެކު ފާހަގަކުރާކަމެއް..">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-<!ENTITY fetch_album_art.dialog.message "މިވަގުތު ނެހެދޭ ... (14281 ނަންބަރު މައްސަލަ)  ">
+<!ENTITY fetch_album_art.dialog.message "މިވަގުތު ނެހެދޭ … (14281 ނަންބަރު މައްސަލަ)  ">
 <!ENTITY menu.edit "އެޑިޓް">
 <!ENTITY locale.language.accesskey "އެލް">
 <!ENTITY videowindow.title "Video Window">
@@ -475,7 +475,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.info.capacity.label "ޖާގަ">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY device.sync.images.browse "Choose folder…">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "ޕީ">
 <!ENTITY menu.file.open "ފައިލް ހުޅުވާ">
@@ -633,7 +633,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
 <!ENTITY menu.edit.find.key "އެފް">
-<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware…">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "އެމްބީ">
 <!ENTITY menu.linux.preferences "އިޙްތިޔާރު ކުރާގޮތް">

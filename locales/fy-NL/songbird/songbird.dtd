@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ferstoppe">
 <!ENTITY tooltip.browser.subscription "">
 <!ENTITY smart.playlistcondition.library "Bibleteek">
-<!ENTITY menu.help.bugz "Rapportearje in bug...">
+<!ENTITY menu.help.bugz "Rapportearje in bug…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Besjoch dizze map fiar wizigings">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -131,7 +131,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.import_media.radio.dont_import.label "Gjin media ymportearje">
 <!ENTITY feedback.dialog.yes "Ja">
 <!ENTITY about.buttons.credits "Meiwurkers">
-<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware…">
 <!ENTITY downloadMediaCmd.accesskey "l">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "Selektearje de apparaatmap wêr&apos;t de muzykbestannen pleatst wurde moatte.">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "Nije Ofspyllist">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Iepenje frame yn standert websneuper">
 <!ENTITY menu.file.newtab.accesskey "l">
-<!ENTITY menu.file.new "Nije ôfspyllist...">
+<!ENTITY menu.file.new "Nije ôfspyllist…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "i">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Map:">
@@ -154,10 +154,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.prev "Foargeande nûmer">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "Apply">
-<!ENTITY menu.file.smart "Nije tûke ôfspyllist...">
+<!ENTITY menu.file.smart "Nije tûke ôfspyllist…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "View Error Details">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "e">
 <!ENTITY menu.control.pause.button "Pauze">
 <!ENTITY trackeditor.tab.summary.title "Gearfetting">
@@ -172,13 +172,13 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY equalizer.title "Equalizer">
 <!ENTITY import_library.import_command "Ymportearje bibleteek">
 <!ENTITY cdrip.mediaview.view_tracks_button "Sjoch Nûmers">
-<!ENTITY window.browse "Blêdzje...">
+<!ENTITY window.browse "Blêdzje…">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
 <!ENTITY smart.songs "items">
-<!ENTITY menu.tools.getartwork "Krij albumkeunstwurk...">
+<!ENTITY menu.tools.getartwork "Krij albumkeunstwurk…">
 <!ENTITY window.cancel "Ofbrekke">
 <!ENTITY smart.genre "genre">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -201,9 +201,9 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Sjochmappen">
-<!ENTITY rapi.whitelist.label "Utsûnderings...">
+<!ENTITY rapi.whitelist.label "Utsûnderings…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Iepenje lokaasje...">
+<!ENTITY menu.file.url "Iepenje lokaasje…">
 <!ENTITY menu.downloadmgr "Ynladen bestannen">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Tracks en spyllisten ymportearje fan iTunes">
@@ -274,7 +274,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Folgjende nûmer">
 <!ENTITY umsd.video.video_path_browse_msg "Selektearje de apparaatmap wêr&apos;t de fideobestannen pleatst wurde moatte.">
-<!ENTITY setupprogress.pleasewait "Wachtsje asjebleaft...">
+<!ENTITY setupprogress.pleasewait "Wachtsje asjebleaft…">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Sêft">
 <!ENTITY equalizer.preset.large_hall "Grutte hal">
@@ -283,7 +283,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY smart.most_recent "meast resint spile">
 <!ENTITY command.device.ejectdevice "Utsmite">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Ferbiningsynstellings...">
+<!ENTITY first_run.connection.settings.button "Ferbiningsynstellings…">
 <!ENTITY import_library.prefs.title "iTunes">
 <!ENTITY hotkeys.action "Aksje">
 <!ENTITY equalizer.preset.classical "Klassyk">
@@ -410,7 +410,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Webyntegraasje">
-<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY menu.equalizer "Equalizer…">
 <!ENTITY first_run.add_ons.description.line1 "Tafoegings wreidzje &brandShortName; syn funksjonaliteit út, wat it mooglik makket om de mediaspiler erfaring oan te passen. De opsje hjirûnder wurde oanrêt.">
 <!ENTITY displaypane.name.servicepane "Tsjinstskerm Underoan">
 <!ENTITY menu.clearprivatedata "Wiskje priveegegevens">
@@ -418,7 +418,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Fyn">
 <!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY menu.updateCmd.label "Kontrolearje op fernijings...">
+<!ENTITY menu.updateCmd.label "Kontrolearje op fernijings…">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Ynhâldskerm ûnderoan">
@@ -434,8 +434,8 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY feed.subscribe.label "Subscribe">
 <!ENTITY tooltip.servicepane.show "Toan tsjinstpaniel">
 <!ENTITY tooltip.control.stop "Stop">
-<!ENTITY menu.file.remote "Nij abbonnemint...">
-<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY menu.file.remote "Nij abbonnemint…">
+<!ENTITY menu.file.podcast "New Podcast…">
 <!ENTITY feedback.dialog.sentence2 "As jo gjin nocht hawwe, sille wy it net op &apos;e nij freegje. Tanke foar jo omtinken en moai dat jo &brandShortName; brûke!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Noch net ymplementearre. (Sjoch bug 14281)">
@@ -475,10 +475,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.info.capacity.label "Kapasiteit">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY device.sync.images.browse "Choose folder…">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Iepenje in bestân...">
+<!ENTITY menu.file.open "Iepenje in bestân…">
 <!ENTITY command.device.devicesync "Syng">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -494,12 +494,12 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.info.product.label "Product">
 <!ENTITY smart.minutes "minuten">
 <!ENTITY menu.help.topics "Help Topics">
-<!ENTITY menu.file.playlist "Ymportearje in ôfspyllist...">
+<!ENTITY menu.file.playlist "Ymportearje in ôfspyllist…">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Behein oant">
-<!ENTITY menu.file.library "Ymportearje in bibleteek...">
+<!ENTITY menu.file.library "Ymportearje in bibleteek…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "F">
 <!ENTITY tooltip.control.curtrack "Fyn aktuele nûmer">
@@ -531,7 +531,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY export_subscriptions_itunes_checkbox "Abonneminten eksportearje">
 <!ENTITY mediacore.error.title "Playback Error">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Ljep nei...">
+<!ENTITY menu.control.jumpto "Ljep nei…">
 <!ENTITY menu.tools "Ark">
 <!ENTITY device.settings.music.transcoding.label "Music Conversion">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
@@ -539,7 +539,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY command.device.lookup "Sykje CD Ynformaasje op">
 <!ENTITY tabs.listAllTabs "Alle ljepblêden liste">
 <!ENTITY rapi.prefpane.access.caption "Web Integration Permissions">
-<!ENTITY menu.file.scan "Sykje nei media...">
+<!ENTITY menu.file.scan "Sykje nei media…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Media ymportearder">
 <!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
@@ -633,7 +633,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware…">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Foarkarren">

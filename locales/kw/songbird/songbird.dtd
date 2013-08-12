@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Kudha">
 <!ENTITY tooltip.browser.subscription "Gwruthyl Ragbren">
 <!ENTITY smart.playlistcondition.library "Lyverva">
-<!ENTITY menu.help.bugz "Derivas Pryv...">
+<!ENTITY menu.help.bugz "Derivas Pryv…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Golyas an blegel ma rag chanjyow">
 <!ENTITY equalizer.band3.label "0">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Na ymporth media">
 <!ENTITY feedback.dialog.yes "Mynnav">
 <!ENTITY about.buttons.credits "Aswonvosow">
-<!ENTITY device.firmware.wizard.check.progress.title "Ow checkya rag fastweyth nowythhes...">
+<!ENTITY device.firmware.wizard.check.progress.title "Ow checkya rag fastweyth nowythhes…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "Dewis arayel devisow rag gorra restrennow ilow ynni.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Kanrol Nowyth">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Ygeri Fram y&apos;n Beurel Savonek">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Kanrol Nowyth...">
+<!ENTITY menu.file.new "Kanrol Nowyth…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Plegel:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Hyns Kyns">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "Apply">
-<!ENTITY menu.file.smart "Kanrol Gonnyk Nowyth...">
+<!ENTITY menu.file.smart "Kanrol Gonnyk Nowyth…">
 <!ENTITY menu.edit.cut.key "T">
 <!ENTITY device.error.dialog.link "Diskwedhes Manylyon an Gwall">
-<!ENTITY device.firmware.wizard.install.title "Owth ynstallya fastweyth...">
+<!ENTITY device.firmware.wizard.install.title "Owth ynstallya fastweyth…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "H">
 <!ENTITY menu.control.pause.button "Hokya">
 <!ENTITY trackeditor.tab.summary.title "Berrskrif">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "Kesposel-son">
 <!ENTITY import_library.import_command "Ymperthi lyverva">
 <!ENTITY cdrip.mediaview.view_tracks_button "Diskwedhes Hynsyow">
-<!ENTITY window.browse "Peuri...">
+<!ENTITY window.browse "Peuri…">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Plegellow Golyas">
-<!ENTITY rapi.whitelist.label "Marnas...">
+<!ENTITY rapi.whitelist.label "Marnas…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Ygeri dhyworth URL...">
+<!ENTITY menu.file.url "Ygeri dhyworth URL…">
 <!ENTITY menu.downloadmgr "Iskargansow Restren">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Ymperthi hynsow ha kanrolyow dhyworth iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Nessa Hyns">
 <!ENTITY umsd.video.video_path_browse_msg "Dewis arayel dhevisow rag gorra restrennow gwydheo ynni">
-<!ENTITY setupprogress.pleasewait "Gorta mar pleg...">
+<!ENTITY setupprogress.pleasewait "Gorta mar pleg…">
 <!ENTITY menu.help.homepage "Gwiasva &brandShortName;">
 <!ENTITY equalizer.preset.soft "Medhel">
 <!ENTITY equalizer.preset.large_hall "Hel vras">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "an nowyttha senys">
 <!ENTITY command.device.ejectdevice "Estewlel">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Settyansow Omjunya...">
+<!ENTITY first_run.connection.settings.button "Settyansow Omjunya…">
 <!ENTITY import_library.prefs.title "Ymperthi dhyworth iTunes">
 <!ENTITY hotkeys.action "Gwrians">
 <!ENTITY equalizer.preset.classical "Klassel">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY device.management.tabs.music.label "Ilow">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Ragbrena an Fram ma...">
+<!ENTITY subscribeMediaFrameCmd.label "Ragbrena an Fram ma…">
 <!ENTITY add_on_bundle_installer.error_box.label "Manylyon">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Kesvewnans Gwiasvaow">
-<!ENTITY menu.equalizer "Kesposel-son...">
+<!ENTITY menu.equalizer "Kesposel-son…">
 <!ENTITY first_run.add_ons.description.line1 "Keworansow a ystyn oberadewder &brandShortName; ha ri spas dhis dhe bersonelhe dha berthyans a&apos;n senel vedia. An dewisyansow a-woles yw profys yn fen.">
 <!ENTITY displaypane.name.servicepane "Goles Kwarel Gonis">
-<!ENTITY menu.clearprivatedata "Gwakhe Derivadow Privedh...">
+<!ENTITY menu.clearprivatedata "Gwakhe Derivadow Privedh…">
 <!ENTITY window.ok "Da Lowr">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Kavos">
 <!ENTITY first_run.add_ons.description.line2 "Keworansow a yll kesjunya gans towlennow ha gonisow erel, skoodhya kevrenna gans devisow a-ves, chanjya mien an dowlen ha moy! Y hyllir iskarga moy anedha yn wiasva Geworansow  &brandShortName;.">
-<!ENTITY menu.updateCmd.label "Checkya rag Nowedhansow...">
+<!ENTITY menu.updateCmd.label "Checkya rag Nowedhansow…">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Goles Kwarel Dalgh">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Ragbrena">
 <!ENTITY tooltip.servicepane.show "Diskwedhes Kwarel Gonis">
 <!ENTITY tooltip.control.stop "Hedhi">
-<!ENTITY menu.file.remote "Ragbren Nowyth...">
-<!ENTITY menu.file.podcast "Podkast Nowyth...">
+<!ENTITY menu.file.remote "Ragbren Nowyth…">
+<!ENTITY menu.file.podcast "Podkast Nowyth…">
 <!ENTITY feedback.dialog.sentence2 "Mar nyns yw dhe les dhis, ny wren govyn orthis arta. Meur ras a brederi a-dro dhe hemma hag a dhevnydhya &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Nyns yw henna gweythresys na hwath. (Mir orth: Pryv 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Dalgh">
 <!ENTITY command.device.ignoredevice.accesskey "T">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Dewis plegel...">
+<!ENTITY device.sync.images.browse "Dewis plegel…">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "S">
-<!ENTITY menu.file.open "Ygeri Restren...">
+<!ENTITY menu.file.open "Ygeri Restren…">
 <!ENTITY command.device.devicesync "Kettermynegi">
 <!ENTITY menu.preferences.accesskey "D">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Askorras">
 <!ENTITY smart.minutes "a vynys">
 <!ENTITY menu.help.topics "Testennow Gweres">
-<!ENTITY menu.file.playlist "Ymperthi Kanrol...">
+<!ENTITY menu.file.playlist "Ymperthi Kanrol…">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "Furvas">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Finwedha dhe">
-<!ENTITY menu.file.library "Ymperthi Lyverva...">
+<!ENTITY menu.file.library "Ymperthi Lyverva…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Kavos Hyns a-Lemmyn">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Esperthi ragbrenow">
 <!ENTITY mediacore.error.title "Gwall Kresen Vedia">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Lamma Dhe...">
+<!ENTITY menu.control.jumpto "Lamma Dhe…">
 <!ENTITY menu.tools "Toulys">
 <!ENTITY device.settings.music.transcoding.label "Treuskodyans Ilow">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Dassetya">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Lookup CD Information">
 <!ENTITY tabs.listAllTabs "Diskwedhes an tabys oll">
 <!ENTITY rapi.prefpane.access.caption "Kummyasow Kesvewnans Gwiasvaow">
-<!ENTITY menu.file.scan "Ymperthi Media...">
+<!ENTITY menu.file.scan "Ymperthi Media…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Ymporthel Mediaow">
 <!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Oll an skeusennow">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Data gwayn preferrys:">
 <!ENTITY menu.edit.find.key "V">
-<!ENTITY device.firmware.wizard.download.title "Owth iskarga fastweyth...">
+<!ENTITY device.firmware.wizard.download.title "Owth iskarga fastweyth…">
 <!ENTITY cdrip.prefpane.format "Furvas">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Dewisyansow">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "&brandShortName; a&apos;th tynnergh">
 <!ENTITY feedback.dialog.title "Gweres Dhyn dhe Wellhe &brandShortName;">
 <!ENTITY window.yes "Mynnav">
-<!ENTITY subscribeMediaPageCmd.label "Ragbrena an Folen ma...">
+<!ENTITY subscribeMediaPageCmd.label "Ragbrena an Folen ma…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Hedhi">
 <!ENTITY watchfolder.folderlist "Golyas an plegellow ma rag media nowyth:">

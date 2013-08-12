@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Fela">
 <!ENTITY tooltip.browser.subscription "Búa til áskrift">
 <!ENTITY smart.playlistcondition.library "Safn">
-<!ENTITY menu.help.bugz "Láta vita af galla...">
+<!ENTITY menu.help.bugz "Láta vita af galla…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Fylgjast með breytingum í þessari möppu">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "rétt stærð">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Klippa">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
 <!ENTITY tooltip.control.play "Spila">
-<!ENTITY tooltip.browser.mediapages "Skipta um sýn...">
+<!ENTITY tooltip.browser.mediapages "Skipta um sýn…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Rafhlaða">
 <!ENTITY menu.edit.delete "Eyða">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Ekki flytja inn efni">
 <!ENTITY feedback.dialog.yes "Já">
 <!ENTITY about.buttons.credits "Þakkir">
-<!ENTITY device.firmware.wizard.check.progress.title "Athuga uppfærslu á fastbúnaði...">
+<!ENTITY device.firmware.wizard.check.progress.title "Athuga uppfærslu á fastbúnaði…">
 <!ENTITY downloadMediaCmd.accesskey "H">
 <!ENTITY cdrip.lookup.info_not_found.descr "Þú getur bætt við nafni flytjanda og albúms hérna. Þú getur breytt afgangs upplýsingum inní afritunar lagalistanum">
 <!ENTITY umsd.music.music_path_browse_msg "Veldu möppu í tækinu þar sem setja á tónlistarskrár.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nýr lagalisti">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Opna ramma í sjálfgefnum vafra">
 <!ENTITY menu.file.newtab.accesskey "f">
-<!ENTITY menu.file.new "Nýr lagalisti...">
+<!ENTITY menu.file.new "Nýr lagalisti…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "A">
 <!ENTITY watch_folder.prefs.watch_folder_label "Möppur:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Fyrra lag">
 <!ENTITY device.firmware.wizard.support.description "Aðstoð, spurt og svara og fleiri ráð við vandamálum má finna">
 <!ENTITY window.apply "Staðfesta">
-<!ENTITY menu.file.smart "Nýr snjall lagalisti...">
+<!ENTITY menu.file.smart "Nýr snjall lagalisti…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Skoða nánari villuupplýsingar">
-<!ENTITY device.firmware.wizard.install.title "Set inn fastbúnað...">
+<!ENTITY device.firmware.wizard.install.title "Set inn fastbúnað…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "H">
 <!ENTITY menu.control.pause.button "Í bið">
 <!ENTITY trackeditor.tab.summary.title "Útdráttur">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Tónjafnari">
 <!ENTITY import_library.import_command "Flytja inn safn">
 <!ENTITY cdrip.mediaview.view_tracks_button "Skoða lög">
-<!ENTITY window.browse "Fletta...">
+<!ENTITY window.browse "Fletta…">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Settu þá sækjara efst sem þú vilt nota fyrst.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
 <!ENTITY smart.songs "lög">
-<!ENTITY menu.tools.getartwork "Sækja plötuumslag...">
+<!ENTITY menu.tools.getartwork "Sækja plötuumslag…">
 <!ENTITY window.cancel "Hætta við">
 <!ENTITY smart.genre "tegund">
 <!ENTITY menu.file.playlist.accesskey "i">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "F">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Vakta möppur">
-<!ENTITY rapi.whitelist.label "Undantekningar...">
+<!ENTITY rapi.whitelist.label "Undantekningar…">
 <!ENTITY menu.updateCmd.accessKey "p">
-<!ENTITY menu.file.url "Opna slóð...">
+<!ENTITY menu.file.url "Opna slóð…">
 <!ENTITY menu.downloadmgr "Niðurhalaðar skrár">
 <!ENTITY device.settings.auto_launch.checkbox.label "Opna &brandShortName; þegar þetta tæki finnst">
 <!ENTITY first_run.itunes.checkbox.import.label "Flytja inn lög og spilunarlista frá iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Næsta lag">
 <!ENTITY umsd.video.video_path_browse_msg "Veldu möppu í tækinu þar sem setja á myndbandaskrár.">
-<!ENTITY setupprogress.pleasewait "Vinsamlegast hinkraðu...">
+<!ENTITY setupprogress.pleasewait "Vinsamlegast hinkraðu…">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Rólegt">
 <!ENTITY equalizer.preset.large_hall "Stór salur">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "aldri - nýlegast">
 <!ENTITY command.device.ejectdevice "Aftengja">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Tengistillingar...">
+<!ENTITY first_run.connection.settings.button "Tengistillingar…">
 <!ENTITY import_library.prefs.title "Flytja inn/flytja út iTunes">
 <!ENTITY hotkeys.action "Aðgerð">
 <!ENTITY equalizer.preset.classical "Klassík">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY device.management.tabs.music.label "Tónlist">
 <!ENTITY equalizer.preset.pop "Popp">
-<!ENTITY subscribeMediaFrameCmd.label "Setja þennan ramma í áskrift...">
+<!ENTITY subscribeMediaFrameCmd.label "Setja þennan ramma í áskrift…">
 <!ENTITY add_on_bundle_installer.error_box.label "Upplýsingar">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Vef samþætting">
-<!ENTITY menu.equalizer "Tónjafnari...">
+<!ENTITY menu.equalizer "Tónjafnari…">
 <!ENTITY first_run.add_ons.description.line1 "Viðbætur bæta við virkni &brandShortName;, og leyfa þér að sérsníða spilarann. Mælt er með valmöguleikunum hér fyrir neðan.">
 <!ENTITY displaypane.name.servicepane "Þjónustustika neðst">
-<!ENTITY menu.clearprivatedata "Hreinsa persónuleg gögn...">
+<!ENTITY menu.clearprivatedata "Hreinsa persónuleg gögn…">
 <!ENTITY window.ok "Í lagi">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Leita">
 <!ENTITY first_run.add_ons.description.line2 "Hægt er að nota viðbætur til að samþætta við önnur forrit og þjónustur, hjálp við að tengjast utanáliggjandi tækjum, breyta útliti forrits og fleira! Hægt er að niðurhala viðbótum á &brandShortName; viðbótarsíðunni.">
-<!ENTITY menu.updateCmd.label "Leita eftir uppfærslum...">
+<!ENTITY menu.updateCmd.label "Leita eftir uppfærslum…">
 <!ENTITY device.firmware.wizard.check.error.description "Upp kom villa við að athuga nýjan fastbúnað. Athugaðu nettengingu og reyndu aftur.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitahraði">
 <!ENTITY displaypane.name.browser "Efnissvæði neðst">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Gerast áskrifandi">
 <!ENTITY tooltip.servicepane.show "Sýna þjónustusvæði">
 <!ENTITY tooltip.control.stop "Stoppa">
-<!ENTITY menu.file.remote "Ný áskrift...">
-<!ENTITY menu.file.podcast "Nýtt hlaðvarp...">
+<!ENTITY menu.file.remote "Ný áskrift…">
+<!ENTITY menu.file.podcast "Nýtt hlaðvarp…">
 <!ENTITY feedback.dialog.sentence2 "Ef þú hefur ekki áhuga munum við ekki biðja þig um það aftur. Þakka þér fyrir að íhuga það og við kunnum vel að meta að þú notir &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Ekki enn innleitt. (Sjá galla 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Geymslurými">
 <!ENTITY command.device.ignoredevice.accesskey "H">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY device.sync.images.browse "Choose folder…">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "S">
-<!ENTITY menu.file.open "Opna skjal...">
+<!ENTITY menu.file.open "Opna skjal…">
 <!ENTITY command.device.devicesync "Samstilla">
 <!ENTITY menu.preferences.accesskey "S">
 <!ENTITY menu.clearprivatedata.accesskey "H">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Vara">
 <!ENTITY smart.minutes "mínútur">
 <!ENTITY menu.help.topics "Help Topics">
-<!ENTITY menu.file.playlist "Flytja inn lagalista...">
+<!ENTITY menu.file.playlist "Flytja inn lagalista…">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Takmarka við">
-<!ENTITY menu.file.library "Flytja inn safn...">
+<!ENTITY menu.file.library "Flytja inn safn…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "f">
 <!ENTITY tooltip.control.curtrack "Finna núverandi lag">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Flytja út áskriftir">
 <!ENTITY mediacore.error.title "Mediacore villa">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Hoppa á...">
+<!ENTITY menu.control.jumpto "Hoppa á…">
 <!ENTITY menu.tools "Verkfæri">
 <!ENTITY device.settings.music.transcoding.label "Tónlistarumbreyting">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Endursetja">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Finna upplýsingar fyrir geisladisk">
 <!ENTITY tabs.listAllTabs "Lista alla flipa">
 <!ENTITY rapi.prefpane.access.caption "Aðgangur vefsamhæfingar">
-<!ENTITY menu.file.scan "Flytja inn gögn...">
+<!ENTITY menu.file.scan "Flytja inn gögn…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Innflutningur á efni">
 <!ENTITY device.firmware.wizard.download.error.description "Upp kom villa við að niðurhala nýjan fastbúnð. Athugaðu nettengingu og reyndu aftur.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Æskileg jöfnunargögn:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Niðurhala fastbúnaði...">
+<!ENTITY device.firmware.wizard.download.title "Niðurhala fastbúnaði…">
 <!ENTITY cdrip.prefpane.format "Forsníða">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Stillingar">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Velkomin/nn í &brandShortName;">
 <!ENTITY feedback.dialog.title "Hjálpaðu við að Gera &brandShortName; Betri!">
 <!ENTITY window.yes "Já">
-<!ENTITY subscribeMediaPageCmd.label "Setja þessa síðu í áskrift...">
+<!ENTITY subscribeMediaPageCmd.label "Setja þessa síðu í áskrift…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Hætta við">
 <!ENTITY watchfolder.folderlist "Vakta þessar möppur eftir nýju efni:">

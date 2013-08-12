@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Сокриј">
 <!ENTITY tooltip.browser.subscription "Претплати ме на оваа страница">
 <!ENTITY smart.playlistcondition.library "Библиотека">
-<!ENTITY menu.help.bugz "Испрати извештај за бубачка...">
+<!ENTITY menu.help.bugz "Испрати извештај за бубачка…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Набљудувај ја оваа папка за промени">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -109,7 +109,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.edit.cut "Исечи">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
 <!ENTITY tooltip.control.play "Пушти">
-<!ENTITY tooltip.browser.mediapages "Смени медиски погледи...">
+<!ENTITY tooltip.browser.mediapages "Смени медиски погледи…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Батерија">
 <!ENTITY menu.edit.delete "Избриши">
@@ -131,7 +131,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.import_media.radio.dont_import.label "Не внеси медиа">
 <!ENTITY feedback.dialog.yes "Да">
 <!ENTITY about.buttons.credits "Credits">
-<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "Избери го директориумот за уредот во кој да се стават музички датотеки.">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "Нова плејлиста">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Отвори ја рамката во зададениот веб прелистувач">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Нова плејлиста...">
+<!ENTITY menu.file.new "Нова плејлиста…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Папка:">
@@ -154,10 +154,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.prev "Претходна песна">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "Apply">
-<!ENTITY menu.file.smart "Нова итра плејлиста...">
+<!ENTITY menu.file.smart "Нова итра плејлиста…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "View Error Details">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "Прекини">
 <!ENTITY trackeditor.tab.summary.title "Содржина">
@@ -172,13 +172,13 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY equalizer.title "Еквилајзер">
 <!ENTITY import_library.import_command "Внеси библиотека">
 <!ENTITY cdrip.mediaview.view_tracks_button "View Tracks">
-<!ENTITY window.browse "Барај...">
+<!ENTITY window.browse "Барај…">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
 <!ENTITY smart.songs "предмети">
-<!ENTITY menu.tools.getartwork "Земи обвивка...">
+<!ENTITY menu.tools.getartwork "Земи обвивка…">
 <!ENTITY window.cancel "Oткажи">
 <!ENTITY smart.genre "жанр">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -201,9 +201,9 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Наблудување папки">
-<!ENTITY rapi.whitelist.label "Исклучоци...">
+<!ENTITY rapi.whitelist.label "Исклучоци…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Отвори локација...">
+<!ENTITY menu.file.url "Отвори локација…">
 <!ENTITY menu.downloadmgr "Превземани датотеки">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
@@ -274,7 +274,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Следна песна">
 <!ENTITY umsd.video.video_path_browse_msg "Избери го директориумот за уредот во кој да се стават видео датотеки.">
-<!ENTITY setupprogress.pleasewait "Ве молиме, чекајте...">
+<!ENTITY setupprogress.pleasewait "Ве молиме, чекајте…">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
@@ -283,7 +283,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY smart.most_recent "најскоро слушнати">
 <!ENTITY command.device.ejectdevice "Испушти">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Поставки за поврзување...">
+<!ENTITY first_run.connection.settings.button "Поставки за поврзување…">
 <!ENTITY import_library.prefs.title "iTunes">
 <!ENTITY hotkeys.action "Дејство">
 <!ENTITY equalizer.preset.classical "Classical">
@@ -336,7 +336,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY device.management.tabs.music.label "Музика">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Претплати ме на оваа рамка...">
+<!ENTITY subscribeMediaFrameCmd.label "Претплати ме на оваа рамка…">
 <!ENTITY add_on_bundle_installer.error_box.label "Детали">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -410,15 +410,15 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Веб интеграција">
-<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY menu.equalizer "Equalizer…">
 <!ENTITY first_run.add_ons.description.line1 "Додатоци ја прошируваат службеноста на &brandShortName;, што ви дозволува да го прилагодувате вашето искуство со медиа плеер. Опциите подолу се тврдо советувани. ">
 <!ENTITY displaypane.name.servicepane "Service Pane Bottom">
-<!ENTITY menu.clearprivatedata "Бриши ги приватните податоци...">
+<!ENTITY menu.clearprivatedata "Бриши ги приватните податоци…">
 <!ENTITY window.ok "ОК">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Најди">
 <!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY menu.updateCmd.label "Провери за надградби...">
+<!ENTITY menu.updateCmd.label "Провери за надградби…">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Content Pane Bottom">
@@ -435,7 +435,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.show "Show Service Pane">
 <!ENTITY tooltip.control.stop "Стоп">
 <!ENTITY menu.file.remote "Нова претплата">
-<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY menu.file.podcast "New Podcast…">
 <!ENTITY feedback.dialog.sentence2 "Ако не сте интересирани, нема да ве прашуваме пак. Ви благодариме за размислувањето и го признаваме вашето употребување на &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Не е вметнато сеуште (Види грешка 14281)">
@@ -475,10 +475,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.info.capacity.label "Капацитет">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY device.sync.images.browse "Choose folder…">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Отвори датотека...">
+<!ENTITY menu.file.open "Отвори датотека…">
 <!ENTITY command.device.devicesync "Синхронизирај">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -531,7 +531,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
 <!ENTITY mediacore.error.title "Грешка во медискиот срж">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Скокни до...">
+<!ENTITY menu.control.jumpto "Скокни до…">
 <!ENTITY menu.tools "Алатки">
 <!ENTITY device.settings.music.transcoding.label "Music Conversion">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Ресетирај">
@@ -633,7 +633,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware…">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Преференции">
@@ -654,7 +654,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.welcome.header.label "Добредојдовте на &brandShortName;">
 <!ENTITY feedback.dialog.title "Помогнете ни да го подобриме &brandShortName;!">
 <!ENTITY window.yes "Да">
-<!ENTITY subscribeMediaPageCmd.label "Претплати ме на оваа страница...">
+<!ENTITY subscribeMediaPageCmd.label "Претплати ме на оваа страница…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Oткажи">
 <!ENTITY watchfolder.folderlist "Набљудувај ги овие папки за нова медиа">
