@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Cut">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
 <!ENTITY tooltip.control.play "Play">
-<!ENTITY tooltip.browser.mediapages "Switch Media Views...">
+<!ENTITY tooltip.browser.mediapages "Switch Media Views…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Battery">
 <!ENTITY menu.edit.delete "Delete">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Do not import media">
 <!ENTITY feedback.dialog.yes "Yes">
 <!ENTITY about.buttons.credits "Credits">
-<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here. You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "Select the device directory in which to place music files.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "New Playlist…">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Open Frame In Default Web Browser">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "New Playlist...">
+<!ENTITY menu.file.new "New Playlist…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Folder:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Previous Track">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "Apply">
-<!ENTITY menu.file.smart "New Smart Playlist...">
+<!ENTITY menu.file.smart "New Smart Playlist…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "View Error Details">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "S">
 <!ENTITY menu.control.pause.button "Pause">
 <!ENTITY trackeditor.tab.summary.title "Summary">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "Equaliser">
 <!ENTITY import_library.import_command "Import Library">
 <!ENTITY cdrip.mediaview.view_tracks_button "View Tracks">
-<!ENTITY window.browse "Browse...">
+<!ENTITY window.browse "Browse…">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Watch Folders">
-<!ENTITY rapi.whitelist.label "Exceptions...">
+<!ENTITY rapi.whitelist.label "Exceptions…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Open Location...">
+<!ENTITY menu.file.url "Open Location…">
 <!ENTITY menu.downloadmgr "File Downloads">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Next Track">
 <!ENTITY umsd.video.video_path_browse_msg "Select the device directory in which to place video files.">
-<!ENTITY setupprogress.pleasewait "Please wait...">
+<!ENTITY setupprogress.pleasewait "Please wait…">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "most recently played">
 <!ENTITY command.device.ejectdevice "Eject">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Connection Settings...">
+<!ENTITY first_run.connection.settings.button "Connection Settings…">
 <!ENTITY import_library.prefs.title "iTunes Import/Export">
 <!ENTITY hotkeys.action "Action">
 <!ENTITY equalizer.preset.classical "Classical">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY device.management.tabs.music.label "Music">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
+<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame…">
 <!ENTITY add_on_bundle_installer.error_box.label "Details">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Web Integration">
-<!ENTITY menu.equalizer "Equaliser...">
+<!ENTITY menu.equalizer "Equaliser…">
 <!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;&apos;s functionality, allowing you to customise your media player experience. The options below are strongly recommended.">
 <!ENTITY displaypane.name.servicepane "Service Pane Bottom">
-<!ENTITY menu.clearprivatedata "Clear Private Data...">
+<!ENTITY menu.clearprivatedata "Clear Private Data…">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Find">
 <!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY menu.updateCmd.label "Check for Updates...">
+<!ENTITY menu.updateCmd.label "Check for Updates…">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Content Pane Bottom">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Subscribe">
 <!ENTITY tooltip.servicepane.show "Show Service Pane">
 <!ENTITY tooltip.control.stop "Stop">
-<!ENTITY menu.file.remote "New Subscription...">
-<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY menu.file.remote "New Subscription…">
+<!ENTITY menu.file.podcast "New Podcast…">
 <!ENTITY feedback.dialog.sentence2 "If you&apos;re not interested, we will not ask you again. Thanks for considering and we appreciate you using &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Capacity">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder...">
+<!ENTITY device.sync.images.browse "Choose folder…">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Open a File...">
+<!ENTITY menu.file.open "Open a File…">
 <!ENTITY command.device.devicesync "Sync">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Product">
 <!ENTITY smart.minutes "minutes">
 <!ENTITY menu.help.topics "Help Topics">
-<!ENTITY menu.file.playlist "Import a Playlist...">
+<!ENTITY menu.file.playlist "Import a Playlist…">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Limit to">
-<!ENTITY menu.file.library "Import a Library...">
+<!ENTITY menu.file.library "Import a Library…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Find Current Track">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
 <!ENTITY mediacore.error.title "Playback Error">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Jump To...">
+<!ENTITY menu.control.jumpto "Jump To…">
 <!ENTITY menu.tools "Tools">
 <!ENTITY device.settings.music.transcoding.label "Music Conversion">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Lookup CD Information">
 <!ENTITY tabs.listAllTabs "List all tabs">
 <!ENTITY rapi.prefpane.access.caption "Web Integration Permissions">
-<!ENTITY menu.file.scan "Import Media...">
+<!ENTITY menu.file.scan "Import Media…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Media Importer">
 <!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware…">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Preferences">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Welcome to &brandShortName;">
 <!ENTITY feedback.dialog.title "Help Make &brandShortName; Better!">
 <!ENTITY window.yes "Yes">
-<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page...">
+<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Stop">
 <!ENTITY watchfolder.folderlist "Watch these folders for new media:">

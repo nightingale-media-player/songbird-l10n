@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Skrij">
 <!ENTITY tooltip.browser.subscription "Naroči se na to stran">
 <!ENTITY smart.playlistcondition.library "Knjižnica">
-<!ENTITY menu.help.bugz "Prijavi hrošča ...">
+<!ENTITY menu.help.bugz "Prijavi hrošča …">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Spremljaj spremembe v tej mapi">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Dejanska velikost">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Izreži">
 <!ENTITY mediaimporter.filtered_extensions.title "Obvestilo o uvozu medijskih datotek">
 <!ENTITY tooltip.control.play "Predvajaj">
-<!ENTITY tooltip.browser.mediapages "Preklopi med pogledi ...">
+<!ENTITY tooltip.browser.mediapages "Preklopi med pogledi …">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Baterija">
 <!ENTITY menu.edit.delete "Izbriši">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Ne uvažaj datotek">
 <!ENTITY feedback.dialog.yes "Da">
 <!ENTITY about.buttons.credits "Zasluge">
-<!ENTITY device.firmware.wizard.check.progress.title "Preverjanje posodobitev strojnega programa ...">
+<!ENTITY device.firmware.wizard.check.progress.title "Preverjanje posodobitev strojnega programa …">
 <!ENTITY downloadMediaCmd.accesskey "p">
 <!ENTITY cdrip.lookup.info_not_found.descr "Izvajalca in naslov albuma lahko dodate na tem mestu. Preostale podatke lahko urejate v okviru seznama predvajanja razparane zgoščenke">
 <!ENTITY umsd.music.music_path_browse_msg "Izberite mapo na napravi, kamor naj se namestijo glasbene datoteke.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nov seznam predvajanja">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Odpri okvir v privzetem brskalniku">
 <!ENTITY menu.file.newtab.accesskey "Z">
-<!ENTITY menu.file.new "Nov seznam predvajanja ...">
+<!ENTITY menu.file.new "Nov seznam predvajanja …">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Mapa:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Prejšnja skladba">
 <!ENTITY device.firmware.wizard.support.description "Vire podpore, kot so pogosto zastavljena vprašanja (FAQ) lahko najdete na naslovu">
 <!ENTITY window.apply "Uporabi">
-<!ENTITY menu.file.smart "Nov pameten seznam predvajanja ...">
+<!ENTITY menu.file.smart "Nov pameten seznam predvajanja …">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Pokaži podrobnosti napake">
-<!ENTITY device.firmware.wizard.install.title "Nameščanje strojnega programa ...">
+<!ENTITY device.firmware.wizard.install.title "Nameščanje strojnega programa …">
 <!ENTITY command.device.canceldeviceupdate.accesskey "k">
 <!ENTITY menu.control.pause.button "Prekini">
 <!ENTITY trackeditor.tab.summary.title "Povzetek">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Izenačevalnik">
 <!ENTITY import_library.import_command "Uvozi knjižnico">
 <!ENTITY cdrip.mediaview.view_tracks_button "Pokaži posnetke">
-<!ENTITY window.browse "Prebrskaj ...">
+<!ENTITY window.browse "Prebrskaj …">
 <!ENTITY device.tools.restore_device.title "Obnovi napravo">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Razvrstite seznam posredovalnika, bolj zaželeni naj bodo na vrhu.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Za več informacij o manjkajočih kodekih si oglejte">
 <!ENTITY displaypane.default.image.post "ali obiščite">
 <!ENTITY smart.songs "predmeti">
-<!ENTITY menu.tools.getartwork "Najdi ovitek albuma ...">
+<!ENTITY menu.tools.getartwork "Najdi ovitek albuma …">
 <!ENTITY window.cancel "Prekliči">
 <!ENTITY smart.genre "žanr">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "U">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Opazuj mape">
-<!ENTITY rapi.whitelist.label "Izjeme ...">
+<!ENTITY rapi.whitelist.label "Izjeme …">
 <!ENTITY menu.updateCmd.accessKey "b">
-<!ENTITY menu.file.url "Odpri mesto ...">
+<!ENTITY menu.file.url "Odpri mesto …">
 <!ENTITY menu.downloadmgr "Prenosi">
 <!ENTITY device.settings.auto_launch.checkbox.label "Odpri &brandShortName;, ko je zaznana ta naprava">
 <!ENTITY first_run.itunes.checkbox.import.label "Uvozi posnetke in sezname predvajanja iz iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Šampioni Songbirda so naši neuničljivi uporabniki in navdušenci, ki so presegli vse mere zvestobe in pomagajo drugim uporabnikom na">
 <!ENTITY menu.control.next "Naslednji posnetek">
 <!ENTITY umsd.video.video_path_browse_msg "Izberi mapo na napravi, kamor naj se namestijo video datoteke.">
-<!ENTITY setupprogress.pleasewait "Prosimo, počakajte ...">
+<!ENTITY setupprogress.pleasewait "Prosimo, počakajte …">
 <!ENTITY menu.help.homepage "Spletno mesto &brandShortName;">
 <!ENTITY equalizer.preset.soft "Mehko">
 <!ENTITY equalizer.preset.large_hall "Velika dvorana">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "najbolj nedavno predvajan">
 <!ENTITY command.device.ejectdevice "Izvrzi">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Ne obveščaj me več o nepodprtih video datotekah ob uvozu">
-<!ENTITY first_run.connection.settings.button "Nastavitve povezave ...">
+<!ENTITY first_run.connection.settings.button "Nastavitve povezave …">
 <!ENTITY import_library.prefs.title "Uvoz/izvoz iz iTunes">
 <!ENTITY hotkeys.action "Dejanje">
 <!ENTITY equalizer.preset.classical "Klasična">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video v ospredje">
 <!ENTITY device.management.tabs.music.label "Glasba">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Naroči se na ta okvir ...">
+<!ENTITY subscribeMediaFrameCmd.label "Naroči se na ta okvir …">
 <!ENTITY add_on_bundle_installer.error_box.label "Podrobnosti">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Spletna integracija">
-<!ENTITY menu.equalizer "Izenačevalnik ...">
+<!ENTITY menu.equalizer "Izenačevalnik …">
 <!ENTITY first_run.add_ons.description.line1 "Dodatki razširijo funkcionalnost &brandShortName; s tem, da si lahko prikrojite predvajalnik po svoji meri. Močno vam priporočamo spodnje možnosti.">
 <!ENTITY displaypane.name.servicepane "dno podokna storitev">
-<!ENTITY menu.clearprivatedata "Počisti zasebne podatke ...">
+<!ENTITY menu.clearprivatedata "Počisti zasebne podatke …">
 <!ENTITY window.ok "V redu">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Najdi">
 <!ENTITY first_run.add_ons.description.line2 "Dodatki se lahko integrirajo z drugimi programi in storitvami, podpirajo povezovanje z zunanjimi napravami, spreminjajo videz programa in več! Več si jih lahko prenesete na strani dodatkov za &brandShortName;.">
-<!ENTITY menu.updateCmd.label "Preveri obstoj posodobitve ...">
+<!ENTITY menu.updateCmd.label "Preveri obstoj posodobitve …">
 <!ENTITY device.firmware.wizard.check.error.description "Pri preverjanju obstoja novega strojnega programa je prišlo do napake. Preverite svojo omrežno povezavo in poskusite znova.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitna hitrost">
 <!ENTITY displaypane.name.browser "dno podokna vsebine">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Naroči se">
 <!ENTITY tooltip.servicepane.show "Pokaži podokno storitev">
 <!ENTITY tooltip.control.stop "Ustavi">
-<!ENTITY menu.file.remote "Nova naročnina ...">
-<!ENTITY menu.file.podcast "Nov podkast ...">
+<!ENTITY menu.file.remote "Nova naročnina …">
+<!ENTITY menu.file.podcast "Nov podkast …">
 <!ENTITY feedback.dialog.sentence2 "Če vas ne zanima, vas ne bomo več spraševali. Hvala za razumevanje in veseli nas, da uporabljate &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Trenutno ni podprto. (Glejte hrošča št. 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Prostornina">
 <!ENTITY command.device.ignoredevice.accesskey "i">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Izberite mapo ...">
+<!ENTITY device.sync.images.browse "Izberite mapo …">
 <!ENTITY displaypane.default.link.post "za brskanje med dodatki.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Odpri datoteko ...">
+<!ENTITY menu.file.open "Odpri datoteko …">
 <!ENTITY command.device.devicesync "Uskladi">
 <!ENTITY menu.preferences.accesskey "M">
 <!ENTITY menu.clearprivatedata.accesskey "Z">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Izdelek">
 <!ENTITY smart.minutes "minut">
 <!ENTITY menu.help.topics "Teme pomoči">
-<!ENTITY menu.file.playlist "Uvozi seznam predvajanja ...">
+<!ENTITY menu.file.playlist "Uvozi seznam predvajanja …">
 <!ENTITY first_run.app_update.finished.title "Posodobitev je pripravljena za namestitev.">
 <!ENTITY device.tools.format_volume.button.label "Formatiraj">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Omeji na">
-<!ENTITY menu.file.library "Uvozi knjižnico ...">
+<!ENTITY menu.file.library "Uvozi knjižnico …">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "N">
 <!ENTITY tooltip.control.curtrack "Poišči trenutni posnetek">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Izvozi naročnine">
 <!ENTITY mediacore.error.title "Napaka v Mediacore">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Skoči na ...">
+<!ENTITY menu.control.jumpto "Skoči na …">
 <!ENTITY menu.tools "Orodja">
 <!ENTITY device.settings.music.transcoding.label "Prekodiranje glasbe">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Ponastavi">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Poišči informacije o CD">
 <!ENTITY tabs.listAllTabs "Seznam vseh zavihkov">
 <!ENTITY rapi.prefpane.access.caption "Dovoljenja za spletno integracijo">
-<!ENTITY menu.file.scan "Uvozi datoteke ...">
+<!ENTITY menu.file.scan "Uvozi datoteke …">
 <!ENTITY equalizer.band1.label "60">
 <!ENTITY import_media.prefs.title "Uvoznik glasbe">
 <!ENTITY device.firmware.wizard.download.error.description "Pri prenosu novega strojnega programa s spleta je prišlo do napake. Preverite svojo omrežno povezavo in poskusite znova.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Vse fotografije">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Želeni podatki ojačitve:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Prenašanje novega strojnega programa ...">
+<!ENTITY device.firmware.wizard.download.title "Prenašanje novega strojnega programa …">
 <!ENTITY cdrip.prefpane.format "Zapis">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Nastavitve">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Dobrodošli v &brandShortName;">
 <!ENTITY feedback.dialog.title "Pomagajte narediti &brandShortName; še boljši!">
 <!ENTITY window.yes "Da">
-<!ENTITY subscribeMediaPageCmd.label "Naroči se na to stran ...">
+<!ENTITY subscribeMediaPageCmd.label "Naroči se na to stran …">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Prekliči">
 <!ENTITY watchfolder.folderlist "Opazuj te mape za nove datoteke:">

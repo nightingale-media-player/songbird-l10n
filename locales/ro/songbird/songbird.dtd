@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ascunde">
 <!ENTITY tooltip.browser.subscription "Abonare la această pagină">
 <!ENTITY smart.playlistcondition.library "Bibliotecă">
-<!ENTITY menu.help.bugz "Raportează un defect...">
+<!ENTITY menu.help.bugz "Raportează un defect…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Supraveghează acest dosar pentru schimbări">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Dimensiunea reală">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Taie">
 <!ENTITY mediaimporter.filtered_extensions.title "Anunț de importare fișiere">
 <!ENTITY tooltip.control.play "Redare">
-<!ENTITY tooltip.browser.mediapages "Schimbă vizualizarea de fișiere...">
+<!ENTITY tooltip.browser.mediapages "Schimbă vizualizarea de fișiere…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Baterie">
 <!ENTITY menu.edit.delete "Șterge">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Nu importa fișiere">
 <!ENTITY feedback.dialog.yes "Da">
 <!ENTITY about.buttons.credits "Mulțumiri">
-<!ENTITY device.firmware.wizard.check.progress.title "Verificare actualizări pentru firmware...">
+<!ENTITY device.firmware.wizard.check.progress.title "Verificare actualizări pentru firmware…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "Puteți adăuga numele artistului și al albumului aici. Puteți edita informaţiile rămase în lista de redare cu piesele extrase de pe CD.">
 <!ENTITY umsd.music.music_path_browse_msg "Selectați dosarul dispozitivului în care să se amplaseze fișierele de muzică.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Listă de redare nouă">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Deschide cadrul în navigatorul de internet implicit">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Listă de redare nouă...">
+<!ENTITY menu.file.new "Listă de redare nouă…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Dosar:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Piesa precedentă">
 <!ENTITY device.firmware.wizard.support.description "Resursele de asistență, cum ar fi întrebările frecvente sau sfaturile de depanare, pot fi găsite la">
 <!ENTITY window.apply "Aplică">
-<!ENTITY menu.file.smart "Listă de redare inteligentă nouă...">
+<!ENTITY menu.file.smart "Listă de redare inteligentă nouă…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Vizualizează detalile erorii">
-<!ENTITY device.firmware.wizard.install.title "Instalare firmware...">
+<!ENTITY device.firmware.wizard.install.title "Instalare firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "A">
 <!ENTITY menu.control.pause.button "Pauză">
 <!ENTITY trackeditor.tab.summary.title "Cuprins">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Egalizator">
 <!ENTITY import_library.import_command "Importă o bibliotecă">
 <!ENTITY cdrip.mediaview.view_tracks_button "Vizualizează piesele">
-<!ENTITY window.browse "Răsfoiește...">
+<!ENTITY window.browse "Răsfoiește…">
 <!ENTITY device.tools.restore_device.title "Restaurare dispozitiv">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Modifică lista de fişiere descărcate pentru a fi utilizate primele.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Pentru mai multe informații în legătură cu codecurile lipsă, vizitați">
 <!ENTITY displaypane.default.image.post "sau vizitați">
 <!ENTITY smart.songs "piese">
-<!ENTITY menu.tools.getartwork "Descarcă imaginea albumului...">
+<!ENTITY menu.tools.getartwork "Descarcă imaginea albumului…">
 <!ENTITY window.cancel "Anulare">
 <!ENTITY smart.genre "gen">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Dosare sub supraveghere">
-<!ENTITY rapi.whitelist.label "Excepții de...">
+<!ENTITY rapi.whitelist.label "Excepții de…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Deschide o adresă...">
+<!ENTITY menu.file.url "Deschide o adresă…">
 <!ENTITY menu.downloadmgr "Descărcări de fișiere">
 <!ENTITY device.settings.auto_launch.checkbox.label "Deschide &brandShortName; când acest dispozitiv este detectat">
 <!ENTITY first_run.itunes.checkbox.import.label "Importă piese și liste de redare din iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Campionii Songbird sunt fani și utilizatori înrăiți ai programului Songbird, care au mers dincolo de simțul datoriei pentru a ajuta alți utilizatori pe ">
 <!ENTITY menu.control.next "Piesa următoare">
 <!ENTITY umsd.video.video_path_browse_msg "Selectați dosarul dispozitivului în care să se amplaseze fișierele video.">
-<!ENTITY setupprogress.pleasewait "Vă rugăm așteptați...">
+<!ENTITY setupprogress.pleasewait "Vă rugăm așteptați…">
 <!ENTITY menu.help.homepage "Site-ul &brandShortName;">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Sală mare">
@@ -281,11 +281,11 @@
 <!ENTITY smart.most_recent "cel mai recent redate">
 <!ENTITY command.device.ejectdevice "Scoateți">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Nu mă mai atenționa în legătură cu fișierele video nesuportate în timpul importării">
-<!ENTITY first_run.connection.settings.button "Setări de conexiune ...">
+<!ENTITY first_run.connection.settings.button "Setări de conexiune …">
 <!ENTITY import_library.prefs.title "Importator iTunes">
 <!ENTITY hotkeys.action "Acțiune">
 <!ENTITY equalizer.preset.classical "Clasic">
-<!ENTITY device.sync.images.from.label "Sincronizează pozele din...">
+<!ENTITY device.sync.images.from.label "Sincronizează pozele din…">
 <!ENTITY first_run.install_add_ons.title "Se descarcă extensii">
 <!ENTITY playback.prefpane.streaming.buffer "Bufferul de streaming:">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Examinează dosarele din calculator">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video în față">
 <!ENTITY device.management.tabs.music.label "Muzică">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Abonare la acest cadru...">
+<!ENTITY subscribeMediaFrameCmd.label "Abonare la acest cadru…">
 <!ENTITY add_on_bundle_installer.error_box.label "Detalii">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Integrare web">
-<!ENTITY menu.equalizer "Egalizator...">
+<!ENTITY menu.equalizer "Egalizator…">
 <!ENTITY first_run.add_ons.description.line1 "Extensiile măresc funcționalitatea programului &brandShortName;, permițându-vă să personalizați interacționarea cu programul. Opțiunile de mai jos sunt recomandate.">
 <!ENTITY displaypane.name.servicepane "Spațiu de servicii (Subsol)">
-<!ENTITY menu.clearprivatedata "Elimină datele private...">
+<!ENTITY menu.clearprivatedata "Elimină datele private…">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Caută">
 <!ENTITY first_run.add_ons.description.line2 "Extensiile pot fi integrate în alte aplicaţii şi servicii, suportă conectarea la dispozitive externe, pot schimba aspectul aplicaţiei şi multe altele! Puteţi descărca extensii adiţionale de pe site-ul de extensii &brandShortName;.">
-<!ENTITY menu.updateCmd.label "Verifică dacă sunt actualizări...">
+<!ENTITY menu.updateCmd.label "Verifică dacă sunt actualizări…">
 <!ENTITY device.firmware.wizard.check.error.description "A intervenit o eroare în timp ce se căuta un nou firmware. Vă rugăm verificați conexiunea la internet și reîncercați.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Rată de biți">
 <!ENTITY displaypane.name.browser "Spațiu de conținut (Subsol)">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Abonare">
 <!ENTITY tooltip.servicepane.show "Arată spațiul de servicii">
 <!ENTITY tooltip.control.stop "Oprire">
-<!ENTITY menu.file.remote "Abonament nou...">
-<!ENTITY menu.file.podcast "Podcast nou...">
+<!ENTITY menu.file.remote "Abonament nou…">
+<!ENTITY menu.file.podcast "Podcast nou…">
 <!ENTITY feedback.dialog.sentence2 "Dacă nu vă interesează, nu vă vom mai întreba niciodată. Vă mulțumim pentru că luați în considerare și pentru că folosiți &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Nu este implementat în acest moment. (Vedeți defecțiunea 14281.)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Capacitate">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Alege dosarul...">
+<!ENTITY device.sync.images.browse "Alege dosarul…">
 <!ENTITY displaypane.default.link.post "pentru a vedea extensiile.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Deschide fișier...">
+<!ENTITY menu.file.open "Deschide fișier…">
 <!ENTITY command.device.devicesync "Sincronizează">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Produs">
 <!ENTITY smart.minutes "minute">
 <!ENTITY menu.help.topics "Asistență">
-<!ENTITY menu.file.playlist "Importă o listă de redare...">
+<!ENTITY menu.file.playlist "Importă o listă de redare…">
 <!ENTITY first_run.app_update.finished.title "Actualizare gata de instalare.">
 <!ENTITY device.tools.format_volume.button.label "Formatează">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Limitează la">
-<!ENTITY menu.file.library "Importă o bibliotecă...">
+<!ENTITY menu.file.library "Importă o bibliotecă…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Găsește piesa actuală">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Exportă abonamente">
 <!ENTITY mediacore.error.title "Eroare fișiere de bază">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Sari la...">
+<!ENTITY menu.control.jumpto "Sari la…">
 <!ENTITY menu.tools "Unelte">
 <!ENTITY device.settings.music.transcoding.label "Re-codarea pieselor">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Resetează">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Caută informații despre CD">
 <!ENTITY tabs.listAllTabs "Lista tuturor filelor">
 <!ENTITY rapi.prefpane.access.caption "Permisii de integrare web">
-<!ENTITY menu.file.scan "Importă fișiere...">
+<!ENTITY menu.file.scan "Importă fișiere…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Importator de fișiere">
 <!ENTITY device.firmware.wizard.download.error.description "A intervenit o eroare în timpul descărcării noului firmware. Verificați conexiunea la internet și încercați din nou.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Toate pozele">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Date avantajoase preferate:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Descărcare firmware nou...">
+<!ENTITY device.firmware.wizard.download.title "Descărcare firmware nou…">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Preferințe">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Bun venit la &brandShortName;">
 <!ENTITY feedback.dialog.title "Ajutați-ne să facem &brandShortName; mai bun!">
 <!ENTITY window.yes "Da">
-<!ENTITY subscribeMediaPageCmd.label "Abonare la această pagină...">
+<!ENTITY subscribeMediaPageCmd.label "Abonare la această pagină…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Anulare">
 <!ENTITY watchfolder.folderlist "Monitorizează dacă în aceste dosare s-au adăugat fișiere noi:">

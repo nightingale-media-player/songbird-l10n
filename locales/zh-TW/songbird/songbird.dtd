@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "隱藏">
 <!ENTITY tooltip.browser.subscription "建立訂閱">
 <!ENTITY smart.playlistcondition.library "媒體庫">
-<!ENTITY menu.help.bugz "回報臭蟲...">
+<!ENTITY menu.help.bugz "回報臭蟲…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "監看這個資料夾的變更">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "實際大小">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "剪下">
 <!ENTITY mediaimporter.filtered_extensions.title "匯入媒體通知">
 <!ENTITY tooltip.control.play "播放">
-<!ENTITY tooltip.browser.mediapages "檢視...">
+<!ENTITY tooltip.browser.mediapages "檢視…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "電池">
 <!ENTITY menu.edit.delete "刪除">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "現在不要匯入媒體">
 <!ENTITY feedback.dialog.yes "是">
 <!ENTITY about.buttons.credits "感謝">
-<!ENTITY device.firmware.wizard.check.progress.title "正在檢查可更新的韌體...">
+<!ENTITY device.firmware.wizard.check.progress.title "正在檢查可更新的韌體…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "您可以在這裡輸入曲名以及專輯名稱，或是修改撥放清單的內容">
 <!ENTITY umsd.music.music_path_browse_msg "選擇要放置音樂檔案的裝置目錄。">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "新的播放清單">
 <!ENTITY openFrameCmdInDefaultBrowser.label "用預設瀏覽器開啟框架">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "新增播放清單...">
+<!ENTITY menu.file.new "新增播放清單…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "資料夾：">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "上一首歌">
 <!ENTITY device.firmware.wizard.support.description "像是FAQ和疑難排解可被找到於">
 <!ENTITY window.apply "套用">
-<!ENTITY menu.file.smart "新增智慧型播放清單...">
+<!ENTITY menu.file.smart "新增智慧型播放清單…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "檢視錯誤細節">
-<!ENTITY device.firmware.wizard.install.title "安裝韌體中...">
+<!ENTITY device.firmware.wizard.install.title "安裝韌體中…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "暫停">
 <!ENTITY trackeditor.tab.summary.title "概要">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "平衡器">
 <!ENTITY import_library.import_command "匯入媒體庫">
 <!ENTITY cdrip.mediaview.view_tracks_button "檢視音軌">
-<!ENTITY window.browse "瀏覽...">
+<!ENTITY window.browse "瀏覽…">
 <!ENTITY device.tools.restore_device.title "還原裝置">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "整理擷取列表，使您優先使用的在最上方。">
 <!ENTITY mediacore.error.codec_not_found.text.pre "如欲了解更多有關缺掉的編解碼器，請參閱：">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "檢視資料夾">
-<!ENTITY rapi.whitelist.label "例外...">
+<!ENTITY rapi.whitelist.label "例外…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "開啟位置...">
+<!ENTITY menu.file.url "開啟位置…">
 <!ENTITY menu.downloadmgr "檔案下載">
 <!ENTITY device.settings.auto_launch.checkbox.label "當這個裝置被偵測到時，打開 &brandShortName; ">
 <!ENTITY first_run.itunes.checkbox.import.label "從iTunes匯入音軌和播放清單">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird Champions是Songbird的死忠使用者和粉絲。他們在">
 <!ENTITY menu.control.next "下一首歌">
 <!ENTITY umsd.video.video_path_browse_msg "選擇要放置視訊檔案的裝置目錄。">
-<!ENTITY setupprogress.pleasewait "請稍候...">
+<!ENTITY setupprogress.pleasewait "請稍候…">
 <!ENTITY menu.help.homepage "&brandShortName; 網站">
 <!ENTITY equalizer.preset.soft "輕柔(Soft)">
 <!ENTITY equalizer.preset.large_hall "大廳(Large Hall)">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "最近播放">
 <!ENTITY command.device.ejectdevice "退出">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "匯入時遇到不受支援的視訊文件不要再通知我">
-<!ENTITY first_run.connection.settings.button "連線設定...">
+<!ENTITY first_run.connection.settings.button "連線設定…">
 <!ENTITY import_library.prefs.title "匯入">
 <!ENTITY hotkeys.action "動作">
 <!ENTITY equalizer.preset.classical "古典(Classical)">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "影片置頂">
 <!ENTITY device.management.tabs.music.label "音樂">
 <!ENTITY equalizer.preset.pop "流行(Pop)">
-<!ENTITY subscribeMediaFrameCmd.label "訂閱此框架...">
+<!ENTITY subscribeMediaFrameCmd.label "訂閱此框架…">
 <!ENTITY add_on_bundle_installer.error_box.label "詳細資料">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Web 整合">
-<!ENTITY menu.equalizer "平衡器...">
+<!ENTITY menu.equalizer "平衡器…">
 <!ENTITY first_run.add_ons.description.line1 "附加元件可以擴充 &brandShortName; 的功能，讓你自訂你的媒體播放體驗。強烈建議以下選項。">
 <!ENTITY displaypane.name.servicepane "服務窗格底部">
-<!ENTITY menu.clearprivatedata "清除隱私資料...">
+<!ENTITY menu.clearprivatedata "清除隱私資料…">
 <!ENTITY window.ok "確定">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "尋找">
 <!ENTITY first_run.add_ons.description.line2 "附加元件可以與其他的應用程式和服務整合、支援連接到外部裝置、更可以改變應用程式的外觀！你可以在 &brandShortName; 的附加元件網站上下載更多。">
-<!ENTITY menu.updateCmd.label "檢查更新...">
+<!ENTITY menu.updateCmd.label "檢查更新…">
 <!ENTITY device.firmware.wizard.check.error.description "在檢查新韌體時出現錯誤。請確認是否連接上網路並再試一次。">
 <!ENTITY device.settings.music.transcoding.bitrate.label "取樣率">
 <!ENTITY displaypane.name.browser "內容窗格底部">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "確認">
 <!ENTITY tooltip.servicepane.show "顯示服務台">
 <!ENTITY tooltip.control.stop "停止">
-<!ENTITY menu.file.remote "新增訂閱...">
-<!ENTITY menu.file.podcast "新Podcast...">
+<!ENTITY menu.file.remote "新增訂閱…">
+<!ENTITY menu.file.podcast "新Podcast…">
 <!ENTITY feedback.dialog.sentence2 "如果你沒有興趣，我們就不會再問你了。感謝你使用 &brandShortName;！我們祝你使用愉快。">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "此功能還未完成（檢視 Bug 14281）">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "容量">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "加速移動">
-<!ENTITY device.sync.images.browse "選擇資料夾...">
+<!ENTITY device.sync.images.browse "選擇資料夾…">
 <!ENTITY displaypane.default.link.post "前往瀏覽套件">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "開啟檔案...">
+<!ENTITY menu.file.open "開啟檔案…">
 <!ENTITY command.device.devicesync "同步">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,16 +492,16 @@
 <!ENTITY device.info.product.label "產品">
 <!ENTITY smart.minutes "分鐘">
 <!ENTITY menu.help.topics "說明主題">
-<!ENTITY menu.file.playlist "匯入播放清單...">
+<!ENTITY menu.file.playlist "匯入播放清單…">
 <!ENTITY first_run.app_update.finished.title "以準備好安裝更新">
 <!ENTITY device.tools.format_volume.button.label "格式化">
 <!ENTITY device.dialog.setup.explainIgnore.afterText "。">
 <!ENTITY smart.limit "限制">
-<!ENTITY menu.file.library "匯入一個媒體庫...">
+<!ENTITY menu.file.library "匯入一個媒體庫…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "尋找目前音軌">
-<!ENTITY setupprogress.installingextensions "安裝附加元件中...">
+<!ENTITY setupprogress.installingextensions "安裝附加元件中…">
 <!ENTITY menu.mac.services "服務">
 <!ENTITY menu.file.open.accesskey "O">
 <!ENTITY import_library.library_file_label "媒體庫檔案:">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "匯出訂閱紀錄">
 <!ENTITY mediacore.error.title "媒體核心錯誤">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "跳至...">
+<!ENTITY menu.control.jumpto "跳至…">
 <!ENTITY menu.tools "工具">
 <!ENTITY device.settings.music.transcoding.label "音樂轉碼">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "重設">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "看看CD的詳細資訊">
 <!ENTITY tabs.listAllTabs "顯示所有分頁">
 <!ENTITY rapi.prefpane.access.caption "網站權限">
-<!ENTITY menu.file.scan "匯入媒體...">
+<!ENTITY menu.file.scan "匯入媒體…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "媒體匯入器">
 <!ENTITY device.firmware.wizard.download.error.description "下載新韌體時發生錯誤，請檢查你的網路連接並再試一次。">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "全部照片">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "要使用的增益資料：">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "下載新韌體...">
+<!ENTITY device.firmware.wizard.download.title "下載新韌體…">
 <!ENTITY cdrip.prefpane.format "格式">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "偏好設定">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "歡迎使用 &brandShortName;">
 <!ENTITY feedback.dialog.title "幫助 &brandShortName; 改進！">
 <!ENTITY window.yes "是">
-<!ENTITY subscribeMediaPageCmd.label "訂閱此頁面...">
+<!ENTITY subscribeMediaPageCmd.label "訂閱此頁面…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "取消">
 <!ENTITY watchfolder.folderlist "監看下列資料夾是否有新媒體：">

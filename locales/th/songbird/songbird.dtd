@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "ซ่อน">
 <!ENTITY tooltip.browser.subscription "สมัครหน้านี้">
 <!ENTITY smart.playlistcondition.library "ตู้เพลง">
-<!ENTITY menu.help.bugz "รายงานข้อผิดพลาด...">
+<!ENTITY menu.help.bugz "รายงานข้อผิดพลาด…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "จับตามองโฟลเดอร์นี้เพื่อดูการเปลี่ยนแปลง">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "ตัด">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
 <!ENTITY tooltip.control.play "เล่น">
-<!ENTITY tooltip.browser.mediapages "เปลี่ยนมุมมองแสดงสื่อ...">
+<!ENTITY tooltip.browser.mediapages "เปลี่ยนมุมมองแสดงสื่อ…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "แบตเตอรี">
 <!ENTITY menu.edit.delete "ลบ">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "อย่านำมิเดียเข้า">
 <!ENTITY feedback.dialog.yes "ใช่">
 <!ENTITY about.buttons.credits "เครดิต">
-<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "ท่านสามารถเพิ่มชื่อศิลปินและอัลบัมที่นี่ ท่านสามารถแก้ไขข้อมูลที่เหลือภายในรายการซีดีที่ดึงลงมาได้">
 <!ENTITY umsd.music.music_path_browse_msg "เลือกไดเรคทอรีของอุปกรณ์ที่ต้องการใส่ไฟล์เพลง">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "รายการเพลงใหม่">
 <!ENTITY openFrameCmdInDefaultBrowser.label "เปิดเฟรมด้วยเว็บเบราวเซอร์ปริยาย">
 <!ENTITY menu.file.newtab.accesskey "ท">
-<!ENTITY menu.file.new "รายการเพลงใหม่...">
+<!ENTITY menu.file.new "รายการเพลงใหม่…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "ค">
 <!ENTITY watch_folder.prefs.watch_folder_label "โฟลเดอร์:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "เพลงก่อนหน้า">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "ใช้งาน">
-<!ENTITY menu.file.smart "สร้างรายการเพลงชาญฉลาดใหม่...">
+<!ENTITY menu.file.smart "สร้างรายการเพลงชาญฉลาดใหม่…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "แสดงรายการผิดพลาด">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "Pause">
 <!ENTITY trackeditor.tab.summary.title "สรุป">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "ตัวปรับเท่า">
 <!ENTITY import_library.import_command "นำตู้เพลงเข้า">
 <!ENTITY cdrip.mediaview.view_tracks_button "ดูแทร็ก">
-<!ENTITY window.browse "เลือก...">
+<!ENTITY window.browse "เลือก…">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
 <!ENTITY smart.songs "รายการ">
-<!ENTITY menu.tools.getartwork "โหลดปกอัลบัม...">
+<!ENTITY menu.tools.getartwork "โหลดปกอัลบัม…">
 <!ENTITY window.cancel "ยกเลิก">
 <!ENTITY smart.genre "แนวเพลง">
 <!ENTITY menu.file.playlist.accesskey "ร">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "โฟลเดอร์ที่ถูกจับตามอง">
-<!ENTITY rapi.whitelist.label "ยกเว้น...">
+<!ENTITY rapi.whitelist.label "ยกเว้น…">
 <!ENTITY menu.updateCmd.accessKey "ป">
-<!ENTITY menu.file.url "เปิดจากที่ตั้ง...">
+<!ENTITY menu.file.url "เปิดจากที่ตั้ง…">
 <!ENTITY menu.downloadmgr "ดาวน์โหลด">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "นำเข้าเพลงและรายการเพลงจาก iTunes">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "เล่นล่าสุด">
 <!ENTITY command.device.ejectdevice "เอาออก">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "ตั้งค่าการเชื่อมต่อ...">
+<!ENTITY first_run.connection.settings.button "ตั้งค่าการเชื่อมต่อ…">
 <!ENTITY import_library.prefs.title "การนำ iTunes เข้า">
 <!ENTITY hotkeys.action "การกระทำ">
 <!ENTITY equalizer.preset.classical "คลาสสิก">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "นำวิดีโอมาไว้ด้านบน">
 <!ENTITY device.management.tabs.music.label "เพลง">
 <!ENTITY equalizer.preset.pop "สมัยนิยม">
-<!ENTITY subscribeMediaFrameCmd.label "บอกรับสมาชิกเฟรมนี้...">
+<!ENTITY subscribeMediaFrameCmd.label "บอกรับสมาชิกเฟรมนี้…">
 <!ENTITY add_on_bundle_installer.error_box.label "รายละเอียด">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,7 +408,7 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "การเชื่อมโยงผ่านเว็บ">
-<!ENTITY menu.equalizer "ตัวปรับเท่า...">
+<!ENTITY menu.equalizer "ตัวปรับเท่า…">
 <!ENTITY first_run.add_ons.description.line1 "ส่วนเพิ่มเติมสามารถเพิ่มขีดความสามารถของ &brandShortName; และสามารถทำให้ท่านปรับแต่งการเล่นมิเดียได้ ตัวเลือกด้านล่างนั้นแนะนำให้ใช้เป็นอย่างยิ่ง">
 <!ENTITY displaypane.name.servicepane "บานหน้าต่างเซอร์วิสบานล่าง">
 <!ENTITY menu.clearprivatedata "ล้างข้อมูลส่วนตัว">
@@ -416,7 +416,7 @@
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "ค้นหา">
 <!ENTITY first_run.add_ons.description.line2 "ส่วนเพิ่มเติมสามารถหลอมเข้ากับโปรแกรมและบริการอื่น ๆ, รองรับการเชื่อมต่ออุปกรณ์ภายนอก, การเปลี่ยนแปลงรูปลักษณ์โปรแกรม และอื่น ๆ อีกมากมาย! ท่านสามารถดาวน์โหลดส่วนเพิ่มเติมได้จากเว็บของ &brandShortName;">
-<!ENTITY menu.updateCmd.label "ตรวจหาการปรับปรุง...">
+<!ENTITY menu.updateCmd.label "ตรวจหาการปรับปรุง…">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "ช่องหน้าต่างเนื้อหาด้านล่าง">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "บอกรับ">
 <!ENTITY tooltip.servicepane.show "แสดงบานหน้าต่างเซอร์วิส">
 <!ENTITY tooltip.control.stop "หยุด">
-<!ENTITY menu.file.remote "บอกรับสมาชิก...">
-<!ENTITY menu.file.podcast "New Podcast...">
+<!ENTITY menu.file.remote "บอกรับสมาชิก…">
+<!ENTITY menu.file.podcast "New Podcast…">
 <!ENTITY feedback.dialog.sentence2 "ถ้าคุณไม่สนใจ,เราจะไม่ถามคุณอีก ขอขอบคุณที่เลือกใช้ &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "ยังทำไม่เสร็จ (ดูบั๊ก 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "เนื้อที่">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "เลือกโฟลเดอร์...">
+<!ENTITY device.sync.images.browse "เลือกโฟลเดอร์…">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "ล">
-<!ENTITY menu.file.open "เปิดไฟล์...">
+<!ENTITY menu.file.open "เปิดไฟล์…">
 <!ENTITY command.device.devicesync "Sync">
 <!ENTITY menu.preferences.accesskey "ล">
 <!ENTITY menu.clearprivatedata.accesskey "ส">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Product">
 <!ENTITY smart.minutes "นาที">
 <!ENTITY menu.help.topics "หัวข้อช่วยเหลือ">
-<!ENTITY menu.file.playlist "นำรายการเพลงเข้ามา...">
+<!ENTITY menu.file.playlist "นำรายการเพลงเข้ามา…">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "ฟอร์แมต">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "จำกัดที่">
-<!ENTITY menu.file.library "นำรายการเข้า...">
+<!ENTITY menu.file.library "นำรายการเข้า…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "หาเพลงปัจจุบัน">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "ส่งออกการบอกรับ">
 <!ENTITY mediacore.error.title "Mediacore ผิดพลาด">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "ข้ามไป...">
+<!ENTITY menu.control.jumpto "ข้ามไป…">
 <!ENTITY menu.tools "เครื่องมือ">
 <!ENTITY device.settings.music.transcoding.label "แปลงไฟล์เพลง">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "ล้างค่า">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "ค้นหาข้อมูลซีดี">
 <!ENTITY tabs.listAllTabs "รายการแท็บทั้งหมด">
 <!ENTITY rapi.prefpane.access.caption "สิทธิ์การเชื่อมโยงผ่านเว็บ">
-<!ENTITY menu.file.scan "นำสื่อเข้า...">
+<!ENTITY menu.file.scan "นำสื่อเข้า…">
 <!ENTITY equalizer.band1.label "60">
 <!ENTITY import_media.prefs.title "ตัวนำเข้าสื่อ">
 <!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "รูปภาพทั้งหมด">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "ข้อมูลระดับเสียงที่ต้องการ:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware…">
 <!ENTITY cdrip.prefpane.format "ฟอร์แมต">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "ตัวเลือก">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY feedback.dialog.title "ช่วยกันทำให้ &brandShortName; ให้ดีขึ้น!">
 <!ENTITY window.yes "ใช่">
-<!ENTITY subscribeMediaPageCmd.label "บอกรับสมาชิกหน้านี้...">
+<!ENTITY subscribeMediaPageCmd.label "บอกรับสมาชิกหน้านี้…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "ยกเลิก">
 <!ENTITY watchfolder.folderlist "จับตามองโฟลเดอร์ดังต่อไปนี้หามีการเพิ่มมิเดียใหม่:">

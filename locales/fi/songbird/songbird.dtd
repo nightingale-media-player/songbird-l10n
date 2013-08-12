@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Piilota">
 <!ENTITY tooltip.browser.subscription "Tilaa tämä sivu">
 <!ENTITY smart.playlistcondition.library "Kirjasto">
-<!ENTITY menu.help.bugz "Ilmoita virhe...">
+<!ENTITY menu.help.bugz "Ilmoita virhe…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Tarkkaile tätä hakemistoa muutosten varalta">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Todellinen koko">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Leikkaa">
 <!ENTITY mediaimporter.filtered_extensions.title "Mediatiedostojen tuonti-ilmoitus">
 <!ENTITY tooltip.control.play "Toista">
-<!ENTITY tooltip.browser.mediapages "Vaihda medianäkymää...">
+<!ENTITY tooltip.browser.mediapages "Vaihda medianäkymää…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Akku">
 <!ENTITY menu.edit.delete "Poista">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Älä tuo mediatiedostoja">
 <!ENTITY feedback.dialog.yes "Kyllä">
 <!ENTITY about.buttons.credits "Tekijät">
-<!ENTITY device.firmware.wizard.check.progress.title "Etsitään päivitettyä laiteohjelmistoversiota...">
+<!ENTITY device.firmware.wizard.check.progress.title "Etsitään päivitettyä laiteohjelmistoversiota…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "Voit lisätä artistin ja albumin nimen tässä. Voit muokata muita tietoja CD-kopioinnin soittolistassa">
 <!ENTITY umsd.music.music_path_browse_msg "Valitse laitteen kansio, johon musiikkitiedostot sijoitetaan.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Uusi soittolista">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Avaa kehys oletusselaimessa">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Uusi soittolista...">
+<!ENTITY menu.file.new "Uusi soittolista…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Kansio:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Edellinen kappale">
 <!ENTITY device.firmware.wizard.support.description "Tukiresursseja, kuten usein kysyttyjä kysymyksiä ja vianmääritystietoja, on osoitteessa">
 <!ENTITY window.apply "Käytä">
-<!ENTITY menu.file.smart "Uusi älykäs soittolista...">
+<!ENTITY menu.file.smart "Uusi älykäs soittolista…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Näytä virheen tiedot">
-<!ENTITY device.firmware.wizard.install.title "Asennetaan laiteohjelmistoa...">
+<!ENTITY device.firmware.wizard.install.title "Asennetaan laiteohjelmistoa…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "Tauko">
 <!ENTITY trackeditor.tab.summary.title "Yhteenveto">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Ekvalisaattori">
 <!ENTITY import_library.import_command "Tuo kirjasto">
 <!ENTITY cdrip.mediaview.view_tracks_button "Näytä kappaleet">
-<!ENTITY window.browse "Selaa...">
+<!ENTITY window.browse "Selaa…">
 <!ENTITY device.tools.restore_device.title "Palauta laite">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Siirrä noutaja, jota haluat käyttää ensisijaisesti, luettelon ylimmäksi.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Lisätietoja puuttuvista koodeista on kohdassa">
 <!ENTITY displaypane.default.image.post "tai vieraile">
 <!ENTITY smart.songs "kohdetta">
-<!ENTITY menu.tools.getartwork "Hae albumeille kansikuvat...">
+<!ENTITY menu.tools.getartwork "Hae albumeille kansikuvat…">
 <!ENTITY window.cancel "Peruuta">
 <!ENTITY smart.genre "laji">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Tarkkaile kansioita">
-<!ENTITY rapi.whitelist.label "Poikkeukset...">
+<!ENTITY rapi.whitelist.label "Poikkeukset…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Avaa sijainti...">
+<!ENTITY menu.file.url "Avaa sijainti…">
 <!ENTITY menu.downloadmgr "Tiedostolataukset">
 <!ENTITY device.settings.auto_launch.checkbox.label "Avaa &brandShortName; kun tämä laite havaitaan">
 <!ENTITY first_run.itunes.checkbox.import.label "Tuo kappaleet ja soittolistat iTunesista">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbirdin sankarit ovat Songbirdin innokkaimpia käyttäjiä ja faneja, jotka ovat tehneet kaikkensa auttaakseen toisia käyttäjiä">
 <!ENTITY menu.control.next "Seuraava kappale">
 <!ENTITY umsd.video.video_path_browse_msg "Valitse laitteen hakemisto, johon videotiedostot sijoitetaan.">
-<!ENTITY setupprogress.pleasewait "Odota...">
+<!ENTITY setupprogress.pleasewait "Odota…">
 <!ENTITY menu.help.homepage "&brandShortName; kotisivu">
 <!ENTITY equalizer.preset.soft "Pehmeä">
 <!ENTITY equalizer.preset.large_hall "Iso halli">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "viimeksi toistettu">
 <!ENTITY command.device.ejectdevice "Poista">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Älä enää ilmoita tuonnin aikana videotiedostoista, joita ei tueta">
-<!ENTITY first_run.connection.settings.button "Yhteysasetukset...">
+<!ENTITY first_run.connection.settings.button "Yhteysasetukset…">
 <!ENTITY import_library.prefs.title "iTunes-tuonti/-vienti">
 <!ENTITY hotkeys.action "Toiminto">
 <!ENTITY equalizer.preset.classical "Klassinen">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video eteen">
 <!ENTITY device.management.tabs.music.label "Musiikki">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Tilaa tämä kehys...">
+<!ENTITY subscribeMediaFrameCmd.label "Tilaa tämä kehys…">
 <!ENTITY add_on_bundle_installer.error_box.label "Tiedot">
 <!ENTITY smart.gb "Gt">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Web-integrointi">
-<!ENTITY menu.equalizer "Ekvalisaattori...">
+<!ENTITY menu.equalizer "Ekvalisaattori…">
 <!ENTITY first_run.add_ons.description.line1 "Lisäosat laajentavat &brandShortName;-ohjelmiston toimintaa ja antavat mahdollisuuden muokata soitinta. Alla olevat valinnat ovat suositeltuja.">
 <!ENTITY displaypane.name.servicepane "Palveluruutu alaosassa">
-<!ENTITY menu.clearprivatedata "Tyhjennä yksityiset tiedot...">
+<!ENTITY menu.clearprivatedata "Tyhjennä yksityiset tiedot…">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Etsi">
 <!ENTITY first_run.add_ons.description.line2 "Lisäosia voidaan esimerkiksi liittää muihin sovelluksiin ja palveluihin kanssa, ne voivat tukea ulkoisia laitteita ja niillä voidaan muuttaa ohjelman ulkoasua. Voit ladata lisäosia &brandShortName;-ohjelmiston lisäosasivulta.">
-<!ENTITY menu.updateCmd.label "Tarkista päivitykset...">
+<!ENTITY menu.updateCmd.label "Tarkista päivitykset…">
 <!ENTITY device.firmware.wizard.check.error.description "Virhe tarkistettaessa uusia laiteohjelmistoja. Tarkista verkkoyhteys ja yritä uudelleen.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Siirtonopeus">
 <!ENTITY displaypane.name.browser "Sisältöruutu alaosassa">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Tilaa">
 <!ENTITY tooltip.servicepane.show "Näytä palveluruutu">
 <!ENTITY tooltip.control.stop "Lopeta">
-<!ENTITY menu.file.remote "Uusi tilaus...">
-<!ENTITY menu.file.podcast "Uusi podcast...">
+<!ENTITY menu.file.remote "Uusi tilaus…">
+<!ENTITY menu.file.podcast "Uusi podcast…">
 <!ENTITY feedback.dialog.sentence2 "Jollet ole kiinnostunut, emme kysy sinulta uudelleen. Kiitos, että käytät &brandShortName;-ohjelmistoa!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Ei vielä toteutettu (katso bugi 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Kapasiteetti">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "Nopeuden muuttaminen">
-<!ENTITY device.sync.images.browse "Valitse hakemisto...">
+<!ENTITY device.sync.images.browse "Valitse hakemisto…">
 <!ENTITY displaypane.default.link.post "jotta voit selata lisäosia.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Avaa tiedosto...">
+<!ENTITY menu.file.open "Avaa tiedosto…">
 <!ENTITY command.device.devicesync "Synkronoi">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Tuote">
 <!ENTITY smart.minutes "minuuttia">
 <!ENTITY menu.help.topics "Ohjeaiheet">
-<!ENTITY menu.file.playlist "Tuo soittolista...">
+<!ENTITY menu.file.playlist "Tuo soittolista…">
 <!ENTITY first_run.app_update.finished.title "Päivitys on valmis asennettavaksi.">
 <!ENTITY device.tools.format_volume.button.label "Formatoi">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Rajoitus:">
-<!ENTITY menu.file.library "Tuo kirjasto...">
+<!ENTITY menu.file.library "Tuo kirjasto…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Etsi nykyinen kappale">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Vie tilauksia">
 <!ENTITY mediacore.error.title "Mediaydinvirhe">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Siirry kohtaan...">
+<!ENTITY menu.control.jumpto "Siirry kohtaan…">
 <!ENTITY menu.tools "Työkalut">
 <!ENTITY device.settings.music.transcoding.label "Musiikin muuntaminen">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Nollaa">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Etsi CD-tiedot">
 <!ENTITY tabs.listAllTabs "Näytä kaikki välilehdet">
 <!ENTITY rapi.prefpane.access.caption "Web-integroinnin oikeudet">
-<!ENTITY menu.file.scan "Tuo mediaa...">
+<!ENTITY menu.file.scan "Tuo mediaa…">
 <!ENTITY equalizer.band1.label "60">
 <!ENTITY import_media.prefs.title "Sisällön tuonti">
 <!ENTITY device.firmware.wizard.download.error.description "Virhe ladattaessa uutta laiteohjelmistoa. Tarkista verkkoyhteys ja yritä uudelleen.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Kaikki kuvat">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Halutun vahvistuksen tiedot:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Ladataan uutta laiteohjelmistoa...">
+<!ENTITY device.firmware.wizard.download.title "Ladataan uutta laiteohjelmistoa…">
 <!ENTITY cdrip.prefpane.format "Tiedostomuoto">
 <!ENTITY smart.mb "Mt">
 <!ENTITY menu.linux.preferences "Asetukset">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Tervetuloa &brandShortName;-ohjelmistoon">
 <!ENTITY feedback.dialog.title "Osallistu &brandShortName;-ohjelmiston kehittämiseen!">
 <!ENTITY window.yes "Kyllä">
-<!ENTITY subscribeMediaPageCmd.label "Tilaa tämä sivu...">
+<!ENTITY subscribeMediaPageCmd.label "Tilaa tämä sivu…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Peruuta">
 <!ENTITY watchfolder.folderlist "Tarkkaile näiden kansioiden uusia mediatiedostoja:">

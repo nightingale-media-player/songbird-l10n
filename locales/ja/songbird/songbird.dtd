@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "隠す">
 <!ENTITY tooltip.browser.subscription "ページを定期購読する">
 <!ENTITY smart.playlistcondition.library "ライブラリ">
-<!ENTITY menu.help.bugz "バグを報告...">
+<!ENTITY menu.help.bugz "バグを報告…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "このフォルダの変更を監視する">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "実サイズ">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "切り取り">
 <!ENTITY mediaimporter.filtered_extensions.title "メディアインポートの警告">
 <!ENTITY tooltip.control.play "再生">
-<!ENTITY tooltip.browser.mediapages "メディアビューの切り替え...">
+<!ENTITY tooltip.browser.mediapages "メディアビューの切り替え…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "バッテリー">
 <!ENTITY menu.edit.delete "削除">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "今はメディアをインポートしない">
 <!ENTITY feedback.dialog.yes "はい">
 <!ENTITY about.buttons.credits "クレジット">
-<!ENTITY device.firmware.wizard.check.progress.title "更新されたファームウェアを確認中...">
+<!ENTITY device.firmware.wizard.check.progress.title "更新されたファームウェアを確認中…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "ここにアーティスト名とアルバム名を記入してください。残りの情報は CD Rip プレイリストを編集してください。">
 <!ENTITY umsd.music.music_path_browse_msg "音楽ファイルを置くディレクトリを選択してください。">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "新しいプレイリスト">
 <!ENTITY openFrameCmdInDefaultBrowser.label "フレームをデフォルトのウェブブラウザで開く">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "新しいプレイリスト...">
+<!ENTITY menu.file.new "新しいプレイリスト…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "フォルダ:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "前のトラック">
 <!ENTITY device.firmware.wizard.support.description "FAQ やトラブルシューティングなどのサポート情報は次のサイトで見つけられます:">
 <!ENTITY window.apply "適用">
-<!ENTITY menu.file.smart "新しいスマートプレイリスト...">
+<!ENTITY menu.file.smart "新しいスマートプレイリスト…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "エラーの詳細を表示">
-<!ENTITY device.firmware.wizard.install.title "ファームウェアをインストールしています...">
+<!ENTITY device.firmware.wizard.install.title "ファームウェアをインストールしています…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "S">
 <!ENTITY menu.control.pause.button "一時停止">
 <!ENTITY trackeditor.tab.summary.title "要約">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "イコライザ">
 <!ENTITY import_library.import_command "ライブラリのインポート">
 <!ENTITY cdrip.mediaview.view_tracks_button "トラックを表示">
-<!ENTITY window.browse "参照...">
+<!ENTITY window.browse "参照…">
 <!ENTITY device.tools.restore_device.title "デバイスの復元">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "使用したいフェッチャーのリストを先頭に配置してください。">
 <!ENTITY mediacore.error.codec_not_found.text.pre "見付からないコーデックに関する詳細は以下を参照:">
 <!ENTITY displaypane.default.image.post "メニューからアドオンを選択するか、">
 <!ENTITY smart.songs "アイテム">
-<!ENTITY menu.tools.getartwork "アルバムのアートワークを入手...">
+<!ENTITY menu.tools.getartwork "アルバムのアートワークを入手…">
 <!ENTITY window.cancel "キャンセル">
 <!ENTITY smart.genre "ジャンル">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "フォルダ監視">
-<!ENTITY rapi.whitelist.label "例外設定...">
+<!ENTITY rapi.whitelist.label "例外設定…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "URL を開く...">
+<!ENTITY menu.file.url "URL を開く…">
 <!ENTITY menu.downloadmgr "ダウンロード">
 <!ENTITY device.settings.auto_launch.checkbox.label "このデバイスを検出したとき &brandShortName; を開く">
 <!ENTITY first_run.itunes.checkbox.import.label "iTunes からトラックとプレイリストをインポートする">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird Campions は熱心な Songbird ユーザで、その義務を超えて">
 <!ENTITY menu.control.next "次のトラック">
 <!ENTITY umsd.video.video_path_browse_msg "ビデオファイルを置くディレクトリを選択してください。">
-<!ENTITY setupprogress.pleasewait "しばらくお待ちください...">
+<!ENTITY setupprogress.pleasewait "しばらくお待ちください…">
 <!ENTITY menu.help.homepage "&brandShortName; ウェブサイト">
 <!ENTITY equalizer.preset.soft "ソフト">
 <!ENTITY equalizer.preset.large_hall "大ホール">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "再生日時が新しい順">
 <!ENTITY command.device.ejectdevice "取り外す">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "今後はインポート中にサポートされていないビデオファイルについて警告しない">
-<!ENTITY first_run.connection.settings.button "接続設定...">
+<!ENTITY first_run.connection.settings.button "接続設定…">
 <!ENTITY import_library.prefs.title "iTunes ライブラリのインポート/エクスポート">
 <!ENTITY hotkeys.action "動作">
 <!ENTITY equalizer.preset.classical "クラシック">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "ビデオを前面に表示">
 <!ENTITY device.management.tabs.music.label "音楽">
 <!ENTITY equalizer.preset.pop "ポップス">
-<!ENTITY subscribeMediaFrameCmd.label "このフレームを購読...">
+<!ENTITY subscribeMediaFrameCmd.label "このフレームを購読…">
 <!ENTITY add_on_bundle_installer.error_box.label "詳細">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "ウェブ連携">
-<!ENTITY menu.equalizer "イコライザ...">
+<!ENTITY menu.equalizer "イコライザ…">
 <!ENTITY first_run.add_ons.description.line1 "アドオンを使用すると、メディアプレーヤーをカスタマイズして &brandShortName; の機能を拡張できます。以下のオプションを強く推奨します。">
 <!ENTITY displaypane.name.servicepane "サービスペイン下">
-<!ENTITY menu.clearprivatedata "プライバシー情報の消去...">
+<!ENTITY menu.clearprivatedata "プライバシー情報の消去…">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "検索">
 <!ENTITY first_run.add_ons.description.line2 "アドオンによって他のアプリケーションやサービスとの統合や、外部デバイスとの接続、外観の変更など様々なことが可能になります！アドオンは &brandShortName; アドオンサイトからダウンロードできます。">
-<!ENTITY menu.updateCmd.label "ソフトウェアの更新を確認...">
+<!ENTITY menu.updateCmd.label "ソフトウェアの更新を確認…">
 <!ENTITY device.firmware.wizard.check.error.description "新ファームウェアの確認中にエラーが発生しました。 ネットワーク接続を確認の上、再度試してください。">
 <!ENTITY device.settings.music.transcoding.bitrate.label "ビットレート">
 <!ENTITY displaypane.name.browser "コンテンツペイン下">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "購読">
 <!ENTITY tooltip.servicepane.show "サービスペインを表示">
 <!ENTITY tooltip.control.stop "停止">
-<!ENTITY menu.file.remote "新しい購読...">
-<!ENTITY menu.file.podcast "新しいポッドキャスト...">
+<!ENTITY menu.file.remote "新しい購読…">
+<!ENTITY menu.file.podcast "新しいポッドキャスト…">
 <!ENTITY feedback.dialog.sentence2 "もし興味が無ければ、再び訊ねることはありません。ご検討いただければ幸いです。 &brandShortName; のご利用ありがとうございます！">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "現在未実装です (Bug 14281 参照)。">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "容量">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "フォルダを選択...">
+<!ENTITY device.sync.images.browse "フォルダを選択…">
 <!ENTITY displaypane.default.link.post "でお気に入りのアドオンを見つけてください。">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "ファイルを開く...">
+<!ENTITY menu.file.open "ファイルを開く…">
 <!ENTITY command.device.devicesync "同期">
 <!ENTITY menu.preferences.accesskey "P">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "製品">
 <!ENTITY smart.minutes "分">
 <!ENTITY menu.help.topics "&brandShortName; ヘルプ">
-<!ENTITY menu.file.playlist "プレイリストをインポート...">
+<!ENTITY menu.file.playlist "プレイリストをインポート…">
 <!ENTITY first_run.app_update.finished.title "更新のインストール準備完了">
 <!ENTITY device.tools.format_volume.button.label "初期化">
 <!ENTITY device.dialog.setup.explainIgnore.afterText "できます。">
 <!ENTITY smart.limit "リストの上限値">
-<!ENTITY menu.file.library "ライブラリをインポート...">
+<!ENTITY menu.file.library "ライブラリをインポート…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "現在のトラックを検索">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "購読フィードをエクスポート">
 <!ENTITY mediacore.error.title "再生エラー">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "ジャンプ先...">
+<!ENTITY menu.control.jumpto "ジャンプ先…">
 <!ENTITY menu.tools "ツール">
 <!ENTITY device.settings.music.transcoding.label "音楽トランスコード">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "リセット">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "CD ドライブの情報を調査">
 <!ENTITY tabs.listAllTabs "すべてのタブ一覧">
 <!ENTITY rapi.prefpane.access.caption "ウェブサイトの許可設定">
-<!ENTITY menu.file.scan "メディアをインポート...">
+<!ENTITY menu.file.scan "メディアをインポート…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "メディアのインポート">
 <!ENTITY device.firmware.wizard.download.error.description "新ファームウェアのダウンロード中にエラーが発生しました。 ネットワーク接続を確認の上、再度試してください。">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "すべての写真">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "優先ゲインデータ:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "新しいファームウェアをダウンロードしています...">
+<!ENTITY device.firmware.wizard.download.title "新しいファームウェアをダウンロードしています…">
 <!ENTITY cdrip.prefpane.format "エンコード形式">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "環境設定">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "&brandShortName; のご利用ありがとうございます">
 <!ENTITY feedback.dialog.title "&brandShortName; の品質向上への協力">
 <!ENTITY window.yes "はい">
-<!ENTITY subscribeMediaPageCmd.label "このページを購読...">
+<!ENTITY subscribeMediaPageCmd.label "このページを購読…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "中止">
 <!ENTITY watchfolder.folderlist "これらのフォルダの新しいメディアを監視します:">

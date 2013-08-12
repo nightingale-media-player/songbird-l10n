@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Skjul">
 <!ENTITY tooltip.browser.subscription "Abonner på denne siden">
 <!ENTITY smart.playlistcondition.library "Bibliotek">
-<!ENTITY menu.help.bugz "Rapporter en feil...">
+<!ENTITY menu.help.bugz "Rapporter en feil…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Overvåk denne mappen for endringer">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Aktuell Størrelse">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Ny spilleliste">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Åpne rammen i standardnettleseren din">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Ny spilleliste...">
+<!ENTITY menu.file.new "Ny spilleliste…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Mappe:">
@@ -155,7 +155,7 @@
 <!ENTITY menu.file.smart "Ny smart spilleliste">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Se informasjon om feilmeldingen">
-<!ENTITY device.firmware.wizard.install.title "Installerer firmware...">
+<!ENTITY device.firmware.wizard.install.title "Installerer firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "Pause">
 <!ENTITY trackeditor.tab.summary.title "Oppsummering">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "Equalizer">
 <!ENTITY import_library.import_command "Importer bibliotek">
 <!ENTITY cdrip.mediaview.view_tracks_button "Se spor">
-<!ENTITY window.browse "Bla gjennom...">
+<!ENTITY window.browse "Bla gjennom…">
 <!ENTITY device.tools.restore_device.title "Gjenopprett enhet">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Ordne hentelisten du ønsker å bruke på toppen.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For mer informasjon om manglende kodeker, se">
@@ -201,7 +201,7 @@
 <!ENTITY watchfolder.title "Overvåk mapper">
 <!ENTITY rapi.whitelist.label "Konfigurer">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Åpne URL...">
+<!ENTITY menu.file.url "Åpne URL…">
 <!ENTITY menu.downloadmgr "Nedlastinger">
 <!ENTITY device.settings.auto_launch.checkbox.label "Åpne &brandShortName; når enheten oppdages">
 <!ENTITY first_run.itunes.checkbox.import.label "Importer spor og spillelister fra iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird mestere er die-hard Songbird brukere og fans som har gått over og utover Call of Duty for å hjelpe andre Songbird brukere">
 <!ENTITY menu.control.next "Neste spor">
 <!ENTITY umsd.video.video_path_browse_msg "Velg en mappe på enheten til videofiler.">
-<!ENTITY setupprogress.pleasewait "Vent...">
+<!ENTITY setupprogress.pleasewait "Vent…">
 <!ENTITY menu.help.homepage "&brandShortName; Nettsted">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Stor hall">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "mest nylig">
 <!ENTITY command.device.ejectdevice "Løs ut">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Ikke notifiser meg angående ustøttede video filer i løpet av importering igjen">
-<!ENTITY first_run.connection.settings.button "Tilkoblingsinnstillinger...">
+<!ENTITY first_run.connection.settings.button "Tilkoblingsinnstillinger…">
 <!ENTITY import_library.prefs.title "Importer fra iTunes">
 <!ENTITY hotkeys.action "Handling">
 <!ENTITY equalizer.preset.classical "Klassisk">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Vis Video Fremst">
 <!ENTITY device.management.tabs.music.label "Musikk">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Abonner på denne rammen...">
+<!ENTITY subscribeMediaFrameCmd.label "Abonner på denne rammen…">
 <!ENTITY add_on_bundle_installer.error_box.label "Detaljer">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Nettintegrering">
-<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY menu.equalizer "Equalizer…">
 <!ENTITY first_run.add_ons.description.line1 "Utvidelser utvider funksjonaliteten til  &brandShortName; lar deg å spesialtilpasse opplevelsen din av avspilleren. Valgene nedenfor anbefales på det sterkeste.">
 <!ENTITY displaypane.name.servicepane "Bunnen av tjenestemenyen">
-<!ENTITY menu.clearprivatedata "Fjern private data...">
+<!ENTITY menu.clearprivatedata "Fjern private data…">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Finn">
 <!ENTITY first_run.add_ons.description.line2 "Utvidelser kan integreres med andre programmer og tjenester, støtte tilkobling av eksterne enheter, endre utseendet og mer! Du kan laste ned flere på tilleggssiden til &brandShortName;.">
-<!ENTITY menu.updateCmd.label "Se etter oppdateringer...">
+<!ENTITY menu.updateCmd.label "Se etter oppdateringer…">
 <!ENTITY device.firmware.wizard.check.error.description "Feil under søket etter ny programvare. Kontroller nettverkstilkoblingen og prøv igjen.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Bunnen av innholdsmenyen">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Abonnér">
 <!ENTITY tooltip.servicepane.show "Vis tjenesteflaten">
 <!ENTITY tooltip.control.stop "Stopp">
-<!ENTITY menu.file.remote "Nytt abonnement...">
-<!ENTITY menu.file.podcast "Ny podcast...">
+<!ENTITY menu.file.remote "Nytt abonnement…">
+<!ENTITY menu.file.podcast "Ny podcast…">
 <!ENTITY feedback.dialog.sentence2 "Hvis du ikke er interessert vil vi ikke spørre deg igjen. Takk for at du vurderte det og brukte &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Ikke implementert ennå (se bug 14281).">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Kapasitet">
 <!ENTITY command.device.ignoredevice.accesskey "|">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Velg mappe...">
+<!ENTITY device.sync.images.browse "Velg mappe…">
 <!ENTITY displaypane.default.link.post "for å bla i utvidelser.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Åpne fil...">
+<!ENTITY menu.file.open "Åpne fil…">
 <!ENTITY command.device.devicesync "Synkroniser">
 <!ENTITY menu.preferences.accesskey "P">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -491,13 +491,13 @@
 <!ENTITY device.info.serial_number.label "Serienummer">
 <!ENTITY device.info.product.label "Produkt">
 <!ENTITY smart.minutes "minutter">
-<!ENTITY menu.help.topics "Emner i hjelp...">
+<!ENTITY menu.help.topics "Emner i hjelp…">
 <!ENTITY menu.file.playlist "Importer spilleliste">
 <!ENTITY first_run.app_update.finished.title "Oppdatering klar for installering.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Begrens til">
-<!ENTITY menu.file.library "Importer et bibliotek...">
+<!ENTITY menu.file.library "Importer et bibliotek…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Finn gjeldende spor">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Eksporter abonnement ">
 <!ENTITY mediacore.error.title "Feil i mediakjerne">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Hopp til...">
+<!ENTITY menu.control.jumpto "Hopp til…">
 <!ENTITY menu.tools "Verktøy">
 <!ENTITY device.settings.music.transcoding.label "Musikkomkoding">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Nullstill">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Finn CD-informasjon">
 <!ENTITY tabs.listAllTabs "Vis alle faner">
 <!ENTITY rapi.prefpane.access.caption "Tilganger til nettsideintegrering">
-<!ENTITY menu.file.scan "Søk etter media...">
+<!ENTITY menu.file.scan "Søk etter media…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Importer Media">
 <!ENTITY device.firmware.wizard.download.error.description "Feil under nedlastningen av ny programvare. Kontroller nettverkstilkoblingen og prøv igjen">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Alle bilder">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Foretrukket gain-data:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Laster ned ny firmware...">
+<!ENTITY device.firmware.wizard.download.title "Laster ned ny firmware…">
 <!ENTITY cdrip.prefpane.format "Formater">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Innstillinger">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Velkommen til &brandShortName;">
 <!ENTITY feedback.dialog.title "Hjelp til med å gjøre &brandShortName; bedre!">
 <!ENTITY window.yes "Ja">
-<!ENTITY subscribeMediaPageCmd.label "Abonner på denne siden...">
+<!ENTITY subscribeMediaPageCmd.label "Abonner på denne siden…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Avbryt">
 <!ENTITY watchfolder.folderlist "Overvåk disse mappene etter nye medier:">

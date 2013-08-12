@@ -107,7 +107,7 @@
 <!ENTITY help.keyboard.key.pgup "Page Up">
 <!ENTITY help.keyboard.name.tab.open.link "Open Link in New Tab">
 <!ENTITY help.keyboard.name.open.file "फाइल उघड">
-<!ENTITY help.keyboard.name.preferences "आवडी निवडी...">
+<!ENTITY help.keyboard.name.preferences "आवडी निवडी…">
 <!ENTITY help.keyboard.description "Keyboard shortcuts can make tasks in &brandShortName; much easier. Below is a list of available commands followed by their appropriate shortcuts.">
 <!ENTITY help.keyboard.key.f8 "एफ८ ">
 <!ENTITY help.keyboard.key.left "डावीकडचा बाण">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Gizle">
 <!ENTITY tooltip.browser.subscription "Bu sayfaya abone ol">
 <!ENTITY smart.playlistcondition.library "Kütüphane">
-<!ENTITY menu.help.bugz "Hata Bildirme...">
+<!ENTITY menu.help.bugz "Hata Bildirme…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Bu klasördeki değişiklikleri takip et">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Gerçek Boyutu">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Kes">
 <!ENTITY mediaimporter.filtered_extensions.title "Medya Alma Uyarısı">
 <!ENTITY tooltip.control.play "Çal">
-<!ENTITY tooltip.browser.mediapages "Ortam Görünümünü Değiştir...">
+<!ENTITY tooltip.browser.mediapages "Ortam Görünümünü Değiştir…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Pil">
 <!ENTITY menu.edit.delete "Sil">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Ortamı içe aktarma">
 <!ENTITY feedback.dialog.yes "Evet">
 <!ENTITY about.buttons.credits "Ekip">
-<!ENTITY device.firmware.wizard.check.progress.title "Yazılımın yeni sürümü kontrol ediliyor...">
+<!ENTITY device.firmware.wizard.check.progress.title "Yazılımın yeni sürümü kontrol ediliyor…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "Sanatçı ve Albüm bilgisini buraya ekleyebilirsiniz. Kalan bilgileri CD kayıt çalma listesinden düzenleyebilirsiniz.">
 <!ENTITY umsd.music.music_path_browse_msg "Müzik dosyalarının yerleştirileceği aygıt klasörünü seçin.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Yeni Çalma Listesi">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Çerçeveyi Varsayılan Web Tarayıcısı ile Aç">
 <!ENTITY menu.file.newtab.accesskey "M">
-<!ENTITY menu.file.new "Yeni Çalma Listesi...">
+<!ENTITY menu.file.new "Yeni Çalma Listesi…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Klasör:">
@@ -152,7 +152,7 @@
 <!ENTITY menu.control.prev "Önceki Parça">
 <!ENTITY device.firmware.wizard.support.description "Sıkça Sorulan Sorular gibi Destek kaynakları ve sorun giderme ipuçları bulabilirsiniz">
 <!ENTITY window.apply "Uygula">
-<!ENTITY menu.file.smart "Yeni Akıllı Çalma Listesi...">
+<!ENTITY menu.file.smart "Yeni Akıllı Çalma Listesi…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Hata Detaylarını Göster">
 <!ENTITY device.firmware.wizard.install.title "Yazılım Kuruluyor">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "Ekolayzır">
 <!ENTITY import_library.import_command "Kütüphaneyi Aktar">
 <!ENTITY cdrip.mediaview.view_tracks_button "Parçaları Gör">
-<!ENTITY window.browse "Gözat...">
+<!ENTITY window.browse "Gözat…">
 <!ENTITY device.tools.restore_device.title "Yedekleme Cihazı">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Öncelikli olarak kullanılacak arama motorlarını üste koy.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Lütfen eksik codecler hakkında daha fazla bilgi için">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Klasörleri İzle">
-<!ENTITY rapi.whitelist.label "İstisnalar...">
+<!ENTITY rapi.whitelist.label "İstisnalar…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Konum Aç...">
+<!ENTITY menu.file.url "Konum Aç…">
 <!ENTITY menu.downloadmgr "İndirilen Dosyalar">
 <!ENTITY device.settings.auto_launch.checkbox.label "Algılandığında , &brandShortName; adlı cihazı aç">
 <!ENTITY first_run.itunes.checkbox.import.label "Parçaları ve Çalma listelerini iTunes&apos;ten al.">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird Şampiyonları, kullanıcılara yardımlarını esirgemeyen ensesi kalın destekçilerimizdir.">
 <!ENTITY menu.control.next "Sonraki Parça">
 <!ENTITY umsd.video.video_path_browse_msg "Video dosyalarının yerleştireceği aygıt klasörünü seçin.">
-<!ENTITY setupprogress.pleasewait "Lütfen bekleyin...">
+<!ENTITY setupprogress.pleasewait "Lütfen bekleyin…">
 <!ENTITY menu.help.homepage "&brandShortName; Sitesi">
 <!ENTITY equalizer.preset.soft "Yumuşak">
 <!ENTITY equalizer.preset.large_hall "Büyük Hol">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "en yakınlarda çalınan">
 <!ENTITY command.device.ejectdevice "Çıkar">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Desteklenmeyen video dosyalarını alırken bir daha beni uyarma.">
-<!ENTITY first_run.connection.settings.button "Bağlantı Ayarları...">
+<!ENTITY first_run.connection.settings.button "Bağlantı Ayarları…">
 <!ENTITY import_library.prefs.title "iTunes">
 <!ENTITY hotkeys.action "Eylem">
 <!ENTITY equalizer.preset.classical "Klasik">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video Öne">
 <!ENTITY device.management.tabs.music.label "Müzik">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Bu Çerçeveye Abone Ol...">
+<!ENTITY subscribeMediaFrameCmd.label "Bu Çerçeveye Abone Ol…">
 <!ENTITY add_on_bundle_installer.error_box.label "Ayrıntılar">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -411,12 +411,12 @@
 <!ENTITY menu.equalizer "Ekolayzır">
 <!ENTITY first_run.add_ons.description.line1 "Eklentiler ortam yürütücünüzü kişiselleştirerek &brandShortName;&apos;ün işlevselliğini artırır. Aşağıdaki seçenekler şiddetle tavsiye edilir.">
 <!ENTITY displaypane.name.servicepane "Alt Servis Paneli">
-<!ENTITY menu.clearprivatedata "Kişisel Verileri Temizle...">
+<!ENTITY menu.clearprivatedata "Kişisel Verileri Temizle…">
 <!ENTITY window.ok "Tamam">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Bul">
 <!ENTITY first_run.add_ons.description.line2 "Eklentilerle &brandShortName;&apos;ü diğer uygulama ve servislerle bütünleştirebilir, harici aygıtlara bağlayabilir, uygulamanın görünümünü değiştirebilir ve daha fazlasını yapabilirsiniz. &brandShortName; Eklenti sitesinden çeşitli eklentiler indirebilirsiniz.">
-<!ENTITY menu.updateCmd.label "Güncellemeleri Kontrol Et...">
+<!ENTITY menu.updateCmd.label "Güncellemeleri Kontrol Et…">
 <!ENTITY device.firmware.wizard.check.error.description "Yeni aygıt yazılımı kontrol edilirken bir sorun oluştu.Lütfen bağlantınızı doğrulayın ve tekrar deneyin.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Alt İçerik Paneli">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Üye Ol">
 <!ENTITY tooltip.servicepane.show "Servis Penceresini Göster">
 <!ENTITY tooltip.control.stop "Durdur">
-<!ENTITY menu.file.remote "Yeni Abonelik...">
-<!ENTITY menu.file.podcast "Yeni Podcast ...">
+<!ENTITY menu.file.remote "Yeni Abonelik…">
+<!ENTITY menu.file.podcast "Yeni Podcast …">
 <!ENTITY feedback.dialog.sentence2 "İlgilenmiyorsanız bir daha sormayacağız. &brandShortName;&apos;ü kullandığınız için teşekkür ederiz!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Henüz hayata geçirilmedi. (Hata 14281&apos;e bakın)">
@@ -476,7 +476,7 @@
 <!ENTITY device.sync.images.browse "Klasör Seç">
 <!ENTITY displaypane.default.link.post "Eklentilere Gözat.">
 <!ENTITY menu.control.play.accesskey "Y">
-<!ENTITY menu.file.open "Dosya Aç...">
+<!ENTITY menu.file.open "Dosya Aç…">
 <!ENTITY command.device.devicesync "Eşitle">
 <!ENTITY menu.preferences.accesskey "S">
 <!ENTITY menu.clearprivatedata.accesskey "V">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Ürün">
 <!ENTITY smart.minutes "dakika">
 <!ENTITY menu.help.topics "Yardım Konuları">
-<!ENTITY menu.file.playlist "Çalma Listesi Al...">
+<!ENTITY menu.file.playlist "Çalma Listesi Al…">
 <!ENTITY first_run.app_update.finished.title "Yükseltgenme Kurulum için Hazır">
 <!ENTITY device.tools.format_volume.button.label "Biçimlendir">
 <!ENTITY device.dialog.setup.explainIgnore.afterText " .">
 <!ENTITY smart.limit "Sınırla">
-<!ENTITY menu.file.library "Kitaplık Ekle...">
+<!ENTITY menu.file.library "Kitaplık Ekle…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "D">
 <!ENTITY tooltip.control.curtrack "Şu Anki Parçayı Bul">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Abonelikleri aktar">
 <!ENTITY mediacore.error.title "Ortam Çekirdeği Hatası">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Atla...">
+<!ENTITY menu.control.jumpto "Atla…">
 <!ENTITY menu.tools "Araçlar">
 <!ENTITY device.settings.music.transcoding.label "Müzik Kodlanıyor">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Sıfırla">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "CD Bilgisine Bak">
 <!ENTITY tabs.listAllTabs "Sekmeleri listele">
 <!ENTITY rapi.prefpane.access.caption "Web Bütünleşmesi İzinleri">
-<!ENTITY menu.file.scan "Ortam Al...">
+<!ENTITY menu.file.scan "Ortam Al…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Ortam İçe Aktarıcısı">
 <!ENTITY device.firmware.wizard.download.error.description "Yeni güncelleme indirilirken bir hata oluştu. Ağ ayarlarınız kontrol edip tekrar deneyiniz.">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "&brandShortName;&apos;e Hoş Geldiniz">
 <!ENTITY feedback.dialog.title "&brandShortName;&apos;ün Geliştirilmesine Yardımcı Olun!">
 <!ENTITY window.yes "Evet">
-<!ENTITY subscribeMediaPageCmd.label "Bu Sayfaya Abone Ol...">
+<!ENTITY subscribeMediaPageCmd.label "Bu Sayfaya Abone Ol…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "İptal">
 <!ENTITY watchfolder.folderlist "Yeni ortam dosyaları için bu klasörleri izle:">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Թաքցնել">
 <!ENTITY tooltip.browser.subscription "Բաժանորդագրվել այս էջին">
 <!ENTITY smart.playlistcondition.library "Գրադարան">
-<!ENTITY menu.help.bugz "Զեկուցել սխալը...">
+<!ENTITY menu.help.bugz "Զեկուցել սխալը…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Նայել թղթապանակի փոփոխությունները">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Իրական չափը">
@@ -25,7 +25,7 @@
 <!ENTITY hotkeys.set "Որոշել">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "Այս սարքի համար հասանելի չեն կոդավորիչներ">
 <!ENTITY fetch_album_art.dialog.title "Ստանալ Ձևավորում">
-<!ENTITY menu.controls "Ղեկավարում...">
+<!ENTITY menu.controls "Ղեկավարում…">
 <!ENTITY tooltip.control.resume "Վերսկսել">
 <!ENTITY feedback.dialog.no "Ոչ">
 <!ENTITY equalizer.preset.party "Party">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Կտրել">
 <!ENTITY mediaimporter.filtered_extensions.title "Մեդիայի ներմուծման հուշում">
 <!ENTITY tooltip.control.play "Վերարտադրել">
-<!ENTITY tooltip.browser.mediapages "Փոխել մեդիայի տեսքը...">
+<!ENTITY tooltip.browser.mediapages "Փոխել մեդիայի տեսքը…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "մարտկոց">
 <!ENTITY menu.edit.delete "Ջնջել">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Չներմուծել մեդիա">
 <!ENTITY feedback.dialog.yes "այո">
 <!ENTITY about.buttons.credits "Երախտիք">
-<!ENTITY device.firmware.wizard.check.progress.title "Ստուգվում է Firmware-ի թարմացումները...">
+<!ENTITY device.firmware.wizard.check.progress.title "Ստուգվում է Firmware-ի թարմացումները…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "Կարող եք ավելացնել կատարողի և ալբոմի անունը այստեղ: Կարող եք խմբագրել մնացած տեղեկությունը CD պատճենված խաղացանկի միջև">
 <!ENTITY umsd.music.music_path_browse_msg "Ընտրեք սարքի տեղը, որում կդրվեն երաժշտական ֆայլերը:">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Նոր խաղացանկ">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Բացել շրջանակը հիմնական դիտարկիչում">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Նոր խաղացանկ...">
+<!ENTITY menu.file.new "Նոր խաղացանկ…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "c">
 <!ENTITY watch_folder.prefs.watch_folder_label "Թղթապանակը.">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Նախորդ շավիղը">
 <!ENTITY device.firmware.wizard.support.description "Աջակցում է ռեսուրսներ, ինչպես օրինակ ՀՏՀ և խափանումների ուղղում կարող է գտնվել`">
 <!ENTITY window.apply "Կիրառել">
-<!ENTITY menu.file.smart "Նոր խելացի խաղացանկ...">
+<!ENTITY menu.file.smart "Նոր խելացի խաղացանկ…">
 <!ENTITY menu.edit.cut.key "x">
 <!ENTITY device.error.dialog.link "Նայել սխալների մանրամասները">
-<!ENTITY device.firmware.wizard.install.title "Տեղակայվում է firmware-ը...">
+<!ENTITY device.firmware.wizard.install.title "Տեղակայվում է firmware-ը…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "S">
 <!ENTITY menu.control.pause.button "Դադար">
 <!ENTITY trackeditor.tab.summary.title "Ընդհանուր">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Էքվալայզեր">
 <!ENTITY import_library.import_command "Ներմուծել շտեմարան">
 <!ENTITY cdrip.mediaview.view_tracks_button "Նայել շավիղները">
-<!ENTITY window.browse "Դիտել...">
+<!ENTITY window.browse "Դիտել…">
 <!ENTITY device.tools.restore_device.title "Վերականգնել սարքը">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Ընտրված ցանկի կարգը, որ ցանկանում եք օգտագործել սկզբում:">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Մանրամասների կամ բացակայող կոդավորիչների համար տե&apos;ս">
 <!ENTITY displaypane.default.image.post "ընտրացանկը կամ այցելեք`">
 <!ENTITY smart.songs "երգեր">
-<!ENTITY menu.tools.getartwork "Ստանալ Ձևավորումը...">
+<!ENTITY menu.tools.getartwork "Ստանալ Ձևավորումը…">
 <!ENTITY window.cancel "Հրաժարվել">
 <!ENTITY smart.genre "ոճ">
 <!ENTITY menu.file.playlist.accesskey "i">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY locationbar.key "l">
 <!ENTITY watchfolder.title "Դիտել թղթապանակները">
-<!ENTITY rapi.whitelist.label "Բացառություններ...">
+<!ENTITY rapi.whitelist.label "Բացառություններ…">
 <!ENTITY menu.updateCmd.accessKey "Օ">
-<!ENTITY menu.file.url "Բացել URL-ից...">
+<!ENTITY menu.file.url "Բացել URL-ից…">
 <!ENTITY menu.downloadmgr "Ֆայլի բեռնում">
 <!ENTITY device.settings.auto_launch.checkbox.label "Բացել &brandShortName;-ը, երբ սարքը որոշվի">
 <!ENTITY first_run.itunes.checkbox.import.label "Ներմուծել երգեր և խաղացանկեր iTunes-ից">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird-ի Չեմպիոնները, դրանք անմահ Songbird-ի օգտվողներն և երկրպագուներն են, որոնք իրենց պարտքն են համարում օգնել Songbird-ի այլ օգտվողների մեր">
 <!ENTITY menu.control.next "Հաջորդ շավիղը">
 <!ENTITY umsd.video.video_path_browse_msg "Ընտրեք սարքի ճանապարհը, որում պետք է տեղադրել տեսանյութերը:">
-<!ENTITY setupprogress.pleasewait "Խնդրում ենք սպասել...">
+<!ENTITY setupprogress.pleasewait "Խնդրում ենք սպասել…">
 <!ENTITY menu.help.homepage "&brandShortName;-ի կայքը">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Մեծ դահլիճ">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Տեսանյութը առջևում">
 <!ENTITY device.management.tabs.music.label "երաժշտություն">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Բաժանորդագրվել շրջանակին...">
+<!ENTITY subscribeMediaFrameCmd.label "Բաժանորդագրվել շրջանակին…">
 <!ENTITY add_on_bundle_installer.error_box.label "Մանրամասն">
 <!ENTITY smart.gb "Գբ">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -411,12 +411,12 @@
 <!ENTITY menu.equalizer "Էքվալայզեր">
 <!ENTITY first_run.add_ons.description.line1 "Հավելումները ընդլայնում են &brandShortName;-ի ֆունկցիոնալությունը: Հետևյալ ընտրանքները երաշխավորվում են:">
 <!ENTITY displaypane.name.servicepane "Ծառայության կոճակը">
-<!ENTITY menu.clearprivatedata "Ջնջել անձնական տվյալները...">
+<!ENTITY menu.clearprivatedata "Ջնջել անձնական տվյալները…">
 <!ENTITY window.ok "ՕԿ">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Որոնել">
 <!ENTITY first_run.add_ons.description.line2 "Հավելումները կարող են ինտեգրվել այլ ծրագրերին կամ ծառայություններին, միանալ արտաքին սարքերի, փոխել ծրագրի տեսքը և այլն: Դրանք կարող եք բեռնել &brandShortName;-ի Հավելումների կայքից:">
-<!ENTITY menu.updateCmd.label "Ստուգել թարմացումները...">
+<!ENTITY menu.updateCmd.label "Ստուգել թարմացումները…">
 <!ENTITY device.firmware.wizard.check.error.description "Սխալ` firmware-ի նոր տարբերակը ստուգելլիս: Ստուգեք ինտերնետ կապը և կրկին փորձեք:">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Բիթրեյթը">
 <!ENTITY displaypane.name.browser "Բովանդակության կոճակը">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Բաժանորդագրվել">
 <!ENTITY tooltip.servicepane.show "Ցուցադրել ծառայության վահանակը">
 <!ENTITY tooltip.control.stop "Կանգնեցնել">
-<!ENTITY menu.file.remote "Նոր հեռադիր խաղացանկ...">
-<!ENTITY menu.file.podcast "Նոր Podcast...">
+<!ENTITY menu.file.remote "Նոր հեռադիր խաղացանկ…">
+<!ENTITY menu.file.podcast "Նոր Podcast…">
 <!ENTITY feedback.dialog.sentence2 "Եթե սա Ձեզ չի հետաքրքրում, ապա այլևս չենք անհանգստացնի: Շնորհակալ ենք, որ օգտագործում եք &brandShortName;-ը! ">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Անիրագործելի է դեռևս (Նայեք սխալ համար 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Չափը">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Ընտրեք թղթապանակ...">
+<!ENTITY device.sync.images.browse "Ընտրեք թղթապանակ…">
 <!ENTITY displaypane.default.link.post "հավելումները դիտելու համար:">
 <!ENTITY menu.control.play.accesskey "p">
-<!ENTITY menu.file.open "Բացել ֆայլ...">
+<!ENTITY menu.file.open "Բացել ֆայլ…">
 <!ENTITY command.device.devicesync "Համաժամեցում">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Ծրագիրը">
 <!ENTITY smart.minutes "րոպեներ">
 <!ENTITY menu.help.topics "Help Topics">
-<!ENTITY menu.file.playlist "Ներմուծել խաղացանկ...">
+<!ENTITY menu.file.playlist "Ներմուծել խաղացանկ…">
 <!ENTITY first_run.app_update.finished.title "Թարմացումը պատրաստ է տեղակայման:">
 <!ENTITY device.tools.format_volume.button.label "Ձևաչափը">
 <!ENTITY device.dialog.setup.explainIgnore.afterText "">
 <!ENTITY smart.limit "Սահմանափակել">
-<!ENTITY menu.file.library "Ներմուծել Շտեմարան...">
+<!ENTITY menu.file.library "Ներմուծել Շտեմարան…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Գտնել տվյալ շավիղը">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Արտածել բաժանորդագրությունները">
 <!ENTITY mediacore.error.title "Խաղարկման սխալ">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Անցնել...">
+<!ENTITY menu.control.jumpto "Անցնել…">
 <!ENTITY menu.tools "Գործիքներ">
 <!ENTITY device.settings.music.transcoding.label "Երգերի փոխարկում">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Ետարկել">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Նայել CD-ի տեղեկությունը">
 <!ENTITY tabs.listAllTabs "Բոլոր էջերի ցանկը">
 <!ENTITY rapi.prefpane.access.caption "Վեբ ինտեգրացիայի լիազորությունները">
-<!ENTITY menu.file.scan "Փնտրել մեդիա...">
+<!ENTITY menu.file.scan "Փնտրել մեդիա…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Մեդիայի ներմուծիչ">
 <!ENTITY device.firmware.wizard.download.error.description "Սխալ` նոր firmware-ը բեռնելիս: Ստուգեք ինտերնետ կապը և կրկին փորձեք:">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Բոլոր նկարները">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Նախընտրելի ջանքի տվյալ.">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Բեռնվում է նոր firmware-ը...">
+<!ENTITY device.firmware.wizard.download.title "Բեռնվում է նոր firmware-ը…">
 <!ENTITY cdrip.prefpane.format "Ձևաչափը">
 <!ENTITY smart.mb "Մբ">
 <!ENTITY menu.linux.preferences "Կարգավորումներ">

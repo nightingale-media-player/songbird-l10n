@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Dölj">
 <!ENTITY tooltip.browser.subscription "Prenumerera på denna sida">
 <!ENTITY smart.playlistcondition.library "Bibliotek">
-<!ENTITY menu.help.bugz "Rapportera fel...">
+<!ENTITY menu.help.bugz "Rapportera fel…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Bevaka ändringar i denna mapp">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Faktisk storlek">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Klipp ut">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Meddelande">
 <!ENTITY tooltip.control.play "Spela upp">
-<!ENTITY tooltip.browser.mediapages "Byt mediavy...">
+<!ENTITY tooltip.browser.mediapages "Byt mediavy…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Batteri">
 <!ENTITY menu.edit.delete "Ta bort">
@@ -128,8 +128,8 @@
 <!ENTITY device.sync.header.label "Inställningar för synkronisering">
 <!ENTITY first_run.import_media.radio.dont_import.label "Importera inte media nu">
 <!ENTITY feedback.dialog.yes "Ja">
-<!ENTITY about.buttons.credits "Ett stort tack...">
-<!ENTITY device.firmware.wizard.check.progress.title "Söker efter ny firmware...">
+<!ENTITY about.buttons.credits "Ett stort tack…">
+<!ENTITY device.firmware.wizard.check.progress.title "Söker efter ny firmware…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "Du kan lägga till artist och album namn här. Du kan ändra kvarvarande information inom CD Rip spellistan">
 <!ENTITY umsd.music.music_path_browse_msg "Välj enhetsbibliotek för att lagra musikfiler. ">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Ny spellista">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Öppna ram i förvald webbläsare">
 <!ENTITY menu.file.newtab.accesskey "L">
-<!ENTITY menu.file.new "Ny spellista...">
+<!ENTITY menu.file.new "Ny spellista…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "O">
 <!ENTITY watch_folder.prefs.watch_folder_label "Mapp:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Föregående spår">
 <!ENTITY device.firmware.wizard.support.description "Hjälpresurser som FAQs och felsökningstips kan hittas på">
 <!ENTITY window.apply "Verkställ">
-<!ENTITY menu.file.smart "Ny smart spellista...">
+<!ENTITY menu.file.smart "Ny smart spellista…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Visa detaljerad felrapport">
-<!ENTITY device.firmware.wizard.install.title "Installerar firmware...">
+<!ENTITY device.firmware.wizard.install.title "Installerar firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "S">
 <!ENTITY menu.control.pause.button "Paus">
 <!ENTITY trackeditor.tab.summary.title "Sammanställning">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "Equalizer">
 <!ENTITY import_library.import_command "Importera bibliotek">
 <!ENTITY cdrip.mediaview.view_tracks_button "Visa Spår">
-<!ENTITY window.browse "Bläddra...">
+<!ENTITY window.browse "Bläddra…">
 <!ENTITY device.tools.restore_device.title "Återställ Enheten">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Beställ listan av hämtare som du önskar att använda först längst upp.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "För mer information om försvunna koder, var vänlig se">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Bevaka mappar">
-<!ENTITY rapi.whitelist.label "Undantag...">
+<!ENTITY rapi.whitelist.label "Undantag…">
 <!ENTITY menu.updateCmd.accessKey "S">
-<!ENTITY menu.file.url "Öppna URL...">
+<!ENTITY menu.file.url "Öppna URL…">
 <!ENTITY menu.downloadmgr "Filhämtning">
 <!ENTITY device.settings.auto_launch.checkbox.label "Öppna &brandShortName; när enheten ansluts">
 <!ENTITY first_run.itunes.checkbox.import.label "Importera musikspår och spellistor från iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird-mästarna är luttrade Songbird-användare och -fans som har gått långt bortom vad plikten kräver för att hjälpa andra Songbird-användare på vårt">
 <!ENTITY menu.control.next "Nästa spår">
 <!ENTITY umsd.video.video_path_browse_msg "Välj enhetsbibliotek för videofiler. ">
-<!ENTITY setupprogress.pleasewait "Vänta...">
+<!ENTITY setupprogress.pleasewait "Vänta…">
 <!ENTITY menu.help.homepage "&brandShortName; Hemsida">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Stor hall">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "senast spelad">
 <!ENTITY command.device.ejectdevice "Mata ut">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Meddela inte mig om videofiler som inte stöds under importera igen">
-<!ENTITY first_run.connection.settings.button "Inställningar för anslutning...">
+<!ENTITY first_run.connection.settings.button "Inställningar för anslutning…">
 <!ENTITY import_library.prefs.title "iTunes import/export">
 <!ENTITY hotkeys.action "Funktion">
 <!ENTITY equalizer.preset.classical "Klassisk">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video till framsidan">
 <!ENTITY device.management.tabs.music.label "Musik">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Prenumerera på denna ram...">
+<!ENTITY subscribeMediaFrameCmd.label "Prenumerera på denna ram…">
 <!ENTITY add_on_bundle_installer.error_box.label "Detaljer">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Webbintegrering">
-<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY menu.equalizer "Equalizer…">
 <!ENTITY first_run.add_ons.description.line1 "Tillägg utökar funktionerna i &brandShortName; och ger dig möjlighet att anpassa din upplevelse av mediaspelaren. Nedanstående alternativ rekommenderas starkt.">
 <!ENTITY displaypane.name.servicepane "Nedre panel">
-<!ENTITY menu.clearprivatedata "Ta bort privata data...">
+<!ENTITY menu.clearprivatedata "Ta bort privata data…">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Sök">
 <!ENTITY first_run.add_ons.description.line2 "Tillägg kan integreras med andra program och tjänster, stödja koppling till externa enheter, ändra utseende på programmet och mycket mer! Du kan hämta hem fler på &brandShortName;s webb för Add-ons.">
-<!ENTITY menu.updateCmd.label "Sök efter uppdateringar...">
+<!ENTITY menu.updateCmd.label "Sök efter uppdateringar…">
 <!ENTITY device.firmware.wizard.check.error.description "Ett fel uppstod under sökning efter ny firmware. Undersök statusen på din nätverksuppkoppling och försök igen.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Nedre innehållspanel">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Prenumerera">
 <!ENTITY tooltip.servicepane.show "Visa servicepanel">
 <!ENTITY tooltip.control.stop "Stoppa">
-<!ENTITY menu.file.remote "Ny prenumeration...">
-<!ENTITY menu.file.podcast "Ny podsändning...">
+<!ENTITY menu.file.remote "Ny prenumeration…">
+<!ENTITY menu.file.podcast "Ny podsändning…">
 <!ENTITY feedback.dialog.sentence2 "Om du inte är intresserad, kommer vi inte att fråga dig senare. Tack för ditt beslut! Vi uppskattar att du använder &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "För närvarande inte genomfört. (Se bugg 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Kapacitet">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Välj mapp...">
+<!ENTITY device.sync.images.browse "Välj mapp…">
 <!ENTITY displaypane.default.link.post "att visa add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Öppna mediafil...">
+<!ENTITY menu.file.open "Öppna mediafil…">
 <!ENTITY command.device.devicesync "Synkronisera">
 <!ENTITY menu.preferences.accesskey "I">
 <!ENTITY menu.clearprivatedata.accesskey "B">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Produkt">
 <!ENTITY smart.minutes "minuter">
 <!ENTITY menu.help.topics "Hjälpkategorier">
-<!ENTITY menu.file.playlist "Importera spellista...">
+<!ENTITY menu.file.playlist "Importera spellista…">
 <!ENTITY first_run.app_update.finished.title "Uppdatering Klar att installera.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Begränsa till">
-<!ENTITY menu.file.library "Importera bibliotek...">
+<!ENTITY menu.file.library "Importera bibliotek…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "F">
 <!ENTITY tooltip.control.curtrack "Hitta aktuellt spår">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Exportera prenumerationer">
 <!ENTITY mediacore.error.title "Uppspelningsfel">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Hoppa till...">
+<!ENTITY menu.control.jumpto "Hoppa till…">
 <!ENTITY menu.tools "Verktyg">
 <!ENTITY device.settings.music.transcoding.label "Omkodning av musik">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Nollställ">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Sök CD-information">
 <!ENTITY tabs.listAllTabs "Lista alla flikar">
 <!ENTITY rapi.prefpane.access.caption "Rättigheter till webbintegrering">
-<!ENTITY menu.file.scan "Sök efter media...">
+<!ENTITY menu.file.scan "Sök efter media…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Import av media">
 <!ENTITY device.firmware.wizard.download.error.description "Ett fel uppstod vid nedladdningen av ny firmware. Undersök statusen på din nätverksuppkoppling och försök igen.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Alla Foton">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Önskad spårvolym:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Laddar ner ny firmware...">
+<!ENTITY device.firmware.wizard.download.title "Laddar ner ny firmware…">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Inställningar">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Välkommen till &brandShortName;">
 <!ENTITY feedback.dialog.title "Hjälp till att göra &brandShortName; bätttre!">
 <!ENTITY window.yes "Ja">
-<!ENTITY subscribeMediaPageCmd.label "Prenumerera på denna sida...">
+<!ENTITY subscribeMediaPageCmd.label "Prenumerera på denna sida…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Avbryt">
 <!ENTITY watchfolder.folderlist "Mappar för bevakning av förekommande  nytt media:">

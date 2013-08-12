@@ -1,7 +1,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
 %brandDTD;
 <!ENTITY help.keyboard.name.playcontrol.next "Відтворити наступний медіа-елемент у списку">
-<!ENTITY help.keyboard.name.trackeditor "Редактор метаданих...">
+<!ENTITY help.keyboard.name.trackeditor "Редактор метаданих…">
 <!ENTITY help.keyboard.name.cdrip.stop "Зупинити копіювання CD">
 <!ENTITY help.keyboard.name.browser.stop "Зупинити завантаження">
 <!ENTITY help.keyboard.name.tab.1 "Перейти до вкладки 1">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ezkutatu">
 <!ENTITY tooltip.browser.subscription "Orri honetara harpidetu">
 <!ENTITY smart.playlistcondition.library "Liburutegia">
-<!ENTITY menu.help.bugz "Errore baten berri eman...">
+<!ENTITY menu.help.bugz "Errore baten berri eman…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Karpeta hau zelatu aldaketen zain">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Momentu honetako tamaina">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Ebaki">
 <!ENTITY mediaimporter.filtered_extensions.title "Multimedia inportatze oharra">
 <!ENTITY tooltip.control.play "Erreproduzitu">
-<!ENTITY tooltip.browser.mediapages "Multimedia ikusteko moduak aldatu...">
+<!ENTITY tooltip.browser.mediapages "Multimedia ikusteko moduak aldatu…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "i">
 <!ENTITY device.info.battery.label "Bateria">
 <!ENTITY menu.edit.delete "Ezabatu">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Ez inportatu multimedia">
 <!ENTITY feedback.dialog.yes "Bai">
 <!ENTITY about.buttons.credits "Kredituak">
-<!ENTITY device.firmware.wizard.check.progress.title "Firmware eguneraketak bilatzen...">
+<!ENTITY device.firmware.wizard.check.progress.title "Firmware eguneraketak bilatzen…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "Hemen artista eta albumaren izena erantsi dezakezu. CD erauzketako erreprodukzio-zerrendan falta den informazioa editatu dezakezu.">
 <!ENTITY umsd.music.music_path_browse_msg "Musika fitxategiak kokatuko diren gailuko karpeta aukeratu.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Erreprodukzio-zerrenda berria">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Ireki markoa nabigatzaile lehenetsian">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Erreprodukzio-zerrenda berria...">
+<!ENTITY menu.file.new "Erreprodukzio-zerrenda berria…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "i">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Karpeta:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Aurreko pista">
 <!ENTITY device.firmware.wizard.support.description "Sostengu baliabideak, galdera orokorrenak eta arazoak konpontzeko aholkuak hemen aurkitu daitezke">
 <!ENTITY window.apply "Aplikatu">
-<!ENTITY menu.file.smart "Erreprodukzio-zerrenda jakitun berria...">
+<!ENTITY menu.file.smart "Erreprodukzio-zerrenda jakitun berria…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Erroreen xehetasunak ikusi">
-<!ENTITY device.firmware.wizard.install.title "Firmwarea instalatzen...">
+<!ENTITY device.firmware.wizard.install.title "Firmwarea instalatzen…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "G">
 <!ENTITY menu.control.pause.button "Eten">
 <!ENTITY trackeditor.tab.summary.title "Laburpena">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "Ekualizadorea">
 <!ENTITY import_library.import_command "Liburutegia inportatu">
 <!ENTITY cdrip.mediaview.view_tracks_button "Pistak ikusi">
-<!ENTITY window.browse "Bilatu...">
+<!ENTITY window.browse "Bilatu…">
 <!ENTITY device.tools.restore_device.title "Berrezarri gailua">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Jarri gehien nahi duzun lortzaileen zerrenda lehengo.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Falta diren kodeken inguruko informazio gehiago lortzeko ikus:">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "L">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Karpetak jarraitu">
-<!ENTITY rapi.whitelist.label "Salbuespenak...">
+<!ENTITY rapi.whitelist.label "Salbuespenak…">
 <!ENTITY menu.updateCmd.accessKey "b">
-<!ENTITY menu.file.url "Ireki helbidea...">
+<!ENTITY menu.file.url "Ireki helbidea…">
 <!ENTITY menu.downloadmgr "Deskargak">
 <!ENTITY device.settings.auto_launch.checkbox.label "&brandShortName; ireki gailu hau aurkitzean">
 <!ENTITY first_run.itunes.checkbox.import.label "Pista eta erreprodukzio-zerrendak iTunes-etik inportatu">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird txapeldunak beste erabiltzaileei laguntza emateko">
 <!ENTITY menu.control.next "Hurrengo pista">
 <!ENTITY umsd.video.video_path_browse_msg "Bideo fitxategiak kokatuko diren gailuko karpeta aukeratu.">
-<!ENTITY setupprogress.pleasewait "Itxaron mesedez...">
+<!ENTITY setupprogress.pleasewait "Itxaron mesedez…">
 <!ENTITY menu.help.homepage "&brandShortName; Webgunea">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Areto handia">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "duela gutxi erreproduzitua">
 <!ENTITY command.device.ejectdevice "Kanporatu">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Ez ohartarazi berriz inportazioak dirauen bitartean sostengatzen ez diren bideoak direla eta">
-<!ENTITY first_run.connection.settings.button "Konexio ezarpenak...">
+<!ENTITY first_run.connection.settings.button "Konexio ezarpenak…">
 <!ENTITY import_library.prefs.title "iTunes inportatzaile/esportatzailea">
 <!ENTITY hotkeys.action "Ekintza">
 <!ENTITY equalizer.preset.classical "Klasikoa">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Bideoak aurrean">
 <!ENTITY device.management.tabs.music.label "Musika">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Marko honetara harpidetu...">
+<!ENTITY subscribeMediaFrameCmd.label "Marko honetara harpidetu…">
 <!ENTITY add_on_bundle_installer.error_box.label "Xehetasunak">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "i">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "H">
 <!ENTITY rapi.prefpane.title "Web integrazioa">
-<!ENTITY menu.equalizer "Ekualizadorea...">
+<!ENTITY menu.equalizer "Ekualizadorea…">
 <!ENTITY first_run.add_ons.description.line1 "Gehigarriek &brandShortName;en funtzionaltasuna hedatzen dute; horrela, multimedia erreprodukzio esperientzia pertsonalizatua izanez. Beheko aukerak oso gomendagarriak dira.">
 <!ENTITY displaypane.name.servicepane "Beheko zerbitzu panela">
-<!ENTITY menu.clearprivatedata "Datu pribatuak garbitu...">
+<!ENTITY menu.clearprivatedata "Datu pribatuak garbitu…">
 <!ENTITY window.ok "Ados">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Bilatu">
 <!ENTITY first_run.add_ons.description.line2 "Gehigarriak beste aplikazio eta zerbitzu batzuekin integratu daitezke, kanpoko gailuekin konektatzea ahalbidetzen dute, aplikazioen itxura aldatzen dute eta gehiago! Hainbat eta hainbat lor ditzakezu &brandShortName;en gehigarrien webgunean.">
-<!ENTITY menu.updateCmd.label "Eguneraketak bilatu...">
+<!ENTITY menu.updateCmd.label "Eguneraketak bilatu…">
 <!ENTITY device.firmware.wizard.check.error.description "Errore bat izan da firmware berria bilatzean. Mesedez, egiaztatu zure sare konexioa ongi dagoela eta saiatu berriz.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bit-emaria">
 <!ENTITY displaypane.name.browser "Beheko eduki panela">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Harpidetu">
 <!ENTITY tooltip.servicepane.show "Zerbitzu panela erakutsi">
 <!ENTITY tooltip.control.stop "Gelditu">
-<!ENTITY menu.file.remote "Harpidetza berria...">
-<!ENTITY menu.file.podcast "Podcast berria...">
+<!ENTITY menu.file.remote "Harpidetza berria…">
+<!ENTITY menu.file.podcast "Podcast berria…">
 <!ENTITY feedback.dialog.sentence2 "Ez bazaude interesatuta ez dizugu berriz galdetuko. Eskerrik asko kontuan hartu izana eta &brandShortName; erabiltzeagatik!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Momentu honetan ez dago inplementatuta. (Ikus 14281 bug-a)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Edukiera">
 <!ENTITY command.device.ignoredevice.accesskey "E">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "azel maius">
-<!ENTITY device.sync.images.browse "Aukeratu karpeta...">
+<!ENTITY device.sync.images.browse "Aukeratu karpeta…">
 <!ENTITY displaypane.default.link.post "gehiago bilatzeko.">
 <!ENTITY menu.control.play.accesskey "E">
-<!ENTITY menu.file.open "Ireki fitxategia...">
+<!ENTITY menu.file.open "Ireki fitxategia…">
 <!ENTITY command.device.devicesync "Sinkronizatu">
 <!ENTITY menu.preferences.accesskey "A">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Produktua">
 <!ENTITY smart.minutes "minutu">
 <!ENTITY menu.help.topics "Laguntzaren edukiak">
-<!ENTITY menu.file.playlist "Inportatu erreprodukzio-zerrenda bat...">
+<!ENTITY menu.file.playlist "Inportatu erreprodukzio-zerrenda bat…">
 <!ENTITY first_run.app_update.finished.title "Eguneraketa Instalatzeko Prest.">
 <!ENTITY device.tools.format_volume.button.label "Formatua">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Gehinez">
-<!ENTITY menu.file.library "Liburutegi bat inportatu...">
+<!ENTITY menu.file.library "Liburutegi bat inportatu…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "J">
 <!ENTITY tooltip.control.curtrack "Bilatu uneko pista">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Esportatu harpidetzak">
 <!ENTITY mediacore.error.title "Erreprodukzio errorea">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Joan...">
+<!ENTITY menu.control.jumpto "Joan…">
 <!ENTITY menu.tools "Tresnak">
 <!ENTITY device.settings.music.transcoding.label "Musika bihurtzea">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Berrezarri">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "CD-ari buruzko informazioa bilatu">
 <!ENTITY tabs.listAllTabs "Fitxa guztiak zerrendatu">
 <!ENTITY rapi.prefpane.access.caption "Web integrazio baimenak">
-<!ENTITY menu.file.scan "Inportatu multimedia...">
+<!ENTITY menu.file.scan "Inportatu multimedia…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Multimedia inportatzailea">
 <!ENTITY device.firmware.wizard.download.error.description "Errore bat izan da firmware berria deskargatzean. Mesedez, egiaztatu zure sare konexioa ongi dagoela eta saiatu berriz.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Argazki guztiak">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Lehenetsitako datu irabazkinak:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Firmware berria deskargatzen...">
+<!ENTITY device.firmware.wizard.download.title "Firmware berria deskargatzen…">
 <!ENTITY cdrip.prefpane.format "Formatua">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Hobespenak">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Ongi etorri &brandShortName;era">
 <!ENTITY feedback.dialog.title "Lagundu &brandShortName; hobeago bat egiten!">
 <!ENTITY window.yes "Bai">
-<!ENTITY subscribeMediaPageCmd.label "Orri honetara harpidetu...">
+<!ENTITY subscribeMediaPageCmd.label "Orri honetara harpidetu…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Gelditu">
 <!ENTITY watchfolder.folderlist "Karpeta hauek jarraitu multimedia berrien bila:">

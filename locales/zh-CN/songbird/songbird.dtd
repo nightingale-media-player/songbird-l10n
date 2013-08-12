@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "隐藏">
 <!ENTITY tooltip.browser.subscription "订阅此页">
 <!ENTITY smart.playlistcondition.library "媒体库">
-<!ENTITY menu.help.bugz "报告软件缺陷...">
+<!ENTITY menu.help.bugz "报告软件缺陷…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "监视该文件夹的改动">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "实际尺寸">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "剪切">
 <!ENTITY mediaimporter.filtered_extensions.title "媒体导入提示">
 <!ENTITY tooltip.control.play "播放">
-<!ENTITY tooltip.browser.mediapages "切换媒体视图...">
+<!ENTITY tooltip.browser.mediapages "切换媒体视图…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "电池">
 <!ENTITY menu.edit.delete "删除">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "不导入媒体">
 <!ENTITY feedback.dialog.yes "确定">
 <!ENTITY about.buttons.credits "鸣谢">
-<!ENTITY device.firmware.wizard.check.progress.title "正在检查固件更新...">
+<!ENTITY device.firmware.wizard.check.progress.title "正在检查固件更新…">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "在这里添加艺术家和专辑名称。在CD抓轨播放列表中修改其他信息。">
 <!ENTITY umsd.music.music_path_browse_msg "选择放置音乐文件的设备目录">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "新建播放列表">
 <!ENTITY openFrameCmdInDefaultBrowser.label "在默认浏览器中打开帧">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "新建播放列表...">
+<!ENTITY menu.file.new "新建播放列表…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "文件夹：">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "上一首音乐">
 <!ENTITY device.firmware.wizard.support.description "常见问题及解决方案可以在如下位置找到">
 <!ENTITY window.apply "应用">
-<!ENTITY menu.file.smart "新建智能播放列表...">
+<!ENTITY menu.file.smart "新建智能播放列表…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "查看详细出错信息">
-<!ENTITY device.firmware.wizard.install.title "正在安装固件...">
+<!ENTITY device.firmware.wizard.install.title "正在安装固件…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "暂停">
 <!ENTITY trackeditor.tab.summary.title "摘要信息">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "均衡器">
 <!ENTITY import_library.import_command "导入音乐库">
 <!ENTITY cdrip.mediaview.view_tracks_button "显示音轨">
-<!ENTITY window.browse "浏览...">
+<!ENTITY window.browse "浏览…">
 <!ENTITY device.tools.restore_device.title "还原设备">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "将你优先使用的获取方式排列在最上方.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "关于缺失解码器的更多信息，请查看：">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "监视文件夹">
-<!ENTITY rapi.whitelist.label "例外...">
+<!ENTITY rapi.whitelist.label "例外…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "按网址打开...">
+<!ENTITY menu.file.url "按网址打开…">
 <!ENTITY menu.downloadmgr "文件下载">
 <!ENTITY device.settings.auto_launch.checkbox.label "当侦测到这个设备，运行&brandShortName;">
 <!ENTITY first_run.itunes.checkbox.import.label "从iTunes里导入音轨和播放列表">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird的支持者都是Songbird的忠实用户，他们为Songbird的用户提供了超水平的支持。">
 <!ENTITY menu.control.next "下一首音乐">
 <!ENTITY umsd.video.video_path_browse_msg "选择放置音乐文件的设备目录">
-<!ENTITY setupprogress.pleasewait "请稍候...">
+<!ENTITY setupprogress.pleasewait "请稍候…">
 <!ENTITY menu.help.homepage "&brandShortName; 网站">
 <!ENTITY equalizer.preset.soft "轻柔">
 <!ENTITY equalizer.preset.large_hall "大厅">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "最近播放">
 <!ENTITY command.device.ejectdevice "弹出">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "导入过程中如果还有不支持的视频，不用再提醒我了。">
-<!ENTITY first_run.connection.settings.button "连接设置...">
+<!ENTITY first_run.connection.settings.button "连接设置…">
 <!ENTITY import_library.prefs.title "iTunes 导入器">
 <!ENTITY hotkeys.action "动作">
 <!ENTITY equalizer.preset.classical "Classical(古典)">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "视频在前面">
 <!ENTITY device.management.tabs.music.label "音乐">
 <!ENTITY equalizer.preset.pop "Pop(流行)">
-<!ENTITY subscribeMediaFrameCmd.label "订阅此帧...">
+<!ENTITY subscribeMediaFrameCmd.label "订阅此帧…">
 <!ENTITY add_on_bundle_installer.error_box.label "详情">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "网络整合">
-<!ENTITY menu.equalizer "均衡器...">
+<!ENTITY menu.equalizer "均衡器…">
 <!ENTITY first_run.add_ons.description.line1 "插件可以扩展&brandShortName;的功能，允许您定制使用您的媒体播放器。我们强烈推荐下列选项。">
 <!ENTITY displaypane.name.servicepane "服务面板底部">
-<!ENTITY menu.clearprivatedata "清除隐私数据...">
+<!ENTITY menu.clearprivatedata "清除隐私数据…">
 <!ENTITY window.ok "确定">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "查找">
 <!ENTITY first_run.add_ons.description.line2 "插件可以与其它应用程序和服务集成，支持与外设的连接，更改程序的界面和更多功能！您可以在&brandShortName;的插件站点下载插件。">
-<!ENTITY menu.updateCmd.label "检查更新...">
+<!ENTITY menu.updateCmd.label "检查更新…">
 <!ENTITY device.firmware.wizard.check.error.description "检查固件更新时出错，请检查您的网络连接">
 <!ENTITY device.settings.music.transcoding.bitrate.label "比特率">
 <!ENTITY displaypane.name.browser "内容面板底部">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "订阅">
 <!ENTITY tooltip.servicepane.show "显示服务面板">
 <!ENTITY tooltip.control.stop "停止">
-<!ENTITY menu.file.remote "新订阅...">
-<!ENTITY menu.file.podcast "新Podcast...">
+<!ENTITY menu.file.remote "新订阅…">
+<!ENTITY menu.file.podcast "新Podcast…">
 <!ENTITY feedback.dialog.sentence2 "如果您不感兴趣,我们不再詢問。  感谢您使用&brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post " ">
 <!ENTITY fetch_album_art.dialog.message "尚未实现。（查看bug 14281）">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "容量">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "加速切换">
-<!ENTITY device.sync.images.browse "选择文件夹....">
+<!ENTITY device.sync.images.browse "选择文件夹….">
 <!ENTITY displaypane.default.link.post "浏览扩展">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "打开文件...">
+<!ENTITY menu.file.open "打开文件…">
 <!ENTITY command.device.devicesync "同步">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "设备">
 <!ENTITY smart.minutes "分钟">
 <!ENTITY menu.help.topics "帮助话题">
-<!ENTITY menu.file.playlist "导入播放列表...">
+<!ENTITY menu.file.playlist "导入播放列表…">
 <!ENTITY first_run.app_update.finished.title "已经准备好安装更新">
 <!ENTITY device.tools.format_volume.button.label "格式化">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "限于">
-<!ENTITY menu.file.library "导入媒体库...">
+<!ENTITY menu.file.library "导入媒体库…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "查找当前音乐">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "导出订阅列表">
 <!ENTITY mediacore.error.title "媒体核心错误">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "跳转到...">
+<!ENTITY menu.control.jumpto "跳转到…">
 <!ENTITY menu.tools "工具">
 <!ENTITY device.settings.music.transcoding.label "音乐正在转码">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "重置">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "查询CD信息">
 <!ENTITY tabs.listAllTabs "列出全部标签页">
 <!ENTITY rapi.prefpane.access.caption "网络整合许可">
-<!ENTITY menu.file.scan "导入媒体...">
+<!ENTITY menu.file.scan "导入媒体…">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "媒体导入">
 <!ENTITY device.firmware.wizard.download.error.description "下载固件时出错，请检查您的网络连接">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "所有照片">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "首选增益数据：">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "正在下载新固件...">
+<!ENTITY device.firmware.wizard.download.title "正在下载新固件…">
 <!ENTITY cdrip.prefpane.format "格式">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "首选项">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "&brandShortName; 欢迎您">
 <!ENTITY feedback.dialog.title "帮助完善&brandShortName; ！">
 <!ENTITY window.yes "是">
-<!ENTITY subscribeMediaPageCmd.label "订阅此页...">
+<!ENTITY subscribeMediaPageCmd.label "订阅此页…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "停止">
 <!ENTITY watchfolder.folderlist "监视这些文件夹以便发现新媒体">

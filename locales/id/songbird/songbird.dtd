@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Sembunyikan">
 <!ENTITY tooltip.browser.subscription "Berlangganan halaman ini">
 <!ENTITY smart.playlistcondition.library "Pustaka">
-<!ENTITY menu.help.bugz "Laporkan Bug...">
+<!ENTITY menu.help.bugz "Laporkan Bug…">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Monitor perubahan pada folder ini">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Ukuran Sebenar">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Potong">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
 <!ENTITY tooltip.control.play "Putar">
-<!ENTITY tooltip.browser.mediapages "Ganti Tampilan Media...">
+<!ENTITY tooltip.browser.mediapages "Ganti Tampilan Media…">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Baterai">
 <!ENTITY menu.edit.delete "Hapus">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Senarai Putar Baru">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Buka Bingkai pada Peramban Web Default">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Senarai Putar Baru...">
+<!ENTITY menu.file.new "Senarai Putar Baru…">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Folder:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Lagu Sebelumnya">
 <!ENTITY device.firmware.wizard.support.description "Dukungan sumber daya seperti FAQ dan tips mengatasi masalah dapat ditemukan di">
 <!ENTITY window.apply "Terapkan">
-<!ENTITY menu.file.smart "Senarai Putar Pintar Baru...">
+<!ENTITY menu.file.smart "Senarai Putar Pintar Baru…">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Tampilkan Detail Kesalahan">
-<!ENTITY device.firmware.wizard.install.title "Memasang firmware...">
+<!ENTITY device.firmware.wizard.install.title "Memasang firmware…">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "Jeda">
 <!ENTITY trackeditor.tab.summary.title "Keterangan">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "Equalizer">
 <!ENTITY import_library.import_command "Impor Pustaka">
 <!ENTITY cdrip.mediaview.view_tracks_button "Lihat Semua Trek">
-<!ENTITY window.browse "Jelajahi...">
+<!ENTITY window.browse "Jelajahi…">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Urutan fetcher yang akan digunakan">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Folder yang Dimonitor">
-<!ENTITY rapi.whitelist.label "Pengecualian...">
+<!ENTITY rapi.whitelist.label "Pengecualian…">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Buka Alamat...">
+<!ENTITY menu.file.url "Buka Alamat…">
 <!ENTITY menu.downloadmgr "Unduhan Berkas">
 <!ENTITY device.settings.auto_launch.checkbox.label "Buka &brandShortName; ketika perangkat ini terdeteksi">
 <!ENTITY first_run.itunes.checkbox.import.label "Impor lagu dan senarai putar dari iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Lagu Selanjutnya">
 <!ENTITY umsd.video.video_path_browse_msg "Pilih direktori pada perangkat untuk lokasi menyimpan berkas video.">
-<!ENTITY setupprogress.pleasewait "Silakan menunggu...">
+<!ENTITY setupprogress.pleasewait "Silakan menunggu…">
 <!ENTITY menu.help.homepage "Website &brandShortName;">
 <!ENTITY equalizer.preset.soft "Lembut">
 <!ENTITY equalizer.preset.large_hall "Gedung Besar">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "terakhir diputar">
 <!ENTITY command.device.ejectdevice "Keluarkan">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Pengaturan Sambungan...">
+<!ENTITY first_run.connection.settings.button "Pengaturan Sambungan…">
 <!ENTITY import_library.prefs.title "Pengimpor iTunes">
 <!ENTITY hotkeys.action "Tindakan">
 <!ENTITY equalizer.preset.classical "Klasik">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video ke Depan">
 <!ENTITY device.management.tabs.music.label "Lagu">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Berlangganan Bingkai Ini...">
+<!ENTITY subscribeMediaFrameCmd.label "Berlangganan Bingkai Ini…">
 <!ENTITY add_on_bundle_installer.error_box.label "Keterangan">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "B">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Integrasi Web">
-<!ENTITY menu.equalizer "Equalizer...">
+<!ENTITY menu.equalizer "Equalizer…">
 <!ENTITY first_run.add_ons.description.line1 "Pengaya memperkaya fungsi &brandShortName; memberi Anda kemudahan memutar media anda. Beberapa pengaya pilihan berikut sangat direkomendasikan.">
 <!ENTITY displaypane.name.servicepane "Panel Layanan Bawah">
-<!ENTITY menu.clearprivatedata "Bersihkan Data Pribadi...">
+<!ENTITY menu.clearprivatedata "Bersihkan Data Pribadi…">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Cari">
 <!ENTITY first_run.add_ons.description.line2 "Pengaya dapat mengintegrasi dengan aplikasi dan layanan lainnya, mendukung koneksi ke perangkat eksternal, menyulap tampilan aplikasi, dan masih banyak lagi. Anda dapat mengunduh pengaya pada situs Peengaya &brandShortName;.">
-<!ENTITY menu.updateCmd.label "Memeriksa Versi Baru...">
+<!ENTITY menu.updateCmd.label "Memeriksa Versi Baru…">
 <!ENTITY device.firmware.wizard.check.error.description "Ada kesalahan saat memeriksa firmware baru. Harap verifikasi koneksi jaringan anda dan coba lagi">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Tingkatbit">
 <!ENTITY displaypane.name.browser "Panel Konten Bawah">
@@ -432,7 +432,7 @@
 <!ENTITY feed.subscribe.label "Berlangganan">
 <!ENTITY tooltip.servicepane.show "Tampilkan Panel Layanan">
 <!ENTITY tooltip.control.stop "Stop">
-<!ENTITY menu.file.remote "Langganan Baru...">
+<!ENTITY menu.file.remote "Langganan Baru…">
 <!ENTITY menu.file.podcast "Podcast Baru">
 <!ENTITY feedback.dialog.sentence2 "Jika Anda tidak tertarik, kami tidak akan menanyakannya lagi. Terima kasih sebelumnya dan kami senang Anda menggunakan &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
@@ -473,7 +473,7 @@
 <!ENTITY device.info.capacity.label "Kapasitas">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "ubah aksel">
-<!ENTITY device.sync.images.browse "Pilih folder ...">
+<!ENTITY device.sync.images.browse "Pilih folder …">
 <!ENTITY displaypane.default.link.post "untuk menjelajahi pengaya.">
 <!ENTITY menu.control.play.accesskey "P">
 <!ENTITY menu.file.open "Buka file..">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Produk">
 <!ENTITY smart.minutes "menit">
 <!ENTITY menu.help.topics "Daftar Isi Bantuan">
-<!ENTITY menu.file.playlist "Impor Senarai Putar...">
+<!ENTITY menu.file.playlist "Impor Senarai Putar…">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Batasi hingga">
-<!ENTITY menu.file.library "Impor Pustaka...">
+<!ENTITY menu.file.library "Impor Pustaka…">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "L">
 <!ENTITY tooltip.control.curtrack "Cari Lagu Terakhir">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Ekspor langganan">
 <!ENTITY mediacore.error.title "Kesalahan Pustaka Program Media Inti">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Pindah Ke...">
+<!ENTITY menu.control.jumpto "Pindah Ke…">
 <!ENTITY menu.tools "Alat">
 <!ENTITY device.settings.music.transcoding.label "Ubah Kodikasi Lagu">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Kembalikan">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Data gain yang diinginkan:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Mengunduh firmware baru...">
+<!ENTITY device.firmware.wizard.download.title "Mengunduh firmware baru…">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Pengaturan">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Selamat Datang di &brandShortName;">
 <!ENTITY feedback.dialog.title "Yuk, Bantu &brandShortName;!">
 <!ENTITY window.yes "Ya">
-<!ENTITY subscribeMediaPageCmd.label "Berlangganan Halaman Ini...">
+<!ENTITY subscribeMediaPageCmd.label "Berlangganan Halaman Ini…">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Batal">
 <!ENTITY watchfolder.folderlist "Monitor folder ini untuk media baru:">
