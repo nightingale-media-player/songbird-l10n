@@ -1,125 +1,125 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
 %brandDTD;
 <!ENTITY help.keyboard.name.tab.6 "Switch to Tab 6">
-<!ENTITY help.keyboard.name.edit.delete "काढ">
-<!ENTITY help.keyboard.key.f14 "एफ१४">
+<!ENTITY help.keyboard.name.edit.delete "à¤•à¤¾à¤¢">
+<!ENTITY help.keyboard.key.f14 "à¤à¤«à¥§à¥ª">
 <!ENTITY help.keyboard.name.view.fullscreen "Full Screen">
 <!ENTITY help.keyboard.name.tab.close "Close Tab">
-<!ENTITY help.keyboard.name.browser.forward "पुढे">
+<!ENTITY help.keyboard.name.browser.forward "à¤ªà¥à¤¢à¥‡">
 <!ENTITY help.keyboard.key.meta "Win">
 <!ENTITY help.keyboard.name.view.zoomreset "Zoom Reset">
 <!ENTITY help.keyboard.section.misc "Miscellaneous">
-<!ENTITY help.keyboard.key.f11 "एफ११">
+<!ENTITY help.keyboard.key.f11 "à¤à¤«à¥§à¥§">
 <!ENTITY help.keyboard.name.open.url "Open URL Location">
-<!ENTITY help.keyboard.name.edit.copy " नक्कल">
+<!ENTITY help.keyboard.name.edit.copy " à¤¨à¤•à¥à¤•à¤²">
 <!ENTITY help.keyboard.name.tab.3 "Switch to Tab 3">
 <!ENTITY help.keyboard.name.playcontrol.pause "Play/Pause the Selected Media Item">
 <!ENTITY help.keyboard.name.cdrip.stop "Stop Rip CD">
 <!ENTITY help.keyboard.name.cdrip.eject "Eject CD">
-<!ENTITY help.keyboard.name.browser.back "मागे">
+<!ENTITY help.keyboard.name.browser.back "à¤®à¤¾à¤—à¥‡">
 <!ENTITY help.keyboard.name.view.source "View Source">
 <!ENTITY help.keyboard.section.library "Library and Playlists">
-<!ENTITY help.keyboard.key.up "वरचा बाण">
+<!ENTITY help.keyboard.key.up "à¤µà¤°à¤šà¤¾ à¤¬à¤¾à¤£">
 <!ENTITY help.keyboard.name.view.zoomout "Zoom Out">
 <!ENTITY help.keyboard.name.video.bringtofront "Video on Top">
 <!ENTITY help.keyboard.section.browser "Browser">
-<!ENTITY help.keyboard.name.edit.selectall "सगळं निवड">
-<!ENTITY help.keyboard.key.f9 "एफ९">
+<!ENTITY help.keyboard.name.edit.selectall "à¤¸à¤—à¤³à¤‚ à¤¨à¤¿à¤µà¤¡">
+<!ENTITY help.keyboard.key.f9 "à¤à¤«à¥¯">
 <!ENTITY help.keyboard.section.playback "Playback Controls">
-<!ENTITY help.keyboard.name.edit.paste "चिकटव">
-<!ENTITY help.keyboard.key.f6 "एफ६">
-<!ENTITY help.keyboard.name.subscribe "वर्गणी">
-<!ENTITY help.platform.windows "विंडोज">
-<!ENTITY help.platform.linux "लिनक्स">
-<!ENTITY help.keyboard.heading.command "हुकुम">
-<!ENTITY help.keyboard.key.f3 "एफ३">
+<!ENTITY help.keyboard.name.edit.paste "à¤šà¤¿à¤•à¤Ÿà¤µ">
+<!ENTITY help.keyboard.key.f6 "à¤à¤«à¥¬">
+<!ENTITY help.keyboard.name.subscribe "à¤µà¤°à¥à¤—à¤£à¥€">
+<!ENTITY help.platform.windows "à¤µà¤¿à¤‚à¤¡à¥‹à¤œ">
+<!ENTITY help.platform.linux "à¤²à¤¿à¤¨à¤•à¥à¤¸">
+<!ENTITY help.keyboard.heading.command "à¤¹à¥à¤•à¥à¤®">
+<!ENTITY help.keyboard.key.f3 "à¤à¤«à¥©">
 <!ENTITY help.keyboard.name.browser.stop "Stop Loading">
 <!ENTITY help.keyboard.key.cmd "Cmd">
-<!ENTITY help.keyboard.name.quit "सोड">
-<!ENTITY help.keyboard.key.end "शेवट">
+<!ENTITY help.keyboard.name.quit "à¤¸à¥‹à¤¡">
+<!ENTITY help.keyboard.key.end "à¤¶à¥‡à¤µà¤Ÿ">
 <!ENTITY help.keyboard.name.mac.hideothers "Hide Other Applications">
 <!ENTITY help.keyboard.title "&brandShortName; Keyboard Shortcuts">
 <!ENTITY help.keyboard.section.windows "Windows and Tabs">
 <!ENTITY help.keyboard.key.shift "Shift">
 <!ENTITY help.keyboard.subtitle "Keyboard Shortcuts">
 <!ENTITY help.keyboard.name.tab.next "Next Tab">
-<!ENTITY help.keyboard.name.help "मदतीचे विषय">
+<!ENTITY help.keyboard.name.help "à¤®à¤¦à¤¤à¥€à¤šà¥‡ à¤µà¤¿à¤·à¤¯">
 <!ENTITY help.keyboard.name.browser.reload "Reload">
 <!ENTITY help.keyboard.name.feather.switch "Switch Feather Layouts">
-<!ENTITY help.keyboard.name.page.top "पानाच्या सुरूवातीस जा">
+<!ENTITY help.keyboard.name.page.top "à¤ªà¤¾à¤¨à¤¾à¤šà¥à¤¯à¤¾ à¤¸à¥à¤°à¥‚à¤µà¤¾à¤¤à¥€à¤¸ à¤œà¤¾">
 <!ENTITY help.keyboard.name.tab.7 "Switch to Tab 7">
-<!ENTITY help.keyboard.key.f15 "एफ१५">
-<!ENTITY help.keyboard.name.find "शोध">
-<!ENTITY help.keyboard.name.new.playlist "गाण्यांची नवी यादी">
+<!ENTITY help.keyboard.key.f15 "à¤à¤«à¥§à¥«">
+<!ENTITY help.keyboard.name.find "à¤¶à¥‹à¤§">
+<!ENTITY help.keyboard.name.new.playlist "à¤—à¤¾à¤£à¥à¤¯à¤¾à¤‚à¤šà¥€ à¤¨à¤µà¥€ à¤¯à¤¾à¤¦à¥€">
 <!ENTITY help.keyboard.name.tab.4 "Switch to Tab 4">
-<!ENTITY help.keyboard.key.down "खालचा बाण">
-<!ENTITY help.keyboard.key.f12 "एफ१२">
+<!ENTITY help.keyboard.key.down "à¤–à¤¾à¤²à¤šà¤¾ à¤¬à¤¾à¤£">
+<!ENTITY help.keyboard.key.f12 "à¤à¤«à¥§à¥¨">
 <!ENTITY help.keyboard.section.cdrip "CD Rip">
-<!ENTITY help.keyboard.section.search "शोध">
+<!ENTITY help.keyboard.section.search "à¤¶à¥‹à¤§">
 <!ENTITY help.keyboard.name.tab.1 "Switch to Tab 1">
-<!ENTITY help.keyboard.mouse.click.primary "क्लिक">
+<!ENTITY help.keyboard.mouse.click.primary "à¤•à¥à¤²à¤¿à¤•">
 <!ENTITY help.keyboard.name.downloads "Downloads">
 <!ENTITY help.keyboard.key.escape "Esc">
 <!ENTITY help.keyboard.name.save.link "Save Link">
-<!ENTITY help.keyboard.mouse.click.middle "मधला-क्लिक">
-<!ENTITY help.keyboard.name.volume.mute "आवाज बंद">
-<!ENTITY help.keyboard.name.file.print "छापणी">
-<!ENTITY help.keyboard.key.delete "काढ">
+<!ENTITY help.keyboard.mouse.click.middle "à¤®à¤§à¤²à¤¾-à¤•à¥à¤²à¤¿à¤•">
+<!ENTITY help.keyboard.name.volume.mute "à¤†à¤µà¤¾à¤œ à¤¬à¤‚à¤¦">
+<!ENTITY help.keyboard.name.file.print "à¤›à¤¾à¤ªà¤£à¥€">
+<!ENTITY help.keyboard.key.delete "à¤•à¤¾à¤¢">
 <!ENTITY help.keyboard.name.jumpto "Jump To Window">
 <!ENTITY help.keyboard.name.import "Import Media">
 <!ENTITY help.keyboard.name.locationbar "Focus Location Bar">
-<!ENTITY help.keyboard.key.f7 "एफ७">
+<!ENTITY help.keyboard.key.f7 "à¤à¤«à¥­">
 <!ENTITY help.keyboard.name.video.fullscreen "Full Screen">
 <!ENTITY help.keyboard.name.find.text "Find As You Type Text">
 <!ENTITY help.keyboard.name.new.smartplaylist "New Smart Playlist">
 <!ENTITY help.keyboard.name.mac.minimize "Minimize to Dock">
 <!ENTITY help.keyboard.name.currenttrack "Locate Now Playing Media Item">
-<!ENTITY help.keyboard.name.sanitize "खाजगी माहिती पुसून टाक">
+<!ENTITY help.keyboard.name.sanitize "à¤–à¤¾à¤œà¤—à¥€ à¤®à¤¾à¤¹à¤¿à¤¤à¥€ à¤ªà¥à¤¸à¥‚à¤¨ à¤Ÿà¤¾à¤•">
 <!ENTITY help.keyboard.key.tab "Tab">
-<!ENTITY help.keyboard.key.f4 "एफ४">
+<!ENTITY help.keyboard.key.f4 "à¤à¤«à¥ª">
 <!ENTITY help.keyboard.section.video "Video">
-<!ENTITY help.keyboard.name.edit.undo "गैरलागू">
-<!ENTITY help.keyboard.key.f1 "एफ१">
+<!ENTITY help.keyboard.name.edit.undo "à¤—à¥ˆà¤°à¤²à¤¾à¤—à¥‚">
+<!ENTITY help.keyboard.key.f1 "à¤à¤«à¥§">
 <!ENTITY help.keyboard.name.playcontrol.prev "Play the Previous Media Item in a List">
 <!ENTITY help.keyboard.name.cdrip.start "Rip CD">
-<!ENTITY help.keyboard.name.volume.up "आवाज (+)">
+<!ENTITY help.keyboard.name.volume.up "à¤†à¤µà¤¾à¤œ (+)">
 <!ENTITY help.keyboard.name.equalizer "Open the Equalizer">
 <!ENTITY help.keyboard.key.pgdn "Page Down">
-<!ENTITY help.keyboard.key.right "उजवीकडचा बाण">
+<!ENTITY help.keyboard.key.right "à¤‰à¤œà¤µà¥€à¤•à¤¡à¤šà¤¾ à¤¬à¤¾à¤£">
 <!ENTITY help.keyboard.name.volume.max "Max Volume">
 <!ENTITY help.keyboard.name.tab.new "New Tab">
 <!ENTITY help.keyboard.name.tab.8 "Switch to Tab 8">
-<!ENTITY help.keyboard.name.page.bottom "पानाच्या तळाशी जा">
-<!ENTITY help.keyboard.name.mac.hide "विंडो लपव">
-<!ENTITY help.keyboard.key.f13 "एफ१३">
+<!ENTITY help.keyboard.name.page.bottom "à¤ªà¤¾à¤¨à¤¾à¤šà¥à¤¯à¤¾ à¤¤à¤³à¤¾à¤¶à¥€ à¤œà¤¾">
+<!ENTITY help.keyboard.name.mac.hide "à¤µà¤¿à¤‚à¤¡à¥‹ à¤²à¤ªà¤µ">
+<!ENTITY help.keyboard.key.f13 "à¤à¤«à¥§à¥©">
 <!ENTITY help.keyboard.name.video.escape "Escape from Full Screen">
 <!ENTITY help.keyboard.name.find.link "Find As You Type Link">
 <!ENTITY help.keyboard.name.tab.5 "Switch to Tab 5">
 <!ENTITY help.keyboard.name.trackeditor "Metadata Editor">
 <!ENTITY help.keyboard.name.tab.2 "Switch to Tab 2">
-<!ENTITY help.keyboard.key.f10 "एफ१०">
+<!ENTITY help.keyboard.key.f10 "à¤à¤«à¥§à¥¦">
 <!ENTITY help.keyboard.section.editing "Editing">
 <!ENTITY help.keyboard.key.ctrl "Ctrl">
 <!ENTITY help.keyboard.name.tab.previous "Previous Tab">
 <!ENTITY help.keyboard.key.opt "Opt">
-<!ENTITY help.keyboard.name.volume.down "आवाज (-)">
+<!ENTITY help.keyboard.name.volume.down "à¤†à¤µà¤¾à¤œ (-)">
 <!ENTITY help.keyboard.name.search.focus "Focus Search Box">
 <!ENTITY help.keyboard.key.pgup "Page Up">
 <!ENTITY help.keyboard.name.tab.open.link "Open Link in New Tab">
-<!ENTITY help.keyboard.name.open.file "फाइल उघड">
-<!ENTITY help.keyboard.name.preferences "आवडी निवडी�">
+<!ENTITY help.keyboard.name.open.file "à¤«à¤¾à¤‡à¤² à¤‰à¤˜à¤¡">
+<!ENTITY help.keyboard.name.preferences "à¤†à¤µà¤¡à¥€ à¤¨à¤¿à¤µà¤¡à¥€…">
 <!ENTITY help.keyboard.description "Keyboard shortcuts can make tasks in &brandShortName; much easier. Below is a list of available commands followed by their appropriate shortcuts.">
-<!ENTITY help.keyboard.key.f8 "एफ८ ">
-<!ENTITY help.keyboard.key.left "डावीकडचा बाण">
-<!ENTITY help.platform.macosx "मॅक">
-<!ENTITY help.keyboard.key.home "घर">
-<!ENTITY help.keyboard.key.f5 "एफ५">
+<!ENTITY help.keyboard.key.f8 "à¤à¤«à¥® ">
+<!ENTITY help.keyboard.key.left "à¤¡à¤¾à¤µà¥€à¤•à¤¡à¤šà¤¾ à¤¬à¤¾à¤£">
+<!ENTITY help.platform.macosx "à¤®à¥…à¤•">
+<!ENTITY help.keyboard.key.home "à¤˜à¤°">
+<!ENTITY help.keyboard.key.f5 "à¤à¤«à¥«">
 <!ENTITY help.keyboard.key.alt "Alt">
 <!ENTITY help.keyboard.name.view.zoomin "Zoom In">
-<!ENTITY help.keyboard.key.f2 "एफ२">
+<!ENTITY help.keyboard.key.f2 "à¤à¤«à¥¨">
 <!ENTITY help.keyboard.name.mediapage.switch "Switch Media View">
-<!ENTITY help.keyboard.name.edit.cut "काप">
-<!ENTITY help.keyboard.name.find.again "पुन्हा शोध">
+<!ENTITY help.keyboard.name.edit.cut "à¤•à¤¾à¤ª">
+<!ENTITY help.keyboard.name.find.again "à¤ªà¥à¤¨à¥à¤¹à¤¾ à¤¶à¥‹à¤§">
 <!ENTITY help.keyboard.name.edit.redo "Redo">
 <!ENTITY help.keyboard.heading.shortcut "Shortcut">
 <!ENTITY help.keyboard.name.playcontrol.next "Play the Next Media Item in a List">
