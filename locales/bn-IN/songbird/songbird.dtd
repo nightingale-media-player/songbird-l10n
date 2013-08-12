@@ -1,391 +1,391 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
 %brandDTD;
 <!ENTITY wizard.button.next.label "Continue">
-<!ENTITY umsd.prefpane "à¦‡à¦‰à¦à¦¸à¦¬à¦¿">
-<!ENTITY umsd.music.music_ext_desc "à¦à¦‡ à¦ªà§à¦°à¦•à¦¾à¦°à§‡à¦° à¦¸à¦‚à¦—à§€à¦¤ à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦° à¦¬à¦¿à¦¸à§à¦¤à§ƒà¦¤à¦¿à¦—à§à¦²à¦¿ à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡ à¦ªà§à¦°à¦¤à¦¿à¦²à§‡à¦–à¦¨ à¦•à¦°à¦¾ à¦¹à¦¬à§‡:">
-<!ENTITY menu.errorconsole "à¦¤à§à¦°à§à¦Ÿà¦¿à¦° à¦•à¦¨à¦¸à§‹à¦²">
-<!ENTITY menu.edit.paste "à¦ªà§à¦°à¦¤à¦¿à¦²à§‡à¦ªà¦¨">
-<!ENTITY tooltip.hide "à¦—à§‹à¦ªà¦¨">
-<!ENTITY tooltip.browser.subscription "à¦—à§à¦°à¦¾à¦¹à¦•à§€à¦° à¦¸à§ƒà¦·à§à¦Ÿà¦¿à¦•à¦°à¦£">
-<!ENTITY smart.playlistcondition.library "à¦¸à¦‚à¦—à§à¦°à¦¹">
-<!ENTITY menu.help.bugz "à¦¤à§à¦°à§à¦Ÿà¦¿à¦° à¦¬à¦¾à¦°à§à¦¤à¦¾ à¦ªà¦¾à¦ à¦¾à¦“…">
-<!ENTITY first_run.import_media.scan_directories.watch.label "à¦ªà¦°à¦¿à¦¬à¦°à§à¦¤à¦¨à§‡à¦° à¦œà¦¨à§à¦¯ à¦à¦‡ à¦­à¦¾à¦à¦œà¦•à¦Ÿà¦¿ à¦¨à¦¿à¦°à§€à¦•à§à¦·à¦£ à¦•à¦°à§à¦¨">
+<!ENTITY umsd.prefpane "ইউএসবি">
+<!ENTITY umsd.music.music_ext_desc "এই প্রকারের সংগীত সঞ্চিকার বিস্তৃতিগুলি যুক্তোপকরণে প্রতিলেখন করা হবে:">
+<!ENTITY menu.errorconsole "ত্রুটির কনসোল">
+<!ENTITY menu.edit.paste "প্রতিলেপন">
+<!ENTITY tooltip.hide "গোপন">
+<!ENTITY tooltip.browser.subscription "গ্রাহকীর সৃষ্টিকরণ">
+<!ENTITY smart.playlistcondition.library "সংগ্রহ">
+<!ENTITY menu.help.bugz "ত্রুটির বার্তা পাঠাও�">
+<!ENTITY first_run.import_media.scan_directories.watch.label "পরিবর্তনের জন্য এই ভাঁজকটি নিরীক্ষণ করুন">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
-<!ENTITY trackeditor.title "à¦—à§€à¦¤à¦§à¦¾à¦°à¦¾ à¦¸à¦®à§à¦ªà¦¾à¦¦à¦•">
+<!ENTITY trackeditor.title "গীতধারা সম্পাদক">
 <!ENTITY menu.mac.minimize.key "M">
-<!ENTITY menu.edit.selall "à¦ªà¦°à¦¿à¦ªà§‚à¦°à§à¦£ à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¨">
+<!ENTITY menu.edit.selall "পরিপূর্ণ নির্বাচন">
 <!ENTITY device.tools.restore_device.label "Restore device to factory settings">
-<!ENTITY addMediaToPlaylistCmd.label "à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾à§Ÿ à¦¯à§‹à¦— à¦•à¦°">
+<!ENTITY addMediaToPlaylistCmd.label "বাদনতালিকায় যোগ কর">
 <!ENTITY equalizer.band9.label "16K">
-<!ENTITY smart.artist "à¦¶à¦¿à¦²à§à¦ªà§€">
+<!ENTITY smart.artist "শিল্পী">
 <!ENTITY menu.file.metadata.accesskey "V">
 <!ENTITY menu.edit.redo.accesskey "R">
 <!ENTITY mediacore.error.preface "&brandShortName; has encountered the following playback error(s):">
-<!ENTITY hotkeys.set "à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£">
+<!ENTITY hotkeys.set "নির্ধারণ">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
 <!ENTITY fetch_album_art.dialog.title "Get Artwork">
-<!ENTITY menu.controls "à¦¨à¦¿à§Ÿà¦¨à§à¦¤à§à¦°à¦£à¦¸à¦®à§‚à¦¹">
-<!ENTITY tooltip.control.resume "à¦ªà§à¦¨à¦°à¦¾à¦°à¦®à§à¦­">
-<!ENTITY feedback.dialog.no "à¦¨à¦¾">
+<!ENTITY menu.controls "নিয়ন্ত্রণসমূহ">
+<!ENTITY tooltip.control.resume "পুনরারম্ভ">
+<!ENTITY feedback.dialog.no "না">
 <!ENTITY equalizer.preset.party "Party">
 <!ENTITY downloadmgr.key "J">
 <!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY device.capacity.free.label "à¦®à§à¦•à§à¦¤">
+<!ENTITY device.capacity.free.label "মুক্ত">
 <!ENTITY playMediaCmd.accesskey "p">
-<!ENTITY hotkeys.info "à¦¸à¦¾à¦°à§à¦¬à¦¿à¦• à¦¸à¦•à§à¦°à¦¿à§Ÿà¦•à§à¦žà§à¦œà§€à¦—à§à¦²à¦¿ à¦†à¦ªà¦¨à¦¾à¦•à§‡ à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à§‡à¦° à¦ªà§à¦°à¦•à¦¾à¦°à§à¦¯à¦•à§‡ à¦…à¦­à¦¿à¦—à¦®à¦¨ à¦•à¦°à¦¤à§‡ à¦…à¦¨à§à¦®à¦¤à¦¿ à¦¦à§‡à§Ÿ à¦¯à¦¦à¦¿à¦“ à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡ à¦¸à¦•à§à¦°à¦¿à§Ÿ à¦…à¦¨à§à¦ªà§à¦°à§Ÿà§‹à¦— à¦¨à§Ÿà¥¤ à¦•à¦¿à¦›à§ à¦¸à¦•à§à¦°à¦¿à§Ÿà¦•à§à¦žà§à¦œà§€à¦° à¦¸à¦®à¦¾à¦¹à¦¾à¦°à¦—à§à¦²à¦¿à¦¤à§‡ à¦ªà¦°à¦¿à¦¬à¦°à§à¦¤à¦¨ à¦•à§à¦žà§à¦œà§€ à¦…à¦¨à§à¦¤à¦°à§à¦—à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡ à¦…à¦¨à§à¦¯à¦¾à¦¨à§à¦¯ à¦…à¦¨à§à¦ªà§à¦°à§Ÿà§‹à¦—à¦—à§à¦²à¦¿à¦° à¦¸à¦¾à¦¥à§‡ à¦…à¦¯à¦¾à¦šà¦¿à¦¤ à¦¬à¦¾à¦§à¦¾ à¦•à¦® à¦•à¦°à¦¤à§‡à¥¤">
-<!ENTITY device.capacity.music.label "à¦¸à¦‚à¦—à§€à¦¤">
+<!ENTITY hotkeys.info "সার্বিক সক্রিয়কুঞ্জীগুলি আপনাকে সংবার্ডের প্রকার্যকে অভিগমন করতে অনুমতি দেয় যদিও সংবার্ড সক্রিয় অনুপ্রয়োগ নয়। কিছু সক্রিয়কুঞ্জীর সমাহারগুলিতে পরিবর্তন কুঞ্জী অন্তর্গত করা হয়েছে অন্যান্য অনুপ্রয়োগগুলির সাথে অযাচিত বাধা কম করতে।">
+<!ENTITY device.capacity.music.label "সংগীত">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
-<!ENTITY tooltip.browser.stop "à¦¬à¦¿à¦šà¦°à¦£ à¦¬à¦¨à§à¦§">
+<!ENTITY tooltip.browser.stop "বিচরণ বন্ধ">
 <!ENTITY menu.mac.preferences.key ",">
 <!ENTITY equalizer.band0.label "32">
-<!ENTITY albumart.displaypane.selected.menu.cut "à¦•à¦¾à¦Ÿ">
+<!ENTITY albumart.displaypane.selected.menu.cut "কাট">
 <!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
-<!ENTITY subscribe.title "à¦—à§à¦°à¦¾à¦¹à¦• à¦¹à¦¨">
-<!ENTITY songbird "à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡">
-<!ENTITY smart.window "à¦šà¦¤à§à¦° à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾ à¦°à¦šà§Ÿà¦¿à¦¤à¦¾">
-<!ENTITY openImageCmdInDefaultBrowser.label "à¦¸à§à¦¬à¦¾à¦­à¦¾à¦¬à¦¿à¦• à¦¬à¦¿à¦šà¦°à¦•à§‡ à¦šà¦¿à¦¤à§à¦° à¦‰à¦¨à§à¦®à§€à¦²à¦¨">
+<!ENTITY subscribe.title "গ্রাহক হন">
+<!ENTITY songbird "সংবার্ড">
+<!ENTITY smart.window "চতুর বাদনতালিকা রচয়িতা">
+<!ENTITY openImageCmdInDefaultBrowser.label "স্বাভাবিক বিচরকে চিত্র উন্মীলন">
 <!ENTITY menu.help.about.accesskey "A">
 <!ENTITY menu.file.podcast.accesskey "P">
-<!ENTITY device.tools.format_device.title "à¦¯à¦¨à§à¦¤à§à¦° à¦«à¦°à¦®à§‡à¦Ÿ à¦•à¦°à§à¦¨">
+<!ENTITY device.tools.format_device.title "যন্ত্র ফরমেট করুন">
 <!ENTITY device.tools.reset_warnings.label "Reset warning messages">
 <!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
 <!ENTITY equalizer.band6.label "2K">
-<!ENTITY first_run.feedback.email.textbox.emptytext "à¦†à¦ªà¦¨à¦¾à¦° à¦‡-à¦®à§‡à¦² à¦ à¦¿à¦•à¦¾à¦¨à¦¾ à¦ªà§à¦°à¦¬à§‡à¦¶ à¦•à¦°à§à¦¨ à¦¸à¦¾à¦®à§à¦ªà§à¦°à¦¤à¦¿à¦• à¦¸à¦‚à¦¬à¦¾à¦¦ à¦¸à¦®à§à¦ªà¦°à§à¦•à§‡ à¦…à¦¬à¦—à¦¤ à¦¥à¦¾à¦•à¦¬à¦¾à¦° à¦œà¦¨à§à¦¯">
-<!ENTITY trackeditor.addtag.title "à¦ªà¦°à¦¿à¦šà§Ÿà¦šà¦¿à¦¹à§à¦¨ à¦¯à§‹à¦—">
+<!ENTITY first_run.feedback.email.textbox.emptytext "আপনার ই-মেল ঠিকানা প্রবেশ করুন সাম্প্রতিক সংবাদ সম্পর্কে অবগত থাকবার জন্য">
+<!ENTITY trackeditor.addtag.title "পরিচয়চিহ্ন যোগ">
 <!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
 <!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
-<!ENTITY prefs.security.addons.label "à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦• à¦¸à§à¦¥à¦¾à¦ªà¦¨à¦¾">
+<!ENTITY prefs.security.addons.label "বিস্তারক স্থাপনা">
 <!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
 <!ENTITY menu.control.repa.accesskey "A">
 <!ENTITY device.tools.product_registration.label "Register product">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
 <!ENTITY locationbar.key2 "D">
-<!ENTITY device.info.playback_formats.label "à¦¬à¦¾à¦¦à¦¨à¦šà¦¾à¦²à¦¨à¦¾à¦¯à§‹à¦—à§à¦¯ à¦¸à¦‚à¦°à§‚à¦ªà¦—à§à¦²à¦¿">
-<!ENTITY smart.high_rating "à¦‰à¦šà§à¦š à¦—à§à¦£à¦¾à¦™à§à¦•à¦¿à¦¤">
+<!ENTITY device.info.playback_formats.label "বাদনচালনাযোগ্য সংরূপগুলি">
+<!ENTITY smart.high_rating "উচ্চ গুণাঙ্কিত">
 <!ENTITY searchFocus.key "K">
-<!ENTITY menu.mac.hideothers "à¦…à¦¨à§à¦¯à¦¾à¦¨à§à¦¯à¦—à§à¦²à¦¿ à¦—à§‹à¦ªà¦¨">
+<!ENTITY menu.mac.hideothers "অন্যান্যগুলি গোপন">
 <!ENTITY menu.edit.find.accesskey "F">
-<!ENTITY device.info.friendly_name.label "à¦¨à¦¾à¦®">
-<!ENTITY device.unsupported_media.dialog.title "à¦…à¦¨à¦¨à§à¦•à§‚à¦² à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦° à¦¸à¦¨à§à¦§à¦¾à¦¨ à¦ªà¦¾à¦“à§Ÿà¦¾ à¦—à§‡à¦›à§‡">
-<!ENTITY cdrip.mediaview.format_label "à¦«à¦°à¦®à§‡à¦Ÿ à¦•à¦°à§à¦¨:">
-<!ENTITY about.credits.heading.translators "à¦…à¦¨à§à¦¬à¦¾à¦¦à¦•à¦°à¦¾">
-<!ENTITY menu.view "à¦¦à¦°à§à¦¶à¦¨">
-<!ENTITY menu.preferences "à¦ªà§à¦°à¦¿à§Ÿ à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£à¦®à¦¾à¦¨à¦¸à¦®à§‚à¦¹">
-<!ENTITY command.device.canceldevicedelete "à¦…à¦ªà¦¸à¦¾à¦°à¦£ à¦°à¦¦">
+<!ENTITY device.info.friendly_name.label "নাম">
+<!ENTITY device.unsupported_media.dialog.title "অননুকূল সঞ্চিকার সন্ধান পাওয়া গেছে">
+<!ENTITY cdrip.mediaview.format_label "ফরমেট করুন:">
+<!ENTITY about.credits.heading.translators "অনুবাদকরা">
+<!ENTITY menu.view "দর্শন">
+<!ENTITY menu.preferences "প্রিয় নির্ধারণমানসমূহ">
+<!ENTITY command.device.canceldevicedelete "অপসারণ রদ">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-<!ENTITY wizard.button.finish.label "à¦¸à¦®à¦¾à¦ªà§à¦¤">
+<!ENTITY wizard.button.finish.label "সমাপ্ত">
 <!ENTITY menu.file.smart.accesskey "S">
-<!ENTITY first_run.welcome.description.line1 "&brandShortName; à¦à¦•à¦Ÿà¦¿ à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à§‡à¦° à¦¸à¦™à§à¦—à§‡ à¦¸à¦‚à¦¹à¦¤ à¦¡à§‡à¦¸à§à¦•à¦Ÿà¦ª à¦®à¦¾à¦§à§à¦¯à¦®à¦šà¦¾à¦²à¦•à¥¤">
-<!ENTITY device.dialog.wait_for_completion.msg "à¦¸à¦¬ à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡à¦° à¦•à¦¾à¦°à§à¦¯à¦ªà§à¦°à¦£à¦¾à¦²à§€ à¦¸à¦®à¦¾à¦ªà§à¦¤ à¦¹à¦“à§Ÿà¦¾à¦° à¦œà¦¨à§à¦¯ à¦…à¦ªà§‡à¦•à§à¦·à¦¾ à¦¹à¦šà§à¦›à§‡à¥¤ &quot;à¦ªà¦°à¦¿à¦¤à§à¦¯à¦¾à¦—&quot; à¦Ÿà¦¿à¦ªà§à¦¨ à¦…à¦ªà§‡à¦•à§à¦·à¦¾ à¦¬à¦¨à§à¦§ à¦à¦¬à¦‚ à¦…à¦¨à§à¦ªà§à¦°à§Ÿà§‹à¦— à¦ªà¦°à¦¿à¦¤à§à¦¯à¦¾à¦— à¦•à¦°à¦¾à¦° à¦œà¦¨à§à¦¯à¥¤">
-<!ENTITY device.sync.playlist.title "à¦¶à¦¿à¦°à§‹à¦¨à¦¾à¦®">
-<!ENTITY hotkeys.useglobalhotkeys "à¦¸à¦¾à¦°à§à¦¬à¦¿à¦• à¦¸à¦•à§à¦°à¦¿à§Ÿà¦•à§à¦žà§à¦œà§€à¦° à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦°">
-<!ENTITY subscribe.destinationfolder "à¦—à¦¨à§à¦¤à¦¬à§à¦¯ à¦­à¦¾à¦à¦œà¦• à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¨:">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; একটি অন্তর্জালের সঙ্গে সংহত ডেস্কটপ মাধ্যমচালক।">
+<!ENTITY device.dialog.wait_for_completion.msg "সব যুক্তোপকরণের কার্যপ্রণালী সমাপ্ত হওয়ার জন্য অপেক্ষা হচ্ছে। &quot;পরিত্যাগ&quot; টিপুন অপেক্ষা বন্ধ এবং অনুপ্রয়োগ পরিত্যাগ করার জন্য।">
+<!ENTITY device.sync.playlist.title "শিরোনাম">
+<!ENTITY hotkeys.useglobalhotkeys "সার্বিক সক্রিয়কুঞ্জীর ব্যবহার">
+<!ENTITY subscribe.destinationfolder "গন্তব্য ভাঁজক নির্বাচন:">
 <!ENTITY playqueue.label "Play Queue">
 <!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
-<!ENTITY first_run.welcome.description.line2 "à¦à¦‡ à¦¸à¦¹à¦¾à§Ÿà¦•à¦Ÿà¦¿ &brandShortName;à¦à¦° à¦ªà§à¦°à¦¾à¦¥à¦®à¦¿à¦• à¦‰à¦ªà¦¸à§à¦¥à¦¾à¦ªà¦¨à¦¾ à¦¸à¦¾à¦®à¦²à¦¾à§Ÿ à¦à¦¬à¦‚ à¦…à¦¨à§à¦ªà§à¦°à§Ÿà§‹à¦—à§‡à¦° à¦•à¦¾à¦°à§à¦¯à¦•à¦¾à¦°à¦¿à¦¤à¦¾ à¦¸à¦®à§à¦¬à¦¨à§à¦§à§‡ à¦à¦•à¦Ÿà¦¿ à¦¸à¦¾à¦®à¦¾à¦¨à§à¦¯ à¦ªà¦°à¦¿à¦šà§Ÿ à¦¦à§‡à§Ÿà¥¤">
+<!ENTITY first_run.welcome.description.line2 "এই সহায়কটি &brandShortName;এর প্রাথমিক উপস্থাপনা সামলায় এবং অনুপ্রয়োগের কার্যকারিতা সম্বন্ধে একটি সামান্য পরিচয় দেয়।">
 <!ENTITY currentTrackCmd.commandKey "L">
-<!ENTITY menu.control.repx "à¦•à§‹à¦¨ à¦ªà§à¦¨à¦°à¦¾à¦¬à§ƒà¦¤à§à¦¤à¦¿ à¦¨à§Ÿ">
-<!ENTITY command.device.canceldevicesync.accesskey "à¦¸à¦¿">
+<!ENTITY menu.control.repx "কোন পুনরাবৃত্তি নয়">
+<!ENTITY command.device.canceldevicesync.accesskey "সি">
 <!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
-<!ENTITY about.version "à¦¸à¦‚à¦¸à§à¦•à¦°à¦£">
-<!ENTITY umsd.video.video_path_desc "à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦° à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦—à§à¦²à¦¿ à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡ à¦ªà§à¦°à¦¤à¦¿à¦²à§‡à¦–à¦¨ à¦•à¦°à¦¾à¦° à¦¸à¦®à§Ÿ, à¦à¦‡ à¦­à¦¾à¦à¦œà¦•à§‡à¦° à¦®à¦§à§à¦¯à§‡ à¦…à¦¬à¦¸à§à¦¥à¦¾à¦¨ à¦•à¦°à¦¾ à¦¹à¦¬à§‡:">
-<!ENTITY smart.low_rating "à¦¨à¦¿à¦®à§à¦¨ à¦—à§à¦£à¦¾à¦™à§à¦•à¦¿à¦¤">
-<!ENTITY device.capacity.other.label "à¦…à¦¨à§à¦¯">
+<!ENTITY about.version "সংস্করণ">
+<!ENTITY umsd.video.video_path_desc "চলচ্চিত্র সঞ্চিকাগুলি যুক্তোপকরণে প্রতিলেখন করার সময়, এই ভাঁজকের মধ্যে অবস্থান করা হবে:">
+<!ENTITY smart.low_rating "নিম্ন গুণাঙ্কিত">
+<!ENTITY device.capacity.other.label "অন্য">
 <!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
-<!ENTITY setupprogress.cancel "à¦°à¦¦">
-<!ENTITY albumart.displaypane.selected.menu.paste "à¦ªà§‡à¦¸à§à¦Ÿ">
+<!ENTITY setupprogress.cancel "রদ">
+<!ENTITY albumart.displaypane.selected.menu.paste "পেস্ট">
 <!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
 <!ENTITY command.device.rip "Rip CD">
 <!ENTITY trackeditor.prev.accesskey "P">
-<!ENTITY tabs.closeTab "à¦¸à¦¾à¦°à¦£à¦ªà¦Ÿ à¦¬à¦¨à§à¦§">
-<!ENTITY menu.edit.undo "à¦…à¦•à§ƒà¦¤à¦•à¦°à¦£">
-<!ENTITY first_run.add_ons.loading.label "à¦‰à¦ªà¦°à§‹à¦§à¦¿à¦¤ à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à¦—à§à¦²à¦¿ à¦ªà§à¦°à¦¾à¦ªà§à¦¤ à¦•à¦°à¦¾ à¦¹à¦šà§à¦›à§‡">
-<!ENTITY command.device.formatdevice "à¦«à¦°à¦®à§‡à¦Ÿ à¦•à¦°à§à¦¨">
-<!ENTITY albumart.displaypane.selected.menu.clear "à¦ªà¦°à¦¿à¦·à§à¦•à¦¾à¦°">
+<!ENTITY tabs.closeTab "সারণপট বন্ধ">
+<!ENTITY menu.edit.undo "অকৃতকরণ">
+<!ENTITY first_run.add_ons.loading.label "উপরোধিত বিস্তারকগুলি প্রাপ্ত করা হচ্ছে">
+<!ENTITY command.device.formatdevice "ফরমেট করুন">
+<!ENTITY albumart.displaypane.selected.menu.clear "পরিষ্কার">
 <!ENTITY import_playlists_itunes_checkbox "Import music playlists">
-<!ENTITY menu.edit.cut "à¦¬à¦¿à¦§à§à¦¬à¦‚à¦¸à§€ à¦ªà§à¦°à¦¤à¦¿à¦²à¦¿à¦ªà¦¿">
+<!ENTITY menu.edit.cut "বিধ্বংসী প্রতিলিপি">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
-<!ENTITY tooltip.control.play "à¦¬à¦¾à¦¦à¦¨">
-<!ENTITY tooltip.browser.mediapages "à¦¦à¦°à§à¦¶à¦¨…">
+<!ENTITY tooltip.control.play "বাদন">
+<!ENTITY tooltip.browser.mediapages "দর্শন�">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
-<!ENTITY device.info.battery.label "à¦¬à§à¦¯à¦¾à¦Ÿà¦¾à¦°à§€">
-<!ENTITY menu.edit.delete "à¦…à¦ªà¦¸à¦¾à¦°à¦£">
-<!ENTITY import_library.dialog.title "à¦à¦•à¦Ÿà¦¿ à¦¸à¦‚à¦—à§à¦°à¦¹ à¦†à¦®à¦¦à¦¾à¦¨à¦¿ à¦•à¦°à§à¦¨">
+<!ENTITY device.info.battery.label "ব্যাটারী">
+<!ENTITY menu.edit.delete "অপসারণ">
+<!ENTITY import_library.dialog.title "একটি সংগ্রহ আমদানি করুন">
 <!ENTITY jumpto.key "J">
-<!ENTITY smart.following "à¦¤à¦¥à¦¾ à¦¨à¦¿à§Ÿà¦®(à¦¸à¦®à§‚à¦¹):">
+<!ENTITY smart.following "তথা নিয়ম(সমূহ):">
 <!ENTITY menu.mac.exit.modifiers "accel">
 <!ENTITY device.settings.disk.management.filename "Song files">
 <!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
 <!ENTITY mediapage.next.key "S">
-<!ENTITY device.management.tabs.video.label "à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦°">
-<!ENTITY albumartpreferences.prefpane.priorities.down "à¦¨à¦¿à¦šà§‡">
-<!ENTITY command.device.getdeviceinfo "à¦¤à¦¥à§à¦¯ à¦†à¦¨à¦¾à¦“">
-<!ENTITY rapi.library_write_disable.label "à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à¦¸à§à¦¥à¦¾à¦¨à§‡à¦° à¦¦à§à¦¬à¦¾à¦°à¦¾ à¦†à¦®à¦¾à¦° à¦¸à¦‚à¦—à§à¦°à¦¹à§‡ à¦†à¦° à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à¦—à§à¦²à¦¿à¦° à¦®à¦§à§à¦¯à§‡ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦¯à§‹à¦—/à¦¸à¦®à§à¦ªà¦¾à¦¦à¦¨ à¦•à¦°à¦¾ à¦…à¦¬à¦°à§‹à¦§ à¦•à¦°">
-<!ENTITY first_run.feedback.email.description "à¦†à¦®à¦¾à¦¦à§‡à¦° à¦¸à¦‚à¦¬à¦¾à¦¦à¦ªà¦¤à§à¦°à§‡à¦° à¦—à§à¦°à¦¾à¦¹à¦•à§€ à¦¹à¦¨ à¦¨à¦¤à§à¦¨ à¦¸à¦‚à¦¸à§à¦•à¦°à¦£ à¦¬à¦¾ à¦†à¦§à§à¦¨à¦¿à¦•à§€à¦•à¦°à¦£ à¦¸à¦®à§à¦ªà¦°à§à¦•à¦¿à¦¤ à¦¤à¦¥à§à¦¯ à¦œà¦¾à¦¨à¦¾à¦° à¦œà¦¨à§à¦¯à¥¤">
+<!ENTITY device.management.tabs.video.label "চলচ্চিত্র">
+<!ENTITY albumartpreferences.prefpane.priorities.down "নিচে">
+<!ENTITY command.device.getdeviceinfo "তথ্য আনাও">
+<!ENTITY rapi.library_write_disable.label "অন্তর্জালস্থানের দ্বারা আমার সংগ্রহে আর যুক্তোপকরণগুলির মধ্যে বহুমাধ্যম যোগ/সম্পাদন করা অবরোধ কর">
+<!ENTITY first_run.feedback.email.description "আমাদের সংবাদপত্রের গ্রাহকী হন নতুন সংস্করণ বা আধুনিকীকরণ সম্পর্কিত তথ্য জানার জন্য।">
 <!ENTITY device.sync.images.filecount "Photos">
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
-<!ENTITY device.sync.header.label "à¦¸à¦‚à¦•à¦¾à¦²à¦¨ à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£à¦®à¦¾à¦¨à¦—à§à¦²à¦¿">
-<!ENTITY first_run.import_media.radio.dont_import.label "à¦à¦–à¦¨ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦†à¦®à¦¦à¦¾à¦¨à¦¿ à¦•à¦°à¦¾ à¦¹à¦¬à§‡ à¦¨à¦¾">
-<!ENTITY feedback.dialog.yes "à¦¹à§à¦¯à¦¾à¦">
-<!ENTITY about.buttons.credits "à¦…à¦¬à¦¦à¦¾à¦¨à§‡">
-<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware…">
+<!ENTITY device.sync.header.label "সংকালন নির্ধারণমানগুলি">
+<!ENTITY first_run.import_media.radio.dont_import.label "এখন বহুমাধ্যম আমদানি করা হবে না">
+<!ENTITY feedback.dialog.yes "হ্যাঁ">
+<!ENTITY about.buttons.credits "অবদানে">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware�">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
-<!ENTITY umsd.music.music_path_browse_msg "à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡à¦° à¦®à¦§à§à¦¯à§‡ à¦•à§‹à¦¨ à¦­à¦¾à¦à¦œà¦•à§‡à¦° à¦®à¦§à§à¦¯à§‡ à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦—à§à¦²à¦¿ à¦…à¦¬à¦¸à§à¦¥à¦¾à¦¨ à¦•à¦°à¦¾ à¦¹à¦¬à§‡ à¦¤à¦¾à¦° à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¨ à¦•à¦°à§à¦¨à¥¤">
-<!ENTITY tooltip.maximize "à¦¬à§ƒà¦¹à¦¦à¦¾à§Ÿà¦¨/à¦ªà§à¦°à¦¤à§à¦¯à¦¾à¦¬à¦°à§à¦¤à¦¨">
+<!ENTITY umsd.music.music_path_browse_msg "যুক্তোপকরণের মধ্যে কোন ভাঁজকের মধ্যে সঞ্চিকাগুলি অবস্থান করা হবে তার নির্বাচন করুন।">
+<!ENTITY tooltip.maximize "বৃহদায়ন/প্রত্যাবর্তন">
 <!ENTITY first_run.DLNA.name "Songbird Media Server">
 <!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
-<!ENTITY window.save "à¦¸à¦‚à¦°à¦•à§à¦·à¦£">
-<!ENTITY window.no "à¦¨à¦¾">
-<!ENTITY tooltip.servicepane.newnode "à¦¨à¦¤à§à¦¨ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾">
-<!ENTITY openFrameCmdInDefaultBrowser.label "à¦¸à§à¦¬à¦¾à¦­à¦¾à¦¬à¦¿à¦• à¦¬à¦¿à¦šà¦°à¦•à§‡ à¦«à§à¦°à§‡à¦® à¦‰à¦¨à§à¦®à§€à¦²à¦¨">
+<!ENTITY window.save "সংরক্ষণ">
+<!ENTITY window.no "না">
+<!ENTITY tooltip.servicepane.newnode "নতুন বাদনতালিকা">
+<!ENTITY openFrameCmdInDefaultBrowser.label "স্বাভাবিক বিচরকে ফ্রেম উন্মীলন">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "à¦¨à¦¤à§à¦¨ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾…">
+<!ENTITY menu.file.new "নতুন বাদনতালিকা�">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Folder:">
-<!ENTITY smart.autoupdate "à¦†à¦§à§à¦¨à¦¿à¦•à§€à¦•à¦°à¦£">
+<!ENTITY smart.autoupdate "আধুনিকীকরণ">
 <!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
 <!ENTITY menu.help.keyboard "Keyboard Shortcuts">
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Search file names:">
-<!ENTITY menu.control.prev "à¦ªà§‚à¦°à§à¦¬à¦¬à¦°à§à¦¤à§€ à¦—à§€à¦¤à¦§à¦¾à¦°à¦¾">
+<!ENTITY menu.control.prev "পূর্ববর্তী গীতধারা">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "Apply">
-<!ENTITY menu.file.smart "à¦¨à¦¤à§à¦¨ à¦šà¦¤à§à¦° à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾…">
+<!ENTITY menu.file.smart "নতুন চতুর বাদনতালিকা�">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "View Error Details">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
-<!ENTITY command.device.canceldeviceupdate.accesskey "à¦¸à¦¿">
-<!ENTITY menu.control.pause.button "à¦¬à¦¿à¦˜à§à¦¨">
-<!ENTITY trackeditor.tab.summary.title "à¦¸à¦¾à¦°à¦¾à¦‚à¦¶">
-<!ENTITY playMediaCmd.label "à¦¬à¦¾à¦¦à¦¨">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware�">
+<!ENTITY command.device.canceldeviceupdate.accesskey "সি">
+<!ENTITY menu.control.pause.button "বিঘ্ন">
+<!ENTITY trackeditor.tab.summary.title "সারাংশ">
+<!ENTITY playMediaCmd.label "বাদন">
 <!ENTITY menu.help.homepage.accesskey "W">
 <!ENTITY cdrip.mediaview.rip.key "C">
-<!ENTITY tooltip.browser.back "à¦ªà¦¶à§à¦šà¦¾à¦¦à§à¦¬à¦°à§à¦¤à§€ à¦¬à¦¿à¦šà¦°à¦£">
+<!ENTITY tooltip.browser.back "পশ্চাদ্বর্তী বিচরণ">
 <!ENTITY menu.file.url.key "U">
 <!ENTITY menu.edit.undo.key "Z">
 <!ENTITY menu.edit.paste.key "V">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾ à¦¨à§‡à¦‡&gt;">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;বাদনতালিকা নেই&gt;">
 <!ENTITY equalizer.title "Equalizer">
-<!ENTITY import_library.import_command "à¦¸à¦‚à¦—à§à¦°à¦¹ à¦†à¦®à¦¦à¦¾à¦¨à¦¿">
+<!ENTITY import_library.import_command "সংগ্রহ আমদানি">
 <!ENTITY cdrip.mediaview.view_tracks_button "View Tracks">
-<!ENTITY window.browse "à¦¬à¦¿à¦šà¦°à¦£…">
+<!ENTITY window.browse "বিচরণ�">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
-<!ENTITY smart.songs "à¦—à§€à¦¤à¦—à§à¦²à¦¿">
+<!ENTITY smart.songs "গীতগুলি">
 <!ENTITY menu.tools.getartwork "Get Artwork">
-<!ENTITY window.cancel "à¦°à¦¦">
-<!ENTITY smart.genre "à¦¶à§ˆà¦²à§€">
+<!ENTITY window.cancel "রদ">
+<!ENTITY smart.genre "শৈলী">
 <!ENTITY menu.file.playlist.accesskey "I">
-<!ENTITY hotkeys.hotkey "à¦¸à¦•à§à¦°à¦¿à§Ÿà¦•à§à¦žà§à¦œà§€">
-<!ENTITY first_run.feedback.header.label "à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à¦•à§‡ à¦‰à¦¨à§à¦¨à§à¦¤à¦¤à¦° à¦¬à¦¾à¦¨à¦¾à¦¤à§‡ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦•à¦°à§à¦¨">
+<!ENTITY hotkeys.hotkey "সক্রিয়কুঞ্জী">
+<!ENTITY first_run.feedback.header.label "সংবার্ডকে উন্নুততর বানাতে সাহায্য করুন">
 <!ENTITY menu.edit.selall.accesskey "A">
 <!ENTITY export_smartplaylists_itunes_checkbox "Export music smart playlists">
 <!ENTITY device.tools.support.label "View support resources">
-<!ENTITY import_library.prefs.options_group_caption "à¦†à¦®à¦¦à¦¾à¦¨à¦¿à¦° à¦¬à¦¿à¦•à¦²à§à¦ªà¦—à§à¦²à¦¿">
+<!ENTITY import_library.prefs.options_group_caption "আমদানির বিকল্পগুলি">
 <!ENTITY equalizer.preset.reggae "Reggae">
 <!ENTITY equalizer.on.checkbox "On">
 <!ENTITY menu.file.remote.accesskey "R">
-<!ENTITY first_run.eula.language.label "à¦­à¦¾à¦·à¦¾:">
+<!ENTITY first_run.eula.language.label "ভাষা:">
 <!ENTITY device.settings.disk.management.label "Customize directory structure">
 <!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
-<!ENTITY command.device.getdeviceinfo.accesskey "à¦†à¦‡">
-<!ENTITY enable_recommended_addons_update.label "à¦‰à¦ªà¦°à§‹à¦§à¦•à§ƒà¦¤ à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à¦—à§à¦²à¦¿">
-<!ENTITY tooltip.search "à¦…à¦¨à§à¦¸à¦¨à§à¦§à¦¾à¦¨">
+<!ENTITY command.device.getdeviceinfo.accesskey "আই">
+<!ENTITY enable_recommended_addons_update.label "উপরোধকৃত বিস্তারকগুলি">
+<!ENTITY tooltip.search "অনুসন্ধান">
 <!ENTITY recommended_add_ons.title "&brandShortName; Setup">
 <!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY locationbar.key "L">
-<!ENTITY watchfolder.title "à¦¨à¦¿à¦°à§€à¦•à§à¦·à¦¿à¦¤ à¦­à¦¾à¦à¦œà¦•à¦—à§à¦²à¦¿">
-<!ENTITY rapi.whitelist.label "à¦¬à¦¿à¦¨à§à¦¯à¦¾à¦¸">
+<!ENTITY watchfolder.title "নিরীক্ষিত ভাঁজকগুলি">
+<!ENTITY rapi.whitelist.label "বিন্যাস">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "à¦‡à¦‰à¦†à¦°à¦à¦² à¦¥à§‡à¦•à§‡ à¦‰à¦¨à§à¦®à§€à¦²à¦¨…">
-<!ENTITY menu.downloadmgr "à¦¸à¦žà§à¦šà¦¿à¦•à¦¾ à¦…à¦§à¦ƒà¦­à¦°à¦£à¦—à§à¦²à¦¿">
+<!ENTITY menu.file.url "ইউআরএল থেকে উন্মীলন�">
+<!ENTITY menu.downloadmgr "সঞ্চিকা অধঃভরণগুলি">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
 <!ENTITY cdrip.lookup.info_not_found.title "CD Information Not Found">
 <!ENTITY equalizer.band2.label "125">
 <!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
 <!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
-<!ENTITY cdrip.mediaview.rip_cd_button "à¦¸à¦¿à¦¡à¦¿ à¦¥à§‡à¦•à§‡ à¦—à¦¾à¦¨ à¦•à¦ªà¦¿ à¦•à¦°à§à¦¨">
-<!ENTITY wizard.button.cancel.label "à¦°à¦¦">
-<!ENTITY tooltip.control.shuffle "à¦…à¦•à§à¦°à¦®à¦¿à¦•à¦¾à¦¨à§à¦¸à¦¾à¦°à§‡">
+<!ENTITY cdrip.mediaview.rip_cd_button "সিডি থেকে গান কপি করুন">
+<!ENTITY wizard.button.cancel.label "রদ">
+<!ENTITY tooltip.control.shuffle "অক্রমিকানুসারে">
 <!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY menu.control.prev.accesskey "R">
 <!ENTITY menu.control.shuf.accesskey "S">
 <!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
-<!ENTITY first_run.import_media.scan_directories.description "à¦†à¦ªà¦¨à¦¿ à¦•à¦¿ à¦šà¦¾à¦¨ &brandShortName;à¦•à§‡ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦†à¦®à¦¦à¦¾à¦¨à¦¿ à¦•à¦°à¦¾à¦° à¦œà¦¨à§à¦¯ à¦†à¦ªà¦¨à¦¾à¦° à¦•à¦®à§à¦ªà§à¦¯à§à¦Ÿà¦¾à¦°à§‡à¦° à¦¨à¦¿à¦°à§à¦¦à¦¿à¦·à§à¦Ÿ à¦¨à¦¿à¦°à§à¦¦à§‡à¦¶à¦¿à¦•à¦¾à¦—à§à¦²à¦¿ à¦¸à¦®à§€à¦•à§à¦·à¦£ à¦•à¦°à¦¾à¦° à¦ªà§à¦°à¦šà§‡à¦·à§à¦Ÿà¦¾ à¦•à¦°à§‡?">
+<!ENTITY first_run.import_media.scan_directories.description "আপনি কি চান &brandShortName;কে বহুমাধ্যম আমদানি করার জন্য আপনার কম্প্যুটারের নির্দিষ্ট নির্দেশিকাগুলি সমীক্ষণ করার প্রচেষ্টা করে?">
 <!ENTITY device.tools.product_registration.title "Product Registration">
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
-<!ENTITY trackeditor.tab.edit.title "à¦¸à¦®à§à¦ªà¦¾à¦¦à¦¨">
-<!ENTITY rapi.playback_read_disable.label "à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à¦¸à§à¦¥à¦¾à¦¨à§‡à¦° à¦¦à§à¦¬à¦¾à¦°à¦¾ à¦šà¦¾à¦²à¦¿à¦¤ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦¸à¦®à§à¦ªà¦°à§à¦•à¦¿à¦¤ à¦¤à¦¥à§à¦¯ à¦¦à§‡à¦–à¦¾ à¦…à¦¬à¦°à§‹à¦§ à¦•à¦°">
+<!ENTITY trackeditor.tab.edit.title "সম্পাদন">
+<!ENTITY rapi.playback_read_disable.label "অন্তর্জালস্থানের দ্বারা চালিত বহুমাধ্যম সম্পর্কিত তথ্য দেখা অবরোধ কর">
 <!ENTITY menu.tools.reveal.modifiers "accel,shift">
-<!ENTITY menu.mac.hide "à¦—à§‹à¦ªà¦¨ &brandShortName;">
-<!ENTITY device.sync.sync_all.label "à¦¸à¦¬ à¦¸à¦‚à¦—à§€à¦¤, à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦° à¦“ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾">
+<!ENTITY menu.mac.hide "গোপন &brandShortName;">
+<!ENTITY device.sync.sync_all.label "সব সংগীত, চলচ্চিত্র ও বাদনতালিকা">
 <!ENTITY cdrip.mediaview.quality_label "Quality: ">
-<!ENTITY albumart.displaypane.selected.menu.copy "à¦•à¦ªà¦¿">
-<!ENTITY subscribe.days "à¦¦à¦¿à¦¨(à¦—à§à¦²à¦¿)">
-<!ENTITY smart.least_often "à¦…à¦²à§à¦ªà¦•à§à¦·à¦£">
-<!ENTITY playback.prefpane.normalization.preferredGain.album "à¦…à§à¦¯à¦¾à¦²à¦¬à¦¾à¦®à§â€Œ">
-<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher à¦…à¦—à§à¦°à¦¾à¦§à¦¿à¦•à¦¾à¦°">
+<!ENTITY albumart.displaypane.selected.menu.copy "কপি">
+<!ENTITY subscribe.days "দিন(গুলি)">
+<!ENTITY smart.least_often "অল্পক্ষণ">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "অ্যালবাম্‌">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher অগ্রাধিকার">
 <!ENTITY mediacore.error.stop "Stop Playback">
 <!ENTITY menu.file.mini.key "M">
 <!ENTITY equalizer.preset.dance "Dance">
-<!ENTITY albumart.displaypane.not_playing_message "à¦•à¦¿à¦›à¦‡ à¦¬à¦¾à¦œà¦›à§‡ à¦¨à¦¾">
-<!ENTITY textbox.songbird_open_url "à¦¯à§‡ à¦¤à¦¥à§à¦¯à¦®à¦¾à¦§à§à¦¯à¦®à¦Ÿà¦¿ à¦†à¦ªà¦¨à¦¿ à¦¬à¦¾à¦œà¦¾à¦¤à§‡ à¦šà¦¾à¦¨ à¦¤à¦¾à¦° à¦‡à¦‰à¦†à¦°à¦à¦² à¦¬à¦¾ à¦ªà¦¥ à¦ªà§à¦°à¦¬à§‡à¦¶ à¦•à¦°à§à¦¨:">
+<!ENTITY albumart.displaypane.not_playing_message "কিছই বাজছে না">
+<!ENTITY textbox.songbird_open_url "যে তথ্যমাধ্যমটি আপনি বাজাতে চান তার ইউআরএল বা পথ প্রবেশ করুন:">
 <!ENTITY search.key "F">
-<!ENTITY prefpane.addons.label "à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à¦—à§à¦²à¦¿">
+<!ENTITY prefpane.addons.label "বিস্তারকগুলি">
 <!ENTITY menu.view.accesskey "V">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY bookmarkPage.key "à¦¡à¦¿">
-<!ENTITY device.management.tabs.settings.label "à¦¸à§‡à¦Ÿà¦¿à¦‚à¦¸">
-<!ENTITY cdrip.mediaview.settings_button "à¦¸à§‡à¦Ÿà¦¿à¦‚à¦¸">
+<!ENTITY bookmarkPage.key "ডি">
+<!ENTITY device.management.tabs.settings.label "সেটিংস">
+<!ENTITY cdrip.mediaview.settings_button "সেটিংস">
 <!ENTITY cdinfo.other.label "Add your own Artist and Album Info">
 <!ENTITY equalizer.band5.label "1K">
-<!ENTITY first_run.connection.header.label "&brandShortName; à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à§‡à¦° à¦¸à¦¾à¦¥à§‡ à¦¸à¦‚à¦¯à§‹à¦— à¦¸à§à¦¥à¦¾à¦ªà¦¨ à¦•à¦°à¦¤à§‡ à¦ªà¦¾à¦°à¦›à§‡ à¦¨à¦¾à¥¤">
+<!ENTITY first_run.connection.header.label "&brandShortName; অন্তর্জালের সাথে সংযোগ স্থাপন করতে পারছে না।">
 <!ENTITY equalizer.key "E">
-<!ENTITY menu.control.stop.button "à¦¬à¦¨à§à¦§">
+<!ENTITY menu.control.stop.button "বন্ধ">
 <!ENTITY equalizer.preset.soft_rock "Soft Rock">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all "à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¨à§‡à¦° à¦¸à¦¬ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾à¦° à¦ªà§à¦°à¦¤à¦¿ à¦ªà§à¦°à§Ÿà§‹à¦—">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "নির্বাচনের সব বাদনতালিকার প্রতি প্রয়োগ">
 <!ENTITY menu.control.pause.accesskey "P">
-<!ENTITY umsd.video.video_files_group "à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦° à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦—à§à¦²à¦¿">
-<!ENTITY tooltip.browser.fwd "à¦…à¦—à§à¦°à¦¬à¦°à§à¦¤à§€ à¦¬à¦¿à¦šà¦°à¦£">
+<!ENTITY umsd.video.video_files_group "চলচ্চিত্র সঞ্চিকাগুলি">
+<!ENTITY tooltip.browser.fwd "অগ্রবর্তী বিচরণ">
 <!ENTITY command.device.stoprip.accesskey "S">
-<!ENTITY servicepane.title.label "à¦ªà¦°à¦¿à¦·à§‡à¦¬à¦¾ à¦ªà¦¾à¦Ÿ">
+<!ENTITY servicepane.title.label "পরিষেবা পাট">
 <!ENTITY playback.prefpane.streaming.label "Network and Streaming">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
 <!ENTITY menu.control.repx.accesskey "E">
 <!ENTITY menu.controls.accesskey "C">
 <!ENTITY command.device.ejectcddevice "Eject CD">
-<!ENTITY cdrip.mediaview.eject_cd_button "à¦¸à¦¿à¦¡à¦¿ à¦¬à¦¾à¦° à¦•à¦°à§à¦¨">
+<!ENTITY cdrip.mediaview.eject_cd_button "সিডি বার করুন">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "à¦ªà§à¦°à¦¿à§Ÿ à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£à¦®à¦¾à¦¨à¦¸à¦®à§‚à¦¹">
+<!ENTITY menu.mac.preferences "প্রিয় নির্ধারণমানসমূহ">
 <!ENTITY menu.mac.exit.key "Q">
-<!ENTITY import_library.dirty_playlist_dialog.replace "à¦à¦‡ &brandShortName; à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾à¦° à¦ªà¦°à¦¿à¦¬à¦°à§à¦¤à§‡ à¦¬à¦°à§à¦¤à¦®à¦¾à¦¨ à¦†à¦‡à¦Ÿà§à¦¯à§à¦¨à§à¦¸ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾">
+<!ENTITY import_library.dirty_playlist_dialog.replace "এই &brandShortName; বাদনতালিকার পরিবর্তে বর্তমান আইট্যুন্স বাদনতালিকা">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
-<!ENTITY menu.control.next "à¦ªà¦°à¦¬à¦°à§à¦¤à§€ à¦—à§€à¦¤à¦§à¦¾à¦°à¦¾">
-<!ENTITY umsd.video.video_path_browse_msg "à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡à¦° à¦®à¦§à§à¦¯à§‡ à¦•à§‹à¦¨ à¦­à¦¾à¦à¦œà¦•à§‡à¦° à¦®à¦§à§à¦¯à§‡ à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦° à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦—à§à¦²à¦¿ à¦…à¦¬à¦¸à§à¦¥à¦¾à¦¨ à¦•à¦°à¦¾ à¦¹à¦¬à§‡ à¦¤à¦¾à¦° à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¨ à¦•à¦°à§à¦¨à¥¤">
-<!ENTITY setupprogress.pleasewait "à¦…à¦¨à§à¦—à§à¦°à¦¹ à¦•à¦°à§‡ à¦…à¦ªà§‡à¦•à§à¦·à¦¾ à¦•à¦°à§à¦¨…">
-<!ENTITY menu.help.homepage "à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡ à¦“à§Ÿà§‡à¦¬à¦¸à¦¾à¦‡à¦Ÿ">
+<!ENTITY menu.control.next "পরবর্তী গীতধারা">
+<!ENTITY umsd.video.video_path_browse_msg "যুক্তোপকরণের মধ্যে কোন ভাঁজকের মধ্যে চলচ্চিত্র সঞ্চিকাগুলি অবস্থান করা হবে তার নির্বাচন করুন।">
+<!ENTITY setupprogress.pleasewait "অনুগ্রহ করে অপেক্ষা করুন�">
+<!ENTITY menu.help.homepage "সংবার্ড ওয়েবসাইট">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
-<!ENTITY first_run.eula.accept_checkbox.label "à¦†à¦®à¦¿ à¦ªà§œà§‡à¦›à¦¿ à¦à¦¬à¦‚ à¦…à¦§à¦¿à¦•à¦¾à¦°à¦ªà¦¤à§à¦°à§‡à¦° à¦¶à¦°à§à¦¤à¦¾à¦¬à¦²à§€ à¦—à§à¦°à¦¹à¦£ à¦•à¦°à§‡à¦›à¦¿à¥¤">
+<!ENTITY first_run.eula.accept_checkbox.label "আমি পড়েছি এবং অধিকারপত্রের শর্তাবলী গ্রহণ করেছি।">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
-<!ENTITY smart.most_recent "à¦…à¦¤à¦¿ à¦¸à¦¾à¦®à§à¦ªà§à¦°à¦¤à¦¿à¦•">
-<!ENTITY command.device.ejectdevice "à¦¬à¦°à§à¦œà¦¨">
+<!ENTITY smart.most_recent "অতি সাম্প্রতিক">
+<!ENTITY command.device.ejectdevice "বর্জন">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "à¦¸à¦‚à¦¯à§‹à¦— à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£à¦®à¦¾à¦¨à¦¸à¦®à§‚à¦¹…">
-<!ENTITY import_library.prefs.title "à¦†à¦®à¦¦à¦¾à¦¨à¦¿">
-<!ENTITY hotkeys.action "à¦•à¦¾à¦°à§à¦¯">
+<!ENTITY first_run.connection.settings.button "সংযোগ নির্ধারণমানসমূহ�">
+<!ENTITY import_library.prefs.title "আমদানি">
+<!ENTITY hotkeys.action "কার্য">
 <!ENTITY equalizer.preset.classical "Classical">
 <!ENTITY device.sync.images.from.label "Sync Photos From:">
-<!ENTITY first_run.install_add_ons.title "à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à¦—à§à¦²à¦¿à¦° à¦…à¦§à¦ƒà¦­à¦°à¦£ à¦¹à¦šà§à¦›à§‡">
+<!ENTITY first_run.install_add_ons.title "বিস্তারকগুলির অধঃভরণ হচ্ছে">
 <!ENTITY playback.prefpane.streaming.buffer "Streaming Buffer:">
-<!ENTITY first_run.import_media.radio.scan_directories.label "à¦†à¦®à¦¾à¦° à¦•à¦®à§à¦ªà§à¦¯à§à¦Ÿà¦¾à¦°à§‡à¦° à¦¨à¦¿à¦°à§à¦¦à§‡à¦¶à¦¿à¦•à¦¾à¦—à§à¦²à¦¿ à¦¸à¦®à§€à¦•à§à¦·à¦£ à¦•à¦°à§à¦¨">
-<!ENTITY menu.control.play "à¦¬à¦¾à¦¦à¦¨/à¦¬à¦¿à¦˜à§à¦¨">
+<!ENTITY first_run.import_media.radio.scan_directories.label "আমার কম্প্যুটারের নির্দেশিকাগুলি সমীক্ষণ করুন">
+<!ENTITY menu.control.play "বাদন/বিঘ্ন">
 <!ENTITY getartwork.key "G">
 <!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY subscribe.minutes "à¦®à¦¿à¦¨à¦¿à¦Ÿ(à¦—à§à¦²à¦¿)">
-<!ENTITY smart.any "à¦¯à§‡à¦•à§‹à¦¨">
+<!ENTITY subscribe.minutes "মিনিট(গুলি)">
+<!ENTITY smart.any "যেকোন">
 <!ENTITY prefpane.content.label "Web Content">
 <!ENTITY menu.file.filescan.key "O">
-<!ENTITY about.credits.heading.champs "à¦¬à¦¿à¦œà§Ÿà§€à¦°à¦¾">
+<!ENTITY about.credits.heading.champs "বিজয়ীরা">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY equalizer.preset.live "Live">
 <!ENTITY menu.edit.copy.key "C">
-<!ENTITY import_library.unsupported_media_alert_checkbox "à¦†à¦®à¦¾à§Ÿ à¦¸à§‚à¦šà¦¿à¦¤ à¦•à¦°à§à¦¨ à¦¯à¦–à¦¨ à¦…à¦¸à¦®à¦°à§à¦¥à¦¿à¦¤ à¦—à§€à¦¤à¦§à¦¾à¦°à¦¾à¦° à¦¬à¦¾ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾à¦° à¦†à¦®à¦¦à¦¾à¦¨à¦¿ à¦¨à¦¾ à¦•à¦°à¦¾ à¦¹à§Ÿà¥¤">
+<!ENTITY import_library.unsupported_media_alert_checkbox "আমায় সূচিত করুন যখন অসমর্থিত গীতধারার বা বাদনতালিকার আমদানি না করা হয়।">
 <!ENTITY device.import.header.label "Import">
-<!ENTITY tooltip.control.volume "à¦ªà§à¦°à¦¬à¦²à¦¤à¦¾">
-<!ENTITY smart.hours "à¦˜à¦¨à§à¦Ÿà¦¾">
+<!ENTITY tooltip.control.volume "প্রবলতা">
+<!ENTITY smart.hours "ঘন্টা">
 <!ENTITY sanitize.keycode "VK_DELETE">
-<!ENTITY displaypane.name.sidebar "à¦¡à¦¾à¦¨ à¦ªà¦¾à¦°à§à¦¶à§à¦¬à¦ªà¦Ÿà§à¦Ÿà¦¿">
+<!ENTITY displaypane.name.sidebar "ডান পার্শ্বপট্টি">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
 <!ENTITY menu.edit.accesskey "E">
 <!ENTITY videowindow.bringtofront.key "T">
 <!ENTITY menu.help.keyboard.accesskey "K">
 <!ENTITY menu.file.new.accesskey "N">
 <!ENTITY menu.edit.undo.accesskey "U">
-<!ENTITY first_run.import_media.description "à¦à¦‡ à¦ªà§ƒà¦·à§à¦ à¦¾à¦Ÿà¦¿ &brandShortName;-à¦ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦¸à¦žà§à¦šà¦¿à¦•à¦¾ à¦†à¦®à¦¦à¦¾à¦¨à¦¿ à¦•à¦°à¦¤à§‡ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦•à¦°à¦¬à§‡ à¦¸à§à¦¥à¦¾à¦¨à§€à§Ÿ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦¸à¦¨à§à¦§à¦¾à¦¨ à¦•à¦°à¦¾à¦° à¦šà§‡à¦·à§à¦Ÿà¦¾ à¦•à¦°à§‡à¥¤ à¦à¦•à¦¬à¦¾à¦° à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡ à¦†à¦°à¦®à§à¦­ à¦¹à¦“à§Ÿà¦¾à¦° à¦ªà¦° à¦†à¦ªà¦¨à¦¿ à¦¬à¦¿à¦­à¦¿à¦¨à§à¦¨ à¦‰à¦ªà¦¾à§Ÿà§‡ à¦†à¦°à¦“ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦¯à§‹à¦— à¦•à¦°à¦¤à§‡ à¦ªà¦¾à¦°à¦¬à§‡à¦¨à¥¤">
-<!ENTITY umsd.video.video_ext_desc "à¦à¦‡ à¦ªà§à¦°à¦•à¦¾à¦°à§‡à¦° à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦° à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦° à¦¬à¦¿à¦¸à§à¦¤à§ƒà¦¤à¦¿à¦—à§à¦²à¦¿ à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡ à¦ªà§à¦°à¦¤à¦¿à¦²à§‡à¦–à¦¨ à¦•à¦°à¦¾ à¦¹à¦¬à§‡:">
-<!ENTITY smart.most_added "à¦¸à¦°à§à¦¬à¦¾à¦§à¦¿à¦• à¦¯à§à¦•à§à¦¤">
+<!ENTITY first_run.import_media.description "এই পৃষ্ঠাটি &brandShortName;-এ বহুমাধ্যম সঞ্চিকা আমদানি করতে সাহায্য করবে স্থানীয় বহুমাধ্যম সন্ধান করার চেষ্টা করে। একবার সংবার্ড আরম্ভ হওয়ার পর আপনি বিভিন্ন উপায়ে আরও বহুমাধ্যম যোগ করতে পারবেন।">
+<!ENTITY umsd.video.video_ext_desc "এই প্রকারের চলচ্চিত্র সঞ্চিকার বিস্তৃতিগুলি যুক্তোপকরণে প্রতিলেখন করা হবে:">
+<!ENTITY smart.most_added "সর্বাধিক যুক্ত">
 <!ENTITY rapi.library_read_disable.accesskey "s">
-<!ENTITY open_url.title "à¦‡à¦‰à¦†à¦°à¦à¦²  à¦‰à¦¨à§à¦®à§€à¦²à¦¨">
+<!ENTITY open_url.title "ইউআরএল  উন্মীলন">
 <!ENTITY menu.edit.paste.accesskey "P">
-<!ENTITY first_run.eula.header.label "à¦…à¦§à¦¿à¦•à¦¾à¦°à¦ªà¦¤à§à¦° à¦šà§à¦•à§à¦¤à¦¿">
+<!ENTITY first_run.eula.header.label "অধিকারপত্র চুক্তি">
 <!ENTITY device.capacity.image.label "Photos">
-<!ENTITY about.credits.intro "à¦†à¦®à¦°à¦¾ à¦§à¦¨à§à¦¯à¦¬à¦¾à¦¦ à¦œà¦¾à¦¨à¦¾à¦‡ à¦†à¦®à¦¾à¦¦à§‡à¦° à¦…à¦¬à¦¦à¦¾à¦¨à¦•à¦¾à¦°à¦¿à¦¦à§‡à¦°, à¦¯à¦¾à¦¦à§‡à¦° à¦ªà§à¦°à¦šà§‡à¦·à§à¦Ÿà¦¾à¦° à¦«à¦¸à¦² à¦†à¦œà¦•à§‡à¦° à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à¥¤ à¦à¦à¦°à¦¾ à¦•à§‹à¦¡ à¦†à¦° à¦¡à¦•à§à¦®à§‡à¦¨à§à¦Ÿà§‡à¦¶à¦¨ à¦²à¦¿à¦–à§‡ à¦à¦¬à¦‚ à¦ªà¦°à¦¿à¦•à§à¦·à¦¾ à¦¨à¦¿à¦°à¦¿à¦•à§à¦·à¦¾ à¦•à¦°à§‡ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦•à¦°à§‡à¦›à§‡à¦¨à¥¤ à¦¤à¦¾à¦à¦°à¦¾ à¦à¦‡ à¦ªà¦¨à§à¦¯à¦Ÿà¦¿, à¦à¦° à¦¸à¦¾à¦¥à§‡ à¦¸à¦‚à¦¶à§à¦²à¦¿à¦·à§à¦Ÿ à¦‰à¦¨à§à¦¨à§Ÿà¦¨ à¦ªà¦¨à§à¦¥à¦¾ à¦—à§à¦²à§‹, à¦†à¦®à¦¾à¦¦à§‡à¦° à¦‰à¦¨à§à¦¨à§Ÿà¦¨ à¦•à§Œà¦¶à¦² à¦à¦¬à¦‚ à¦†à¦®à¦¾à¦¦à§‡à¦° à¦“à§Ÿà§‡à¦¬à¦¸à¦¾à¦‡à¦Ÿ à¦¤à§ˆà¦°à¦¿ à¦à¦¬à¦‚ à¦°à¦•à§à¦·à¦¨à¦¾à¦¬à§‡à¦•à§à¦·à¦¨ à¦•à¦°à§‡à¦›à§‡à¦¨à¥¤ à¦¨à¦¾à¦®à¦—à§à¦²à§‹ IRC à¦¨à¦¾à¦® à¦…à¦¨à§à¦¯à¦¾à§Ÿà¦¿ à¦¦à§‡à§Ÿà¦¾ à¦¹à¦², à¦šà¦²à§‡ à¦†à¦¸à§à¦¨à¦¨à¦¾ #songbird, irc.mozilla.or à¦!">
-<!ENTITY menu.mac.showall "à¦¸à¦¬ à¦ªà§à¦°à¦¦à¦°à§à¦¶à¦¨">
-<!ENTITY first_run.connection.description "à¦†à¦ªà¦¨à¦¾à¦° à¦¸à¦‚à¦¯à§‹à¦— à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£à¦®à¦¾à¦¨à¦¸à¦®à§‚à¦¹ à¦¨à¦¿à¦°à§€à¦•à§à¦·à¦¾ à¦•à¦°à§à¦¨ à¦à¦¬à¦‚ à¦¸à§à¦¥à¦¾à¦ªà¦¨à¦¾ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯à¦•à¦¾à¦°à§€à¦° à¦¸à¦¾à¦¥à§‡ à¦…à¦—à§à¦°à¦¸à¦° à¦¹à¦¨à¥¤">
+<!ENTITY about.credits.intro "আমরা ধন্যবাদ জানাই আমাদের অবদানকারিদের, যাদের প্রচেষ্টার ফসল আজকের সংবার্ড। এঁরা কোড আর ডকুমেন্টেশন লিখে এবং পরিক্ষা নিরিক্ষা করে সাহায্য করেছেন। তাঁরা এই পন্যটি, এর সাথে সংশ্লিষ্ট উন্নয়ন পন্থা গুলো, আমাদের উন্নয়ন কৌশল এবং আমাদের ওয়েবসাইট তৈরি এবং রক্ষনাবেক্ষন করেছেন। নামগুলো IRC নাম অনুযায়ি দেয়া হল, চলে আসুননা #songbird, irc.mozilla.or এ!">
+<!ENTITY menu.mac.showall "সব প্রদর্শন">
+<!ENTITY first_run.connection.description "আপনার সংযোগ নির্ধারণমানসমূহ নিরীক্ষা করুন এবং স্থাপনা সাহায্যকারীর সাথে অগ্রসর হন।">
 <!ENTITY equalizer.preset.full_bass "Full bass">
 <!ENTITY cdrip.lookup.multiple.title "Multiple CD Records Found">
-<!ENTITY openLinkCmdInDefaultBrowser.label "à¦¸à§à¦¬à¦¾à¦­à¦¾à¦¬à¦¿à¦• à¦¬à¦¿à¦šà¦°à¦•à§‡ à¦¸à¦‚à¦¯à§‹à¦— à¦‰à¦¨à§à¦®à§€à¦²à¦¨">
-<!ENTITY first_run.add_ons.header.label "à¦‰à¦ªà¦°à§‹à¦§à¦¿à¦¤ à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à¦—à§à¦²à¦¿">
-<!ENTITY command.device.renamedevice.accesskey "à¦†à¦°">
-<!ENTITY first_run.feedback.metrics.label "&brandShortName;à¦à¦° à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦° à¦ªà¦°à¦¿à¦¸à¦‚à¦–à§à¦¯à¦¾ à¦¯à§‹à¦—à¦¾à§œ à¦•à¦°à§à¦¨ à¦“ à¦ªà¦¾à¦ à¦¾à¦¨">
+<!ENTITY openLinkCmdInDefaultBrowser.label "স্বাভাবিক বিচরকে সংযোগ উন্মীলন">
+<!ENTITY first_run.add_ons.header.label "উপরোধিত বিস্তারকগুলি">
+<!ENTITY command.device.renamedevice.accesskey "আর">
+<!ENTITY first_run.feedback.metrics.label "&brandShortName;এর ব্যবহার পরিসংখ্যা যোগাড় করুন ও পাঠান">
 <!ENTITY menu.file.newtab.key "T">
 <!ENTITY device.dialog.setup.title "Device Setup">
 <!ENTITY menu.videotofront "Video to Front">
-<!ENTITY device.management.tabs.music.label "à¦¸à¦‚à¦—à§€à¦¤">
+<!ENTITY device.management.tabs.music.label "সংগীত">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "à¦à¦‡ à¦•à¦¾à¦ à¦¾à¦®à§‹à¦° à¦—à§à¦°à¦¾à¦¹à¦•à§€ à¦¹à¦¨…">
-<!ENTITY add_on_bundle_installer.error_box.label "à¦¬à¦°à§à¦¨à¦¨à¦¾">
-<!ENTITY smart.gb "à¦—à¦¿à¦ƒà¦¬à¦¾à¦ƒ">
+<!ENTITY subscribeMediaFrameCmd.label "এই কাঠামোর গ্রাহকী হন�">
+<!ENTITY add_on_bundle_installer.error_box.label "বর্ননা">
+<!ENTITY smart.gb "গিঃবাঃ">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.tools.reveal.accesskey "F">
-<!ENTITY menu.file.exit "à¦ªà§à¦°à¦¸à§à¦¥à¦¾à¦¨">
+<!ENTITY menu.file.exit "প্রস্থান">
 <!ENTITY device.sync.images.all.template "All photos (&#37;S)">
 <!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
-<!ENTITY first_run.import_media.header.label "à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦†à¦®à¦¦à¦¾à¦¨à¦¿">
-<!ENTITY tooltip.browser.home "à¦—à§ƒà¦¹ à¦ªà§ƒà¦·à§à¦ à¦¾">
+<!ENTITY first_run.import_media.header.label "বহুমাধ্যম আমদানি">
+<!ENTITY tooltip.browser.home "গৃহ পৃষ্ঠা">
 <!ENTITY equalizer.preset.small_speakers "Laptop/Headphones">
-<!ENTITY cdrip.lookup.info_not_found.album "à¦…à§à¦¯à¦¾à¦²à¦¬à¦¾à¦®à§â€Œ">
-<!ENTITY albumartpreferences.prefpane.enablewrite.label "à¦…à§à¦¯à¦¾à¦²à¦¬à¦¾à¦® à¦†à¦°à§à¦Ÿà¦“à§Ÿà¦¾à¦°à§à¦• à¦¥à§‡à¦•à§‡ à¦®à§‡à¦Ÿà¦¾ à¦¡à§‡à¦Ÿà¦¾ à¦²à§‡à¦–à§à¦¨à¥¤">
+<!ENTITY cdrip.lookup.info_not_found.album "অ্যালবাম্‌">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "অ্যালবাম আর্টওয়ার্ক থেকে মেটা ডেটা লেখুন।">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Search file extensions:">
 <!ENTITY command.device.rip.accesskey "R">
 <!ENTITY videowindow.fullscreen.key "F">
-<!ENTITY smart.all "à¦¸à¦¬">
+<!ENTITY smart.all "সব">
 <!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
 <!ENTITY menu.mac.hideothers.key "H">
 <!ENTITY menu.help.help.accesskey "H">
 <!ENTITY displaypane.default.link.text "Add-on Site">
 <!ENTITY command.device.lookup.accesskey "L">
 <!ENTITY device.tools.support.title "Support">
-<!ENTITY device.sync.auto_sync.label "à¦¸à¦‚à¦•à¦¾à¦²à¦¨">
-<!ENTITY device.info.model.label "à¦—à¦ à¦¨">
+<!ENTITY device.sync.auto_sync.label "সংকালন">
+<!ENTITY device.info.model.label "গঠন">
 <!ENTITY feed.subscribe.dontask "Don&apos;t automatically show this dialog again">
-<!ENTITY rapi.restore_defaults.label "à¦¸à§à¦¬à¦¾à¦­à¦¾à¦¬à¦¿à¦•à¦°à§‚à¦ªà§‡ à¦ªà§à¦°à¦¤à§à¦¯à¦¾à¦¬à¦°à§à¦¤à¦¨">
+<!ENTITY rapi.restore_defaults.label "স্বাভাবিকরূপে প্রত্যাবর্তন">
 <!ENTITY playback.prefpane.audio_output.label "Audio Output">
 <!ENTITY menu.viewpagesource.key "U">
 <!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
-<!ENTITY device.dialog.wait_for_completion.title "à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡à¦° à¦œà¦¨à§à¦¯ à¦…à¦ªà§‡à¦•à§à¦·à¦¾ à¦¹à¦šà§à¦›à§‡à¥¤">
+<!ENTITY device.dialog.wait_for_completion.title "যুক্তোপকরণের জন্য অপেক্ষা হচ্ছে।">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
 <!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
-<!ENTITY cdrip.mediaview.cd_rip_settings_label "à¦¸à¦¿à¦¡à¦¿ à¦¥à§‡à¦•à§‡ à¦—à¦¾à¦¨ à¦•à¦ªà¦¿ à¦•à¦°à¦¾à¦° à¦¸à§‡à¦Ÿà¦¿à¦‚à¦¸">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "সিডি থেকে গান কপি করার সেটিংস">
 <!ENTITY videowindow.fullscreen "Full Screen">
-<!ENTITY tooltip.browser.refresh "à¦‰à¦œà§à¦œà§€à¦¬à¦¨">
+<!ENTITY tooltip.browser.refresh "উজ্জীবন">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à¦¸à¦®à§‚à¦¹">
+<!ENTITY menu.extensions "বিস্তারকসমূহ">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
-<!ENTITY menu.edit.copy "à¦ªà§à¦°à¦¤à¦¿à¦²à¦¿à¦ªà¦¿">
+<!ENTITY menu.edit.copy "প্রতিলিপি">
 <!ENTITY device.repair.menuitem.default "Repair my device">
-<!ENTITY addMediaToPlaylistCmd.accesskey "à¦">
-<!ENTITY tooltip.exit "à¦ªà§à¦°à¦¸à§à¦¥à¦¾à¦¨">
+<!ENTITY addMediaToPlaylistCmd.accesskey "এ">
+<!ENTITY tooltip.exit "প্রস্থান">
 <!ENTITY menu.file.accesskey "F">
-<!ENTITY first_run.title "&brandShortName;-à¦à¦° à¦¸à§à¦¥à¦¾à¦ªà¦¨">
+<!ENTITY first_run.title "&brandShortName;-এর স্থাপন">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
-<!ENTITY tooltip.control.shuf_off "à¦…à¦•à§à¦°à¦®à¦¿à¦•à¦¾à¦¨à§à¦¸à¦¾à¦°à§‡ à¦¬à¦¨à§à¦§">
-<!ENTITY smart.selectedby "à¦à¦¤à¦¦à§à¦¬à¦¾à¦°à¦¾ à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¿à¦¤">
-<!ENTITY openPageCmdInDefaultBrowser.label "à¦¸à§à¦¬à¦¾à¦­à¦¾à¦¬à¦¿à¦• à¦¬à¦¿à¦šà¦°à¦•à§‡ à¦ªà§ƒà¦·à§à¦ à¦¾ à¦‰à¦¨à§à¦®à§€à¦²à¦¨">
+<!ENTITY tooltip.control.shuf_off "অক্রমিকানুসারে বন্ধ">
+<!ENTITY smart.selectedby "এতদ্বারা নির্বাচিত">
+<!ENTITY openPageCmdInDefaultBrowser.label "স্বাভাবিক বিচরকে পৃষ্ঠা উন্মীলন">
 <!ENTITY menu.control.playpause.spacebar "Spacebar">
-<!ENTITY import_library.dirty_playlist_dialog.title "à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾ à¦ªà¦°à¦¿à¦¬à¦°à§à¦¤à¦¿à¦¤">
+<!ENTITY import_library.dirty_playlist_dialog.title "বাদনতালিকা পরিবর্তিত">
 <!ENTITY equalizer.preset.techno "Techno">
 <!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.linux.preferences.accesskey "N">
@@ -394,308 +394,308 @@
 <!ENTITY first_run.itunes.checkbox.export.description "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
 <!ENTITY device.tools.update_firmware.label "Check for updated firmware">
 <!ENTITY device.info.icon.device "Generic device icon">
-<!ENTITY restartbox.restartlater "à¦ªà¦°à§‡ à¦ªà§à¦¨à¦ƒà¦¸à§‚à¦šà¦¨à¦¾">
+<!ENTITY restartbox.restartlater "পরে পুনঃসূচনা">
 <!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-<!ENTITY cdrip.lookup.info_not_found.artist "à¦¶à¦¿à¦²à§à¦ªà§€">
-<!ENTITY cdrip.lookup.track_name "à¦¶à¦¿à¦°à§‹à¦¨à¦¾à¦®">
-<!ENTITY menu.control.pause "à¦¬à¦¿à¦˜à§à¦¨">
+<!ENTITY cdrip.lookup.info_not_found.artist "শিল্পী">
+<!ENTITY cdrip.lookup.track_name "শিরোনাম">
+<!ENTITY menu.control.pause "বিঘ্ন">
 <!ENTITY menu.extensions.accesskey "A">
 <!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
-<!ENTITY command.device.canceldevicesync "à¦¸à¦‚à¦•à¦¾à¦²à¦¨ à¦°à¦¦">
-<!ENTITY menu.control.rep1 "à¦à¦•à¦Ÿà¦¿ à¦—à¦¾à¦¨à§‡à¦° à¦ªà§à¦¨à¦°à¦¾à¦¬à§ƒà¦¤à§à¦¤à¦¿">
+<!ENTITY command.device.canceldevicesync "সংকালন রদ">
+<!ENTITY menu.control.rep1 "একটি গানের পুনরাবৃত্তি">
 <!ENTITY device.sync.playlist.video.duration "Video Duration">
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
-<!ENTITY rapi.prefpane.title "à¦¸à§à¦¦à§‚à¦° à¦à¦ªà¦¿à¦†à¦‡">
-<!ENTITY menu.equalizer "à¦‡à¦•à§à§Ÿà¦¾à¦²à¦¾à¦‡à¦œà¦¾à¦°">
-<!ENTITY first_run.add_ons.description.line1 "à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à¦—à§à¦²à¦¿ &brandShortName;à¦à¦° à¦•à¦¾à¦°à§à¦¯à§à¦¯à¦•à¦°à§€à¦¤à¦¾ à¦•à§‡ à¦¸à¦®à§à¦ªà§à¦°à¦¸à¦¾à¦° à¦•à¦°à§‡, à¦†à¦° à¦†à¦ªà¦¨à¦¾à¦•à§‡ à¦…à¦¨à§à¦®à¦¤à¦¿ à¦¦à§‡à§Ÿ à¦†à¦ªà¦¨à¦¾à¦° à¦®à¦¾à¦§à§à¦¯à¦®à¦šà¦¾à¦²à¦•à§‡à¦° à¦…à¦­à¦¿à¦œà§à¦žà¦¤à¦¾à¦•à§‡ à¦¸à§à¦¬à§‡à¦šà§à¦›à¦¾à¦¨à§à¦¸à¦¾à¦°à§‡ à¦°à§‚à¦ªà¦¾à§Ÿà¦¨ à¦•à¦°à¦¤à§‡ à¦ªà¦¾à¦°à¦¾à¦° à¦œà¦¨à§à¦¯à¥¤">
-<!ENTITY displaypane.name.servicepane "à¦¨à¦¿à¦®à§à¦¨à¦¾à¦‚à¦¶à§‡ à¦ªà¦°à¦¿à¦·à§‡à¦¬à¦¾ à¦ªà¦¾à¦Ÿ">
-<!ENTITY menu.clearprivatedata "à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦¤à¦¥à§à¦¯ à¦…à¦ªà¦¸à¦¾à¦°à¦£ à¦•à¦°…">
-<!ENTITY window.ok "à¦ à¦¿à¦•">
-<!ENTITY window.browser.titlemodifier "à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡">
-<!ENTITY menu.edit.find "à¦…à¦¨à§à¦¸à¦¨à§à¦§à¦¾à¦¨">
-<!ENTITY first_run.add_ons.description.line2 "à¦à¦Ÿà¦¿ à¦…à¦¨à§à¦¯à¦¾à¦¨à§à¦¯ à¦…à¦¨à§à¦ªà§à¦°à§Ÿà§‹à¦— à¦à¦¬à¦‚ à¦ªà¦°à¦¿à¦·à§‡à¦¬à¦¾à¦—à§à¦²à¦¿à¦° à¦¸à¦¾à¦¥à§‡ à¦à¦•à¦¤à§à¦°à§€à¦•à¦°à¦£ à¦•à¦°à¦¤à§‡ à¦ªà¦¾à¦°à§‡, à¦¬à¦¾à¦¹à§à¦¯à¦¿à¦• à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡à¦° à¦¸à¦™à§à¦—à§‡ à¦¸à¦‚à¦¯à§‹à¦— à¦¸à¦®à¦°à§à¦¥à¦¨ à¦•à¦°à§‡,  à¦†à¦¬à¦°à§à¦¤à¦¨ à¦ªà¦°à¦¿à¦¬à¦°à§à¦¤à¦¨ à¦•à¦°à¦¤à§‡ à¦ªà¦¾à¦°à§‡ à¦à¦¬à¦‚ à¦†à¦°à¦“ à¦…à¦¨à§‡à¦• à¦•à¦¿à¦›à§!">
-<!ENTITY menu.updateCmd.label "à¦†à¦§à§à¦¨à¦¿à¦•à§€à¦•à¦¾à¦°à¦•à§‡à¦° à¦œà¦¨à§à¦¯ à¦ªà¦°à§€à¦•à§à¦·à¦¾…">
+<!ENTITY rapi.prefpane.title "সুদূর এপিআই">
+<!ENTITY menu.equalizer "ইকুয়ালাইজার">
+<!ENTITY first_run.add_ons.description.line1 "বিস্তারকগুলি &brandShortName;এর কার্য্যকরীতা কে সম্প্রসার করে, আর আপনাকে অনুমতি দেয় আপনার মাধ্যমচালকের অভিজ্ঞতাকে স্বেচ্ছানুসারে রূপায়ন করতে পারার জন্য।">
+<!ENTITY displaypane.name.servicepane "নিম্নাংশে পরিষেবা পাট">
+<!ENTITY menu.clearprivatedata "ব্যক্তিগত তথ্য অপসারণ কর�">
+<!ENTITY window.ok "ঠিক">
+<!ENTITY window.browser.titlemodifier "সংবার্ড">
+<!ENTITY menu.edit.find "অনুসন্ধান">
+<!ENTITY first_run.add_ons.description.line2 "এটি অন্যান্য অনুপ্রয়োগ এবং পরিষেবাগুলির সাথে একত্রীকরণ করতে পারে, বাহ্যিক যুক্তোপকরণের সঙ্গে সংযোগ সমর্থন করে,  আবর্তন পরিবর্তন করতে পারে এবং আরও অনেক কিছু!">
+<!ENTITY menu.updateCmd.label "আধুনিকীকারকের জন্য পরীক্ষা�">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
-<!ENTITY displaypane.name.browser "à¦¨à¦¿à¦®à§à¦¨à¦¾à¦‚à¦¶à§‡ à¦¤à¦¤à§à¦¤à§à¦¬à§‹à¦ªà¦¾à¦¦à¦¾à¦¨ à¦ªà¦¾à¦Ÿ">
-<!ENTITY albumartpreferences.prefpane.label "à¦…à§à¦¯à¦¾à¦²à¦¬à¦¾à¦® à¦†à¦°à§à¦Ÿà¦“à§Ÿà¦¾à¦°à§à¦•">
+<!ENTITY displaypane.name.browser "নিম্নাংশে তত্ত্বোপাদান পাট">
+<!ENTITY albumartpreferences.prefpane.label "অ্যালবাম আর্টওয়ার্ক">
 <!ENTITY watch_folder.prefs.description "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
-<!ENTITY umsd.no_devices_present "à¦•à§‹à¦¨ à¦‡à¦‰à¦à¦¸à¦¬à¦¿ à¦¬à¦¿à¦ªà§à¦² à¦­à¦¾à¦¨à§à¦¡à¦¾à¦° à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£ à¦¸à¦‚à¦¯à§à¦•à§à¦¤ à¦¨à§‡à¦‡à¥¤">
+<!ENTITY umsd.no_devices_present "কোন ইউএসবি বিপুল ভান্ডার যুক্তোপকরণ সংযুক্ত নেই।">
 <!ENTITY switchfeathers.key "M">
-<!ENTITY device.progress.sync "à¦¸à¦‚à¦•à¦¾à¦²à¦¨">
-<!ENTITY device.dialog.wait_for_completion.quit "à¦ªà¦°à¦¿à¦¤à§à¦¯à¦¾à¦—">
+<!ENTITY device.progress.sync "সংকালন">
+<!ENTITY device.dialog.wait_for_completion.quit "পরিত্যাগ">
 <!ENTITY tooltip.browser.mediapages.list "List View">
-<!ENTITY rapi.library_read_disable.label "à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à¦¸à§à¦¥à¦¾à¦¨à§‡à¦° à¦¦à§à¦¬à¦¾à¦°à¦¾ à¦†à¦®à¦¾à¦° à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à§‡à¦° à¦®à¦§à§à¦¯à§‡ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦® à¦¸à¦®à§à¦ªà¦°à§à¦•à¦¿à¦¤ à¦¤à¦¥à§à¦¯ à¦¦à§‡à¦–à¦¾ à¦…à¦¬à¦°à§‹à¦§ à¦•à¦°">
-<!ENTITY feedback.dialog.sentence1 "à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à¦•à§‡ à¦‰à¦¨à§à¦¨à¦¤à¦¤à¦° à¦¬à¦¾à¦¨à¦¾à¦¤à§‡ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦•à¦°à¦¤à§‡ à¦†à¦ªà¦¨à¦¿ à¦•à¦¿ à¦à¦•à¦Ÿà¦¿ à¦¦à§à¦°à§à¦¤, à¦…à¦¨à¦¾à¦®à§€ à¦ªà¦°à¦¿à¦®à¦¾à¦ª à¦¨à¦¿à¦¤à§‡ à¦šà¦¾à¦¨?">
+<!ENTITY rapi.library_read_disable.label "অন্তর্জালস্থানের দ্বারা আমার সংবার্ডের মধ্যে বহুমাধ্যম সম্পর্কিত তথ্য দেখা অবরোধ কর">
+<!ENTITY feedback.dialog.sentence1 "সংবার্ডকে উন্নততর বানাতে সাহায্য করতে আপনি কি একটি দ্রুত, অনামী পরিমাপ নিতে চান?">
 <!ENTITY feed.subscribe.label "Subscribe">
-<!ENTITY tooltip.servicepane.show "à¦ªà¦°à¦¿à¦·à§‡à¦¬à¦¾ à¦ªà¦¾à¦Ÿ à¦ªà§à¦°à¦¦à¦°à§à¦¶à¦¨">
-<!ENTITY tooltip.control.stop "à¦¬à¦¨à§à¦§">
-<!ENTITY menu.file.remote "à¦¨à¦¤à§à¦¨ à¦—à§à¦°à¦¾à¦¹à¦•à§€…">
-<!ENTITY menu.file.podcast "New Podcast…">
-<!ENTITY feedback.dialog.sentence2 "à¦†à¦ªà¦¨à¦¾à¦° à¦¯à¦¦à¦¿ à¦…à¦¨à¦¿à¦šà§à¦›à¦¾ à¦¥à¦¾à¦•à§‡, à¦¤à¦¾à¦¹à¦²à§‡ à¦†à¦®à¦°à¦¾ à¦†à¦ªà¦¨à¦¾à¦•à§‡ à¦†à¦¬à¦¾à¦° à¦œà¦¿à¦œà§à¦žà¦¾à¦¸à¦¾ à¦•à¦°à¦¬ à¦¨à¦¾à¥¤ à¦†à¦ªà¦¨à¦¾à¦° à¦¬à¦¿à¦¬à§‡à¦šà¦¨à¦¾à¦° à¦œà¦¨à§à¦¯ à¦†à¦®à¦°à¦¾ à¦•à§ƒà¦¤à¦œà§à¦ž à¦à¦¬à¦‚ à¦†à¦®à¦°à¦¾ à¦†à¦ªà¦¨à¦¾à¦° à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à§‡à¦° à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦°à¦•à§‡ à¦¸à¦®à¦¾à¦¦à¦° à¦•à¦°à¦¿!">
+<!ENTITY tooltip.servicepane.show "পরিষেবা পাট প্রদর্শন">
+<!ENTITY tooltip.control.stop "বন্ধ">
+<!ENTITY menu.file.remote "নতুন গ্রাহকী�">
+<!ENTITY menu.file.podcast "New Podcast�">
+<!ENTITY feedback.dialog.sentence2 "আপনার যদি অনিচ্ছা থাকে, তাহলে আমরা আপনাকে আবার জিজ্ঞাসা করব না। আপনার বিবেচনার জন্য আমরা কৃতজ্ঞ এবং আমরা আপনার সংবার্ডের ব্যবহারকে সমাদর করি!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
-<!ENTITY menu.edit "à¦¸à¦®à§à¦ªà¦¾à¦¦à¦¨à¦¾">
+<!ENTITY menu.edit "সম্পাদনা">
 <!ENTITY locale.language.accesskey "L">
 <!ENTITY videowindow.title "Video Window">
 <!ENTITY menu.fullscreen "Full Screen">
-<!ENTITY menu.file.newtab "à¦¨à¦¤à§à¦¨ à¦¸à¦¾à¦°à¦£à¦ªà¦Ÿ">
-<!ENTITY feedback.dialog.sentence3 "à¦­à¦¾à¦² à¦¥à¦¾à¦•à§à¦¨,">
+<!ENTITY menu.file.newtab "নতুন সারণপট">
+<!ENTITY feedback.dialog.sentence3 "ভাল থাকুন,">
 <!ENTITY albumart.displaypane.contextmenu.showplaying "Show Now Playing">
-<!ENTITY albumart.displaypane.drag_and_drop "à¦…à§à¦¯à¦¾à¦²à¦¬à¦¾à¦® à¦†à¦°à§à¦Ÿà¦Ÿà¦¿ à¦à¦–à¦¾à¦¨à§‡ à¦¤à§‡à¦¨à§‡ à¦†à¦¨à§à¦¨">
-<!ENTITY command.device.cancel.accesskey "à¦¸à¦¿">
-<!ENTITY smart.most_often "à¦¬à§‡à¦¶à§€à¦•à§à¦·à¦£">
-<!ENTITY restartbox.restartnow "à¦à¦–à¦¨ à¦ªà§à¦¨à¦ƒà¦¸à§‚à¦šà¦¨à¦¾">
-<!ENTITY device.unsupported_media.dialog.enable "à¦†à¦®à¦¾à¦•à§‡ à¦œà¦¾à¦¨à¦¾à¦“ à¦¯à¦–à¦¨ à¦…à¦¨à¦¨à§à¦•à§‚à¦² à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦° à¦¸à¦¨à§à¦§à¦¾à¦¨ à¦ªà¦¾à¦“à§Ÿà¦¾ à¦¯à¦¾à§Ÿ">
+<!ENTITY albumart.displaypane.drag_and_drop "অ্যালবাম আর্টটি এখানে তেনে আনুন">
+<!ENTITY command.device.cancel.accesskey "সি">
+<!ENTITY smart.most_often "বেশীক্ষণ">
+<!ENTITY restartbox.restartnow "এখন পুনঃসূচনা">
+<!ENTITY device.unsupported_media.dialog.enable "আমাকে জানাও যখন অননুকূল সঞ্চিকার সন্ধান পাওয়া যায়">
 <!ENTITY device.sync.images.selected.label "Selected sub-folders">
-<!ENTITY command.device.canceldevicecopy "à¦ªà§à¦°à¦¤à¦¿à¦²à§‡à¦–à¦¨ à¦°à¦¦">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "à¦à¦¨">
+<!ENTITY command.device.canceldevicecopy "প্রতিলেখন রদ">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "এন">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
-<!ENTITY feedback.dialog.sentence4 "à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡ à¦¦à¦²">
-<!ENTITY smart.title "à¦¶à¦¿à¦°à§‹à¦¨à¦¾à¦®">
-<!ENTITY menu.tools.reveal "à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¿à¦¤ à¦¸à¦žà§à¦šà¦¿à¦•à¦¾ à¦ªà§à¦°à¦¦à¦°à§à¦¶à¦¨">
-<!ENTITY menu.controllerontop "à¦‰à¦šà§à¦šà§‡ à¦ªà§à¦°à¦¦à¦°à§à¦¶à¦¨">
-<!ENTITY about.credits.footer.beforeLink "à¦…à¦¬à¦¶à§à¦¯à¦‡, à¦¯à¦¾à¦¦à§‡à¦° à¦•à¦ à§‹à¦° à¦ªà¦°à¦¿à¦¶à§à¦°à¦® à¦›à¦¾à§œà¦¾ à¦à¦¸à¦¬à§‡à¦° à¦•à§‹à¦¨à¦•à¦¿à¦›à§à¦‡ à¦¸à¦®à§à¦­à¦¬ à¦¹à¦¤ à¦¨à¦¾ à¦¤à¦¾à¦à¦°à¦¾ à¦¹à¦²à§‡à¦¨">
-<!ENTITY device.management.tabs.tools.label "à¦‰à¦ªà¦•à¦°à¦£à¦—à§à¦²à¦¿">
-<!ENTITY umsd.video.tab "à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦°">
-<!ENTITY trackeditor.addtag.tag "à¦ªà¦°à¦¿à¦šà§Ÿà¦šà¦¿à¦¹à§à¦¨:">
+<!ENTITY feedback.dialog.sentence4 "সংবার্ড দল">
+<!ENTITY smart.title "শিরোনাম">
+<!ENTITY menu.tools.reveal "নির্বাচিত সঞ্চিকা প্রদর্শন">
+<!ENTITY menu.controllerontop "উচ্চে প্রদর্শন">
+<!ENTITY about.credits.footer.beforeLink "অবশ্যই, যাদের কঠোর পরিশ্রম ছাড়া এসবের কোনকিছুই সম্ভব হত না তাঁরা হলেন">
+<!ENTITY device.management.tabs.tools.label "উপকরণগুলি">
+<!ENTITY umsd.video.tab "চলচ্চিত্র">
+<!ENTITY trackeditor.addtag.tag "পরিচয়চিহ্ন:">
 <!ENTITY device.settings.music.transcoding.format.label "Encoding format">
-<!ENTITY command.device.canceldeviceupdate "à¦†à¦§à§à¦¨à¦¿à¦•à§€à¦•à¦°à¦£ à¦°à¦¦">
-<!ENTITY mediapages.firstrun.title "&brandShortName;-à¦ à¦¸à§à¦¬à¦¾à¦—à¦¤ ">
+<!ENTITY command.device.canceldeviceupdate "আধুনিকীকরণ রদ">
+<!ENTITY mediapages.firstrun.title "&brandShortName;-এ স্বাগত ">
 <!ENTITY equalizer.preset.full_treble "Full treble">
-<!ENTITY umsd.music.tab "à¦¸à¦‚à¦—à§€à¦¤">
+<!ENTITY umsd.music.tab "সংগীত">
 <!ENTITY tooltip.close "Close">
-<!ENTITY podcast.creation_dialog.url.heading "à¦‡à¦‰à¦†à¦°à¦à¦²:">
-<!ENTITY menu.edit.redo "à¦ªà§à¦¨à¦ƒà¦•à¦°à¦£">
-<!ENTITY menu.edit.findagain "à¦ªà§à¦¨à¦ƒ à¦…à¦¨à§à¦¸à¦¨à§à¦§à¦¾à¦¨">
-<!ENTITY device.info.capacity.label "à¦†à§Ÿà¦¤à¦¨">
-<!ENTITY command.device.ignoredevice.accesskey "à¦†à¦‡">
+<!ENTITY podcast.creation_dialog.url.heading "ইউআরএল:">
+<!ENTITY menu.edit.redo "পুনঃকরণ">
+<!ENTITY menu.edit.findagain "পুনঃ অনুসন্ধান">
+<!ENTITY device.info.capacity.label "আয়তন">
+<!ENTITY command.device.ignoredevice.accesskey "আই">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.browse "Choose folder�">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "à¦¸à¦žà§à¦šà¦¿à¦•à¦¾ à¦‰à¦¨à§à¦®à§€à¦²à¦¨…">
-<!ENTITY command.device.devicesync "à¦¸à¦‚à¦•à¦¾à¦²à¦¨">
+<!ENTITY menu.file.open "সঞ্চিকা উন্মীলন�">
+<!ENTITY command.device.devicesync "সংকালন">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
 <!ENTITY mediacore.error.continue "Continue">
-<!ENTITY umsd.music.music_path_desc "à¦¸à¦‚à¦—à§€à¦¤ à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦—à§à¦²à¦¿ à¦¯à§à¦•à§à¦¤à§‹à¦ªà¦•à¦°à¦£à§‡ à¦ªà§à¦°à¦¤à¦¿à¦²à§‡à¦–à¦¨ à¦•à¦°à¦¾à¦° à¦¸à¦®à§Ÿ, à¦à¦‡ à¦­à¦¾à¦à¦œà¦•à§‡à¦° à¦®à¦§à§à¦¯à§‡ à¦…à¦¬à¦¸à§à¦¥à¦¾à¦¨ à¦•à¦°à¦¾ à¦¹à¦¬à§‡: ">
+<!ENTITY umsd.music.music_path_desc "সংগীত সঞ্চিকাগুলি যুক্তোপকরণে প্রতিলেখন করার সময়, এই ভাঁজকের মধ্যে অবস্থান করা হবে: ">
 <!ENTITY playback.prefpane.audio_output.buffer "Output Buffer:">
-<!ENTITY menu.switchplayercontrols "à¦¬à¦¾à¦¦à¦¨à¦šà¦¾à¦²à¦• à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£à¦¸à¦®à§‚à¦¹">
-<!ENTITY import_library.dirty_playlist_dialog.keep "&brandShortName; à¦¬à¦°à§à¦¤à¦®à¦¾à¦¨ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾ à¦°à¦¾à¦–à§à¦¨ à¦à¦‡ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾à¦Ÿà¦¿ à¦†à¦®à¦¦à¦¾à¦¨à¦¿ à¦•à¦°à¦¾ à¦¹à¦¬à§‡ à¦¨à¦¾)">
+<!ENTITY menu.switchplayercontrols "বাদনচালক নির্ধারণসমূহ">
+<!ENTITY import_library.dirty_playlist_dialog.keep "&brandShortName; বর্তমান বাদনতালিকা রাখুন এই বাদনতালিকাটি আমদানি করা হবে না)">
 <!ENTITY menu.file.closetab.key "W">
 <!ENTITY device.firmware.wizard.check.page.title "Check for Updated Firmware">
 <!ENTITY menu.help.accesskey "H">
-<!ENTITY device.info.serial_number.label "à¦•à§à¦°à¦®à¦¿à¦• à¦¸à¦‚à¦–à§à¦¯à¦¾">
+<!ENTITY device.info.serial_number.label "ক্রমিক সংখ্যা">
 <!ENTITY device.info.product.label "Product">
-<!ENTITY smart.minutes "à¦®à¦¿à¦¨à¦¿à¦Ÿ">
-<!ENTITY menu.help.topics "à¦¸à¦¹à¦¾à§Ÿà¦¤à¦¾à¦° à¦ªà§à¦°à¦¸à¦™à§à¦—à¦—à§à¦²à¦¿…">
-<!ENTITY menu.file.playlist "à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾ à¦†à¦®à¦¦à¦¾à¦¨à¦¿ à¦•à¦°…">
+<!ENTITY smart.minutes "মিনিট">
+<!ENTITY menu.help.topics "সহায়তার প্রসঙ্গগুলি�">
+<!ENTITY menu.file.playlist "বাদনতালিকা আমদানি কর�">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY device.tools.format_volume.button.label "à¦«à¦°à¦®à§‡à¦Ÿ à¦•à¦°à§à¦¨">
+<!ENTITY device.tools.format_volume.button.label "ফরমেট করুন">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-<!ENTITY smart.limit "à¦à¦¤à¦¦à§à¦¬à¦¾à¦°à¦¾ à¦¸à§€à¦®à¦¿à¦¤à¦¬à¦¦à§à¦§">
-<!ENTITY menu.file.library "à¦à¦•à¦Ÿà¦¿ à¦¸à¦‚à¦—à§à¦°à¦¹ à¦†à¦®à¦¦à¦¾à¦¨à¦¿ à¦•à¦°à§à¦¨…">
-<!ENTITY command.device.formatdevice.accesskey "à¦à¦«">
+<!ENTITY smart.limit "এতদ্বারা সীমিতবদ্ধ">
+<!ENTITY menu.file.library "একটি সংগ্রহ আমদানি করুন�">
+<!ENTITY command.device.formatdevice.accesskey "এফ">
 <!ENTITY wizard.button.next.accesskey "C">
-<!ENTITY tooltip.control.curtrack "à¦¬à¦°à§à¦¤à¦®à¦¾à¦¨ à¦—à§€à¦¤à¦§à¦¾à¦°à¦¾à¦° à¦…à¦¨à§à¦¸à¦¨à§à¦§à¦¾à¦¨">
-<!ENTITY setupprogress.installingextensions "à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à§‡à¦° à¦¸à§à¦¥à¦¾à¦ªà¦¨à¦¾ à¦šà¦²à¦›à§‡">
-<!ENTITY menu.mac.services "à¦ªà¦°à¦¿à¦·à§‡à¦¬à¦¾à¦—à§à¦²à¦¿">
+<!ENTITY tooltip.control.curtrack "বর্তমান গীতধারার অনুসন্ধান">
+<!ENTITY setupprogress.installingextensions "বিস্তারকের স্থাপনা চলছে">
+<!ENTITY menu.mac.services "পরিষেবাগুলি">
 <!ENTITY menu.file.open.accesskey "O">
-<!ENTITY import_library.library_file_label "à¦¸à¦‚à¦—à§à¦°à¦¹ à¦¸à¦žà§à¦šà¦¿à¦•à¦¾:">
-<!ENTITY command.device.canceldevicecopy.accesskey "à¦¸à¦¿">
+<!ENTITY import_library.library_file_label "সংগ্রহ সঞ্চিকা:">
+<!ENTITY command.device.canceldevicecopy.accesskey "সি">
 <!ENTITY window.browser.titlepreface "">
-<!ENTITY smart.matchsingle "à¦¨à¦¿à¦®à§à¦¨à¦²à¦¿à¦–à¦¿à¦¤ à¦¶à¦°à§à¦¤à¦Ÿà¦¿ à¦®à¦¿à¦²à¦¿à§Ÿà§‡:">
+<!ENTITY smart.matchsingle "নিম্নলিখিত শর্তটি মিলিয়ে:">
 <!ENTITY importexport_show_notifications_checkbox "Show notifications when the import/export is complete">
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY first_run.itunes.checkbox.import.description "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
 <!ENTITY device.sync.images.foldername "Folder Name">
-<!ENTITY device.capacity.video.label "à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦°">
+<!ENTITY device.capacity.video.label "চলচ্চিত্র">
 <!ENTITY menu.control.next.accesskey "N">
 <!ENTITY equalizer.band4.label "500">
-<!ENTITY umsd.music.music_files_group "à¦¸à¦‚à¦—à§€à¦¤ à¦¸à¦žà§à¦šà¦¿à¦•à¦¾à¦—à§à¦²à¦¿">
-<!ENTITY trackeditor.tab.lyrics.title "à¦—à§€à¦¤à¦•à¦¥à¦¾">
-<!ENTITY menu.mac.exit "à¦ªà¦°à¦¿à¦¤à§à¦¯à¦¾à¦— &brandShortName;">
-<!ENTITY menu.control.play.button "à¦¬à¦¾à¦¦à¦¨">
-<!ENTITY hotkeys.prefpane "à¦¸à¦•à§à¦°à¦¿à§Ÿà¦•à§à¦žà§à¦œà§€à¦—à§à¦²à¦¿">
+<!ENTITY umsd.music.music_files_group "সংগীত সঞ্চিকাগুলি">
+<!ENTITY trackeditor.tab.lyrics.title "গীতকথা">
+<!ENTITY menu.mac.exit "পরিত্যাগ &brandShortName;">
+<!ENTITY menu.control.play.button "বাদন">
+<!ENTITY hotkeys.prefpane "সক্রিয়কুঞ্জীগুলি">
 <!ENTITY subscribeMediaFrameCmd.accesskey "u">
-<!ENTITY subscribe.hours "à¦˜à¦¨à§à¦Ÿà¦¾(à¦—à§à¦²à¦¿)">
+<!ENTITY subscribe.hours "ঘন্টা(গুলি)">
 <!ENTITY rapi.playback_read_disable.accesskey "m">
-<!ENTITY menu.help "à¦¸à¦¹à¦¾à§Ÿà¦¤à¦¾">
+<!ENTITY menu.help "সহায়তা">
 <!ENTITY menu.equalizer.accesskey "Q">
-<!ENTITY command.device.ignoredevice "à¦‰à¦ªà§‡à¦•à§à¦·à¦¾">
+<!ENTITY command.device.ignoredevice "উপেক্ষা">
 <!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
 <!ENTITY mediacore.error.title "Playback Error">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "à¦²à¦¾à¦«à¦¿à§Ÿà§‡ à¦¯à¦¾à¦¨ à¦à¦¤à§‡…">
-<!ENTITY menu.tools "à¦‰à¦ªà¦•à¦°à¦£à¦¸à¦®à§‚à¦¹">
+<!ENTITY menu.control.jumpto "লাফিয়ে যান এতে�">
+<!ENTITY menu.tools "উপকরণসমূহ">
 <!ENTITY device.settings.music.transcoding.label "Music Conversion">
-<!ENTITY albumartpreferences.prefpane.priorities.reset " à¦°à¦¿à¦¸à§‡à¦Ÿ">
+<!ENTITY albumartpreferences.prefpane.priorities.reset " রিসেট">
 <!ENTITY device.info.icon.readonly "Read-only lock icon">
 <!ENTITY command.device.lookup "Lookup CD Information">
-<!ENTITY tabs.listAllTabs "à¦¸à¦¬ à¦¸à¦¾à¦°à¦£à¦ªà¦Ÿà§‡à¦° à¦¤à¦¾à¦²à¦¿à¦•à¦¾">
-<!ENTITY rapi.prefpane.access.caption "à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à¦ªà§ƒà¦·à§à¦ à¦¾">
-<!ENTITY menu.file.scan "à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦®à§‡à¦° à¦œà¦¨à§à¦¯ à¦¸à¦®à§€à¦•à§à¦·à¦£ à¦•à¦°…">
+<!ENTITY tabs.listAllTabs "সব সারণপটের তালিকা">
+<!ENTITY rapi.prefpane.access.caption "অন্তর্জালপৃষ্ঠা">
+<!ENTITY menu.file.scan "বহুমাধ্যমের জন্য সমীক্ষণ কর�">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Media Importer">
 <!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
 <!ENTITY watch_folder.prefs.settings_group_caption "Watch Folder Settings">
-<!ENTITY tooltip.minimize "à¦•à§à¦·à§à¦¦à§à¦°à¦¾à§Ÿà¦¨">
-<!ENTITY smart.random "à¦¯à¦¥à§‡à¦šà§à¦›à¦¿à¦•">
-<!ENTITY smart.contenttypecondition.audio "à¦¸à¦‚à¦—à§€à¦¤">
+<!ENTITY tooltip.minimize "ক্ষুদ্রায়ন">
+<!ENTITY smart.random "যথেচ্ছিক">
+<!ENTITY smart.contenttypecondition.audio "সংগীত">
 <!ENTITY equalizer.band7.label "4K">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
-<!ENTITY watch_folder.prefs.title "à¦¨à¦¿à¦°à§€à¦•à§à¦·à¦¿à¦¤ à¦­à¦¾à¦à¦œà¦•à¦—à§à¦²à¦¿">
-<!ENTITY subscribe.autocheck "à¦¸à§à¦¬à§Ÿà¦‚à¦•à§à¦°à¦¿à§Ÿà¦­à¦¾à¦¬à§‡ à¦†à¦§à§à¦¨à¦¿à¦•à§€à¦•à¦°à¦£ à¦ªà§à¦°à¦¤à¦¿">
-<!ENTITY menu.control.shuf "à¦…à¦•à§à¦°à¦®à¦¿à¦•à¦¾à¦¨à§à¦¸à¦¾à¦°à§‡">
-<!ENTITY albumartpreferences.prefpane.priorities.up "à¦‰à¦ªà¦°à§‡">
+<!ENTITY watch_folder.prefs.title "নিরীক্ষিত ভাঁজকগুলি">
+<!ENTITY subscribe.autocheck "স্বয়ংক্রিয়ভাবে আধুনিকীকরণ প্রতি">
+<!ENTITY menu.control.shuf "অক্রমিকানুসারে">
+<!ENTITY albumartpreferences.prefpane.priorities.up "উপরে">
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
-<!ENTITY first_run.connection.settings.description "à¦†à¦ªà¦¨à¦¾à¦° à¦•à¦®à§à¦ªà§à¦¯à§à¦Ÿà¦¾à¦° à¦¬à¦¾ à¦•à§à¦°à¦¿à§Ÿà¦¾à¦œà¦¾à¦² à¦•à¦¿ à¦…à¦—à§à¦¨à¦¿à¦ªà§à¦°à¦¾à¦šà§€à¦° à¦¬à¦¾ à¦ªà§à¦°à¦¤à¦¿à¦¨à¦¿à¦§à¦¿ à¦¦à§à¦¬à¦¾à¦°à¦¾ à¦¸à§à¦°à¦•à§à¦·à¦¿à¦¤? à¦­à§à¦² à¦¸à¦‚à¦¯à§‹à¦— à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£à¦®à¦¾à¦¨à¦¸à¦®à§‚à¦¹ à¦¸à¦‚à¦¶à§‹à¦§à¦¨ à¦•à¦°à¦²à§‡ à¦¸à¦¾à¦§à¦¾à¦°à¦£ à¦•à§à¦°à¦¿à§Ÿà¦¾à¦œà¦¾à¦² à¦¸à¦®à§à¦ªà¦°à§à¦•à¦¿à¦¤ à¦¸à¦®à¦¸à§à¦¯à¦¾à¦—à§à¦²à¦¿à¦° à¦¸à¦®à¦¾à¦§à¦¾à¦¨ à¦•à¦°à¦¾ à¦¯à¦¾à§Ÿà¥¤">
+<!ENTITY first_run.connection.settings.description "আপনার কম্প্যুটার বা ক্রিয়াজাল কি অগ্নিপ্রাচীর বা প্রতিনিধি দ্বারা সুরক্ষিত? ভুল সংযোগ নির্ধারণমানসমূহ সংশোধন করলে সাধারণ ক্রিয়াজাল সম্পর্কিত সমস্যাগুলির সমাধান করা যায়।">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatically watch for changes in the following folder">
 <!ENTITY menu.file.metadata "View Metadata">
 <!ENTITY device.info.firmware_version.label "Firmware Version">
-<!ENTITY device.info.access.label "à¦…à¦­à¦¿à¦—à¦®à¦¨ à¦…à¦¨à§à¦•à§‚à¦²à¦¤à¦¾">
-<!ENTITY tooltip.control.back "à¦ªà§à¦°à§à¦¬à¦¬à¦°à§à¦¤à§€ à¦—à§€à¦¤à¦§à¦¾à¦°à¦¾">
+<!ENTITY device.info.access.label "অভিগমন অনুকূলতা">
+<!ENTITY tooltip.control.back "পুর্ববর্তী গীতধারা">
 <!ENTITY menu.edit.cut.accesskey "T">
-<!ENTITY menu.controlleronbottom "à¦¨à¦¿à¦®à§à¦¨à§‡ à¦ªà§à¦°à¦¦à¦°à§à¦¶à¦¨">
-<!ENTITY device.sync.sync_selected.label "à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¿à¦¤ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾:">
+<!ENTITY menu.controlleronbottom "নিম্নে প্রদর্শন">
+<!ENTITY device.sync.sync_selected.label "নির্বাচিত বাদনতালিকা:">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY menu.edit.delete.accesskey "D">
 <!ENTITY wizard.button.back.accesskey "B">
 <!ENTITY trackeditor.prev.key "P">
 <!ENTITY tooltip.browser.mediapages.filter "Filter Pane View">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
-<!ENTITY rapi.playback_control_disable.label "à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à¦¸à§à¦¥à¦¾à¦¨à§‡à¦° à¦¦à§à¦¬à¦¾à¦°à¦¾ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦®à§‡à¦° à¦¬à¦¾à¦¦à¦¨à¦šà¦¾à¦²à¦¨à¦¾ à¦¨à¦¿à§Ÿà¦¨à§à¦¤à§à¦°à¦£ à¦…à¦¬à¦°à§‹à¦§ à¦•à¦°">
+<!ENTITY rapi.playback_control_disable.label "অন্তর্জালস্থানের দ্বারা বহুমাধ্যমের বাদনচালনা নিয়ন্ত্রণ অবরোধ কর">
 <!ENTITY menu.file.exit.accesskey "X">
-<!ENTITY first_run.feedback.metrics.description "à¦ªà¦°à¦¿à¦¸à¦‚à¦–à§à¦¯à¦¾à¦—à§à¦²à¦¿ à¦¸à¦®à§à¦ªà§‚à¦°à§à¦£à¦­à¦¾à¦¬à§‡ à¦…à¦¨à¦¾à¦®à§€ à¦à¦¬à¦‚ à¦•à§‹à¦¨ à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦¤à¦¥à§à¦¯ à¦¯à§‹à¦—à¦¾à§œ à¦•à¦°à¦¾ à¦¹à§Ÿ à¦¨à¦¾à¥¤">
+<!ENTITY first_run.feedback.metrics.description "পরিসংখ্যাগুলি সম্পূর্ণভাবে অনামী এবং কোন ব্যক্তিগত তথ্য যোগাড় করা হয় না।">
 <!ENTITY cdrip.prefpane.label "CD Rip">
-<!ENTITY tooltip.control.mute "à¦¨à¦¿à¦ƒà¦¶à¦¬à§à¦¦">
-<!ENTITY smart.album "à¦¸à¦‚à¦•à¦²à¦¨">
+<!ENTITY tooltip.control.mute "নিঃশব্দ">
+<!ENTITY smart.album "সংকলন">
 <!ENTITY playback.prefpane.units.kilobytes "kB">
 <!ENTITY menu.tools.accesskey "T">
 <!ENTITY menu.mac.hideothers.modifiers "accel,alt">
 <!ENTITY menu.edit.selall.key "A">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-<!ENTITY device.tools.format_device.label "à¦¯à¦¨à§à¦¤à§à¦° à¦«à¦°à¦®à§‡à¦Ÿ à¦•à¦°à§à¦¨">
-<!ENTITY hotkeys.remove "à¦…à¦ªà¦¸à¦¾à¦°à¦£">
-<!ENTITY tooltip.fullscreen "à¦ªà§‚à¦°à§à¦£à¦ªà¦°à§à¦¦à¦¾">
+<!ENTITY device.tools.format_device.label "যন্ত্র ফরমেট করুন">
+<!ENTITY hotkeys.remove "অপসারণ">
+<!ENTITY tooltip.fullscreen "পূর্ণপর্দা">
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
-<!ENTITY jumptofile.search "à¦…à¦¨à§à¦¸à¦¨à§à¦§à¦¾à¦¨:">
-<!ENTITY albumart.displaypane.not_selected_message "à¦•à¦¿à¦›à§ à¦‡ à¦¬à¦¾à¦›à¦¾à¦‡ à¦•à¦°à¦¾ à¦¹à§Ÿà¦¨à¦¿">
+<!ENTITY jumptofile.search "অনুসন্ধান:">
+<!ENTITY albumart.displaypane.not_selected_message "কিছু ই বাছাই করা হয়নি">
 <!ENTITY wizard.button.back.label "Go Back">
 <!ENTITY window.browser.titledefault "">
-<!ENTITY subscribe.url "à¦‡à¦‰à¦†à¦°à¦à¦²:">
-<!ENTITY smart.to "à¦à¦•à§‡">
-<!ENTITY rapi.prefpane.access.text "à¦†à¦ªà¦¨à¦¿ à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à¦¸à§à¦¥à¦¾à¦¨à¦—à§à¦²à¦¿à¦° à¦¸à¦™à§à¦—à§‡ à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à§‡à¦° à¦¸à¦‚à¦¹à¦¤à¦¿ à¦•à§‡ à¦…à¦¨à§à¦®à¦¤à¦¿ à¦¦à¦¿à¦¤à§‡ à¦ªà¦¾à¦°à§‡à¦¨, à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦² à¦à¦¬à¦‚ à¦†à¦ªà¦¨à¦¾à¦° à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦®à§‡à¦° à¦®à¦§à§à¦¯à§‡ à¦†à¦°à¦“ à¦¦à§ƒà§à¦¤à¦° à¦¸à¦‚à¦¯à§‹à¦— à¦¸à§ƒà¦·à§à¦Ÿà¦¿ à¦•à¦°à¦¾à¦° à¦œà¦¨à§à¦¯à¥¤ à¦¨à¦¿à¦®à§à¦¨à§‹à¦•à§à¦¤ à¦¸à¦‚à¦¹à¦¤à¦¿à¦° à¦¸à§à¦¥à¦¾à¦¨à¦—à§à¦²à¦¿à¦°, à¦…à¦¨à§à¦¤à¦°à§à¦œà¦¾à¦²à¦¸à§à¦¥à¦¾à¦¨à¦—à§à¦²à¦¿à¦° à¦¦à§à¦¬à¦¾à¦°à¦¾ à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦° à¦•à§‡, à¦…à¦¨à§à¦®à¦¤à¦¿ à¦¬à¦¾ à¦…à¦¬à¦°à§‹à¦§ à¦•à¦°à¦¾à¦° à¦œà¦¨à§à¦¯ à¦…à¦¨à§à¦—à§à¦°à¦¹ à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à§‡à¦° à¦‰">
+<!ENTITY subscribe.url "ইউআরএল:">
+<!ENTITY smart.to "একে">
+<!ENTITY rapi.prefpane.access.text "আপনি অন্তর্জালস্থানগুলির সঙ্গে সংবার্ডের সংহতি কে অনুমতি দিতে পারেন, অন্তর্জাল এবং আপনার বহুমাধ্যমের মধ্যে আরও দৃঢ়তর সংযোগ সৃষ্টি করার জন্য। নিম্নোক্ত সংহতির স্থানগুলির, অন্তর্জালস্থানগুলির দ্বারা ব্যবহার কে, অনুমতি বা অবরোধ করার জন্য অনুগ্রহ সংবার্ডের উ">
 <!ENTITY equalizer.preset.ska "Ska">
 <!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
 <!ENTITY podcast.creation_dialog.title "New Podcast">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Track">
 <!ENTITY menu.errorconsole.accesskey "C">
-<!ENTITY about.credits.footer.afterLink "à¦®à¦œà¦¿à¦²à¦¾ à¦ªà§à¦°à¦œà§‡à¦•à§à¦Ÿà¦•à§‡">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "à¦à¦‡à¦Ÿà¦¿ à¦®à¦¿à¦¡à¦¿à§Ÿà¦¾ à¦«à¦¾à¦‡à¦²à§‡à¦° à¦œà¦¨à§à¦¯ à¦¸à¦™à§à¦—à¦¤à¦¿à¦ªà§‚à¦°à§à¦£ à¦Ÿà§à¦¯à¦¾à¦—à§‡ à¦†à¦°à§à¦Ÿà¦“à§Ÿà¦¾à¦°à§à¦• à¦¸à¦¨à§à¦¨à¦¿à¦¬à§‡à¦¶ à¦•à¦°à¦¤à§‡ &brandShortName; à¦•à§‡ à¦…à¦¨à§à¦®à§‹à¦¦à¦¨ à¦•à¦°à¦¬à§‡à¥¤">
+<!ENTITY about.credits.footer.afterLink "মজিলা প্রজেক্টকে">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "এইটি মিডিয়া ফাইলের জন্য সঙ্গতিপূর্ণ ট্যাগে আর্টওয়ার্ক সন্নিবেশ করতে &brandShortName; কে অনুমোদন করবে।">
 <!ENTITY menu.control.rep1.accesskey "O">
-<!ENTITY hotkeys.add "à¦¯à§‹à¦—">
+<!ENTITY hotkeys.add "যোগ">
 <!ENTITY export_playlists_itunes_checkbox "Export music playlists">
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
-<!ENTITY smart.least_recent "à¦¨à§à¦¯à§‚à¦¨à¦¤à¦® à¦¸à¦¾à¦®à§à¦ªà§à¦°à¦¤à¦¿à¦•">
+<!ENTITY smart.least_recent "ন্যূনতম সাম্প্রতিক">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡ à¦¸à¦®à§à¦ªà¦°à§à¦•à§‡">
+<!ENTITY menu.help.about "সংবার্ড সম্পর্কে">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
-<!ENTITY cdrip.prefpane.eject_after_rip "à¦—à¦¾à¦¨ à¦•à¦ªà¦¿ à¦¶à§‡à¦· à¦¹à¦²à§‡ à¦¸à¦¿à¦¡à¦¿ à¦¬à¦¾à¦° à¦•à¦°à§à¦¨">
+<!ENTITY cdrip.prefpane.eject_after_rip "গান কপি শেষ হলে সিডি বার করুন">
 <!ENTITY device.management.tabs.image.label "Photos">
 <!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
-<!ENTITY command.device.ejectdevice.accesskey "à¦‡">
+<!ENTITY command.device.ejectdevice.accesskey "ই">
 <!ENTITY playqueue.inprogress "Adding tracks">
-<!ENTITY device.info.vendor.label "à¦¨à¦¿à¦°à§à¦®à¦¾à¦¤à¦¾">
+<!ENTITY device.info.vendor.label "নির্মাতা">
 <!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
 <!ENTITY window.browser.titlemenuseparator "-">
-<!ENTITY sanitize.key "à¦…à¦ªà¦¨à§‹à¦¦à¦¨">
+<!ENTITY sanitize.key "অপনোদন">
 <!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
 <!ENTITY menu.edit.redo.key "Y">
 <!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
 <!ENTITY menu.control.jumpto.accesskey "J">
 <!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
-<!ENTITY jobprogress.details "à¦¬à§ƒà¦¤à§à¦¤à¦¾à¦¨à§à¦¤">
+<!ENTITY jobprogress.details "বৃত্তান্ত">
 <!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
-<!ENTITY prefs.homepage.label "à¦—à§ƒà¦¹ à¦ªà§ƒà¦·à§à¦ à¦¾">
+<!ENTITY prefs.homepage.label "গৃহ পৃষ্ঠা">
 <!ENTITY menu.file.smart.key "N">
-<!ENTITY menu.file.closetab "à¦¸à¦¾à¦°à¦£à¦ªà¦Ÿ à¦¬à¦¨à§à¦§">
+<!ENTITY menu.file.closetab "সারণপট বন্ধ">
 <!ENTITY device.firmware.wizard.title "Update Firmware">
-<!ENTITY command.device.devicesync.accesskey "à¦à¦¸">
+<!ENTITY command.device.devicesync.accesskey "এস">
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Downloading new firmware…">
-<!ENTITY cdrip.prefpane.format "à¦«à¦°à¦®à§‡à¦Ÿ à¦•à¦°à§à¦¨">
-<!ENTITY smart.mb "à¦®à§‡à¦ƒà¦¬à¦¾à¦ƒ">
-<!ENTITY menu.linux.preferences "à¦ªà§à¦°à¦¿à§Ÿ à¦¨à¦¿à¦°à§à¦§à¦¾à¦°à¦£à¦®à¦¾à¦¨à¦¸à¦®à§‚à¦¹…">
-<!ENTITY menu.file "à¦¸à¦žà§à¦šà¦¿à¦•à¦¾">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware�">
+<!ENTITY cdrip.prefpane.format "ফরমেট করুন">
+<!ENTITY smart.mb "মেঃবাঃ">
+<!ENTITY menu.linux.preferences "প্রিয় নির্ধারণমানসমূহ�">
+<!ENTITY menu.file "সঞ্চিকা">
 <!ENTITY menu.downloadmgr.accesskey "D">
-<!ENTITY import_library.prefs.path_group_caption "à¦¸à¦‚à¦—à§à¦°à¦¹ à¦ªà¦¥">
+<!ENTITY import_library.prefs.path_group_caption "সংগ্রহ পথ">
 <!ENTITY trackeditor.next.button.label "&gt;">
-<!ENTITY tooltip.control.pause "à¦¬à¦¿à¦˜à§à¦¨">
+<!ENTITY tooltip.control.pause "বিঘ্ন">
 <!ENTITY menu.file.open.key "O">
-<!ENTITY device.settings.header.label "à¦¸à§‡à¦Ÿà¦¿à¦‚à¦¸">
-<!ENTITY copySelectionCmd.label "à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¿à¦¤ à¦ªà¦¾à¦ à§‡à¦° à¦ªà§à¦°à¦¤à¦¿à¦²à§‡à¦–à¦¨">
+<!ENTITY device.settings.header.label "সেটিংস">
+<!ENTITY copySelectionCmd.label "নির্বাচিত পাঠের প্রতিলেখন">
 <!ENTITY feed.subscribe.close "Close">
 <!ENTITY device.settings.disk.label "Disk Management">
-<!ENTITY first_run.feedback.email.header.label "à¦†à¦®à¦¾à¦•à§‡ à¦œà¦¾à¦¨à¦¿à§Ÿà§‡ à¦°à¦¾à¦–à§à¦¨">
+<!ENTITY first_run.feedback.email.header.label "আমাকে জানিয়ে রাখুন">
 <!ENTITY equalizer.preset.custom "Custom">
-<!ENTITY import_library.dirty_playlist_dialog.merge "à¦¬à¦°à§à¦¤à¦®à¦¾à¦¨ &brandShortName; à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾à¦° à¦¸à¦¾à¦¥à§‡ à¦†à¦‡à¦Ÿà§à¦¯à§à¦¨à§à¦¸ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾ à¦®à§‡à¦¶à¦¾à¦¨">
+<!ENTITY import_library.dirty_playlist_dialog.merge "বর্তমান &brandShortName; বাদনতালিকার সাথে আইট্যুন্স বাদনতালিকা মেশান">
 <!ENTITY import_tracks_itunes_checkbox "Import music tracks from iTunes">
-<!ENTITY first_run.welcome.header.label "&brandShortName;-à¦ à¦¸à§à¦¸à§à¦¬à¦¾à¦—à¦¤à¦®à§â€Œ">
-<!ENTITY feedback.dialog.title "à¦¸à¦‚à¦¬à¦¾à¦°à§à¦¡à¦•à§‡ à¦‰à¦¨à§à¦¨à¦¤à¦¤à¦° à¦•à¦°à¦¤à§‡ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦•à¦°à§à¦¨!">
-<!ENTITY window.yes "à¦¹à§à¦¯à¦¾à¦">
-<!ENTITY subscribeMediaPageCmd.label "à¦à¦‡ à¦ªà§ƒà¦·à§à¦ à¦¾à¦° à¦—à§à¦°à¦¾à¦¹à¦•à§€ à¦¹à¦¨…">
+<!ENTITY first_run.welcome.header.label "&brandShortName;-এ সুস্বাগতম্‌">
+<!ENTITY feedback.dialog.title "সংবার্ডকে উন্নততর করতে সাহায্য করুন!">
+<!ENTITY window.yes "হ্যাঁ">
+<!ENTITY subscribeMediaPageCmd.label "এই পৃষ্ঠার গ্রাহকী হন�">
 <!ENTITY menu.file.new.key "N">
-<!ENTITY command.device.cancel "à¦¬à¦¾à¦¤à¦¿à¦² à¦•à¦°à§à¦¨">
-<!ENTITY watchfolder.folderlist "à¦¨à¦¤à§à¦¨ à¦¬à¦¹à§à¦®à¦¾à¦§à§à¦¯à¦®à§‡à¦° à¦œà¦¨à§à¦¯ à¦à¦‡ à¦­à¦¾à¦à¦œà¦•à¦—à§à¦²à¦¿à¦•à§‡ à¦¨à¦¿à¦°à§€à¦•à§à¦·à¦£ à¦•à¦°à§à¦¨:">
-<!ENTITY tooltip.control.fwd "à¦ªà¦°à¦¬à¦°à§à¦¤à§€ à¦—à§€à¦¤à¦§à¦¾à¦°à¦¾">
-<!ENTITY restartbox.restartonplaybackend "à¦¬à¦¾à¦¦à§à¦¯à¦šà¦¾à¦²à¦¨à¦¾à¦° à¦¶à§‡à¦·à§‡ à¦ªà§à¦¨à¦ƒà¦¸à§‚à¦šà¦¨à¦¾">
-<!ENTITY playback.prefpane.label "à¦¬à¦¾à¦¦à¦¨à¦šà¦¾à¦²à¦¨à¦¾">
-<!ENTITY command.device.canceldevicedelete.accesskey "à¦¸à¦¿">
+<!ENTITY command.device.cancel "বাতিল করুন">
+<!ENTITY watchfolder.folderlist "নতুন বহুমাধ্যমের জন্য এই ভাঁজকগুলিকে নিরীক্ষণ করুন:">
+<!ENTITY tooltip.control.fwd "পরবর্তী গীতধারা">
+<!ENTITY restartbox.restartonplaybackend "বাদ্যচালনার শেষে পুনঃসূচনা">
+<!ENTITY playback.prefpane.label "বাদনচালনা">
+<!ENTITY command.device.canceldevicedelete.accesskey "সি">
 <!ENTITY albumart.displaypane.contextmenu.showselected "Show Now Selected">
-<!ENTITY import_library.dirty_playlist_dialog.note "à¦¦à§à¦°à¦·à§à¦Ÿà¦¬à§à¦¯: à¦®à¦¿à¦¶à§à¦°à¦£ à¦à¦¬à¦‚ à¦ªà¦°à¦¿à¦¬à¦°à§à¦¤à¦¨ à¦…à¦•à¦°à¦£ à¦•à¦°à¦¾ à¦¯à¦¾à¦¬à§‡ à¦¨à¦¾à¥¤">
-<!ENTITY menu.control.repa "à¦¸à¦¬à¦•à¦Ÿà¦¿à¦° à¦ªà§à¦¨à¦°à¦¾à¦¬à§ƒà¦¤à§à¦¤à¦¿">
-<!ENTITY jumptofile.title "à¦²à¦¾à¦«à¦¿à§Ÿà§‡ à¦¯à¦¾à¦¨ à¦à¦¤à§‡">
-<!ENTITY prefs.homepage.url.label "à¦‡à¦‰à¦†à¦°à¦à¦²:">
+<!ENTITY import_library.dirty_playlist_dialog.note "দ্রষ্টব্য: মিশ্রণ এবং পরিবর্তন অকরণ করা যাবে না।">
+<!ENTITY menu.control.repa "সবকটির পুনরাবৃত্তি">
+<!ENTITY jumptofile.title "লাফিয়ে যান এতে">
+<!ENTITY prefs.homepage.url.label "ইউআরএল:">
 <!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY command.device.renamedevice "à¦ªà§à¦¨à¦ƒà¦¨à¦¾à¦®à¦•à¦°à¦£">
-<!ENTITY smart.least_added "à¦¸à¦°à§à¦¬à¦¨à¦¿à¦®à§à¦¨ à¦¯à§à¦•à§à¦¤">
-<!ENTITY smart.contenttypecondition.video "à¦šà¦²à¦šà§à¦šà¦¿à¦¤à§à¦°">
+<!ENTITY command.device.renamedevice "পুনঃনামকরণ">
+<!ENTITY smart.least_added "সর্বনিম্ন যুক্ত">
+<!ENTITY smart.contenttypecondition.video "চলচ্চিত্র">
 <!ENTITY rapi.playback_control_disable.accesskey "p">
-<!ENTITY downloadMediaCmd.label "à¦…à¦§à¦ƒà¦­à¦°à¦£">
-<!ENTITY command.device.stoprip "à¦¸à¦¿à¦¡à¦¿ à¦¥à§‡à¦•à§‡ à¦—à¦¾à¦¨ à¦•à¦ªà¦¿ à¦¥à¦¾à¦®à¦¾à¦¨">
+<!ENTITY downloadMediaCmd.label "অধঃভরণ">
+<!ENTITY command.device.stoprip "সিডি থেকে গান কপি থামান">
 <!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
-<!ENTITY first_run.add_ons.load_failed.label "à¦‰à¦ªà¦°à§‹à¦§à¦¿à¦¤ à¦¬à¦¿à¦¸à§à¦¤à¦¾à¦°à¦•à¦—à§à¦²à¦¿ à¦ªà§à¦°à¦¾à¦ªà§à¦¤ à¦•à¦°à¦¤à§‡ à¦¬à§à¦¯à¦°à§à¦¥à¥¤">
-<!ENTITY first_run.feedback.description "à¦†à¦®à¦¾à¦¦à§‡à¦°à¦•à§‡ à¦à¦‡ à¦…à¦¨à§à¦ªà§à¦°à§Ÿà§‹à¦—à§‡à¦° à¦†à¦ªà¦¨à¦¾à¦° à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦° à¦¸à¦®à§à¦ªà¦°à§à¦•à¦¿à¦¤ à¦ªà¦°à¦¿à¦¸à¦‚à¦–à§à¦¯à¦¾ à¦“ à¦ªà¦°à¦¿à¦®à¦¾à¦ª à¦°à§‚à¦ªà§‡ à¦ªà§à¦°à¦¤à¦¿à¦ªà§à¦·à§à¦Ÿà¦¿ à¦ªà¦¾à¦ à¦¿à§Ÿà§‡, à¦†à¦ªà¦¨à¦¿ à¦•à¦¿ à¦à¦‡ &brandShortName;à¦•à§‡ à¦‰à¦¨à§à¦¨à¦¤à¦° à¦•à¦°à¦¤à§‡ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦•à¦°à¦¤à§‡ à¦šà¦¾à¦¨?">
-<!ENTITY about.credits.footer.linkText "à¦…à¦¬à¦¦à¦¾à¦¨à¦•à¦¾à¦°à¦¿à¦°à¦¾">
+<!ENTITY first_run.add_ons.load_failed.label "উপরোধিত বিস্তারকগুলি প্রাপ্ত করতে ব্যর্থ।">
+<!ENTITY first_run.feedback.description "আমাদেরকে এই অনুপ্রয়োগের আপনার ব্যবহার সম্পর্কিত পরিসংখ্যা ও পরিমাপ রূপে প্রতিপুষ্টি পাঠিয়ে, আপনি কি এই &brandShortName;কে উন্নতর করতে সাহায্য করতে চান?">
+<!ENTITY about.credits.footer.linkText "অবদানকারিরা">
 <!ENTITY device.tools.update_firmware.title "Update Firmware">
-<!ENTITY locale.language "à¦­à¦¾à¦·à¦¾">
-<!ENTITY cdrip.mediaview.stop_rip_button "à¦¸à¦¿à¦¡à¦¿ à¦¥à§‡à¦•à§‡ à¦—à¦¾à¦¨ à¦•à¦ªà¦¿ à¦¥à¦¾à¦®à¦¾à¦¨">
+<!ENTITY locale.language "ভাষা">
+<!ENTITY cdrip.mediaview.stop_rip_button "সিডি থেকে গান কপি থামান">
 <!ENTITY copySelectionCmd.accesskey "c">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
 <!ENTITY first_run.itunes.description "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
 <!ENTITY subscribeMediaPageCmd.accesskey "u">
 <!ENTITY menu.file.scan.accesskey "M">
-<!ENTITY first_run.itunes.header.label "à¦†à¦®à¦¦à¦¾à¦¨à¦¿">
-<!ENTITY albumart.coverpreview.title "à¦…à§à¦¯à¦¾à¦²à¦¬à¦¾à¦® à¦†à¦°à§à¦Ÿ">
+<!ENTITY first_run.itunes.header.label "আমদানি">
+<!ENTITY albumart.coverpreview.title "অ্যালবাম আর্ট">
 <!ENTITY playback.prefpane.normalization.label "Normalization">
 <!ENTITY menu.mac.hide.key "H">
 <!ENTITY menu.file.url.accesskey "A">
 <!ENTITY first_run.itunes.checkbox.export.label "Export new music tracks and playlists to iTunes">
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
 <!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
-<!ENTITY smart.match "à¦¤à§à¦²à¦¨à¦¾">
+<!ENTITY smart.match "তুলনা">
 <!ENTITY export_tracks_itunes_checkbox "Export music tracks to iTunes">
 <!ENTITY cdrip.prefpane.quality "Quality">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "à¦¨à¦¤à§à¦¨ à¦¬à¦¾à¦¦à¦¨à¦¤à¦¾à¦²à¦¿à¦•à¦¾">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "নতুন বাদনতালিকা">
 <!ENTITY trackeditor.key2 "I">
 <!ENTITY menu.edit.findagain.accesskey "G">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">

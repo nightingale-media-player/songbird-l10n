@@ -1,51 +1,51 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
 %brandDTD;
-<!ENTITY wizard.button.next.label "à®¤à¯Šà®Ÿà®°à¯">
+<!ENTITY wizard.button.next.label "தொடர்">
 <!ENTITY umsd.prefpane "USB">
 <!ENTITY umsd.music.music_ext_desc "Copy music files with the following extensions to the device:">
 <!ENTITY menu.errorconsole "Error Console">
-<!ENTITY menu.edit.paste "à®’à®Ÿà¯à®Ÿà¯">
-<!ENTITY tooltip.hide "à®®à®±à¯ˆ">
+<!ENTITY menu.edit.paste "ஒட்டு">
+<!ENTITY tooltip.hide "மறை">
 <!ENTITY tooltip.browser.subscription "Subscribe to this page">
-<!ENTITY smart.playlistcondition.library "à®¨à¯‚à®²à®•à®®à¯">
-<!ENTITY menu.help.bugz "Report a Bug…">
+<!ENTITY smart.playlistcondition.library "நூலகம்">
+<!ENTITY menu.help.bugz "Report a Bug�">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
 <!ENTITY equalizer.band3.label "250">
-<!ENTITY videowindow.actualsize "à®‰à®£à¯à®®à¯ˆà®¯à®¾à®© à®…à®³à®µà¯ ">
+<!ENTITY videowindow.actualsize "உண்மையான அளவு ">
 <!ENTITY trackeditor.title "Metadata Editor">
 <!ENTITY menu.mac.minimize.key "M">
-<!ENTITY menu.edit.selall "à®Žà®²à¯à®²à®¾à®®à¯ à®¤à¯‡à®°à¯à®¨à¯à®¤à¯†à®Ÿà¯">
+<!ENTITY menu.edit.selall "எல்லாம் தேர்ந்தெடு">
 <!ENTITY device.tools.restore_device.label "Restore device to factory settings">
-<!ENTITY addMediaToPlaylistCmd.label "à®‡à®šà¯ˆà®ªà¯à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à®¿à®±à¯à®•à¯  à®ªà®¤à®¿à®µà®¿à®±à®•à¯à®•à¯">
+<!ENTITY addMediaToPlaylistCmd.label "இசைப்பட்டியலிற்கு  பதிவிறக்கு">
 <!ENTITY equalizer.band9.label "16K">
-<!ENTITY smart.artist "à®•à®²à¯ˆà®žà®°à¯">
+<!ENTITY smart.artist "கலைஞர்">
 <!ENTITY menu.file.metadata.accesskey "V">
 <!ENTITY menu.edit.redo.accesskey "R">
 <!ENTITY mediacore.error.preface "&brandShortName; has encountered the following playback error(s):">
-<!ENTITY hotkeys.set "à®¨à®¿à®±à¯à®µà¯">
+<!ENTITY hotkeys.set "நிறுவு">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
-<!ENTITY fetch_album_art.dialog.title "à®šà¯à®µà®°à¯Šà®Ÿà¯à®Ÿà®¿à®¯à¯ˆ à®ªà¯†à®±à¯">
-<!ENTITY menu.controls "à®•à®Ÿà¯à®Ÿà¯à®ªà®¾à®Ÿà¯à®•à®³à¯">
-<!ENTITY tooltip.control.resume "à®¤à¯Šà®Ÿà®°à¯">
-<!ENTITY feedback.dialog.no "à®‡à®²à¯à®²à¯ˆ">
-<!ENTITY equalizer.preset.party "à®•à¯Šà®£à¯à®Ÿà®¾à®Ÿà¯à®Ÿà®®à¯ ">
+<!ENTITY fetch_album_art.dialog.title "சுவரொட்டியை பெறு">
+<!ENTITY menu.controls "கட்டுபாடுகள்">
+<!ENTITY tooltip.control.resume "தொடர்">
+<!ENTITY feedback.dialog.no "இல்லை">
+<!ENTITY equalizer.preset.party "கொண்டாட்டம் ">
 <!ENTITY downloadmgr.key "J">
 <!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY device.capacity.free.label "à®•à®¾à®²à®¿">
+<!ENTITY device.capacity.free.label "காலி">
 <!ENTITY playMediaCmd.accesskey "p">
 <!ENTITY hotkeys.info "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.
 
 Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications.">
-<!ENTITY device.capacity.music.label "à®‡à®šà¯ˆ">
+<!ENTITY device.capacity.music.label "இசை">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
-<!ENTITY tooltip.browser.stop "à®‰à®²à®¾à®µà®¿à®¯à¯ˆ à®¨à®¿à®±à¯à®¤à¯à®¤à¯">
+<!ENTITY tooltip.browser.stop "உலாவியை நிறுத்து">
 <!ENTITY menu.mac.preferences.key ",">
 <!ENTITY equalizer.band0.label "32">
-<!ENTITY albumart.displaypane.selected.menu.cut "à®µà¯†à®Ÿà¯à®Ÿà¯">
+<!ENTITY albumart.displaypane.selected.menu.cut "வெட்டு">
 <!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
-<!ENTITY subscribe.title "à®šà®¨à¯à®¤à®¾à®šà¯‡à®°à¯ ">
+<!ENTITY subscribe.title "சந்தாசேர் ">
 <!ENTITY songbird "&brandShortName;">
-<!ENTITY smart.window "à®šà®¿à®±â€Œà®ªà¯à®ªà®¾à®©â€Œ à®‡à®šà¯ˆà®ªà¯à®ªâ€Œà®Ÿà¯à®Ÿà®¿à®¯â€Œà®²à¯">
+<!ENTITY smart.window "சிற‌ப்பான‌ இசைப்ப‌ட்டிய‌ல்">
 <!ENTITY openImageCmdInDefaultBrowser.label "Open Image In Default Web Browser">
 <!ENTITY menu.help.about.accesskey "A">
 <!ENTITY menu.file.podcast.accesskey "P">
@@ -54,166 +54,166 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
 <!ENTITY equalizer.band6.label "2K">
 <!ENTITY first_run.feedback.email.textbox.emptytext "enter your email to stay up-to-date">
-<!ENTITY trackeditor.addtag.title "à®•à¯à®±à®¿à®¯à¯ˆ à®šà¯‡à®°à¯">
+<!ENTITY trackeditor.addtag.title "குறியை சேர்">
 <!ENTITY first_run.DLNA.description "The Songbird Media Server allows you to share your &brandShortName; library (music and videos) with selected devices in your home network.">
 <!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
-<!ENTITY prefs.security.addons.label "à®šà¯†à®°à¯à®•à®²à¯ à®¨à®¿à®±à¯à®µà®²à¯">
+<!ENTITY prefs.security.addons.label "செருகல் நிறுவல்">
 <!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
 <!ENTITY menu.control.repa.accesskey "A">
 <!ENTITY device.tools.product_registration.label "Register product">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
 <!ENTITY locationbar.key2 "D">
-<!ENTITY device.info.playback_formats.label "à®•à¯‹à®ªà¯à®ªà¯ à®µà®Ÿà®¿à®µà®®à¯ ">
-<!ENTITY smart.high_rating "à®¤â€Œà®°â€Œà®¤à¯à®¤à®¿à®²à¯ à®‰à®¯à®°à¯à®¨à¯à®¤â€Œà®µà¯ˆ">
+<!ENTITY device.info.playback_formats.label "கோப்பு வடிவம் ">
+<!ENTITY smart.high_rating "த‌ர‌த்தில் உயர்ந்த‌வை">
 <!ENTITY searchFocus.key "K">
 <!ENTITY menu.mac.hideothers "Hide Others">
 <!ENTITY menu.edit.find.accesskey "F">
-<!ENTITY device.info.friendly_name.label "à®ªà¯†à®¯à®°à¯">
+<!ENTITY device.info.friendly_name.label "பெயர்">
 <!ENTITY device.unsupported_media.dialog.title "Incompatible Files Detected">
-<!ENTITY cdrip.mediaview.format_label "à®µâ€Œà®Ÿà®¿à®µâ€Œà®®à¯ˆà®¤à¯à®¤â€Œà®²à¯:">
-<!ENTITY about.credits.heading.translators "à®®à¯Šà®´à®¿à®ªà¯†à®¯à®°à¯à®ªà®¾à®³à®°à¯à®•à®³à¯">
-<!ENTITY menu.view "à®ªà®¾à®°à¯à®µà¯ˆ">
-<!ENTITY menu.preferences "à®¤à¯†à®°à®¿à®µà¯à®•à®³à¯">
-<!ENTITY command.device.canceldevicedelete "à®…à®´à®¿à®¤à¯à®¤à®²à¯ˆ à®°à®¤à¯à®¤à¯ à®šà¯†à®¯à¯">
+<!ENTITY cdrip.mediaview.format_label "வ‌டிவ‌மைத்த‌ல்:">
+<!ENTITY about.credits.heading.translators "மொழிபெயர்பாளர்கள்">
+<!ENTITY menu.view "பார்வை">
+<!ENTITY menu.preferences "தெரிவுகள்">
+<!ENTITY command.device.canceldevicedelete "அழித்தலை ரத்து செய்">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-<!ENTITY wizard.button.finish.label "à®®à¯à®Ÿà®¿">
+<!ENTITY wizard.button.finish.label "முடி">
 <!ENTITY menu.file.smart.accesskey "S">
 <!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
 <!ENTITY device.dialog.wait_for_completion.msg "Waiting for all device operations to complete.  Click &quot;Quit&quot; to stop waiting and quit application.">
-<!ENTITY device.sync.playlist.title "à®¤à®²à¯ˆà®ªà¯à®ªà¯ ">
+<!ENTITY device.sync.playlist.title "தலைப்பு ">
 <!ENTITY hotkeys.useglobalhotkeys "Use Global Hotkeys">
 <!ENTITY subscribe.destinationfolder "Select destination folder:">
 <!ENTITY playqueue.label "Play Queue">
 <!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
 <!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
 <!ENTITY currentTrackCmd.commandKey "L">
-<!ENTITY menu.control.repx "à®¤à®¿à®°à¯à®®à¯à®ªà®¿ à®ªà®¾à®Ÿà®¾à®¤à¯‡">
+<!ENTITY menu.control.repx "திரும்பி பாடாதே">
 <!ENTITY command.device.canceldevicesync.accesskey "C">
 <!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
-<!ENTITY about.version "à®ªà®¤à®¿à®ªà¯à®ªà¯ ">
+<!ENTITY about.version "பதிப்பு ">
 <!ENTITY umsd.video.video_path_desc "When copying video files to the device, place them within the following directory:">
 <!ENTITY smart.low_rating "lowest rating">
-<!ENTITY device.capacity.other.label "à®®à®±à¯à®±à®µà¯ˆ">
+<!ENTITY device.capacity.other.label "மற்றவை">
 <!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
-<!ENTITY setupprogress.cancel "à®°à®¤à¯à®¤à¯">
-<!ENTITY albumart.displaypane.selected.menu.paste "à®’à®Ÿà¯à®Ÿà¯">
+<!ENTITY setupprogress.cancel "ரத்து">
+<!ENTITY albumart.displaypane.selected.menu.paste "ஒட்டு">
 <!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
 <!ENTITY command.device.rip "Rip CD">
 <!ENTITY trackeditor.prev.accesskey "P">
-<!ENTITY tabs.closeTab "à®¤à®¤à¯à®¤à®™à¯à®•à®³à¯ˆ à®®à¯‚à®Ÿà¯">
-<!ENTITY menu.edit.undo "à®…-à®šà¯†à®¯à¯">
-<!ENTITY first_run.add_ons.loading.label "à®ªà®°à®¿à®¨à¯à®¤à¯à®°à¯ˆà®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®Ÿ à®šà¯†à®°à¯à®•à®²à¯à®•à®³à¯ˆ à®ªà¯†à®±à¯à®•à®¿à®±à®¤à¯">
-<!ENTITY command.device.formatdevice "à®µâ€Œà®Ÿà®¿à®µâ€Œà®®à¯ˆà®¤à¯à®¤â€Œà®²à¯">
-<!ENTITY albumart.displaypane.selected.menu.clear "à®¤à¯à®Ÿà¯ˆ">
-<!ENTITY import_playlists_itunes_checkbox "à®‡à®šà¯ˆà®ªà¯à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à¯à®•à®³à¯ˆ à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®šà¯†à®¯à¯">
-<!ENTITY menu.edit.cut "à®µà¯†à®Ÿà¯à®Ÿà¯">
+<!ENTITY tabs.closeTab "தத்தங்களை மூடு">
+<!ENTITY menu.edit.undo "அ-செய்">
+<!ENTITY first_run.add_ons.loading.label "பரிந்துரைக்கப்பட்ட செருகல்களை பெறுகிறது">
+<!ENTITY command.device.formatdevice "வ‌டிவ‌மைத்த‌ல்">
+<!ENTITY albumart.displaypane.selected.menu.clear "துடை">
+<!ENTITY import_playlists_itunes_checkbox "இசைப்பட்டியல்களை இறக்குமதி செய்">
+<!ENTITY menu.edit.cut "வெட்டு">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
-<!ENTITY tooltip.control.play "à®‡à®šà¯ˆ">
-<!ENTITY tooltip.browser.mediapages "Switch Media Views…">
+<!ENTITY tooltip.control.play "இசை">
+<!ENTITY tooltip.browser.mediapages "Switch Media Views�">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
-<!ENTITY device.info.battery.label "à®®à®¿à®©à¯à®•à®²à®®à¯">
-<!ENTITY menu.edit.delete "à®…à®´à®¿">
-<!ENTITY import_library.dialog.title "à®¨à¯‚à®²à®•à®¤à¯à®¤à¯ˆ à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®šà¯†à®¯à¯">
+<!ENTITY device.info.battery.label "மின்கலம்">
+<!ENTITY menu.edit.delete "அழி">
+<!ENTITY import_library.dialog.title "நூலகத்தை இறக்குமதி செய்">
 <!ENTITY jumpto.key "J">
 <!ENTITY smart.following "of the following conditions:">
 <!ENTITY menu.mac.exit.modifiers "accel">
-<!ENTITY device.settings.disk.management.filename "à®ªà®¾à®Ÿà¯à®Ÿà¯ à®•à¯‹à®ªà¯à®ªà¯à®•à®³à¯">
+<!ENTITY device.settings.disk.management.filename "பாட்டு கோப்புகள்">
 <!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
 <!ENTITY mediapage.next.key "S">
-<!ENTITY device.management.tabs.video.label "à®¨à®¿à®•à®´à¯à®ªà¯à®ªà®Ÿà®®à¯ ">
-<!ENTITY albumartpreferences.prefpane.priorities.down "à®•à¯€à®´à¯ ">
-<!ENTITY command.device.getdeviceinfo "à®¤à®•à®µà®²à¯ˆ à®ªà¯†à®±à¯">
+<!ENTITY device.management.tabs.video.label "நிகழ்ப்படம் ">
+<!ENTITY albumartpreferences.prefpane.priorities.down "கீழ் ">
+<!ENTITY command.device.getdeviceinfo "தகவலை பெறு">
 <!ENTITY rapi.library_write_disable.label "Block websites from adding/editing media and playlists in my Library and devices">
 <!ENTITY first_run.feedback.email.description "Subscribe to our newsletter to hear about new releases and important updates.">
 <!ENTITY device.sync.images.filecount "Photos">
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
-<!ENTITY device.sync.header.label "à®’à®¤à¯à®¤à®¿à®šà¯ˆ à®…à®®à¯ˆà®ªà¯à®ªà¯à®•à®³à¯">
-<!ENTITY first_run.import_media.radio.dont_import.label "à®Šà®Ÿà®•à®¤à¯à®¤à¯ˆ à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®šà¯†à®¯à¯à®¯à®¾à®¤à¯‡">
-<!ENTITY feedback.dialog.yes "à®†à®®à¯">
-<!ENTITY about.buttons.credits "à®‰à®ªà®¯à®®à¯">
-<!ENTITY device.firmware.wizard.check.progress.title "à®ªà¯à®¤à®¿à®¯â€Œ à®®à¯†à®©à¯à®ªà¯Šà®°à¯à®³à¯ à®‰à®³à¯à®³â€Œà®¤à®¾..">
+<!ENTITY device.sync.header.label "ஒத்திசை அமைப்புகள்">
+<!ENTITY first_run.import_media.radio.dont_import.label "ஊடகத்தை இறக்குமதி செய்யாதே">
+<!ENTITY feedback.dialog.yes "ஆம்">
+<!ENTITY about.buttons.credits "உபயம்">
+<!ENTITY device.firmware.wizard.check.progress.title "புதிய‌ மென்பொருள் உள்ள‌தா..">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "Select the device directory in which to place music files.">
-<!ENTITY tooltip.maximize "à®ªà¯†à®°à®¿à®¤à®¾à®•à¯à®•à¯/à®®à¯€à®Ÿà¯à®Ÿà¯†à®Ÿà¯">
+<!ENTITY tooltip.maximize "பெரிதாக்கு/மீட்டெடு">
 <!ENTITY first_run.DLNA.name "Songbird Media Server">
 <!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
-<!ENTITY window.save "à®šà¯‡à®®à®¿">
-<!ENTITY window.no "à®‡à®²à¯à®²à¯ˆ">
-<!ENTITY tooltip.servicepane.newnode "à®ªà¯à®¤à®¿à®¯ à®‡à®šà¯ˆà®ªà¯à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à¯">
+<!ENTITY window.save "சேமி">
+<!ENTITY window.no "இல்லை">
+<!ENTITY tooltip.servicepane.newnode "புதிய இசைப்பட்டியல்">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Open Frame In Default Web Browser">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "à®ªà¯à®¤à®¿à®¯ à®‡à®šà¯ˆà®ªà¯à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à¯…">
+<!ENTITY menu.file.new "புதிய இசைப்பட்டியல்�">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
-<!ENTITY watch_folder.prefs.watch_folder_label "à®…à®Ÿà¯ˆà®µà¯:">
-<!ENTITY smart.autoupdate "à®¤à®¾à®©à®¾à®•â€Œ à®ªà¯à®¤à¯à®ªà¯à®ªà®¿">
+<!ENTITY watch_folder.prefs.watch_folder_label "அடைவு:">
+<!ENTITY smart.autoupdate "தானாக‌ புதுப்பி">
 <!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file&apos;s file metadata.">
-<!ENTITY menu.help.keyboard "à®µà®¿à®šà¯ˆà®ªà¯à®ªà®²à®•à¯ˆ à®•à¯à®±à¯à®•à¯à®•à¯ à®µà®´à®¿à®•à®³à¯">
-<!ENTITY albumartpreferences.prefpane.search_file_names.label "à®•à¯‹à®ªà¯à®ªà¯à®•à®³à¯ˆ à®¤à¯‡à®Ÿà¯:">
-<!ENTITY menu.control.prev "à®®à¯à®¨à¯à®¤à¯ˆà®¯ à®ªà®¾à®Ÿà®²à¯">
+<!ENTITY menu.help.keyboard "விசைப்பலகை குறுக்கு வழிகள்">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "கோப்புகளை தேடு:">
+<!ENTITY menu.control.prev "முந்தைய பாடல்">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
-<!ENTITY window.apply "à®šà¯†à®¯à®±à¯à®ªà®Ÿà¯à®¤à¯à®¤à¯ ">
-<!ENTITY menu.file.smart "New Smart Playlist…">
+<!ENTITY window.apply "செயற்படுத்து ">
+<!ENTITY menu.file.smart "New Smart Playlist�">
 <!ENTITY menu.edit.cut.key "X">
-<!ENTITY device.error.dialog.link "à®¤à®µà®±à¯à®•à®³à®¿à®©à¯ à®µà®¿à®µà®°à®¤à¯à®¤à¯ˆ à®ªà®¾à®°à¯">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
+<!ENTITY device.error.dialog.link "தவறுகளின் விவரத்தை பார்">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware�">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
-<!ENTITY menu.control.pause.button "à®‡à®Ÿà¯ˆà®¨à®¿à®±à¯à®¤à¯à®¤à¯">
-<!ENTITY trackeditor.tab.summary.title "à®šà¯à®°à¯à®•à¯à®•à®®à¯">
-<!ENTITY playMediaCmd.label "à®‡à®šà¯ˆ">
+<!ENTITY menu.control.pause.button "இடைநிறுத்து">
+<!ENTITY trackeditor.tab.summary.title "சுருக்கம்">
+<!ENTITY playMediaCmd.label "இசை">
 <!ENTITY menu.help.homepage.accesskey "W">
 <!ENTITY cdrip.mediaview.rip.key "C">
 <!ENTITY tooltip.browser.back "Browse Back">
 <!ENTITY menu.file.url.key "U">
 <!ENTITY menu.edit.undo.key "Z">
 <!ENTITY menu.edit.paste.key "V">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;à®‡à®šà¯ˆà®ªà¯à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à¯à®•à®³à¯ à®‡à®²à¯à®²à¯ˆ&gt;">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;இசைப்பட்டியல்கள் இல்லை&gt;">
 <!ENTITY equalizer.title "Equalizer">
-<!ENTITY import_library.import_command "à®¨à¯‚à®²à®•à®¤à¯à®¤à¯ˆ à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®šà¯†à®¯à¯">
-<!ENTITY cdrip.mediaview.view_tracks_button "à®ªà®¾à®Ÿà®²à¯à®•à®³à¯ˆ à®ªà®¾à®°à¯">
-<!ENTITY window.browse "à®‰à®²à®¾à®µà¯…">
+<!ENTITY import_library.import_command "நூலகத்தை இறக்குமதி செய்">
+<!ENTITY cdrip.mediaview.view_tracks_button "பாடல்களை பார்">
+<!ENTITY window.browse "உலாவு�">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
-<!ENTITY smart.songs "à®‰à®°à¯à®ªà¯à®ªà®Ÿà®¿à®•à®³à¯">
-<!ENTITY menu.tools.getartwork "à®šà¯à®µà®°à¯Šà®Ÿà¯à®Ÿà®¿à®¯à¯ˆ à®ªà¯†à®±à¯…">
-<!ENTITY window.cancel "à®°à®¤à¯à®¤à¯">
-<!ENTITY smart.genre "à®•à¯à®´à¯ à®µâ€Œà®•à¯ˆ">
+<!ENTITY smart.songs "உருப்படிகள்">
+<!ENTITY menu.tools.getartwork "சுவரொட்டியை பெறு�">
+<!ENTITY window.cancel "ரத்து">
+<!ENTITY smart.genre "குழு வ‌கை">
 <!ENTITY menu.file.playlist.accesskey "I">
 <!ENTITY hotkeys.hotkey "Hotkey">
 <!ENTITY first_run.feedback.header.label "Help Make &brandShortName; Better">
 <!ENTITY menu.edit.selall.accesskey "A">
 <!ENTITY export_smartplaylists_itunes_checkbox "Export music smart playlists">
 <!ENTITY device.tools.support.label "View support resources">
-<!ENTITY import_library.prefs.options_group_caption "à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®¤à¯†à®°à®¿à®µà¯à®•à®³à¯">
+<!ENTITY import_library.prefs.options_group_caption "இறக்குமதி தெரிவுகள்">
 <!ENTITY equalizer.preset.reggae "Reggae">
 <!ENTITY equalizer.on.checkbox "On">
 <!ENTITY menu.file.remote.accesskey "R">
-<!ENTITY first_run.eula.language.label "à®®à¯Šà®´à®¿">
-<!ENTITY device.settings.disk.management.label "à®•à¯‹à®ªà¯à®ªà¯ à®…à®®à¯ˆà®ªà¯à®ªà¯ˆ à®¤à¯‡à®°à¯à®¨à¯à®¤à¯†à®Ÿà¯ ">
-<!ENTITY cdrip.lookup.multiple.description "à®‡à®¤à®¿à®²à®¿à®°à¯à®¨à¯à®¤à¯ à®’à®©à¯à®±à¯ˆ à®¤à¯‡à®°à¯à®¨à¯à®¤à¯†à®Ÿà¯à®•à¯à®•à®µà¯à®®à¯ à®…à®²à¯à®²à®¤à¯ à®‰à®™à¯à®•à®³à¯ à®¤à®•à®µà®²à¯à®•à®³à¯ˆ à®šà¯‡à®°à¯à®•à¯à®•à®µà¯à®®à¯.">
+<!ENTITY first_run.eula.language.label "மொழி">
+<!ENTITY device.settings.disk.management.label "கோப்பு அமைப்பை தேர்ந்தெடு ">
+<!ENTITY cdrip.lookup.multiple.description "இதிலிருந்து ஒன்றை தேர்ந்தெடுக்கவும் அல்லது உங்கள் தகவல்களை சேர்க்கவும்.">
 <!ENTITY command.device.getdeviceinfo.accesskey "I">
-<!ENTITY enable_recommended_addons_update.label "à®ªà®°à®¿à®¨à¯à®¤à¯à®°à¯ˆà®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®Ÿ à®šà¯†à®°à¯à®•à®²à¯à®•à®³à¯">
-<!ENTITY tooltip.search "à®¤à¯‡à®Ÿà¯">
-<!ENTITY recommended_add_ons.title "&brandShortName; à®¨à®¿à®±à¯à®µà®²à¯">
+<!ENTITY enable_recommended_addons_update.label "பரிந்துரைக்கப்பட்ட செருகல்கள்">
+<!ENTITY tooltip.search "தேடு">
+<!ENTITY recommended_add_ons.title "&brandShortName; நிறுவல்">
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
-<!ENTITY watchfolder.title "à®…à®Ÿà¯ˆà®µà¯à®•à®³à¯ˆ à®ªà®¾à®°à¯">
-<!ENTITY rapi.whitelist.label "Exceptions…">
+<!ENTITY watchfolder.title "அடைவுகளை பார்">
+<!ENTITY rapi.whitelist.label "Exceptions�">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "à®‡à®Ÿà®¤à¯à®¤à¯ˆ à®¤à®¿à®±…">
-<!ENTITY menu.downloadmgr "à®•à¯‹à®ªà¯à®ªà¯ à®ªà®¤à®¿à®µà®¿à®±à®•à¯à®•à®™à¯à®•à®³à¯">
+<!ENTITY menu.file.url "இடத்தை திற�">
+<!ENTITY menu.downloadmgr "கோப்பு பதிவிறக்கங்கள்">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
-<!ENTITY cdrip.lookup.info_not_found.title "à®•à¯à®±à¯à®¨à¯à®¤à®•à®Ÿà¯ à®µà®¿à®µà®°à®®à¯ à®•à®¿à®Ÿà¯ˆà®•à¯à®•à®µà®¿à®²à¯à®²à¯ˆ">
+<!ENTITY cdrip.lookup.info_not_found.title "குறுந்தகடு விவரம் கிடைக்கவில்லை">
 <!ENTITY equalizer.band2.label "125">
 <!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
 <!ENTITY device.firmware.wizard.repair.warning "Unfortunately, any existing content on your device &lt;strong class=&quot;loss-of-data-text&quot;&gt;will be erased&lt;/strong&gt;. You are advised to re-sync with &brandShortName; once this operation is completed.">
 <!ENTITY cdrip.mediaview.rip_cd_button "Rip CD">
-<!ENTITY wizard.button.cancel.label "à®°à®¤à¯à®¤à¯">
-<!ENTITY tooltip.control.shuffle "à®•à¯à®²à¯à®•à¯à®•à¯">
+<!ENTITY wizard.button.cancel.label "ரத்து">
+<!ENTITY tooltip.control.shuffle "குலுக்கு">
 <!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY menu.control.prev.accesskey "R">
 <!ENTITY menu.control.shuf.accesskey "S">
@@ -223,38 +223,38 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
-<!ENTITY trackeditor.tab.edit.title "à®ªà®£à¯à®ªà¯à®•à®³à¯">
+<!ENTITY trackeditor.tab.edit.title "பண்புகள்">
 <!ENTITY rapi.playback_read_disable.label "Block websites from viewing information about playing media">
 <!ENTITY menu.tools.reveal.modifiers "accel,shift">
-<!ENTITY menu.mac.hide "à®®à¯à®±à¯ˆ &brandShortName;">
-<!ENTITY device.sync.sync_all.label "à®Žà®²à¯à®² à®‡à®šà¯ˆà®•à®³à¯, à®¨à®¿à®•à®´à¯à®ªà®Ÿà®™à¯à®•à®³à¯, à®‡à®šà¯ˆà®ªà¯à®ªà®Ÿà®¿à®¯à®²à¯à®•à®³à¯">
-<!ENTITY cdrip.mediaview.quality_label "à®¤à®°à®®à¯:">
-<!ENTITY albumart.displaypane.selected.menu.copy "à®¨à®•à®²à¯†à®Ÿà¯">
-<!ENTITY subscribe.days "à®¨à®¾à®³à¯(à®•à®³à¯)">
+<!ENTITY menu.mac.hide "முறை &brandShortName;">
+<!ENTITY device.sync.sync_all.label "எல்ல இசைகள், நிகழ்படங்கள், இசைப்படியல்கள்">
+<!ENTITY cdrip.mediaview.quality_label "தரம்:">
+<!ENTITY albumart.displaypane.selected.menu.copy "நகலெடு">
+<!ENTITY subscribe.days "நாள்(கள்)">
 <!ENTITY smart.least_often "least often played">
-<!ENTITY playback.prefpane.normalization.preferredGain.album "à®¤à®¿à®°à¯ˆà®ªà¯à®ªà®Ÿà®®à¯">
-<!ENTITY albumartpreferences.prefpane.priorities.label "à®¤à®¿à®°à¯ˆà®ªà¯à®ªà®Ÿ à®šà¯à®µà®°à¯†à®¾à®Ÿà¯à®Ÿà®¿ à®µâ€Œà®°à®¿à®šà¯ˆ">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "திரைப்படம்">
+<!ENTITY albumartpreferences.prefpane.priorities.label "திரைப்பட சுவரொட்டி வ‌ரிசை">
 <!ENTITY mediacore.error.stop "Stop Playback">
 <!ENTITY menu.file.mini.key "M">
-<!ENTITY equalizer.preset.dance "à®¨à®Ÿà®©à®®à¯ ">
-<!ENTITY albumart.displaypane.not_playing_message "à®Žà®¤à¯ˆà®¯à¯à®®à¯ à®‡à®šà¯ˆà®•à¯à®•à®µà®¿à®²à¯à®²à¯ˆ">
+<!ENTITY equalizer.preset.dance "நடனம் ">
+<!ENTITY albumart.displaypane.not_playing_message "எதையும் இசைக்கவில்லை">
 <!ENTITY textbox.songbird_open_url "Enter the URL or path of the media you wish to playback:">
 <!ENTITY search.key "F">
-<!ENTITY prefpane.addons.label "à®šà¯†à®°à¯à®•à®²à¯à®•à®³à¯">
+<!ENTITY prefpane.addons.label "செருகல்கள்">
 <!ENTITY menu.view.accesskey "V">
 <!ENTITY menu.mac.preferences.modifiers "accel">
 <!ENTITY bookmarkPage.key "D">
-<!ENTITY device.management.tabs.settings.label "à®…à®®à¯ˆà®ªà¯à®ªà¯à®•à®³à¯">
-<!ENTITY cdrip.mediaview.settings_button "à®…à®®à¯ˆà®ªà¯à®ªà¯à®•à®³à¯">
-<!ENTITY cdinfo.other.label "à®‰à®™à¯à®•à®³à¯ à®ªà®¾à®Ÿà®•à®°à¯ à®®à®±à¯à®±à¯à®®à¯ à®ªà®¾à®Ÿà®²à¯à®¤à¯à®¤à¯Šà®•à¯à®ªà¯à®ªà®¿à®©à¯ à®¤à®•à®µà®²à¯à®•à®³à¯ˆ à®…à®³à®¿à®•à¯à®•à®µà¯à®®à¯.">
+<!ENTITY device.management.tabs.settings.label "அமைப்புகள்">
+<!ENTITY cdrip.mediaview.settings_button "அமைப்புகள்">
+<!ENTITY cdinfo.other.label "உங்கள் பாடகர் மற்றும் பாடல்த்தொகுப்பின் தகவல்களை அளிக்கவும்.">
 <!ENTITY equalizer.band5.label "1K">
 <!ENTITY first_run.connection.header.label "&brandShortName; Cannot Connect to the Internet">
 <!ENTITY equalizer.key "E">
-<!ENTITY menu.control.stop.button "à®¨à®¿à®±à¯à®¤à¯à®¤à¯">
+<!ENTITY menu.control.stop.button "நிறுத்து">
 <!ENTITY equalizer.preset.soft_rock "Soft Rock">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "Apply selection to all playlists">
 <!ENTITY menu.control.pause.accesskey "P">
-<!ENTITY umsd.video.video_files_group "à®’à®³à®¿à®•à¯à®•à®¾à®Ÿà¯à®šà®¿ à®•à¯‹à®ªà¯à®ªà¯à®•à®³à¯">
+<!ENTITY umsd.video.video_files_group "ஒளிக்காட்சி கோப்புகள்">
 <!ENTITY tooltip.browser.fwd "Browse Forward">
 <!ENTITY command.device.stoprip.accesskey "S">
 <!ENTITY servicepane.title.label "Service Pane">
@@ -262,50 +262,50 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
 <!ENTITY menu.control.repx.accesskey "E">
 <!ENTITY menu.controls.accesskey "C">
-<!ENTITY command.device.ejectcddevice "CDà®¯à¯ˆ à®µà¯†à®³à®¿à®¯à¯‡à®±à¯à®±à¯">
-<!ENTITY cdrip.mediaview.eject_cd_button "CDà®¯à¯ˆ à®µà¯†à®³à®¿à®¯à¯‡à®±à¯à®±à¯">
-<!ENTITY device.dialog.setup.explainIgnore.linkText "à®‡à®¨à¯à®¤ à®šà®¾à®¤à®©à®¤à¯à®¤à¯ˆ à®ªà¯à®±à®•à¯à®•à®£à®¿">
+<!ENTITY command.device.ejectcddevice "CDயை வெளியேற்று">
+<!ENTITY cdrip.mediaview.eject_cd_button "CDயை வெளியேற்று">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "இந்த சாதனத்தை புறக்கணி">
 <!ENTITY tooltip.displaypane.options "Content Pane Options">
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
-<!ENTITY menu.mac.preferences "à®µà®¿à®°à¯à®ªà¯à®ªà®™à¯à®•à®³à¯">
+<!ENTITY menu.mac.preferences "விருப்பங்கள்">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Replace this &brandShortName; playlist with the current iTunes playlist">
 <!ENTITY device.tools.reset_warnings.title "Reset warnings">
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
-<!ENTITY menu.control.next "à®…à®Ÿà¯à®¤à¯à®¤ à®ªà®¾à®Ÿà®²à¯">
+<!ENTITY menu.control.next "அடுத்த பாடல்">
 <!ENTITY umsd.video.video_path_browse_msg "Select the device directory in which to place video files.">
-<!ENTITY setupprogress.pleasewait "à®¤à®¯à®µà¯à®šà¯†à®¯à¯à®¤à¯ à®•à®¾à®¤à¯à®¤à®¿à®°à¯à®•à¯à®•à®µà¯à®®à¯…">
+<!ENTITY setupprogress.pleasewait "தயவுசெய்து காத்திருக்கவும்�">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
-<!ENTITY equalizer.preset.large_hall "à®ªà¯†à®°à®¿à®¯ à®…à®°à®™à¯à®•à®®à¯ ">
+<!ENTITY equalizer.preset.large_hall "பெரிய அரங்கம் ">
 <!ENTITY first_run.eula.accept_checkbox.label "I have read and accepted the terms of this license.">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
-<!ENTITY smart.most_recent "à®…à®£à¯à®®à¯ˆà®¯à®¿à®²à¯ à®®à®¿à®•à®µà¯à®®à¯ à®‡à®¯à®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®Ÿà®µà¯ˆ ">
-<!ENTITY command.device.ejectdevice "à®µà¯†à®³à®¿à®¯à¯‡à®±à¯à®±à¯">
+<!ENTITY smart.most_recent "அண்மையில் மிகவும் இயக்கப்பட்டவை ">
+<!ENTITY command.device.ejectdevice "வெளியேற்று">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "à®¤à¯†à®¾à®Ÿà®°à¯à®ªà¯ à®…à®®à¯ˆà®ªà¯à®ªà¯à®•à®³à¯…">
+<!ENTITY first_run.connection.settings.button "தொடர்பு அமைப்புகள்�">
 <!ENTITY import_library.prefs.title "iTunes Import/Export">
-<!ENTITY hotkeys.action "à®šà¯†à®¯à®²à¯">
+<!ENTITY hotkeys.action "செயல்">
 <!ENTITY equalizer.preset.classical "Classical">
 <!ENTITY device.sync.images.from.label "Sync Photos From:">
-<!ENTITY first_run.install_add_ons.title "à®šà¯†à®°à¯à®•à®²à¯à®•à®³à¯ˆ à®ªà®¤à®¿à®µà®¿à®±à®•à¯à®•à¯à®•à®¿à®±à®¤à¯">
+<!ENTITY first_run.install_add_ons.title "செருகல்களை பதிவிறக்குகிறது">
 <!ENTITY playback.prefpane.streaming.buffer "Streaming Buffer:">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Scan directories on my computer">
-<!ENTITY menu.control.play "à®‡à®šà¯ˆ">
+<!ENTITY menu.control.play "இசை">
 <!ENTITY getartwork.key "G">
 <!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY subscribe.minutes "à®¨à®¿à®®à®¿à®Ÿà®®à¯(à®•à®³à¯)">
-<!ENTITY smart.any "à®Žà®¤à®¾à®µà®¤à¯">
+<!ENTITY subscribe.minutes "நிமிடம்(கள்)">
+<!ENTITY smart.any "எதாவது">
 <!ENTITY prefpane.content.label "Web Content">
 <!ENTITY menu.file.filescan.key "O">
-<!ENTITY about.credits.heading.champs "à®šà®¾à®®à¯à®ªà®¿à®¯à®©à¯à®•à®³à¯">
+<!ENTITY about.credits.heading.champs "சாம்பியன்கள்">
 <!ENTITY equalizer.preset.rock "Rock">
-<!ENTITY equalizer.preset.live "à®¨à¯‡à®°à®Ÿà®¿">
+<!ENTITY equalizer.preset.live "நேரடி">
 <!ENTITY menu.edit.copy.key "C">
 <!ENTITY import_library.unsupported_media_alert_checkbox "Alert me when unsupported tracks or playlists are not imported">
 <!ENTITY device.import.header.label "Import">
-<!ENTITY tooltip.control.volume "à®šà®¤à¯à®¤à®®à¯">
-<!ENTITY smart.hours "à®®à®£à®¿à®•à®³à¯">
+<!ENTITY tooltip.control.volume "சத்தம்">
+<!ENTITY smart.hours "மணிகள்">
 <!ENTITY sanitize.keycode "VK_DELETE">
 <!ENTITY displaypane.name.sidebar "Right Sidebar">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
@@ -316,78 +316,78 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.edit.undo.accesskey "U">
 <!ENTITY first_run.import_media.description "Select what media you&apos;d like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
 <!ENTITY umsd.video.video_ext_desc "Copy video files with the following extensions to the device:">
-<!ENTITY smart.most_added "à®®à®¿à®• à®…à®£à¯à®®à¯ˆà®¯à®¿à®²à¯ à®šà¯‡à®°à¯à®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®Ÿà®µà¯ˆ ">
+<!ENTITY smart.most_added "மிக அண்மையில் சேர்க்கப்பட்டவை ">
 <!ENTITY rapi.library_read_disable.accesskey "s">
-<!ENTITY open_url.title "à®‡à®£à¯ˆà®¯à®¤à¯à®¤à®³à®¤à¯à®¤à¯ˆ à®¤à®¿à®±">
+<!ENTITY open_url.title "இணையத்தளத்தை திற">
 <!ENTITY menu.edit.paste.accesskey "P">
-<!ENTITY first_run.eula.header.label "à®‰à®°à®¿à®® à®’à®ªà¯à®ªà®¨à¯à®¤à®®à¯">
-<!ENTITY device.capacity.image.label "à®ªà¯à®•à¯ˆà®ªà¯à®ªà®Ÿà®™à¯à®•à®³à¯">
+<!ENTITY first_run.eula.header.label "உரிம ஒப்பந்தம்">
+<!ENTITY device.capacity.image.label "புகைப்படங்கள்">
 <!ENTITY about.credits.intro "">
-<!ENTITY menu.mac.showall "à®Žà®²à¯à®²à®¾à®®à¯ à®•à®¾à®Ÿà¯à®Ÿà¯">
+<!ENTITY menu.mac.showall "எல்லாம் காட்டு">
 <!ENTITY first_run.connection.description "Check your Connection Settings or Continue with the Setup assistant.">
 <!ENTITY equalizer.preset.full_bass "Full bass">
 <!ENTITY cdrip.lookup.multiple.title "Multiple CD Records Found">
 <!ENTITY openLinkCmdInDefaultBrowser.label "Open Link In Default Web Browser">
-<!ENTITY first_run.add_ons.header.label "à®ªà®°à®¿à®¨à¯à®¤à¯à®°à¯ˆà®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®Ÿ à®šà¯†à®°à¯à®•à®²à¯à®•à®³à¯">
+<!ENTITY first_run.add_ons.header.label "பரிந்துரைக்கப்பட்ட செருகல்கள்">
 <!ENTITY command.device.renamedevice.accesskey "R">
 <!ENTITY first_run.feedback.metrics.label "Collect and send my metrics to the &brandShortName; team">
 <!ENTITY menu.file.newtab.key "T">
-<!ENTITY device.dialog.setup.title "à®šà®¾à®¤à®© à®…à®®à¯ˆà®ªà¯à®ªà¯">
+<!ENTITY device.dialog.setup.title "சாதன அமைப்பு">
 <!ENTITY menu.videotofront "Video to Front">
-<!ENTITY device.management.tabs.music.label "à®‡à®šà¯ˆ">
+<!ENTITY device.management.tabs.music.label "இசை">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame…">
-<!ENTITY add_on_bundle_installer.error_box.label "à®µà®¿à®µà®°à®™à¯à®•à®³à¯">
+<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame�">
+<!ENTITY add_on_bundle_installer.error_box.label "விவரங்கள்">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.tools.reveal.accesskey "F">
-<!ENTITY menu.file.exit "à®®à¯‚à®Ÿà¯">
+<!ENTITY menu.file.exit "மூடு">
 <!ENTITY device.sync.images.all.template "All photos (&#37;S)">
 <!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
-<!ENTITY first_run.import_media.header.label "à®Šà®Ÿà®•à®¤à¯à®¤à¯ˆ à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®šà¯†à®¯à¯">
-<!ENTITY tooltip.browser.home "à®®à¯à®•à®ªà¯à®ªà¯">
+<!ENTITY first_run.import_media.header.label "ஊடகத்தை இறக்குமதி செய்">
+<!ENTITY tooltip.browser.home "முகப்பு">
 <!ENTITY equalizer.preset.small_speakers "Laptop/Headphones">
-<!ENTITY cdrip.lookup.info_not_found.album "à®¤à®¿à®°à¯ˆà®ªà¯à®ªà®Ÿà®®à¯">
-<!ENTITY albumartpreferences.prefpane.enablewrite.label "à®¤à®¿à®°à¯ˆà®ªà¯à®ªà®Ÿ à®šà¯à®µà®°à¯†à®¾à®Ÿà¯à®Ÿà®¿à®¯à¯ˆ à®•à¯Šà®ªà¯à®ªà¯ˆà®¯à®¿à®²à¯ à®šà¯‡à®°à¯">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.label "à®•à¯‹à®ªà¯à®ªà¯à®•à¯à®•à®¾à®©â€Œ à®•à¯à®±à®¿à®¯à¯€à®Ÿà¯à®•â€Œà®³à¯ˆà®¤à¯ à®¤à¯‡à®Ÿà¯">
+<!ENTITY cdrip.lookup.info_not_found.album "திரைப்படம்">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "திரைப்பட சுவரொட்டியை கொப்பையில் சேர்">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "கோப்புக்கான‌ குறியீடுக‌ளைத் தேடு">
 <!ENTITY command.device.rip.accesskey "R">
 <!ENTITY videowindow.fullscreen.key "F">
-<!ENTITY smart.all "à®Žà®²à¯à®²à®¾à®®à¯">
+<!ENTITY smart.all "எல்லாம்">
 <!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
 <!ENTITY menu.mac.hideothers.key "H">
 <!ENTITY menu.help.help.accesskey "H">
 <!ENTITY displaypane.default.link.text "Add-on Site">
 <!ENTITY command.device.lookup.accesskey "L">
-<!ENTITY device.tools.support.title "à®†à®¤à®°à®µà¯">
-<!ENTITY device.sync.auto_sync.label "à®’à®¤à¯à®¤à®¿à®šà¯ˆ">
-<!ENTITY device.info.model.label "à®µà®Ÿà®¿à®µà®®à¯ˆà®ªà¯à®ªà¯ à®Žà®£à¯">
+<!ENTITY device.tools.support.title "ஆதரவு">
+<!ENTITY device.sync.auto_sync.label "ஒத்திசை">
+<!ENTITY device.info.model.label "வடிவமைப்பு எண்">
 <!ENTITY feed.subscribe.dontask "Don&apos;t automatically show this dialog again">
 <!ENTITY rapi.restore_defaults.label "Restore to Default">
 <!ENTITY playback.prefpane.audio_output.label "Audio Output">
 <!ENTITY menu.viewpagesource.key "U">
 <!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
-<!ENTITY device.dialog.wait_for_completion.title "à®šà®¾à®¤à®©à®¤à¯à®¤à®¿à®±à¯à®•à®¾à®• à®•à®¾à®¤à¯à®¤à®¿à®°à¯à®•à¯à®•à®¿à®±à®¤à¯">
+<!ENTITY device.dialog.wait_for_completion.title "சாதனத்திற்காக காத்திருக்கிறது">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
 <!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
 <!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
-<!ENTITY videowindow.fullscreen "à®®à¯à®´à¯à®¤à¯à®¤à®¿à®°à¯ˆà®¯à®¿à®²à¯ ">
-<!ENTITY tooltip.browser.refresh "à®®à¯€à®³à¯‡à®±à¯à®±à¯">
+<!ENTITY videowindow.fullscreen "முழுத்திரையில் ">
+<!ENTITY tooltip.browser.refresh "மீளேற்று">
 <!ENTITY rapi.library_write_disable.accesskey "a">
-<!ENTITY menu.extensions "à®šà¯†à®°à¯à®•à®²à¯à®•à®³à¯">
+<!ENTITY menu.extensions "செருகல்கள்">
 <!ENTITY equalizer.preset.club "Club">
 <!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble">
-<!ENTITY menu.edit.copy "à®¨à®•à®²à¯†à®Ÿà¯">
-<!ENTITY device.repair.menuitem.default "à®šà®¾à®¤à®©à®¤à¯à®¤à¯ˆ à®šà®°à®¿ à®šà¯†à®¯à¯">
+<!ENTITY menu.edit.copy "நகலெடு">
+<!ENTITY device.repair.menuitem.default "சாதனத்தை சரி செய்">
 <!ENTITY addMediaToPlaylistCmd.accesskey "a">
-<!ENTITY tooltip.exit "à®®à¯‚à®Ÿà¯">
+<!ENTITY tooltip.exit "மூடு">
 <!ENTITY menu.file.accesskey "F">
-<!ENTITY first_run.title "&brandShortName; à®¨à®¿à®±à¯à®µà®²à¯">
+<!ENTITY first_run.title "&brandShortName; நிறுவல்">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
-<!ENTITY tooltip.control.shuf_off "à®•à¯à®²à¯à®•à¯à®•à®¾à®¤à¯‡">
-<!ENTITY smart.selectedby "à®¤à¯†à®°à¯à®¨à¯à®¤à¯à®¤à¯†à®Ÿà¯à®¤à¯à®¤â€Œ">
+<!ENTITY tooltip.control.shuf_off "குலுக்காதே">
+<!ENTITY smart.selectedby "தெர்ந்த்தெடுத்த‌">
 <!ENTITY openPageCmdInDefaultBrowser.label "Open Page In Default Web Browser">
 <!ENTITY menu.control.playpause.spacebar "Spacebar">
-<!ENTITY import_library.dirty_playlist_dialog.title "à®‡à®šà¯ˆ à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à¯ à®®à®¾à®±à¯à®±à®ªà¯à®ªà®Ÿà¯à®Ÿà®¤à¯">
+<!ENTITY import_library.dirty_playlist_dialog.title "இசை பட்டியல் மாற்றப்பட்டது">
 <!ENTITY equalizer.preset.techno "Techno">
 <!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.linux.preferences.accesskey "N">
@@ -395,173 +395,173 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
 <!ENTITY first_run.itunes.checkbox.export.description "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
 <!ENTITY device.tools.update_firmware.label "Check for updated firmware">
-<!ENTITY device.info.icon.device "à®ªà¯Šà®¤à¯à®µà®¾à®© à®šà®¾à®¤à®©à®¤à¯à®¤à®¿à®©à¯ à®šà®¿à®©à¯à®©à®®à¯">
-<!ENTITY restartbox.restartlater "à®ªà®¿à®©à¯à®©à®°à¯ à®®à®±à¯à®¤à¯à®¤à¯†à®¾à®Ÿà®•à¯à®•à®®à¯ à®šà¯†à®¯à¯">
+<!ENTITY device.info.icon.device "பொதுவான சாதனத்தின் சின்னம்">
+<!ENTITY restartbox.restartlater "பின்னர் மறுத்தொடக்கம் செய்">
 <!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-<!ENTITY cdrip.lookup.info_not_found.artist "à®•à®²à¯ˆà®žà®°à¯à®•à®³à¯">
-<!ENTITY cdrip.lookup.track_name "à®¤à®²à¯ˆà®ªà¯à®ªà¯">
-<!ENTITY menu.control.pause "à®‡à®Ÿà¯ˆà®¨à®¿à®±à¯à®¤à¯à®¤à¯">
+<!ENTITY cdrip.lookup.info_not_found.artist "கலைஞர்கள்">
+<!ENTITY cdrip.lookup.track_name "தலைப்பு">
+<!ENTITY menu.control.pause "இடைநிறுத்து">
 <!ENTITY menu.extensions.accesskey "A">
 <!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
-<!ENTITY albumartpreferences.prefpane.autofetch.label "à®¤à®¾à®©à®¾à®•â€Œ à®¤à®¿à®°à¯ˆà®ªà¯à®ªà®Ÿ à®šà¯à®µà®°à¯†à®¾à®Ÿà¯à®Ÿà®¿à®¯à¯ˆ à®•à¯Šà®£à¯à®Ÿà¯à®µà®°â€Œ">
-<!ENTITY command.device.canceldevicesync "à®’à®¤à¯à®¤à®¿à®šà¯ˆà®¤à¯à®¤à®²à¯ˆ à®°à®¤à¯à®¤à¯ à®šà¯†à®¯à¯">
-<!ENTITY menu.control.rep1 "à®¤à®¿à®°à¯à®®à¯à®ªà®¿ à®ªà®¾à®Ÿà¯ (à®’à®£à¯à®±à¯)">
-<!ENTITY device.sync.playlist.video.duration "à®¨à®¿à®•à®´à¯à®ªà¯à®ªà®Ÿ à®•à®¾à®²à®…à®³à®µà¯ ">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "தானாக‌ திரைப்பட சுவரொட்டியை கொண்டுவர‌">
+<!ENTITY command.device.canceldevicesync "ஒத்திசைத்தலை ரத்து செய்">
+<!ENTITY menu.control.rep1 "திரும்பி பாடு (ஒண்று)">
+<!ENTITY device.sync.playlist.video.duration "நிகழ்ப்பட காலஅளவு ">
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Web Integration">
-<!ENTITY menu.equalizer "à®šà®®à®©à¯à®ªà®Ÿà¯à®¤à¯à®¤à®¿…">
+<!ENTITY menu.equalizer "சமன்படுத்தி�">
 <!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;&apos;s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
 <!ENTITY displaypane.name.servicepane "Service Pane Bottom">
-<!ENTITY menu.clearprivatedata "à®…à®¨à¯à®¤à®°à®™à¯à®• à®¤à®•à®µà®²à¯ˆ à®…à®´à®¿à®•à¯à®•à®µà¯à®®à¯.">
-<!ENTITY window.ok "à®šà®°à®¿">
+<!ENTITY menu.clearprivatedata "அந்தரங்க தகவலை அழிக்கவும்.">
+<!ENTITY window.ok "சரி">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
-<!ENTITY menu.edit.find "à®¤à¯‡à®Ÿà¯">
+<!ENTITY menu.edit.find "தேடு">
 <!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY menu.updateCmd.label "à®ªà¯à®¤à¯à®ªà¯à®ªà®¿à®•à¯à®•à®³à¯ à®‡à®°à¯à®•à¯à®•à®¿à®©à¯à®±à®¤à®¾ à®Žà®© à®ªà®¾à®°à¯à®•à¯à®•à®µà¯à®®à¯…">
+<!ENTITY menu.updateCmd.label "புதுப்பிக்கள் இருக்கின்றதா என பார்க்கவும்�">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
-<!ENTITY device.settings.music.transcoding.bitrate.label "à®ªà®¿à®Ÿà¯ à®µà®¿à®•à®¿à®¤à®®à¯">
+<!ENTITY device.settings.music.transcoding.bitrate.label "பிட் விகிதம்">
 <!ENTITY displaypane.name.browser "Content Pane Bottom">
-<!ENTITY albumartpreferences.prefpane.label "à®¤à®¿à®°à¯ˆà®ªà¯à®ªà®Ÿ à®šà¯à®µà®°à¯†à®¾à®Ÿà¯à®Ÿà®¿">
+<!ENTITY albumartpreferences.prefpane.label "திரைப்பட சுவரொட்டி">
 <!ENTITY watch_folder.prefs.description "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
 <!ENTITY umsd.no_devices_present "No USB mass-storage devices are connected.">
 <!ENTITY switchfeathers.key "M">
-<!ENTITY device.progress.sync "à®’à®¤à¯à®¤à®¿à®šà¯ˆ">
-<!ENTITY device.dialog.wait_for_completion.quit "à®µà¯†à®³à®¿à®¯à¯‡à®±à¯">
-<!ENTITY tooltip.browser.mediapages.list "à®µâ€Œà®°à®¿à®šà¯ˆà®¤à¯ à®¤à¯‹à®±à¯à®±â€Œà®®à¯">
+<!ENTITY device.progress.sync "ஒத்திசை">
+<!ENTITY device.dialog.wait_for_completion.quit "வெளியேறு">
+<!ENTITY tooltip.browser.mediapages.list "வ‌ரிசைத் தோற்ற‌ம்">
 <!ENTITY rapi.library_read_disable.label "Block websites from viewing information about media in my Library and devices">
 <!ENTITY feedback.dialog.sentence1 "Will you help us make &brandShortName; better by taking a quick, anonymous survey?">
-<!ENTITY feed.subscribe.label "à®šà®¨à¯à®¤à®¾à®šà¯‡à®°à¯ ">
+<!ENTITY feed.subscribe.label "சந்தாசேர் ">
 <!ENTITY tooltip.servicepane.show "Show Service Pane">
-<!ENTITY tooltip.control.stop "à®¨à®¿à®±à¯à®¤à¯à®¤à¯">
-<!ENTITY menu.file.remote "à®ªà¯à®¤à®¿à®¯ à®šà®¨à¯à®¤à®¾…">
-<!ENTITY menu.file.podcast "New Podcast…">
+<!ENTITY tooltip.control.stop "நிறுத்து">
+<!ENTITY menu.file.remote "புதிய சந்தா�">
+<!ENTITY menu.file.podcast "New Podcast�">
 <!ENTITY feedback.dialog.sentence2 "If you&apos;re not interested, we will not ask you again.  Thanks for considering and we appreciate you using &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
-<!ENTITY menu.edit "à®¤à®¿à®°à¯à®¤à¯à®¤à¯">
+<!ENTITY menu.edit "திருத்து">
 <!ENTITY locale.language.accesskey "L">
-<!ENTITY videowindow.title "à®µà¯€à®Ÿà®¿à®¯à¯‹ à®šà®¾à®³à®°à®®à¯">
-<!ENTITY menu.fullscreen "à®®à¯à®´à¯à®¤à¯ à®¤à®¿à®°à¯ˆ ">
-<!ENTITY menu.file.newtab "à®ªà¯à®¤à®¿à®¯ à®¤à®¤à¯à®¤à®²à¯">
-<!ENTITY feedback.dialog.sentence3 "à®‡à®ªà¯à®ªà®Ÿà®¿à®•à¯à®•à¯,">
-<!ENTITY albumart.displaypane.contextmenu.showplaying "à®¤â€Œà®±à¯à®ªà¯‹à®¤à¯ à®‡à®šà¯ˆà®ªà¯à®ªâ€Œà®¤à¯ˆ à®•à®¾à®Ÿà¯à®Ÿà¯">
-<!ENTITY albumart.displaypane.drag_and_drop "à®šà¯à®µà®°à¯Šà®Ÿà¯à®Ÿà®¿à®¯à¯ˆ à®‡à®™à¯à®•à¯ à®‡à®´à¯">
+<!ENTITY videowindow.title "வீடியோ சாளரம்">
+<!ENTITY menu.fullscreen "முழுத் திரை ">
+<!ENTITY menu.file.newtab "புதிய தத்தல்">
+<!ENTITY feedback.dialog.sentence3 "இப்படிக்கு,">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "த‌ற்போது இசைப்ப‌தை காட்டு">
+<!ENTITY albumart.displaypane.drag_and_drop "சுவரொட்டியை இங்கு இழு">
 <!ENTITY command.device.cancel.accesskey "C">
-<!ENTITY smart.most_often "à®…à®Ÿà®¿à®•à¯à®•à®Ÿà®¿ à®‡à®¯à®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®Ÿà®µà¯ˆ ">
-<!ENTITY restartbox.restartnow "à®‡à®ªà¯à®ªà¯‡à®¾à®¤à¯ à®®à®±à¯à®¤à¯à®¤à¯†à®¾à®Ÿà®•à¯à®•à®®à¯ à®šà¯†à®¯à¯">
+<!ENTITY smart.most_often "அடிக்கடி இயக்கப்பட்டவை ">
+<!ENTITY restartbox.restartnow "இப்போது மறுத்தொடக்கம் செய்">
 <!ENTITY device.unsupported_media.dialog.enable "Tell me when incompatible files are detected">
 <!ENTITY device.sync.images.selected.label "Selected sub-folders">
-<!ENTITY command.device.canceldevicecopy "à®¨à®•à®²à¯†à®Ÿà¯à®¤à¯à®¤à®²à¯ˆ à®°à®¤à¯à®¤à¯ à®šà¯†à®¯à¯">
+<!ENTITY command.device.canceldevicecopy "நகலெடுத்தலை ரத்து செய்">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
-<!ENTITY feedback.dialog.sentence4 "&brandShortName; à®•à¯à®´à¯">
-<!ENTITY smart.title "à®¤à®²à¯ˆà®ªà¯à®ªà¯">
-<!ENTITY menu.tools.reveal "à®•à¯‹à®ªà¯à®ªà¯ˆ à®•à®¾à®Ÿà¯à®Ÿà¯">
-<!ENTITY menu.controllerontop "à®®à¯‡à®²à¯‡ à®•à®¾à®Ÿà¯à®Ÿà¯">
-<!ENTITY about.credits.footer.beforeLink "à®‡à®µà¯à®µà®±à¯à®±à®¿à®²à¯ à®Žà®¤à¯à®µà¯à®®à¯‡ à®®à¯à®Ÿà®¿à®¨à¯à®¤à®¿à®°à¯à®•à¯à®•à®¾à®¤à¯, à®•à®Ÿà®¿à®© à®‰à®´à¯ˆà®ªà¯à®ªà®¿à®©à¯ˆ à®®à¯‡à®±à¯à®•à¯Šà®£à¯à®Ÿ">
-<!ENTITY device.management.tabs.tools.label "à®•à®°à¯à®µà®¿à®•à®³à¯">
-<!ENTITY umsd.video.tab "à®¨à®¿à®•à®´à¯à®ªà®Ÿà®®à¯">
-<!ENTITY trackeditor.addtag.tag "à®šà¯‡à®°à¯:">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; குழு">
+<!ENTITY smart.title "தலைப்பு">
+<!ENTITY menu.tools.reveal "கோப்பை காட்டு">
+<!ENTITY menu.controllerontop "மேலே காட்டு">
+<!ENTITY about.credits.footer.beforeLink "இவ்வற்றில் எதுவுமே முடிந்திருக்காது, கடின உழைப்பினை மேற்கொண்ட">
+<!ENTITY device.management.tabs.tools.label "கருவிகள்">
+<!ENTITY umsd.video.tab "நிகழ்படம்">
+<!ENTITY trackeditor.addtag.tag "சேர்:">
 <!ENTITY device.settings.music.transcoding.format.label "Encoding format">
-<!ENTITY command.device.canceldeviceupdate "à®ªà¯à®¤à¯à®ªà¯à®ªà®¿à®¤à¯à®¤à®²à¯ˆ à®°à®¤à¯à®¤à¯ à®šà¯†à®¯à¯">
-<!ENTITY mediapages.firstrun.title "&brandShortName;à®±à¯à®•à¯ à®µà®°à®µà¯‡à®±à¯à®•à®¿à®±à¯‹à®®à¯">
+<!ENTITY command.device.canceldeviceupdate "புதுப்பித்தலை ரத்து செய்">
+<!ENTITY mediapages.firstrun.title "&brandShortName;ற்கு வரவேற்கிறோம்">
 <!ENTITY equalizer.preset.full_treble "Full treble">
-<!ENTITY umsd.music.tab "à®‡à®šà¯ˆ">
-<!ENTITY tooltip.close "à®®à¯‚à®Ÿà¯">
+<!ENTITY umsd.music.tab "இசை">
+<!ENTITY tooltip.close "மூடு">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-<!ENTITY menu.edit.redo "à®®-à®šà¯†à®¯à¯">
-<!ENTITY menu.edit.findagain "à®®à®±à¯à®ªà®Ÿà®¿à®¯à¯à®®à¯ à®¤à¯‡à®Ÿà¯">
-<!ENTITY device.info.capacity.label "à®•à¯Šà®³à¯à®³à®³à®µà¯">
+<!ENTITY menu.edit.redo "ம-செய்">
+<!ENTITY menu.edit.findagain "மறுபடியும் தேடு">
+<!ENTITY device.info.capacity.label "கொள்ளளவு">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.browse "Choose folder�">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "à®•à¯‹à®ªà¯à®ªà¯ˆà®¤à¯ à®¤à®¿à®±…">
-<!ENTITY command.device.devicesync "à®’à®¤à¯à®¤à®¿à®šà¯ˆ">
+<!ENTITY menu.file.open "கோப்பைத் திற�">
+<!ENTITY command.device.devicesync "ஒத்திசை">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
-<!ENTITY mediacore.error.continue "à®¤à¯Šà®Ÿà®°à¯">
+<!ENTITY mediacore.error.continue "தொடர்">
 <!ENTITY umsd.music.music_path_desc "When copying music files to the device, place them within the following directory:">
 <!ENTITY playback.prefpane.audio_output.buffer "Output Buffer:">
 <!ENTITY menu.switchplayercontrols "Player Controls">
 <!ENTITY import_library.dirty_playlist_dialog.keep "Keep the current &brandShortName; playlist (Do not import this playlist)">
 <!ENTITY menu.file.closetab.key "W">
-<!ENTITY device.firmware.wizard.check.page.title "à®ªà¯à®¤à®¿à®¯â€Œ à®®à¯†à®©à¯à®ªà¯Šà®°à¯à®³à¯ à®‰à®³à¯à®³â€Œà®¤à®¾">
+<!ENTITY device.firmware.wizard.check.page.title "புதிய‌ மென்பொருள் உள்ள‌தா">
 <!ENTITY menu.help.accesskey "H">
-<!ENTITY device.info.serial_number.label "à®¤à¯Šà®Ÿà®°à¯ à®Žà®£à¯">
-<!ENTITY device.info.product.label "à®ªà¯Šà®°à¯à®³à¯">
-<!ENTITY smart.minutes "à®¨à®¿à®®à®¿à®Ÿà®™à¯à®•à®³à¯">
-<!ENTITY menu.help.topics "à®‰à®¤à®µà®¿ à®¤à®²à¯ˆà®ªà¯à®ªà¯à®•à®³à¯">
-<!ENTITY menu.file.playlist "à®‡à®šà¯ˆà®ªà¯à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à¯ˆ à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®šà¯†à®¯à¯…">
+<!ENTITY device.info.serial_number.label "தொடர் எண்">
+<!ENTITY device.info.product.label "பொருள்">
+<!ENTITY smart.minutes "நிமிடங்கள்">
+<!ENTITY menu.help.topics "உதவி தலைப்புகள்">
+<!ENTITY menu.file.playlist "இசைப்பட்டியலை இறக்குமதி செய்�">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY device.tools.format_volume.button.label "à®µà®Ÿà®¿à®µà®®à¯ ">
+<!ENTITY device.tools.format_volume.button.label "வடிவம் ">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Limit to">
-<!ENTITY menu.file.library "à®¨à¯‚à®²à®•à®¤à¯à®¤à¯ˆ à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®šà¯†à®¯à¯…">
+<!ENTITY menu.file.library "நூலகத்தை இறக்குமதி செய்�">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Find Current Track">
-<!ENTITY setupprogress.installingextensions "à®šà¯†à®°à¯à®•à®²à¯à®•à®³à¯ˆ à®¨à®¿à®±à¯à®µà¯à®•à®¿à®±à®¤à¯">
-<!ENTITY menu.mac.services "à®šà¯‡à®µà¯ˆà®•à®³à¯">
+<!ENTITY setupprogress.installingextensions "செருகல்களை நிறுவுகிறது">
+<!ENTITY menu.mac.services "சேவைகள்">
 <!ENTITY menu.file.open.accesskey "O">
-<!ENTITY import_library.library_file_label "à®¨à¯‚à®²à®• à®•à¯‹à®ªà¯à®ªà¯:">
+<!ENTITY import_library.library_file_label "நூலக கோப்பு:">
 <!ENTITY command.device.canceldevicecopy.accesskey "C">
 <!ENTITY window.browser.titlepreface "">
-<!ENTITY smart.matchsingle "à®•à¯€à®´à¯à®µà®°à¯à®®à¯ à®¨à®¿à®ªà®¨à¯à®¤à®©à¯ˆà®•à¯‡à®±à¯à®ª à®ªà¯Šà®°à¯à®¤à¯à®¤à¯à®•:">
+<!ENTITY smart.matchsingle "கீழ்வரும் நிபந்தனைகேற்ப பொருத்துக:">
 <!ENTITY importexport_show_notifications_checkbox "Show notifications when the import/export is complete">
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY first_run.itunes.checkbox.import.description "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
 <!ENTITY device.sync.images.foldername "Folder Name">
-<!ENTITY device.capacity.video.label "à®¨à®¿à®•à®´à¯à®ªà®Ÿà®®à¯">
+<!ENTITY device.capacity.video.label "நிகழ்படம்">
 <!ENTITY menu.control.next.accesskey "N">
 <!ENTITY equalizer.band4.label "500">
-<!ENTITY umsd.music.music_files_group "à®‡à®šà¯ˆ à®•à¯‹à®ªà¯à®ªà¯à®•à®³à¯">
-<!ENTITY trackeditor.tab.lyrics.title "à®ªà®¾à®Ÿà®²à¯ à®µà®°à®¿à®•à®³à¯">
-<!ENTITY menu.mac.exit "à®µà¯†à®³à®¿à®¯à¯‡à®±à¯ &brandShortName;">
-<!ENTITY menu.control.play.button "à®‡à®šà¯ˆ">
+<!ENTITY umsd.music.music_files_group "இசை கோப்புகள்">
+<!ENTITY trackeditor.tab.lyrics.title "பாடல் வரிகள்">
+<!ENTITY menu.mac.exit "வெளியேறு &brandShortName;">
+<!ENTITY menu.control.play.button "இசை">
 <!ENTITY hotkeys.prefpane "Hotkeys">
 <!ENTITY subscribeMediaFrameCmd.accesskey "u">
-<!ENTITY subscribe.hours "à®®à®£à®¿(à®•à®³à¯)">
+<!ENTITY subscribe.hours "மணி(கள்)">
 <!ENTITY rapi.playback_read_disable.accesskey "m">
-<!ENTITY menu.help "à®‰à®¤à®µà®¿">
+<!ENTITY menu.help "உதவி">
 <!ENTITY menu.equalizer.accesskey "Q">
-<!ENTITY command.device.ignoredevice "à®ªà¯à®±à®•à¯à®•à®£à®¿ ">
+<!ENTITY command.device.ignoredevice "புறக்கணி ">
 <!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
 <!ENTITY mediacore.error.title "Playback Error">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "à®¤à®¾à®µà¯…">
-<!ENTITY menu.tools "à®•à®°à¯à®µà®¿à®•à®³à¯">
-<!ENTITY device.settings.music.transcoding.label "à®‡à®šà¯ˆà®ªà¯ à®ªà®°à®¿à®®à®¾à®±à¯à®±à®®à¯ ">
-<!ENTITY albumartpreferences.prefpane.priorities.reset "à®®à¯€à®³à®®à¯ˆ ">
-<!ENTITY device.info.icon.readonly "à®ªà®Ÿà®¿à®•à¯à®• à®®à®Ÿà¯à®Ÿà¯à®®à¯ à®šà®¿à®©à¯à®©à®®à¯">
-<!ENTITY command.device.lookup "CD à®¤à®•à®µà®²à¯ˆ à®ªà®¾à®°à¯">
-<!ENTITY tabs.listAllTabs "à®Žà®²à¯à®²à®¾ à®¤à®¤à¯à®¤à®™à¯à®•à®³à¯ˆà®¯à¯à®®à¯ à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à®¿à®Ÿà¯">
+<!ENTITY menu.control.jumpto "தாவு�">
+<!ENTITY menu.tools "கருவிகள்">
+<!ENTITY device.settings.music.transcoding.label "இசைப் பரிமாற்றம் ">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "மீளமை ">
+<!ENTITY device.info.icon.readonly "படிக்க மட்டும் சின்னம்">
+<!ENTITY command.device.lookup "CD தகவலை பார்">
+<!ENTITY tabs.listAllTabs "எல்லா தத்தங்களையும் பட்டியலிடு">
 <!ENTITY rapi.prefpane.access.caption "Web Integration Permissions">
-<!ENTITY menu.file.scan "à®Šà®Ÿà®•à®¤à¯à®¤à¯ˆ à®‡à®±à®•à¯à®•à¯à®®à®¤à®¿ à®šà¯†à®¯à¯…">
+<!ENTITY menu.file.scan "ஊடகத்தை இறக்குமதி செய்�">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Media Importer">
-<!ENTITY device.firmware.wizard.download.error.description "à®®à¯†à®©à¯à®ªà¯Šà®°à¯à®³à¯ˆ à®¨à®¿à®±à¯à®µ à®®à¯à®Ÿà®¿à®¯à®µà®¿à®²à¯à®²à¯ˆ. à®‡à®£à¯ˆà®¯ à®‡à®£à¯ˆà®ªà¯à®ªà¯ˆ à®šà®°à®¿à®ªà®¾à®°à¯à®•à¯à®•.">
-<!ENTITY watch_folder.prefs.settings_group_caption "à®…à®Ÿà¯ˆà®µà¯ˆ à®ªà®¾à®°à¯ à®…à®®à¯ˆà®ªà¯à®ªà¯">
-<!ENTITY tooltip.minimize "à®šà®¿à®±à®¿à®¤à®¾à®•à¯à®•à¯">
-<!ENTITY smart.random "à®•â€Œà®²à¯ˆà®¤à¯à®¤à¯">
-<!ENTITY smart.contenttypecondition.audio "à®’à®²à®¿à®ªà¯à®ªà®¾à®Ÿâ€Œà®²à¯">
+<!ENTITY device.firmware.wizard.download.error.description "மென்பொருளை நிறுவ முடியவில்லை. இணைய இணைப்பை சரிபார்க்க.">
+<!ENTITY watch_folder.prefs.settings_group_caption "அடைவை பார் அமைப்பு">
+<!ENTITY tooltip.minimize "சிறிதாக்கு">
+<!ENTITY smart.random "க‌லைத்து">
+<!ENTITY smart.contenttypecondition.audio "ஒலிப்பாட‌ல்">
 <!ENTITY equalizer.band7.label "4K">
-<!ENTITY device.firmware.wizard.check.release_notes.label "à®µà¯†à®³à®¿à®¯à¯€à®Ÿà¯à®Ÿà¯à®•à¯ à®•à¯à®±à®¿à®ªà¯à®ªà¯">
-<!ENTITY watch_folder.prefs.title "à®…à®Ÿà¯ˆà®µà¯à®•à®³à¯ˆ à®ªà®¾à®°à¯">
+<!ENTITY device.firmware.wizard.check.release_notes.label "வெளியீட்டுக் குறிப்பு">
+<!ENTITY watch_folder.prefs.title "அடைவுகளை பார்">
 <!ENTITY subscribe.autocheck "Automatically update every">
-<!ENTITY menu.control.shuf "à®•à¯à®²à¯à®•à¯à®•à¯">
-<!ENTITY albumartpreferences.prefpane.priorities.up "à®®à¯‡à®²à¯ ">
+<!ENTITY menu.control.shuf "குலுக்கு">
+<!ENTITY albumartpreferences.prefpane.priorities.up "மேல் ">
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatically watch for changes in the following folder">
-<!ENTITY menu.file.metadata "View Metadata…">
-<!ENTITY device.info.firmware_version.label "à®®à¯†à®©à¯à®ªà¯Šà®°à¯à®³à¯ à®ªà®¤à®¿à®µà¯ à®Žà®£à¯">
+<!ENTITY menu.file.metadata "View Metadata�">
+<!ENTITY device.info.firmware_version.label "மென்பொருள் பதிவு எண்">
 <!ENTITY device.info.access.label "Access Compatibility">
-<!ENTITY tooltip.control.back "à®®à¯à®¨à¯à®¤à¯ˆà®¯">
+<!ENTITY tooltip.control.back "முந்தைய">
 <!ENTITY menu.edit.cut.accesskey "T">
-<!ENTITY menu.controlleronbottom "à®•à¯€à®´à¯‡ à®•à®¾à®Ÿà¯à®Ÿà¯">
+<!ENTITY menu.controlleronbottom "கீழே காட்டு">
 <!ENTITY device.sync.sync_selected.label "Sync selected playlists:">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY menu.edit.delete.accesskey "D">
@@ -573,20 +573,20 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.file.exit.accesskey "X">
 <!ENTITY first_run.feedback.metrics.description "Metrics are completely anonymous and no personal information is collected.">
 <!ENTITY cdrip.prefpane.label "CD Rip">
-<!ENTITY tooltip.control.mute "à®šà®¤à¯à®¤à®®à¯ à®ªà¯‹à®Ÿà®¾à®¤à¯‡">
-<!ENTITY smart.album "à®¤à®¿à®°à¯ˆà®ªà¯à®ªà®Ÿà®®à¯">
+<!ENTITY tooltip.control.mute "சத்தம் போடாதே">
+<!ENTITY smart.album "திரைப்படம்">
 <!ENTITY playback.prefpane.units.kilobytes "kB">
 <!ENTITY menu.tools.accesskey "T">
 <!ENTITY menu.mac.hideothers.modifiers "accel,alt">
 <!ENTITY menu.edit.selall.key "A">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
 <!ENTITY device.tools.format_device.label "Format device">
-<!ENTITY hotkeys.remove "à®¨à¯€à®•à¯à®•à¯">
-<!ENTITY tooltip.fullscreen "à®®à¯à®´à¯à®¤à¯à®¤à®¿à®°à¯ˆ">
-<!ENTITY device.settings.music.transcoding.mode.auto.label "à®¤à®¾à®©à®¾à®• à®ªà®°à®¿à®®à®¾à®±à¯à®±à®®à¯ à®šà¯†à®¯à¯à®¯ à®•à®Ÿà¯à®Ÿà®³à¯ˆ">
-<!ENTITY jumptofile.search "à®¤à¯‡à®Ÿà¯:">
-<!ENTITY albumart.displaypane.not_selected_message "à®Žà®¤à¯ˆà®¯à¯à®®à¯ à®¤à¯‡à®°à¯à®¨à¯à®¤à¯†à®Ÿà¯à®•à¯à®•à®µà®¿à®²à¯à®²à¯ˆ">
-<!ENTITY wizard.button.back.label "à®ªà®¿à®©à¯ à®šà¯†à®²à¯">
+<!ENTITY hotkeys.remove "நீக்கு">
+<!ENTITY tooltip.fullscreen "முழுத்திரை">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "தானாக பரிமாற்றம் செய்ய கட்டளை">
+<!ENTITY jumptofile.search "தேடு:">
+<!ENTITY albumart.displaypane.not_selected_message "எதையும் தேர்ந்தெடுக்கவில்லை">
+<!ENTITY wizard.button.back.label "பின் செல்">
 <!ENTITY window.browser.titledefault "">
 <!ENTITY subscribe.url "URL:">
 <!ENTITY smart.to "to">
@@ -594,92 +594,92 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY equalizer.preset.ska "Ska">
 <!ENTITY tooltip.servicepane.collapse "Collapse Service Pane">
 <!ENTITY podcast.creation_dialog.title "New Podcast">
-<!ENTITY playback.prefpane.normalization.preferredGain.track "à®ªà®¾à®Ÿà®²à¯">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "பாடல்">
 <!ENTITY menu.errorconsole.accesskey "C">
-<!ENTITY about.credits.footer.afterLink "à®®à¯Šà®šà®¿à®²à®¾ à®¤à®¿à®Ÿà¯à®Ÿà®ªà®£à®¿à®•à¯à®•à¯">
+<!ENTITY about.credits.footer.afterLink "மொசிலா திட்டபணிக்கு">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
 <!ENTITY menu.control.rep1.accesskey "O">
-<!ENTITY hotkeys.add "à®šà¯‡à®°à¯">
+<!ENTITY hotkeys.add "சேர்">
 <!ENTITY export_playlists_itunes_checkbox "Export music playlists">
-<!ENTITY device.settings.auto_firmware_check.checkbox.label "à®¤à®¾à®©à®¾à®• à®ªà¯à®¤à®¿à®¯ à®®à¯†à®©à¯à®ªà¯Šà®°à¯à®³à¯ à®‰à®³à¯à®³à®¤à®¾ à®Žà®©à®ªà¯à®ªà®¾à®°à¯">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "தானாக புதிய மென்பொருள் உள்ளதா எனப்பார்">
 <!ENTITY smart.least_recent "least recently played">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "&brandShortName; à®ªà®±à¯à®±à®¿">
-<!ENTITY device.settings.general.label "à®ªà¯Šà®¤à¯à®µà®¾à®©">
+<!ENTITY menu.help.about "&brandShortName; பற்றி">
+<!ENTITY device.settings.general.label "பொதுவான">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
 <!ENTITY menu.edit.findagain.key "G">
 <!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
-<!ENTITY device.management.tabs.image.label "à®ªà¯à®•à¯ˆà®ªà¯à®ªà®Ÿà®®à¯">
+<!ENTITY device.management.tabs.image.label "புகைப்படம்">
 <!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience.">
 <!ENTITY command.device.ejectdevice.accesskey "E">
 <!ENTITY playqueue.inprogress "Adding tracks">
-<!ENTITY device.info.vendor.label "à®‰à®±à¯à®ªà®¤à¯à®¤à®¿à®¯à®¾à®³à®°à¯">
+<!ENTITY device.info.vendor.label "உற்பத்தியாளர்">
 <!ENTITY first_run.DLNA.header.label "Media Sharing Add-on">
 <!ENTITY window.browser.titlemenuseparator "-">
-<!ENTITY sanitize.key "à®¨à¯€à®•à¯à®•à¯">
+<!ENTITY sanitize.key "நீக்கு">
 <!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
 <!ENTITY menu.edit.redo.key "Y">
 <!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
 <!ENTITY menu.control.jumpto.accesskey "J">
 <!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
-<!ENTITY jobprogress.details "à®µà®¿à®µà®°à®™à¯à®•à®³à¯">
+<!ENTITY jobprogress.details "விவரங்கள்">
 <!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
-<!ENTITY prefs.homepage.label "à®®à¯à®•à®ªà¯à®ªà¯ à®ªà®•à¯à®•à®®à¯">
+<!ENTITY prefs.homepage.label "முகப்பு பக்கம்">
 <!ENTITY menu.file.smart.key "N">
-<!ENTITY menu.file.closetab "à®¤à®¤à¯à®¤à®²à¯ˆ à®®à¯‚à®Ÿà¯">
-<!ENTITY device.firmware.wizard.title "à®ªà¯à®¤à®¿à®¯â€Œ à®®à¯†à®©à¯à®ªà¯Šà®°à¯à®³à¯ˆ à®‡à®±â€Œà®•à¯à®•â€Œà®®à¯ à®šà¯†à®¯à¯">
+<!ENTITY menu.file.closetab "தத்தலை மூடு">
+<!ENTITY device.firmware.wizard.title "புதிய‌ மென்பொருளை இற‌க்க‌ம் செய்">
 <!ENTITY command.device.devicesync.accesskey "S">
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "à®ªà¯à®¤à®¿à®¯â€Œ à®®à¯†à®©à¯à®ªà¯Šà®°à¯à®³à¯ˆ à®‡à®±â€Œà®•à¯à®•â€Œà®®à¯ à®šà¯†à®¯à¯à®•à®¿à®±â€Œà®¤à¯">
-<!ENTITY cdrip.prefpane.format "à®µà®Ÿà®¿à®µà®®à¯ ">
+<!ENTITY device.firmware.wizard.download.title "புதிய‌ மென்பொருளை இற‌க்க‌ம் செய்கிற‌து">
+<!ENTITY cdrip.prefpane.format "வடிவம் ">
 <!ENTITY smart.mb "MB">
-<!ENTITY menu.linux.preferences "à®µà®¿à®°à¯à®ªà¯à®ªà®™à¯à®•à®³à¯">
-<!ENTITY menu.file "à®•à¯‹à®ªà¯à®ªà¯">
+<!ENTITY menu.linux.preferences "விருப்பங்கள்">
+<!ENTITY menu.file "கோப்பு">
 <!ENTITY menu.downloadmgr.accesskey "D">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Music Library Location">
 <!ENTITY trackeditor.next.button.label "&gt;">
-<!ENTITY tooltip.control.pause "à®‡à®Ÿà¯ˆà®¨à®¿à®±à¯à®¤à¯à®¤à¯">
+<!ENTITY tooltip.control.pause "இடைநிறுத்து">
 <!ENTITY menu.file.open.key "O">
-<!ENTITY device.settings.header.label "à®…à®®à¯ˆà®ªà¯à®ªà¯à®•à®³à¯">
-<!ENTITY copySelectionCmd.label "à®¤à¯‡à®°à¯à®¨à¯à®¤à¯†à®Ÿà¯à®¤à¯à®¤ à®‰à®°à¯ˆà®¯à¯ˆ à®¨à®•à®²à¯†à®Ÿà¯">
-<!ENTITY feed.subscribe.close "à®®à¯‚à®Ÿà¯">
-<!ENTITY device.settings.disk.label "à®µà®Ÿà¯à®Ÿà¯ à®¨à®¿à®°à¯à®µà®¾à®•à®®à¯">
+<!ENTITY device.settings.header.label "அமைப்புகள்">
+<!ENTITY copySelectionCmd.label "தேர்ந்தெடுத்த உரையை நகலெடு">
+<!ENTITY feed.subscribe.close "மூடு">
+<!ENTITY device.settings.disk.label "வட்டு நிர்வாகம்">
 <!ENTITY first_run.feedback.email.header.label "Keep Me Posted">
 <!ENTITY equalizer.preset.custom "Custom">
 <!ENTITY import_library.dirty_playlist_dialog.merge "Merge the current &brandShortName; and iTunes playlists">
 <!ENTITY import_tracks_itunes_checkbox "Import music tracks from iTunes">
-<!ENTITY first_run.welcome.header.label "&brandShortName;à®±à¯à®•à¯ à®µà®°à®µà¯‡à®±à¯à®•à®¿à®±à¯‹à®®à¯">
-<!ENTITY feedback.dialog.title "&brandShortName; à®®à¯‡à®®à¯à®ªà®Ÿ à®‰à®¤à®µà®¿ à®šà¯†à®¯à¯à®¯à¯à®™à¯à®•à®³à¯">
-<!ENTITY window.yes "à®†à®®à¯">
-<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page…">
+<!ENTITY first_run.welcome.header.label "&brandShortName;ற்கு வரவேற்கிறோம்">
+<!ENTITY feedback.dialog.title "&brandShortName; மேம்பட உதவி செய்யுங்கள்">
+<!ENTITY window.yes "ஆம்">
+<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page�">
 <!ENTITY menu.file.new.key "N">
-<!ENTITY command.device.cancel "à®°à®¤à¯à®¤à¯">
-<!ENTITY watchfolder.folderlist "à®ªà¯à®¤à®¿à®¯ à®Šà®Ÿà®•à®™à¯à®•à®³à¯à®•à¯à®•à¯ à®‡à®¨à¯à®¤ à®…à®Ÿà¯ˆà®µà¯à®•à®³à¯ˆ à®ªà®¾à®°à¯">
-<!ENTITY tooltip.control.fwd "à®…à®Ÿà¯à®¤à¯à®¤ à®ªà®¾à®Ÿà®²à¯">
+<!ENTITY command.device.cancel "ரத்து">
+<!ENTITY watchfolder.folderlist "புதிய ஊடகங்களுக்கு இந்த அடைவுகளை பார்">
+<!ENTITY tooltip.control.fwd "அடுத்த பாடல்">
 <!ENTITY restartbox.restartonplaybackend "Restart on End of Playback">
 <!ENTITY playback.prefpane.label "Playback">
 <!ENTITY command.device.canceldevicedelete.accesskey "C">
-<!ENTITY albumart.displaypane.contextmenu.showselected "à®¤â€Œà®±à¯à®ªà¯‹à®¤à¯ à®¤à¯‡à®°à¯à®¨à¯à®¤à¯†à®Ÿà¯à®¤à¯à®¤â€Œà®¤à¯ˆà®•à¯ à®•à®¾à®Ÿà¯à®Ÿà¯">
+<!ENTITY albumart.displaypane.contextmenu.showselected "த‌ற்போது தேர்ந்தெடுத்த‌தைக் காட்டு">
 <!ENTITY import_library.dirty_playlist_dialog.note "Note: Merge and replace cannot be undone.">
-<!ENTITY menu.control.repa "à®¤à®¿à®°à¯à®®à¯à®ªà®¿ à®ªà®¾à®Ÿà¯">
-<!ENTITY jumptofile.title "à®¤à®¾à®µà¯">
-<!ENTITY prefs.homepage.url.label "à®‡à®£à¯ˆà®¯à®¤à¯à®¤à®³ à®®à¯à®•à®µà®°à®¿:">
+<!ENTITY menu.control.repa "திரும்பி பாடு">
+<!ENTITY jumptofile.title "தாவு">
+<!ENTITY prefs.homepage.url.label "இணையத்தள முகவரி:">
 <!ENTITY device.firmware.wizard.busy.description "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY command.device.renamedevice "à®®à®±à¯à®ªà¯†à®¯à®°à®¿à®Ÿà¯">
+<!ENTITY command.device.renamedevice "மறுபெயரிடு">
 <!ENTITY smart.least_added "least recently added">
-<!ENTITY smart.contenttypecondition.video "à®’à®³à®¿à®•à¯à®•à®¾à®Ÿà¯à®šà®¿">
+<!ENTITY smart.contenttypecondition.video "ஒளிக்காட்சி">
 <!ENTITY rapi.playback_control_disable.accesskey "p">
-<!ENTITY downloadMediaCmd.label "à®¨à¯‚à®²à®•à®¤à¯à®¤à®¿à®±à¯à®•à¯ à®ªà®¤à®¿à®µà®¿à®±à®•à¯à®•à¯">
+<!ENTITY downloadMediaCmd.label "நூலகத்திற்கு பதிவிறக்கு">
 <!ENTITY command.device.stoprip "Stop Rip">
 <!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
-<!ENTITY first_run.add_ons.load_failed.label "à®ªà®°à®¿à®¨à¯à®¤à¯à®°à¯ˆà®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®Ÿ à®šà¯†à®°à¯à®•à®²à¯à®•à®³à¯ˆ à®ªà¯†à®± à®®à¯à®Ÿà®¿à®¯à®µà®¿à®²à¯à®²à¯ˆ">
+<!ENTITY first_run.add_ons.load_failed.label "பரிந்துரைக்கப்பட்ட செருகல்களை பெற முடியவில்லை">
 <!ENTITY first_run.feedback.description "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
-<!ENTITY about.credits.footer.linkText "à®ªà®™à¯à®•à®³à®¿à®ªà¯à®ªà®¾à®³à®°à¯à®•à®³à®¿à®©à¯à®±à®¿">
+<!ENTITY about.credits.footer.linkText "பங்களிப்பாளர்களின்றி">
 <!ENTITY device.tools.update_firmware.title "Update Firmware">
-<!ENTITY locale.language "à®®à¯Šà®´à®¿">
+<!ENTITY locale.language "மொழி">
 <!ENTITY cdrip.mediaview.stop_rip_button "Stop Rip">
 <!ENTITY copySelectionCmd.accesskey "c">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
@@ -687,17 +687,17 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY subscribeMediaPageCmd.accesskey "u">
 <!ENTITY menu.file.scan.accesskey "M">
 <!ENTITY first_run.itunes.header.label "iTunes Import/Export">
-<!ENTITY albumart.coverpreview.title "à®šà¯à®µà®°à¯Šà®Ÿà¯à®Ÿà®¿">
+<!ENTITY albumart.coverpreview.title "சுவரொட்டி">
 <!ENTITY playback.prefpane.normalization.label "Normalization">
 <!ENTITY menu.mac.hide.key "H">
 <!ENTITY menu.file.url.accesskey "A">
 <!ENTITY first_run.itunes.checkbox.export.label "Export new music tracks and playlists to iTunes">
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
 <!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
-<!ENTITY smart.match "à®ªà¯Šà®°à¯à®¤à¯à®¤à¯à®• ">
+<!ENTITY smart.match "பொருத்துக ">
 <!ENTITY export_tracks_itunes_checkbox "Export music tracks to iTunes">
-<!ENTITY cdrip.prefpane.quality "à®¤à®°à®®à¯">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "à®ªà¯à®¤à®¿à®¯ à®‡à®šà¯ˆà®ªà¯à®ªà®Ÿà¯à®Ÿà®¿à®¯à®²à¯">
+<!ENTITY cdrip.prefpane.quality "தரம்">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "புதிய இசைப்பட்டியல்">
 <!ENTITY trackeditor.key2 "I">
 <!ENTITY menu.edit.findagain.accesskey "G">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
