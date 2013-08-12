@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "پنهان کن">
 <!ENTITY tooltip.browser.subscription "عضویت در این صفحه">
 <!ENTITY smart.playlistcondition.library "کتابخانه">
-<!ENTITY menu.help.bugz "گزارش باگ…">
+<!ENTITY menu.help.bugz "گزارش باگ...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "تغییرات  این فولدر را در نظر بگیر">
 <!ENTITY equalizer.band3.label "۲۵۰">
 <!ENTITY videowindow.actualsize "اندازه حقیقی">
@@ -109,7 +109,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.edit.cut "بریدن">
 <!ENTITY mediaimporter.filtered_extensions.title "اعلان ورود مدیا">
 <!ENTITY tooltip.control.play "پخش">
-<!ENTITY tooltip.browser.mediapages "تغییر نوع نمایش…">
+<!ENTITY tooltip.browser.mediapages "تغییر نوع نمایش...">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "باتری">
 <!ENTITY menu.edit.delete "حذف">
@@ -131,7 +131,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.import_media.radio.dont_import.label "آهنگی وارد نکن">
 <!ENTITY feedback.dialog.yes "بله">
 <!ENTITY about.buttons.credits "سازندگان">
-<!ENTITY device.firmware.wizard.check.progress.title " چک کردن سیستم عامل به روز شده …">
+<!ENTITY device.firmware.wizard.check.progress.title " چک کردن سیستم عامل به روز شده ...">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "شما می توانید نام هنرمند و آلبوم را در اینجا اضافه کنید.شما می توانید باقی اطلاعات را در داخل لیست تبدیل سی دی ویرایش کنید">
 <!ENTITY umsd.music.music_path_browse_msg "شاخه ای از دستگاه را برای ریختن موزیک انتخاب کنید">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "فهرست پخش جدید">
 <!ENTITY openFrameCmdInDefaultBrowser.label "باز کردن فریم در مرورگر پیش فرض">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "فهرست پخش جدید…">
+<!ENTITY menu.file.new "فهرست پخش جدید...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "پوشه">
@@ -154,10 +154,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.prev "آهنگ قبلی">
 <!ENTITY device.firmware.wizard.support.description "منابع پشتیبانی نظیر سوالات رایج و نکات رفع خطا را میتوانید اینجا پیدا کنید:">
 <!ENTITY window.apply "اعمال">
-<!ENTITY menu.file.smart "فهرست پخش هوشمند جدید…">
+<!ENTITY menu.file.smart "فهرست پخش هوشمند جدید...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "مشاهده جزئیات خطا ها">
-<!ENTITY device.firmware.wizard.install.title "نصب سیستم عامل دستگاه …">
+<!ENTITY device.firmware.wizard.install.title "نصب سیستم عامل دستگاه ...">
 <!ENTITY command.device.canceldeviceupdate.accesskey "S">
 <!ENTITY menu.control.pause.button "مکث">
 <!ENTITY trackeditor.tab.summary.title "چکیده">
@@ -203,7 +203,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY watchfolder.title "بر پوشه‌ها نظارت داشته باش">
 <!ENTITY rapi.whitelist.label "استثناها">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "باز کردن آدرس…">
+<!ENTITY menu.file.url "باز کردن آدرس...">
 <!ENTITY menu.downloadmgr "دانلودها">
 <!ENTITY device.settings.auto_launch.checkbox.label "&brandShortName; را زمانی که شناخته شد باز کن">
 <!ENTITY first_run.itunes.checkbox.import.label "ورود ترک ها و لیست پخش های موسیقی از آیتونز">
@@ -274,7 +274,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY about.credits.description.champs.link.pre "قهرمانان سانگبرد کاربران و طرفداران سخت جانی هستند که فراتر از وظیفه شان برای کمک به سایر کاربران سانگبرد در">
 <!ENTITY menu.control.next "آهنگ بعدی">
 <!ENTITY umsd.video.video_path_browse_msg "شاخه ای از دستگاه را برای ریختن ویدیو انتخاب کنید">
-<!ENTITY setupprogress.pleasewait "… لطفا صبر کنید">
+<!ENTITY setupprogress.pleasewait "... لطفا صبر کنید">
 <!ENTITY menu.help.homepage "وبسایت سانگبرد">
 <!ENTITY equalizer.preset.soft "آرام">
 <!ENTITY equalizer.preset.large_hall "تالتر بزرگ">
@@ -283,7 +283,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY smart.most_recent "به تازگی پخش شده">
 <!ENTITY command.device.ejectdevice "بیرون انداختن">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "درباره فرمت های پشتیبانی نشده هنگام وارد کردن پیغامی نده">
-<!ENTITY first_run.connection.settings.button "تنظیمات اتصال…">
+<!ENTITY first_run.connection.settings.button "تنظیمات اتصال...">
 <!ENTITY import_library.prefs.title "آیتیونز">
 <!ENTITY hotkeys.action "عملکرد">
 <!ENTITY equalizer.preset.classical "کلاسیک">
@@ -336,7 +336,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.videotofront "ویدئو در پیش">
 <!ENTITY device.management.tabs.music.label "موسیقی">
 <!ENTITY equalizer.preset.pop "پاپ">
-<!ENTITY subscribeMediaFrameCmd.label "عضویت در این فریم…">
+<!ENTITY subscribeMediaFrameCmd.label "عضویت در این فریم...">
 <!ENTITY add_on_bundle_installer.error_box.label "جزئیات">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -410,10 +410,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "یکی شدن با وب">
-<!ENTITY menu.equalizer "اکولایزر…">
+<!ENTITY menu.equalizer "اکولایزر...">
 <!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;&apos;s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
 <!ENTITY displaypane.name.servicepane "نمایش دهنده سرویس پایین">
-<!ENTITY menu.clearprivatedata "پاک کردن اطلاعات شخصی…">
+<!ENTITY menu.clearprivatedata "پاک کردن اطلاعات شخصی...">
 <!ENTITY window.ok "تائید">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "یافتن">
@@ -435,7 +435,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.show "نمایش قاب سرویس">
 <!ENTITY tooltip.control.stop "توقف">
 <!ENTITY menu.file.remote "اشتراک جدید">
-<!ENTITY menu.file.podcast "پادکست جدید…">
+<!ENTITY menu.file.podcast "پادکست جدید...">
 <!ENTITY feedback.dialog.sentence2 "If you&apos;re not interested, we will not ask you again.  Thanks for considering and we appreciate you using &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "درحال حاضر پیاده سازه نشده (باگ شماره 14281 را مشاهده کنید)">
@@ -475,10 +475,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.info.capacity.label "ظرفیت">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "انتخاب پوشه…">
+<!ENTITY device.sync.images.browse "انتخاب پوشه...">
 <!ENTITY displaypane.default.link.post "برای بررسی افزونه ها.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "باز کردن فایل…">
+<!ENTITY menu.file.open "باز کردن فایل...">
 <!ENTITY command.device.devicesync "همگام سازی">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -499,7 +499,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.tools.format_volume.button.label "فرمت">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "محدود کن به ">
-<!ENTITY menu.file.library "وارد کردن یک کتابخانه…">
+<!ENTITY menu.file.library "وارد کردن یک کتابخانه...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "این آهنگ را پیدا کن">
@@ -633,7 +633,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.sync.images.all.label "همه عکس ها">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "اطلاعات کسب شده ترجیحی:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "دانلود سیستم عامل جدید…">
+<!ENTITY device.firmware.wizard.download.title "دانلود سیستم عامل جدید...">
 <!ENTITY cdrip.prefpane.format "فرمت">
 <!ENTITY smart.mb "مگابایت">
 <!ENTITY menu.linux.preferences "تنظیمات">
@@ -654,7 +654,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.welcome.header.label "به &brandShortName; خوش آمدید">
 <!ENTITY feedback.dialog.title "برای بهبود &brandShortName; کمک کنید!">
 <!ENTITY window.yes "آری">
-<!ENTITY subscribeMediaPageCmd.label "عضویت در این صفحه…">
+<!ENTITY subscribeMediaPageCmd.label "عضویت در این صفحه...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "توقف">
 <!ENTITY watchfolder.folderlist "مدیا های جدید را در این پوشه‌ها در نظر داشته باش">

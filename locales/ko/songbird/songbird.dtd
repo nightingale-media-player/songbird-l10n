@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "감추기">
 <!ENTITY tooltip.browser.subscription "이 페이지를 구독하기">
 <!ENTITY smart.playlistcondition.library "라이브러리">
-<!ENTITY menu.help.bugz "결함 보고하기…">
+<!ENTITY menu.help.bugz "결함 보고하기...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "이 폴더의 변화를 주시">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "실제 크기">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "잘라내기">
 <!ENTITY mediaimporter.filtered_extensions.title "미디어 가져오기 알림">
 <!ENTITY tooltip.control.play "재생">
-<!ENTITY tooltip.browser.mediapages "보기…">
+<!ENTITY tooltip.browser.mediapages "보기...">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "배터리">
 <!ENTITY menu.edit.delete "지우기">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "미디어를 불러오지 않기">
 <!ENTITY feedback.dialog.yes "예">
 <!ENTITY about.buttons.credits "공헌자">
-<!ENTITY device.firmware.wizard.check.progress.title "펌웨어 업데이트를 확인하는 중입니다…">
+<!ENTITY device.firmware.wizard.check.progress.title "펌웨어 업데이트를 확인하는 중입니다...">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "아티스트와 앨범 이름을 추가하거나, CD Rip 재생목록등의 정보를 수정할 수 있습니다.">
 <!ENTITY umsd.music.music_path_browse_msg "음악 파일이 위치할 장치 디렉토리를 선택해주세요.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "새 재생목록">
 <!ENTITY openFrameCmdInDefaultBrowser.label "기본 웹 브라우저에서 프레임 열기">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "새 재생목록…">
+<!ENTITY menu.file.new "새 재생목록...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "폴더:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "이전 트랙">
 <!ENTITY device.firmware.wizard.support.description "FAQ나 문제 해결 팁 등의 도움말은 다음을 참조하세요.">
 <!ENTITY window.apply "동의">
-<!ENTITY menu.file.smart "새 스마트 재생목록…">
+<!ENTITY menu.file.smart "새 스마트 재생목록...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "오류 세부 사항 보기">
-<!ENTITY device.firmware.wizard.install.title "펌웨어 설치 중…">
+<!ENTITY device.firmware.wizard.install.title "펌웨어 설치 중...">
 <!ENTITY command.device.canceldeviceupdate.accesskey "S">
 <!ENTITY menu.control.pause.button "일시정지">
 <!ENTITY trackeditor.tab.summary.title "요약">
@@ -170,7 +170,7 @@
 <!ENTITY equalizer.title "이퀄라이저">
 <!ENTITY import_library.import_command "라이브러리 가져오기">
 <!ENTITY cdrip.mediaview.view_tracks_button "트랙 보기">
-<!ENTITY window.browse "탐색…">
+<!ENTITY window.browse "탐색...">
 <!ENTITY device.tools.restore_device.title "기기 복구">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "상단에서 먼저 사용할 수집기 목록을 관리합니다.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "찾을수 없는 코덱에 대한 자세한 내용에 대해 다음을 참고:">
@@ -201,7 +201,7 @@
 <!ENTITY watchfolder.title "폴더 감시">
 <!ENTITY rapi.whitelist.label "설정">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "URL 주소 열기…">
+<!ENTITY menu.file.url "URL 주소 열기...">
 <!ENTITY menu.downloadmgr "파일 다운로드">
 <!ENTITY device.settings.auto_launch.checkbox.label "이 장치를 발견하면 &brandShortName;을 열기">
 <!ENTITY first_run.itunes.checkbox.import.label "iTunes에서 트랙과 재생목록들을 가져오기">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird 챔피언들은 매우 열성적인 Songbird 사용자가 그 의무를 넘어서">
 <!ENTITY menu.control.next "다음 트랙">
 <!ENTITY umsd.video.video_path_browse_msg "동영상 파일이 위치할 장치 디렉토리를 선택해주세요.">
-<!ENTITY setupprogress.pleasewait "잠시만 기다려주세요…">
+<!ENTITY setupprogress.pleasewait "잠시만 기다려주세요...">
 <!ENTITY menu.help.homepage "송버드 웹사이트">
 <!ENTITY equalizer.preset.soft "소프트">
 <!ENTITY equalizer.preset.large_hall "대형 홀">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "재생일이 최근인 순">
 <!ENTITY command.device.ejectdevice "꺼내기">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "미디어를 가져오는 동안 지원하지 않는 동영상 파일에 대해 알려주지 않기">
-<!ENTITY first_run.connection.settings.button "연결 설정 …">
+<!ENTITY first_run.connection.settings.button "연결 설정 ...">
 <!ENTITY import_library.prefs.title "iTunes">
 <!ENTITY hotkeys.action "동작">
 <!ENTITY equalizer.preset.classical "클래식">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "비디오를 앞으로">
 <!ENTITY device.management.tabs.music.label "음악">
 <!ENTITY equalizer.preset.pop "팝">
-<!ENTITY subscribeMediaFrameCmd.label "이 프레임을 구독하기…">
+<!ENTITY subscribeMediaFrameCmd.label "이 프레임을 구독하기...">
 <!ENTITY add_on_bundle_installer.error_box.label "세부 정보">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -432,7 +432,7 @@
 <!ENTITY feed.subscribe.label "구독">
 <!ENTITY tooltip.servicepane.show "서비스 패널 보기">
 <!ENTITY tooltip.control.stop "중지">
-<!ENTITY menu.file.remote "새 구독…">
+<!ENTITY menu.file.remote "새 구독...">
 <!ENTITY menu.file.podcast "새 팟캐스트">
 <!ENTITY feedback.dialog.sentence2 "관심이 없으시다면 다시 물어보지 않겠습니다. &brandShortName;를 이용해 주셔서 감사합니다.">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "제품">
 <!ENTITY smart.minutes "분">
 <!ENTITY menu.help.topics "도움말 항목">
-<!ENTITY menu.file.playlist "재생목록 불러오기…">
+<!ENTITY menu.file.playlist "재생목록 불러오기...">
 <!ENTITY first_run.app_update.finished.title "업데이트 완료">
 <!ENTITY device.tools.format_volume.button.label "포맷">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "최대">
-<!ENTITY menu.file.library "라이브러리 불러오기…">
+<!ENTITY menu.file.library "라이브러리 불러오기...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "현재 트랙 찾기">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "구독 정보 내보내기">
 <!ENTITY mediacore.error.title "재생 오류">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "이동…">
+<!ENTITY menu.control.jumpto "이동...">
 <!ENTITY menu.tools "도구">
 <!ENTITY device.settings.music.transcoding.label "음악 변환">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "재설정">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "CD 정보 찾기">
 <!ENTITY tabs.listAllTabs "모든 탭 목록">
 <!ENTITY rapi.prefpane.access.caption "웹 연동 권한 설정">
-<!ENTITY menu.file.scan "미디어 불러오기…">
+<!ENTITY menu.file.scan "미디어 불러오기...">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "미디어 가져오기 도구">
 <!ENTITY device.firmware.wizard.download.error.description "새 펌웨어를 내려 받는데 오류가 발생했습니다. 네트워크 연결을 확인한 후 다시 시도하십시오.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "모든 사진">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "원하는 이득(gain) 데이터:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "새 펌웨어를 내려 받는 중…">
+<!ENTITY device.firmware.wizard.download.title "새 펌웨어를 내려 받는 중...">
 <!ENTITY cdrip.prefpane.format "형식">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "환경 설정">

@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Скрыть">
 <!ENTITY tooltip.browser.subscription "Подписаться на эту страницу">
 <!ENTITY smart.playlistcondition.library "Медиатека">
-<!ENTITY menu.help.bugz "Сообщить об ошибке…">
+<!ENTITY menu.help.bugz "Сообщить об ошибке...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Отслеживать изменения в этой папке">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Фактический размер">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Вырезать">
 <!ENTITY mediaimporter.filtered_extensions.title "Медиа Импорт Уведомление">
 <!ENTITY tooltip.control.play "Воспроизвести">
-<!ENTITY tooltip.browser.mediapages "Переключить просмотр медиа…">
+<!ENTITY tooltip.browser.mediapages "Переключить просмотр медиа...">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "О">
 <!ENTITY device.info.battery.label "Аккумулятор">
 <!ENTITY menu.edit.delete "Удалить">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Не импортировать медиафайлы">
 <!ENTITY feedback.dialog.yes "Да">
 <!ENTITY about.buttons.credits "Сведения об авторах">
-<!ENTITY device.firmware.wizard.check.progress.title "Проверка обновлений прошивки…">
+<!ENTITY device.firmware.wizard.check.progress.title "Проверка обновлений прошивки...">
 <!ENTITY downloadMediaCmd.accesskey "з">
 <!ENTITY cdrip.lookup.info_not_found.descr "Здесь Вы можете добавить исполнителя и название сборника. Вы можете отредактировать оставшуюся информацию внутри  списка воспроиведения CD Rip">
 <!ENTITY umsd.music.music_path_browse_msg "Выберите папку на устройстве, в которую будет копироваться музыка.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Новый плейлист">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Открыть фрейм в браузере по умолчанию">
 <!ENTITY menu.file.newtab.accesskey "в">
-<!ENTITY menu.file.new "Новый плейлист…">
+<!ENTITY menu.file.new "Новый плейлист...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "О">
 <!ENTITY menu.edit.copy.accesskey "п">
 <!ENTITY watch_folder.prefs.watch_folder_label "Папка:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Предыдущий трек">
 <!ENTITY device.firmware.wizard.support.description "Справочные материалы, такие как FAQ и подсказки по исправлению ошибок можно найти по адресу">
 <!ENTITY window.apply "Применить">
-<!ENTITY menu.file.smart "Создать умный плейлист…">
+<!ENTITY menu.file.smart "Создать умный плейлист...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Посмотреть подробности ошибки">
-<!ENTITY device.firmware.wizard.install.title "Установка прошивки…">
+<!ENTITY device.firmware.wizard.install.title "Установка прошивки...">
 <!ENTITY command.device.canceldeviceupdate.accesskey "О">
 <!ENTITY menu.control.pause.button "Пауза">
 <!ENTITY trackeditor.tab.summary.title "Сводка">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Эквалайзер">
 <!ENTITY import_library.import_command "Импортировать медиатеку">
 <!ENTITY cdrip.mediaview.view_tracks_button "Просмотреть песни">
-<!ENTITY window.browse "Обзор…">
+<!ENTITY window.browse "Обзор...">
 <!ENTITY device.tools.restore_device.title "восстановить устройство">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Расположите сервисы для загрузки обложки альбома в списке в соответствии со своими предпочтениями.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "детали о недостающих кодеках на">
 <!ENTITY displaypane.default.image.post "или посетите">
 <!ENTITY smart.songs "медиафайлы">
-<!ENTITY menu.tools.getartwork "Найти обложку альбома…">
+<!ENTITY menu.tools.getartwork "Найти обложку альбома...">
 <!ENTITY window.cancel "Отмена">
 <!ENTITY smart.genre "по жанру">
 <!ENTITY menu.file.playlist.accesskey "м">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "м">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Наблюдение за папками">
-<!ENTITY rapi.whitelist.label "Исключения…">
+<!ENTITY rapi.whitelist.label "Исключения...">
 <!ENTITY menu.updateCmd.accessKey "о">
-<!ENTITY menu.file.url "Открыть в интернете…">
+<!ENTITY menu.file.url "Открыть в интернете...">
 <!ENTITY menu.downloadmgr "Загрузка файлов">
 <!ENTITY device.settings.auto_launch.checkbox.label "Открыть &brandShortName; когда устройство обнаружено">
 <!ENTITY first_run.itunes.checkbox.import.label "Импортировать песни и плейлисты из iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Чемпионы Songbird - это самые активные пользователи и фанаты, которые превзошли все возможные ожидания в помощи и разрешении проблемных вопросов других пользователей.">
 <!ENTITY menu.control.next "Следующий трек">
 <!ENTITY umsd.video.video_path_browse_msg "Выберите папку на устройстве, в которую будут копироваться видеофайлы.">
-<!ENTITY setupprogress.pleasewait "Пожалуйста, подождите…">
+<!ENTITY setupprogress.pleasewait "Пожалуйста, подождите...">
 <!ENTITY menu.help.homepage "Домашняя страница">
 <!ENTITY equalizer.preset.soft "Софт">
 <!ENTITY equalizer.preset.large_hall "Большое помещение">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "из воспроизведенных недавно">
 <!ENTITY command.device.ejectdevice "Извлечь">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "больше не уведомлять о неподдерживаемых форматах">
-<!ENTITY first_run.connection.settings.button "Настройки соединения…">
+<!ENTITY first_run.connection.settings.button "Настройки соединения...">
 <!ENTITY import_library.prefs.title "iTunes Импорт/Экспорт">
 <!ENTITY hotkeys.action "Действие">
 <!ENTITY equalizer.preset.classical "Классическая">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Видео на передний план">
 <!ENTITY device.management.tabs.music.label "Музыка">
 <!ENTITY equalizer.preset.pop "Поп">
-<!ENTITY subscribeMediaFrameCmd.label "Подписаться на этот фрейм…">
+<!ENTITY subscribeMediaFrameCmd.label "Подписаться на этот фрейм...">
 <!ENTITY add_on_bundle_installer.error_box.label "Подробности">
 <!ENTITY smart.gb "ГБ">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "О">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "С">
 <!ENTITY rapi.prefpane.title "Сетевая интеграция">
-<!ENTITY menu.equalizer "Эквалайзер…">
+<!ENTITY menu.equalizer "Эквалайзер...">
 <!ENTITY first_run.add_ons.description.line1 "Дополнения расширяют функциональность &brandShortName;, позволяя вам подстраивать медиаплеер под себя и свои потребности. Опции, приведенные ниже, строго рекомендуется.">
 <!ENTITY displaypane.name.servicepane "панель дополнительных сервисов">
-<!ENTITY menu.clearprivatedata "Удалить личные данные…">
+<!ENTITY menu.clearprivatedata "Удалить личные данные...">
 <!ENTITY window.ok "ОК">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Найти">
 <!ENTITY first_run.add_ons.description.line2 "Дополнения могут взаимодействовать с другими приложениями и сервисами, поддерживать подключения к внешним устройствам, менять внешний вид приложений и многое другое! Все это Вы можете загрузить на сайте дополнений &brandShortName; ">
-<!ENTITY menu.updateCmd.label "Проверить наличие обновлений…">
+<!ENTITY menu.updateCmd.label "Проверить наличие обновлений...">
 <!ENTITY device.firmware.wizard.check.error.description "Произошла ошибка во время поиска прошивки. Пожалуйста, проверьте сетевое подключение и попробуйте заново">
 <!ENTITY device.settings.music.transcoding.bitrate.label "битрейт">
 <!ENTITY displaypane.name.browser "панель информации">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Подписаться ">
 <!ENTITY tooltip.servicepane.show "Показать панель дополнительных сервисов">
 <!ENTITY tooltip.control.stop "Остановить">
-<!ENTITY menu.file.remote "Создать подписку…">
-<!ENTITY menu.file.podcast "Новый подкаст…">
+<!ENTITY menu.file.remote "Создать подписку...">
+<!ENTITY menu.file.podcast "Новый подкаст...">
 <!ENTITY feedback.dialog.sentence2 "Если Вы не заинтересованы, мы не будем больше вас беспокоить. Спасибо за понимание, мы ценим, что Вы пользуетесь &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Пока не реализовано (см. баг 14281).">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Объём">
 <!ENTITY command.device.ignoredevice.accesskey "properly">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "Сдвиг accel">
-<!ENTITY device.sync.images.browse "Выберите папку…">
+<!ENTITY device.sync.images.browse "Выберите папку...">
 <!ENTITY displaypane.default.link.post "для просмотра обновлений.">
 <!ENTITY menu.control.play.accesskey "з">
-<!ENTITY menu.file.open "Открыть файл…">
+<!ENTITY menu.file.open "Открыть файл...">
 <!ENTITY command.device.devicesync "Синхронизировать">
 <!ENTITY menu.preferences.accesskey "Н">
 <!ENTITY menu.clearprivatedata.accesskey "У">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Продукт">
 <!ENTITY smart.minutes "мин">
 <!ENTITY menu.help.topics "Разделы справки">
-<!ENTITY menu.file.playlist "Импортировать плейлист…">
+<!ENTITY menu.file.playlist "Импортировать плейлист...">
 <!ENTITY first_run.app_update.finished.title "Обновление готово к установке">
 <!ENTITY device.tools.format_volume.button.label "Форматирование">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Лимит">
-<!ENTITY menu.file.library "Импортировать медиатеку…">
+<!ENTITY menu.file.library "Импортировать медиатеку...">
 <!ENTITY command.device.formatdevice.accesskey "Ф">
 <!ENTITY wizard.button.next.accesskey "Д">
 <!ENTITY tooltip.control.curtrack "Найти текущий трек">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Экспортировать подписки">
 <!ENTITY mediacore.error.title "Ошибка воспроизведения">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Перейти к…">
+<!ENTITY menu.control.jumpto "Перейти к...">
 <!ENTITY menu.tools "Инструменты">
 <!ENTITY device.settings.music.transcoding.label "Перекодирование музыки">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Сбросить">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Просмотр информации о CD">
 <!ENTITY tabs.listAllTabs "Список всех вкладок">
 <!ENTITY rapi.prefpane.access.caption "Права доступа для веб-сайтов">
-<!ENTITY menu.file.scan "Импортировать медиафайлы…">
+<!ENTITY menu.file.scan "Импортировать медиафайлы...">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Импортирование медиафайлов">
 <!ENTITY device.firmware.wizard.download.error.description "Произошла ошибка в процессе скачивания новой прошивки. Пожалуйста, проверьте ваше сетевое подключение и попробуйте снова.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Все фотографии">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Предпочитаемое усиление данных:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Загружается новая прошивка…">
+<!ENTITY device.firmware.wizard.download.title "Загружается новая прошивка...">
 <!ENTITY cdrip.prefpane.format "Формат">
 <!ENTITY smart.mb "МБ">
 <!ENTITY menu.linux.preferences "Настройки">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Вас приветствует &brandShortName;">
 <!ENTITY feedback.dialog.title "Помогите нам в улучшении &brandShortName;!">
 <!ENTITY window.yes "Да">
-<!ENTITY subscribeMediaPageCmd.label "Подписаться на эту страницу…">
+<!ENTITY subscribeMediaPageCmd.label "Подписаться на эту страницу...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Остановить">
 <!ENTITY watchfolder.folderlist "Отслеживать добавление новых медиафайлов в эти папки:">
@@ -663,7 +663,7 @@
 <!ENTITY albumart.displaypane.contextmenu.showselected "Выбрано">
 <!ENTITY import_library.dirty_playlist_dialog.note "Примечание: операции замены и объединения не могут быть отменены.">
 <!ENTITY menu.control.repa "Повторять всё">
-<!ENTITY jumptofile.title "Перейти к…">
+<!ENTITY jumptofile.title "Перейти к...">
 <!ENTITY prefs.homepage.url.label "URL-адрес:">
 <!ENTITY device.firmware.wizard.busy.description "Похоже на то, что ваше устройство занято. Прошивка может быть установлена только когда ваше устройство бездействует.">
 <!ENTITY command.device.renamedevice "Переименовать">

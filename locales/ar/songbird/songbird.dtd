@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "إخفاء">
 <!ENTITY tooltip.browser.subscription "إشترك في هذه الصفحة">
 <!ENTITY smart.playlistcondition.library "مكتبة">
-<!ENTITY menu.help.bugz "أبلغ عن خطأ…">
+<!ENTITY menu.help.bugz "أبلغ عن خطأ...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "قم بمراقبة هذا المجلد للتغييرات">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "الحجم الفعلي">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "قائمة جديدة">
 <!ENTITY openFrameCmdInDefaultBrowser.label "افتح الإطار في متصفح الشبكة المبدئي">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "قائمة جديدة…">
+<!ENTITY menu.file.new "قائمة جديدة...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "المجلد:">
@@ -152,7 +152,7 @@
 <!ENTITY menu.control.prev "المقطوعة السابقة">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "تطبيق">
-<!ENTITY menu.file.smart "قائمة تشغيل ذكية جديدة…">
+<!ENTITY menu.file.smart "قائمة تشغيل ذكية جديدة...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "اظهر تفاصيل الاخطأ">
 <!ENTITY device.firmware.wizard.install.title "تثبيت نظام جديد">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "معادل الصوت">
 <!ENTITY import_library.import_command "إستيراد مكتبة">
 <!ENTITY cdrip.mediaview.view_tracks_button "عرض المقطوعات">
-<!ENTITY window.browse "تصفّح…">
+<!ENTITY window.browse "تصفّح...">
 <!ENTITY device.tools.restore_device.title "استرجع الجهاز">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "قائمه او زياره الي">
 <!ENTITY smart.songs "عناصر">
-<!ENTITY menu.tools.getartwork "احصل على صورة الألبوم…">
+<!ENTITY menu.tools.getartwork "احصل على صورة الألبوم...">
 <!ENTITY window.cancel "إلغاء">
 <!ENTITY smart.genre "النوع">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -198,10 +198,10 @@
 <!ENTITY recommended_add_ons.title "تثبيت &brandShortName;">
 <!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY locationbar.key "L">
-<!ENTITY watchfolder.title "راقب المجلدات…">
-<!ENTITY rapi.whitelist.label "استثناءات…">
+<!ENTITY watchfolder.title "راقب المجلدات...">
+<!ENTITY rapi.whitelist.label "استثناءات...">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "افتح مكاناً…">
+<!ENTITY menu.file.url "افتح مكاناً...">
 <!ENTITY menu.downloadmgr "تنزيل الملفات">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "استيراد مقطوعات الموسيقي وقوائم التشغيل من اي تيونز">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "ابطال سونجبيرد هما العنداء من مستخدمين سونجبيرد ولبوا ندا الواجب لكي يساعدوا المستخدمين الاخرين ">
 <!ENTITY menu.control.next "المقطوعة التالية">
 <!ENTITY umsd.video.video_path_browse_msg "إختر مُجلد الجهاز الذي ترغب في وضع ملفات الفيديو فيه">
-<!ENTITY setupprogress.pleasewait "الرجاء الانتظار…">
+<!ENTITY setupprogress.pleasewait "الرجاء الانتظار...">
 <!ENTITY menu.help.homepage "موقع سونج بيرد">
 <!ENTITY equalizer.preset.soft "ضعيف">
 <!ENTITY equalizer.preset.large_hall "صالة كبيرة">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "انقل الفيديو للامام">
 <!ENTITY device.management.tabs.music.label "موسيقى">
 <!ENTITY equalizer.preset.pop "بوب">
-<!ENTITY subscribeMediaFrameCmd.label "اشترك في هذا الإطار…">
+<!ENTITY subscribeMediaFrameCmd.label "اشترك في هذا الإطار...">
 <!ENTITY add_on_bundle_installer.error_box.label "تفاصيل">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "التكامل مع الويب">
-<!ENTITY menu.equalizer "المعادل…">
+<!ENTITY menu.equalizer "المعادل...">
 <!ENTITY first_run.add_ons.description.line1 "تزيد الإضافات من تأدية &brandShortName;&apos; الوظيفية، وتسمح لك بتخصيص استخدامك لمشغل الوسائط. ينصح وبشدة بالخيارات أدناه.">
 <!ENTITY displaypane.name.servicepane "الجزء السفلي للوحة الخدمة">
-<!ENTITY menu.clearprivatedata "امسح البيانات الشخصية…">
+<!ENTITY menu.clearprivatedata "امسح البيانات الشخصية...">
 <!ENTITY window.ok "موافق">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "ابحث">
 <!ENTITY first_run.add_ons.description.line2 "يمكن للإضافات أن تتكامل مع التطبيقات والخدمات الأخرى، وتدعم الاتصال بالأجهزة الخارجية، وتغير من الشكل الخارجي للبرنامح وأمور عديدة أخرى! بإمكانك تنزيل إضافات أخرى على موقع إضافات &brandShortName;.">
-<!ENTITY menu.updateCmd.label "ابحث عن التحديثات…">
+<!ENTITY menu.updateCmd.label "ابحث عن التحديثات...">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "الجزء السفلي للوحة المحتوى">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "أشترك">
 <!ENTITY tooltip.servicepane.show "أظهر لوحة الخدمة">
 <!ENTITY tooltip.control.stop "إيقاف">
-<!ENTITY menu.file.remote "اشتراك جديد…">
-<!ENTITY menu.file.podcast "New Podcast…">
+<!ENTITY menu.file.remote "اشتراك جديد...">
+<!ENTITY menu.file.podcast "New Podcast...">
 <!ENTITY feedback.dialog.sentence2 "إذا لم تكن لديك الرغبة فلن تُسأل مرة أخرى. نشكرك لاهتمامك ونقدّر استخدامك لـ&brandShortName;">
 <!ENTITY mediacore.error.codec_not_found.text.post " ">
 <!ENTITY fetch_album_art.dialog.message "الخاصية غير مفعلة (راجع الخطأ 14281)">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "منتج">
 <!ENTITY smart.minutes "دقائق">
 <!ENTITY menu.help.topics "مواضيع المساعدة">
-<!ENTITY menu.file.playlist "استورد قائمة تشغيل…">
+<!ENTITY menu.file.playlist "استورد قائمة تشغيل...">
 <!ENTITY first_run.app_update.finished.title "التحديثات جاهز لتركيب">
 <!ENTITY device.tools.format_volume.button.label "تهيئه">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "إلى الحد">
-<!ENTITY menu.file.library "استورد مكتبة…">
+<!ENTITY menu.file.library "استورد مكتبة...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "ابحث على المقطوعة الحالية">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "تصدير الاختيارات">
 <!ENTITY mediacore.error.title "خطأ في لب الوسائط">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "انتقل إلى…">
+<!ENTITY menu.control.jumpto "انتقل إلى...">
 <!ENTITY menu.tools "أدوات">
 <!ENTITY device.settings.music.transcoding.label "تحويل الموسيقي">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "إعادة للوضع السابق ">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "إبحث عن معلومات متعلقة بالقرص">
 <!ENTITY tabs.listAllTabs "إظهار كل التبيويبات">
 <!ENTITY rapi.prefpane.access.caption "أذونات التكامل مع الويب">
-<!ENTITY menu.file.scan "استورد وسائط…">
+<!ENTITY menu.file.scan "استورد وسائط...">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "مستورد الوسائط">
 <!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "&brandShortName; أهلاً و سهلاً في ">
 <!ENTITY feedback.dialog.title "ساعد في تحسين &brandShortName;!">
 <!ENTITY window.yes "نعم">
-<!ENTITY subscribeMediaPageCmd.label "اشترك في هذه الصفحة…">
+<!ENTITY subscribeMediaPageCmd.label "اشترك في هذه الصفحة...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "ايقاف">
 <!ENTITY watchfolder.folderlist "راقب هذه المجلدات للوسائط الجديدة:">

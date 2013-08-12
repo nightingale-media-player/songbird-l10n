@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "மறை">
 <!ENTITY tooltip.browser.subscription "Subscribe to this page">
 <!ENTITY smart.playlistcondition.library "நூலகம்">
-<!ENTITY menu.help.bugz "Report a Bug�">
+<!ENTITY menu.help.bugz "Report a Bug...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "உண்மையான அளவு ">
@@ -109,7 +109,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.edit.cut "வெட்டு">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
 <!ENTITY tooltip.control.play "இசை">
-<!ENTITY tooltip.browser.mediapages "Switch Media Views�">
+<!ENTITY tooltip.browser.mediapages "Switch Media Views...">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "மின்கலம்">
 <!ENTITY menu.edit.delete "அழி">
@@ -143,7 +143,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tooltip.servicepane.newnode "புதிய இசைப்பட்டியல்">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Open Frame In Default Web Browser">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "புதிய இசைப்பட்டியல்�">
+<!ENTITY menu.file.new "புதிய இசைப்பட்டியல்...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "அடைவு:">
@@ -154,10 +154,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.control.prev "முந்தைய பாடல்">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "செயற்படுத்து ">
-<!ENTITY menu.file.smart "New Smart Playlist�">
+<!ENTITY menu.file.smart "New Smart Playlist...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "தவறுகளின் விவரத்தை பார்">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware�">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "இடைநிறுத்து">
 <!ENTITY trackeditor.tab.summary.title "சுருக்கம்">
@@ -172,13 +172,13 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY equalizer.title "Equalizer">
 <!ENTITY import_library.import_command "நூலகத்தை இறக்குமதி செய்">
 <!ENTITY cdrip.mediaview.view_tracks_button "பாடல்களை பார்">
-<!ENTITY window.browse "உலாவு�">
+<!ENTITY window.browse "உலாவு...">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
 <!ENTITY smart.songs "உருப்படிகள்">
-<!ENTITY menu.tools.getartwork "சுவரொட்டியை பெறு�">
+<!ENTITY menu.tools.getartwork "சுவரொட்டியை பெறு...">
 <!ENTITY window.cancel "ரத்து">
 <!ENTITY smart.genre "குழு வ‌கை">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -201,9 +201,9 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "அடைவுகளை பார்">
-<!ENTITY rapi.whitelist.label "Exceptions�">
+<!ENTITY rapi.whitelist.label "Exceptions...">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "இடத்தை திற�">
+<!ENTITY menu.file.url "இடத்தை திற...">
 <!ENTITY menu.downloadmgr "கோப்பு பதிவிறக்கங்கள்">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
@@ -274,7 +274,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "அடுத்த பாடல்">
 <!ENTITY umsd.video.video_path_browse_msg "Select the device directory in which to place video files.">
-<!ENTITY setupprogress.pleasewait "தயவுசெய்து காத்திருக்கவும்�">
+<!ENTITY setupprogress.pleasewait "தயவுசெய்து காத்திருக்கவும்...">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "பெரிய அரங்கம் ">
@@ -283,7 +283,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY smart.most_recent "அண்மையில் மிகவும் இயக்கப்பட்டவை ">
 <!ENTITY command.device.ejectdevice "வெளியேற்று">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "தொடர்பு அமைப்புகள்�">
+<!ENTITY first_run.connection.settings.button "தொடர்பு அமைப்புகள்...">
 <!ENTITY import_library.prefs.title "iTunes Import/Export">
 <!ENTITY hotkeys.action "செயல்">
 <!ENTITY equalizer.preset.classical "Classical">
@@ -336,7 +336,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY device.management.tabs.music.label "இசை">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame�">
+<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
 <!ENTITY add_on_bundle_installer.error_box.label "விவரங்கள்">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -410,7 +410,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Web Integration">
-<!ENTITY menu.equalizer "சமன்படுத்தி�">
+<!ENTITY menu.equalizer "சமன்படுத்தி...">
 <!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;&apos;s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
 <!ENTITY displaypane.name.servicepane "Service Pane Bottom">
 <!ENTITY menu.clearprivatedata "அந்தரங்க தகவலை அழிக்கவும்.">
@@ -418,7 +418,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "தேடு">
 <!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY menu.updateCmd.label "புதுப்பிக்கள் இருக்கின்றதா என பார்க்கவும்�">
+<!ENTITY menu.updateCmd.label "புதுப்பிக்கள் இருக்கின்றதா என பார்க்கவும்...">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "பிட் விகிதம்">
 <!ENTITY displaypane.name.browser "Content Pane Bottom">
@@ -434,8 +434,8 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY feed.subscribe.label "சந்தாசேர் ">
 <!ENTITY tooltip.servicepane.show "Show Service Pane">
 <!ENTITY tooltip.control.stop "நிறுத்து">
-<!ENTITY menu.file.remote "புதிய சந்தா�">
-<!ENTITY menu.file.podcast "New Podcast�">
+<!ENTITY menu.file.remote "புதிய சந்தா...">
+<!ENTITY menu.file.podcast "New Podcast...">
 <!ENTITY feedback.dialog.sentence2 "If you&apos;re not interested, we will not ask you again.  Thanks for considering and we appreciate you using &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
@@ -475,10 +475,10 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.info.capacity.label "கொள்ளளவு">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder�">
+<!ENTITY device.sync.images.browse "Choose folder...">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "கோப்பைத் திற�">
+<!ENTITY menu.file.open "கோப்பைத் திற...">
 <!ENTITY command.device.devicesync "ஒத்திசை">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -494,12 +494,12 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.info.product.label "பொருள்">
 <!ENTITY smart.minutes "நிமிடங்கள்">
 <!ENTITY menu.help.topics "உதவி தலைப்புகள்">
-<!ENTITY menu.file.playlist "இசைப்பட்டியலை இறக்குமதி செய்�">
+<!ENTITY menu.file.playlist "இசைப்பட்டியலை இறக்குமதி செய்...">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "வடிவம் ">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Limit to">
-<!ENTITY menu.file.library "நூலகத்தை இறக்குமதி செய்�">
+<!ENTITY menu.file.library "நூலகத்தை இறக்குமதி செய்...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Find Current Track">
@@ -531,7 +531,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
 <!ENTITY mediacore.error.title "Playback Error">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "தாவு�">
+<!ENTITY menu.control.jumpto "தாவு...">
 <!ENTITY menu.tools "கருவிகள்">
 <!ENTITY device.settings.music.transcoding.label "இசைப் பரிமாற்றம் ">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "மீளமை ">
@@ -539,7 +539,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY command.device.lookup "CD தகவலை பார்">
 <!ENTITY tabs.listAllTabs "எல்லா தத்தங்களையும் பட்டியலிடு">
 <!ENTITY rapi.prefpane.access.caption "Web Integration Permissions">
-<!ENTITY menu.file.scan "ஊடகத்தை இறக்குமதி செய்�">
+<!ENTITY menu.file.scan "ஊடகத்தை இறக்குமதி செய்...">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Media Importer">
 <!ENTITY device.firmware.wizard.download.error.description "மென்பொருளை நிறுவ முடியவில்லை. இணைய இணைப்பை சரிபார்க்க.">
@@ -556,7 +556,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
 <!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Automatically watch for changes in the following folder">
-<!ENTITY menu.file.metadata "View Metadata�">
+<!ENTITY menu.file.metadata "View Metadata...">
 <!ENTITY device.info.firmware_version.label "மென்பொருள் பதிவு எண்">
 <!ENTITY device.info.access.label "Access Compatibility">
 <!ENTITY tooltip.control.back "முந்தைய">
@@ -654,7 +654,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY first_run.welcome.header.label "&brandShortName;ற்கு வரவேற்கிறோம்">
 <!ENTITY feedback.dialog.title "&brandShortName; மேம்பட உதவி செய்யுங்கள்">
 <!ENTITY window.yes "ஆம்">
-<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page�">
+<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "ரத்து">
 <!ENTITY watchfolder.folderlist "புதிய ஊடகங்களுக்கு இந்த அடைவுகளை பார்">

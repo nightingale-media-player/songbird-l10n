@@ -476,7 +476,7 @@
 <!ENTITY device.sync.images.browse "Vel mappe …">
 <!ENTITY displaypane.default.link.post "for å bla gjennom utvidingane.">
 <!ENTITY menu.control.play.accesskey "S">
-<!ENTITY menu.file.open "Opne fil …">
+<!ENTITY menu.file.open "Opne fil ...">
 <!ENTITY command.device.devicesync "Synkroniser">
 <!ENTITY menu.preferences.accesskey "I">
 <!ENTITY menu.clearprivatedata.accesskey "S">

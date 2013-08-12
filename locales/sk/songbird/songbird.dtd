@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Skryť">
 <!ENTITY tooltip.browser.subscription "Prihlásiť sa k odberu">
 <!ENTITY smart.playlistcondition.library "Knižnica">
-<!ENTITY menu.help.bugz "Ohlásiť chybu…">
+<!ENTITY menu.help.bugz "Ohlásiť chybu...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Sledovať tento priečinok kvôli zmenám">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Vystrihnúť">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
 <!ENTITY tooltip.control.play "Prehrať">
-<!ENTITY tooltip.browser.mediapages "Zobraziť…">
+<!ENTITY tooltip.browser.mediapages "Zobraziť...">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "p">
 <!ENTITY device.info.battery.label "Batéria">
 <!ENTITY menu.edit.delete "Odstrániť">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Neimportovať médiá teraz">
 <!ENTITY feedback.dialog.yes "Áno">
 <!ENTITY about.buttons.credits "Tvorcovia">
-<!ENTITY device.firmware.wizard.check.progress.title "Hľadá sa nová verzia firmvéru…">
+<!ENTITY device.firmware.wizard.check.progress.title "Hľadá sa nová verzia firmvéru...">
 <!ENTITY downloadMediaCmd.accesskey "P">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "Vyberte priečinok v zariadení, kam umiestniť hudobné súbory.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nový zoznam skladieb">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Otvoriť rámec v predvolenom webovom prehliadači">
 <!ENTITY menu.file.newtab.accesskey "t">
-<!ENTITY menu.file.new "Nový zoznam skladieb…">
+<!ENTITY menu.file.new "Nový zoznam skladieb...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "p">
 <!ENTITY menu.edit.copy.accesskey "K">
 <!ENTITY watch_folder.prefs.watch_folder_label "Priečinok:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Prechádzajúca skladba">
 <!ENTITY device.firmware.wizard.support.description "Zdroje s podporou ako Často kladené otázky a tipy na riešenie problémov môžete nájsť na">
 <!ENTITY window.apply "Použiť">
-<!ENTITY menu.file.smart "Nový intelig. zoznam skladieb…">
+<!ENTITY menu.file.smart "Nový intelig. zoznam skladieb...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Zobraziť detaily chýb">
-<!ENTITY device.firmware.wizard.install.title "Inštaluje sa firmvér…">
+<!ENTITY device.firmware.wizard.install.title "Inštaluje sa firmvér...">
 <!ENTITY command.device.canceldeviceupdate.accesskey "Z">
 <!ENTITY menu.control.pause.button "Pozastaviť">
 <!ENTITY trackeditor.tab.summary.title "Zhrnutie">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Eqalizér">
 <!ENTITY import_library.import_command "Importovať knižnicu">
 <!ENTITY cdrip.mediaview.view_tracks_button "Zobraziť stopy">
-<!ENTITY window.browse "Prehľadávať…">
+<!ENTITY window.browse "Prehľadávať...">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Načítavač, ktorý chcete použiť ako prvý, umiestite hore.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
 <!ENTITY smart.songs "položiek">
-<!ENTITY menu.tools.getartwork "Získať obal albumu…">
+<!ENTITY menu.tools.getartwork "Získať obal albumu...">
 <!ENTITY window.cancel "Zrušiť">
 <!ENTITY smart.genre "žáner">
 <!ENTITY menu.file.playlist.accesskey "z">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "k">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Sledovať priečinky">
-<!ENTITY rapi.whitelist.label "Výnimky…">
+<!ENTITY rapi.whitelist.label "Výnimky...">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Otvoriť umiestnenie…">
+<!ENTITY menu.file.url "Otvoriť umiestnenie...">
 <!ENTITY menu.downloadmgr "Preberanie súboru">
 <!ENTITY device.settings.auto_launch.checkbox.label "Spustiť &brandShortName; pri zistení zariadenia">
 <!ENTITY first_run.itunes.checkbox.import.label "Importuj skladby a zoznamy skladieb z programu iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Ďalšia skladba">
 <!ENTITY umsd.video.video_path_browse_msg "Vyberte priečinok v zariadení, kam umiestniť videosúbory.">
-<!ENTITY setupprogress.pleasewait "Čakajte prosím…">
+<!ENTITY setupprogress.pleasewait "Čakajte prosím...">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Jemné">
 <!ENTITY equalizer.preset.large_hall "Veľká hala">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "naposledy prehrávané">
 <!ENTITY command.device.ejectdevice "Vysunúť">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Nastavenie pripojenia…">
+<!ENTITY first_run.connection.settings.button "Nastavenie pripojenia...">
 <!ENTITY import_library.prefs.title "Importovať">
 <!ENTITY hotkeys.action "Akcia">
 <!ENTITY equalizer.preset.classical "Klasické">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY device.management.tabs.music.label "Hudba">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Prihlásiť sa k odberu tohoto rámca…">
+<!ENTITY subscribeMediaFrameCmd.label "Prihlásiť sa k odberu tohoto rámca...">
 <!ENTITY add_on_bundle_installer.error_box.label "Detaily">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "p">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "a">
 <!ENTITY rapi.prefpane.title "Integrácia webu">
-<!ENTITY menu.equalizer "Equalizér…">
+<!ENTITY menu.equalizer "Equalizér...">
 <!ENTITY first_run.add_ons.description.line1 "Doplnky zväčšujú funkcionalitu programu &brandShortName; a umožňujú vám prispôsobiť zážitok z prehrávača médií.">
 <!ENTITY displaypane.name.servicepane "Spodný panel služieb">
-<!ENTITY menu.clearprivatedata "Odstrániť súkromné údaje…">
+<!ENTITY menu.clearprivatedata "Odstrániť súkromné údaje...">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Hľadať">
 <!ENTITY first_run.add_ons.description.line2 "Doplnky sa môžu integrovať s inými aplikáciami a službami, pomôcť s pripojením na externé zariadenia, zmeniť vzhľad a mnoho iného! Môžete si prevziať ďalšie na &brandShortName; stránke doplnkov.">
-<!ENTITY menu.updateCmd.label "Kontrola aktualizácií…">
+<!ENTITY menu.updateCmd.label "Kontrola aktualizácií...">
 <!ENTITY device.firmware.wizard.check.error.description "Pri kontrole aktualizácie firmvéru došlo k chybe. Prosím, skontrolujte vaše pripojenie do internetu a skúste to znova.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitová rýchlosť">
 <!ENTITY displaypane.name.browser "Spodný panel obsahu">
@@ -432,7 +432,7 @@
 <!ENTITY feed.subscribe.label "Prihlásiť sa na odber">
 <!ENTITY tooltip.servicepane.show "Ukázať panel služieb">
 <!ENTITY tooltip.control.stop "Zastaviť">
-<!ENTITY menu.file.remote "Nové prihlásenie…">
+<!ENTITY menu.file.remote "Nové prihlásenie...">
 <!ENTITY menu.file.podcast "Nový podcast">
 <!ENTITY feedback.dialog.sentence2 "Ak nemáte záujem, nebudete o to viac žiadaný. Ďakujeme za zváženie a ceníme si, že ste si vybrali &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Kapacita">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.browse "Choose folder...">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Otvoriť súbor…">
+<!ENTITY menu.file.open "Otvoriť súbor...">
 <!ENTITY command.device.devicesync "Synchronizovať">
 <!ENTITY menu.preferences.accesskey "M">
 <!ENTITY menu.clearprivatedata.accesskey "O">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Produkt">
 <!ENTITY smart.minutes "minút">
 <!ENTITY menu.help.topics "Témy Pomocníka">
-<!ENTITY menu.file.playlist "Importovať zoznam skladieb…">
+<!ENTITY menu.file.playlist "Importovať zoznam skladieb...">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText "">
 <!ENTITY smart.limit "Obmedziť do">
-<!ENTITY menu.file.library "Importovať knižnicu…">
+<!ENTITY menu.file.library "Importovať knižnicu...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "P">
 <!ENTITY tooltip.control.curtrack "Nájsť súčasnú skladbu">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Exportovať príspevky">
 <!ENTITY mediacore.error.title "Chyba jadra médií">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Prejsť na…">
+<!ENTITY menu.control.jumpto "Prejsť na...">
 <!ENTITY menu.tools "Nástroje">
 <!ENTITY device.settings.music.transcoding.label "Transkódovanie hudby">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Vynulovať">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Vyhľadať informácie o CD">
 <!ENTITY tabs.listAllTabs "Zoznam všetkých kariet">
 <!ENTITY rapi.prefpane.access.caption "Webová stránka">
-<!ENTITY menu.file.scan "Importovať médiá…">
+<!ENTITY menu.file.scan "Importovať médiá...">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Import médií">
 <!ENTITY device.firmware.wizard.download.error.description "Pri preberaní aktualizácie firmvéru došlo k chybe. Prosím, skontrolujte vaše pripojenie do internetu a skúste to znova.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferované získané údaje:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Preberá sa nová verzia firmvéru…">
+<!ENTITY device.firmware.wizard.download.title "Preberá sa nová verzia firmvéru...">
 <!ENTITY cdrip.prefpane.format "Naformátovať">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Nastavenia">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Vitajte v programe &brandShortName;">
 <!ENTITY feedback.dialog.title "Pomôžte spraviť &brandShortName; lepším!">
 <!ENTITY window.yes "Áno">
-<!ENTITY subscribeMediaPageCmd.label "Prihlásiť sa k odberu tejto stránky…">
+<!ENTITY subscribeMediaPageCmd.label "Prihlásiť sa k odberu tejto stránky...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Zrušiť">
 <!ENTITY watchfolder.folderlist "Sledovať tieto priečinky pre nové médiá:">

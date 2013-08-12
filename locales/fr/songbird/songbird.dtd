@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Masquer">
 <!ENTITY tooltip.browser.subscription "S&apos;abonner">
 <!ENTITY smart.playlistcondition.library "Bibliothèque">
-<!ENTITY menu.help.bugz "Signaler un problème…">
+<!ENTITY menu.help.bugz "Signaler un problème...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Surveiller les changements dans ce dossier">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Taille réelle">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Couper">
 <!ENTITY mediaimporter.filtered_extensions.title "Notice pour l&apos;importation de médias">
 <!ENTITY tooltip.control.play "Lire">
-<!ENTITY tooltip.browser.mediapages "Affichage…">
+<!ENTITY tooltip.browser.mediapages "Affichage...">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Batterie">
 <!ENTITY menu.edit.delete "Supprimer">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Ne pas importer de média maintenant">
 <!ENTITY feedback.dialog.yes "Oui">
 <!ENTITY about.buttons.credits "Crédits">
-<!ENTITY device.firmware.wizard.check.progress.title "Recherche d&apos;une mise à jour du micrologiciel en cours…">
+<!ENTITY device.firmware.wizard.check.progress.title "Recherche d&apos;une mise à jour du micrologiciel en cours...">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "Vous pouvez ajouter ici l&apos;artiste et  le nom de l&apos;album. Vous pouvez éditer les informations restantes dans la liste de lecture de l&apos;extraction de CD">
 <!ENTITY umsd.music.music_path_browse_msg "Sélectionnez le dossier dans lequel vous voulez placer les fichiers musicaux.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nouvelle liste de lecture">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Ouvrir le cadre dans le navigateur Web par défaut">
 <!ENTITY menu.file.newtab.accesskey "u">
-<!ENTITY menu.file.new "Nouvelle liste de lecture…">
+<!ENTITY menu.file.new "Nouvelle liste de lecture...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Dossier :">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Piste précédente">
 <!ENTITY device.firmware.wizard.support.description "Des ressources de support telles que des foires aux questions et des conseils de dépannage peuvent être trouvées à">
 <!ENTITY window.apply "Appliquer">
-<!ENTITY menu.file.smart "Nouvelle liste de lecture intelligente…">
+<!ENTITY menu.file.smart "Nouvelle liste de lecture intelligente...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Voir le détail des erreurs">
-<!ENTITY device.firmware.wizard.install.title "Installation du micrologiciel…">
+<!ENTITY device.firmware.wizard.install.title "Installation du micrologiciel...">
 <!ENTITY command.device.canceldeviceupdate.accesskey "M">
 <!ENTITY menu.control.pause.button "Pause">
 <!ENTITY trackeditor.tab.summary.title "Résumé">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Égaliseur">
 <!ENTITY import_library.import_command "Importer la bibliothèque">
 <!ENTITY cdrip.mediaview.view_tracks_button "Afficher les pistes">
-<!ENTITY window.browse "Parcourir…">
+<!ENTITY window.browse "Parcourir...">
 <!ENTITY device.tools.restore_device.title "Restaurer l&apos;appareil">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Classez les moteurs de recherche que vous voulez utiliser en priorité au début de la liste.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Pour en savoir plus sur les codecs manquants, veuillez consulter">
 <!ENTITY displaypane.default.image.post "ou visitez le">
 <!ENTITY smart.songs "éléments">
-<!ENTITY menu.tools.getartwork "Obtenir les pochettes…">
+<!ENTITY menu.tools.getartwork "Obtenir les pochettes...">
 <!ENTITY window.cancel "Annuler">
 <!ENTITY smart.genre "genre">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Surveiller les dossiers">
-<!ENTITY rapi.whitelist.label "Exceptions…">
+<!ENTITY rapi.whitelist.label "Exceptions...">
 <!ENTITY menu.updateCmd.accessKey "R">
-<!ENTITY menu.file.url "Ouvrir l&apos;emplacement…">
+<!ENTITY menu.file.url "Ouvrir l&apos;emplacement...">
 <!ENTITY menu.downloadmgr "Téléchargements de fichiers">
 <!ENTITY device.settings.auto_launch.checkbox.label "Ouvrir &brandShortName; lorsque cet appareil est détecté">
 <!ENTITY first_run.itunes.checkbox.import.label "Importer les morceaux et listes de lecture depuis iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "Les Champions de Songbird sont les utilisateurs fanatiques qui sont allés bien au-delà de leur mission pour aider les autres utilisateurs de Songbird sur notre  ">
 <!ENTITY menu.control.next "Piste suivante">
 <!ENTITY umsd.video.video_path_browse_msg "Sélectionnez le dossier dans lequel vous voulez placer les fichiers vidéo.">
-<!ENTITY setupprogress.pleasewait "Merci de patienter…">
+<!ENTITY setupprogress.pleasewait "Merci de patienter...">
 <!ENTITY menu.help.homepage "Site Web de &brandShortName;">
 <!ENTITY equalizer.preset.soft "Doux">
 <!ENTITY equalizer.preset.large_hall "Grande salle">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "plus récemment joué">
 <!ENTITY command.device.ejectdevice "Éjecter">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Ne plus m&apos;alerter désormais lors de l&apos;importation de fichiers dans un format vidéo non pris en charge">
-<!ENTITY first_run.connection.settings.button "Paramètres de connexion…">
+<!ENTITY first_run.connection.settings.button "Paramètres de connexion...">
 <!ENTITY import_library.prefs.title "iTunes">
 <!ENTITY hotkeys.action "Action">
 <!ENTITY equalizer.preset.classical "Classique">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Vidéo au premier plan">
 <!ENTITY device.management.tabs.music.label "Musique">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "S&apos;abonner à ce cadre…">
+<!ENTITY subscribeMediaFrameCmd.label "S&apos;abonner à ce cadre...">
 <!ENTITY add_on_bundle_installer.error_box.label "Détails">
 <!ENTITY smart.gb "Go">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -411,12 +411,12 @@
 <!ENTITY menu.equalizer "Égaliseur…">
 <!ENTITY first_run.add_ons.description.line1 "Les modules complémentaires apportent de nouvelles fonctionnalités à &brandShortName; et vous permettent de personnaliser votre expérience du lecteur média. Les options ci-dessous sont vivement recommandées.">
 <!ENTITY displaypane.name.servicepane "Bas du panneau de services">
-<!ENTITY menu.clearprivatedata "Effacer mes traces…">
+<!ENTITY menu.clearprivatedata "Effacer mes traces...">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Rechercher">
 <!ENTITY first_run.add_ons.description.line2 "Les modules complémentaires peuvent s&apos;intégrer à d&apos;autres services et applications, permettre la connexion d&apos;appareils externes, modifier l&apos;apparence du lecteur et bien d&apos;autres choses encore ! Vous pouvez en télécharger d&apos;autres sur le site des modules complémentaires de &brandShortName;.">
-<!ENTITY menu.updateCmd.label "Rechercher des mises à jour…">
+<!ENTITY menu.updateCmd.label "Rechercher des mises à jour...">
 <!ENTITY device.firmware.wizard.check.error.description "Une erreur est survenue pendant la recherche de mise à jour du micrologiciel. Veuillez vérifier votre connexion au réseau et réessayez.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Débit binaire">
 <!ENTITY displaypane.name.browser "Bas du panneau de contenu">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Souscrire">
 <!ENTITY tooltip.servicepane.show "Afficher le panneau de services">
 <!ENTITY tooltip.control.stop "Stop">
-<!ENTITY menu.file.remote "Nouvelle liste de lecture distante…">
-<!ENTITY menu.file.podcast "Nouveau Podcast…">
+<!ENTITY menu.file.remote "Nouvelle liste de lecture distante...">
+<!ENTITY menu.file.podcast "Nouveau Podcast...">
 <!ENTITY feedback.dialog.sentence2 "Si vous n&apos;êtes pas intéressé, nous ne vous le demanderons plus. Merci de votre intérêt, nous apprécions le fait que vous utilisez &brandShortName; !">
 <!ENTITY mediacore.error.codec_not_found.text.post ".">
 <!ENTITY fetch_album_art.dialog.message "Non implémenté (Voir bogue n°14281)">
@@ -476,7 +476,7 @@
 <!ENTITY device.sync.images.browse "Choisissez un dossier…">
 <!ENTITY displaypane.default.link.post "pour en parcourir la liste.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Ouvrir un fichier…">
+<!ENTITY menu.file.open "Ouvrir un fichier...">
 <!ENTITY command.device.devicesync "Synchroniser">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "E">
@@ -491,13 +491,13 @@
 <!ENTITY device.info.serial_number.label "Numéro de série">
 <!ENTITY device.info.product.label "Produit">
 <!ENTITY smart.minutes "minutes">
-<!ENTITY menu.help.topics "Rubriques d&apos;aide…">
-<!ENTITY menu.file.playlist "Importer une liste de lecture…">
+<!ENTITY menu.help.topics "Rubriques d&apos;aide...">
+<!ENTITY menu.file.playlist "Importer une liste de lecture...">
 <!ENTITY first_run.app_update.finished.title "Mise à jour prête à installer.">
 <!ENTITY device.tools.format_volume.button.label "Formater">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Limiter à">
-<!ENTITY menu.file.library "Importer une bibliothèque…">
+<!ENTITY menu.file.library "Importer une bibliothèque...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Afficher la piste lue">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Exporter les abonnements">
 <!ENTITY mediacore.error.title "Erreur de playback">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Aller à…">
+<!ENTITY menu.control.jumpto "Aller à...">
 <!ENTITY menu.tools "Outils">
 <!ENTITY device.settings.music.transcoding.label "Conversion de musique">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Réinitialiser">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Recherche des informations du CD">
 <!ENTITY tabs.listAllTabs "Lister tous les onglets">
 <!ENTITY rapi.prefpane.access.caption "">
-<!ENTITY menu.file.scan "Importer des médias…">
+<!ENTITY menu.file.scan "Importer des médias...">
 <!ENTITY equalizer.band1.label "60">
 <!ENTITY import_media.prefs.title "Importateur de médias">
 <!ENTITY device.firmware.wizard.download.error.description "Une erreur est survenue pendant le téléchargement de la mise à jour du micrologiciel. Veuillez vérifier votre connexion au réseau et réessayez.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Toutes les photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Données de gain préférées :">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Téléchargement du nouveau micrologiciel en cours…">
+<!ENTITY device.firmware.wizard.download.title "Téléchargement du nouveau micrologiciel en cours...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "Mo">
 <!ENTITY menu.linux.preferences "Préférences">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Bienvenue dans &brandShortName;">
 <!ENTITY feedback.dialog.title "Aidez-nous à améliorer &brandShortName; !">
 <!ENTITY window.yes "Oui">
-<!ENTITY subscribeMediaPageCmd.label "S&apos;abonner à cette page…">
+<!ENTITY subscribeMediaPageCmd.label "S&apos;abonner à cette page...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Interrompre">
 <!ENTITY watchfolder.folderlist "Surveiller ces dossiers pour l&apos;ajout de nouveaux fichiers : ">

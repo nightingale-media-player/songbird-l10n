@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Fjal">
 <!ENTITY tooltip.browser.subscription "Subscribe to this page">
 <!ENTITY smart.playlistcondition.library "Savn">
-<!ENTITY menu.help.bugz "Boða frá breki…">
+<!ENTITY menu.help.bugz "Boða frá breki...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Ansa eftir broytingum í hesi skjáttu">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Verulig stødd">
@@ -107,7 +107,7 @@
 <!ENTITY menu.edit.cut "Strika">
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
 <!ENTITY tooltip.control.play "Spæl">
-<!ENTITY tooltip.browser.mediapages "Skift miðlaskoðan…">
+<!ENTITY tooltip.browser.mediapages "Skift miðlaskoðan...">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
 <!ENTITY device.info.battery.label "Battarí">
 <!ENTITY menu.edit.delete "Strika">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Ikki innflyt miðlafílur">
 <!ENTITY feedback.dialog.yes "Ja">
 <!ENTITY about.buttons.credits "Tøkk til">
-<!ENTITY device.firmware.wizard.check.progress.title "Leitar eftir dagførdum fastbúnaði…">
+<!ENTITY device.firmware.wizard.check.progress.title "Leitar eftir dagførdum fastbúnaði...">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "Vel tóleindarskjáttu at leggja tónleikafílur.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Nýggjan spælilista">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Lat rammu upp í høvuðskaga">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Nýggjan spælilista…">
+<!ENTITY menu.file.new "Nýggjan spælilista...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Skjátta:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Undanfarna spor">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "Apply">
-<!ENTITY menu.file.smart "Nýggjan gløggan spælilista…">
+<!ENTITY menu.file.smart "Nýggjan gløggan spælilista...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "View Error Details">
-<!ENTITY device.firmware.wizard.install.title "Legg nýggjan fastbúnað inn…">
+<!ENTITY device.firmware.wizard.install.title "Legg nýggjan fastbúnað inn...">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "Bíða">
 <!ENTITY trackeditor.tab.summary.title "Samandráttur">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Bandstilling">
 <!ENTITY import_library.import_command "Innflyt savn">
 <!ENTITY cdrip.mediaview.view_tracks_button "Vís sangir">
-<!ENTITY window.browse "Kaga…">
+<!ENTITY window.browse "Kaga...">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Set tað, tú vilt brúka fyrst, ovast á hentilisan.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
 <!ENTITY smart.songs "lutir">
-<!ENTITY menu.tools.getartwork "Finn albummynd…">
+<!ENTITY menu.tools.getartwork "Finn albummynd...">
 <!ENTITY window.cancel "Angra">
 <!ENTITY smart.genre "tónleikaslag">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Ansa eftir skjáttum">
-<!ENTITY rapi.whitelist.label "Undantøk…">
+<!ENTITY rapi.whitelist.label "Undantøk...">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Lat stað upp…">
+<!ENTITY menu.file.url "Lat stað upp...">
 <!ENTITY menu.downloadmgr "Fíluniðurtøkur">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Innflyt spor og spælilistar frá iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Næsta spor">
 <!ENTITY umsd.video.video_path_browse_msg "Vel tóleindarskjáttu at leggja videofílur.">
-<!ENTITY setupprogress.pleasewait "Vinarliga bíða…">
+<!ENTITY setupprogress.pleasewait "Vinarliga bíða...">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Bleytt">
 <!ENTITY equalizer.preset.large_hall "Stór høll">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "seinast spællt">
 <!ENTITY command.device.ejectdevice "Trýst út">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Stillingar fyri netsamband…">
+<!ENTITY first_run.connection.settings.button "Stillingar fyri netsamband...">
 <!ENTITY import_library.prefs.title "Inn-/útflyt iTunes">
 <!ENTITY hotkeys.action "Gerð">
 <!ENTITY equalizer.preset.classical "Klassiskt">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY device.management.tabs.music.label "Tónleikur">
 <!ENTITY equalizer.preset.pop "Poppur">
-<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame…">
+<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
 <!ENTITY add_on_bundle_installer.error_box.label "Upplýsingar">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Vevsamkoyring">
-<!ENTITY menu.equalizer "Bandstillingar…">
+<!ENTITY menu.equalizer "Bandstillingar...">
 <!ENTITY first_run.add_ons.description.line1 "Áløgur vaksa um virkisførið hjá &brandShortName; og loyva tær at laga tína uppliving av miðlaavspæling til tín. Valmøguleikarnir niðanfyri eru harðliga tilmæltir.">
 <!ENTITY displaypane.name.servicepane "Tænasturútur til botns">
-<!ENTITY menu.clearprivatedata "Rudda privatar upplýsingar…">
+<!ENTITY menu.clearprivatedata "Rudda privatar upplýsingar...">
 <!ENTITY window.ok "Í lagi">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Finn">
 <!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application&apos;s appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY menu.updateCmd.label "Leita eftir dagføringum…">
+<!ENTITY menu.updateCmd.label "Leita eftir dagføringum...">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Innihaldsrútur til botns">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Tekna hald">
 <!ENTITY tooltip.servicepane.show "Vís tænasturút">
 <!ENTITY tooltip.control.stop "Steðga">
-<!ENTITY menu.file.remote "Nýtt hald…">
-<!ENTITY menu.file.podcast "Nýtt Podcast…">
+<!ENTITY menu.file.remote "Nýtt hald...">
+<!ENTITY menu.file.podcast "Nýtt Podcast...">
 <!ENTITY feedback.dialog.sentence2 "Hevur tað ikki áhuga, so spyrja vit ikki aftur. Takk fyri umhugsanina, og vit eru takksom fyri, at tú brúkar &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Megni">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.browse "Choose folder...">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Lat fílu upp…">
+<!ENTITY menu.file.open "Lat fílu upp...">
 <!ENTITY command.device.devicesync "Samstilla">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -492,12 +492,12 @@
 <!ENTITY device.info.product.label "Vøra">
 <!ENTITY smart.minutes "minuttir">
 <!ENTITY menu.help.topics "Hjálp eftir evni">
-<!ENTITY menu.file.playlist "Innflyt spælilista…">
+<!ENTITY menu.file.playlist "Innflyt spælilista...">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText " .">
 <!ENTITY smart.limit "Avmarka til">
-<!ENTITY menu.file.library "Innflyt savn…">
+<!ENTITY menu.file.library "Innflyt savn...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Finn verandi spor">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Útflyt høld">
 <!ENTITY mediacore.error.title "Miðlakjarnubrek">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Leyp til…">
+<!ENTITY menu.control.jumpto "Leyp til...">
 <!ENTITY menu.tools "Tól">
 <!ENTITY device.settings.music.transcoding.label "Music Conversion">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Nullstilla">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Lookup CD Information">
 <!ENTITY tabs.listAllTabs "Vís øll spjøldur">
 <!ENTITY rapi.prefpane.access.caption "Vevsamkoyringsloyvi">
-<!ENTITY menu.file.scan "Innflyt miðlafílur…">
+<!ENTITY menu.file.scan "Innflyt miðlafílur...">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Miðlafíluinnflyting">
 <!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Allar myndir">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Tekur nýggjan fastbúnað niður…">
+<!ENTITY device.firmware.wizard.download.title "Tekur nýggjan fastbúnað niður...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Stillingar">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Vælkomin til &brandShortName;">
 <!ENTITY feedback.dialog.title "Hjálp okkum at gera &brandShortName; betri!">
 <!ENTITY window.yes "Ja">
-<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page…">
+<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Angra">
 <!ENTITY watchfolder.folderlist "Hygg eftir nýggjum miðlafílum í hesum skjáttum:">

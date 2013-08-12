@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Fshih">
 <!ENTITY tooltip.browser.subscription "Abonohu tek kjo faqe">
 <!ENTITY smart.playlistcondition.library "Biblioteka">
-<!ENTITY menu.help.bugz "Reporto një Gabim…">
+<!ENTITY menu.help.bugz "Reporto një Gabim...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Vëzhgo këtë dosje për ndryshime">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Actual Size">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Mos importo asgjë">
 <!ENTITY feedback.dialog.yes "Po">
 <!ENTITY about.buttons.credits "Informacione">
-<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware…">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
 <!ENTITY umsd.music.music_path_browse_msg "Zgjidh dosjen e njësisë në të cilën do të vendosen skedarët muzikorë.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Listë Riprodhimi e re">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Hape kornizën tek Shfletuesi i Parazgjedhur i Internetit">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Listë Riprodhimi e re…">
+<!ENTITY menu.file.new "Listë Riprodhimi e re...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Dosja:">
@@ -152,10 +152,10 @@
 <!ENTITY menu.control.prev "Kënga e Mëparshme">
 <!ENTITY device.firmware.wizard.support.description "Support resources such as FAQs and troubleshooting tips can be found at">
 <!ENTITY window.apply "Apply">
-<!ENTITY menu.file.smart "Listë Riprodhimi Inteligjente e Re…">
+<!ENTITY menu.file.smart "Listë Riprodhimi Inteligjente e Re...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "View Error Details">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY menu.control.pause.button "Pauzë">
 <!ENTITY trackeditor.tab.summary.title "Përmbledhja">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Equalizer">
 <!ENTITY import_library.import_command "Importo një Bibliotekë">
 <!ENTITY cdrip.mediaview.view_tracks_button "View Tracks">
-<!ENTITY window.browse "Shfleto…">
+<!ENTITY window.browse "Shfleto...">
 <!ENTITY device.tools.restore_device.title "Restore Device">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY displaypane.default.image.post "menu or visit the">
 <!ENTITY smart.songs "këngë">
-<!ENTITY menu.tools.getartwork "Gjej kopertinën e albumit…">
+<!ENTITY menu.tools.getartwork "Gjej kopertinën e albumit...">
 <!ENTITY window.cancel "Anulo">
 <!ENTITY smart.genre "zhanri">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -199,9 +199,9 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Vëzhgo Dosjet">
-<!ENTITY rapi.whitelist.label "Përjashtimet…">
+<!ENTITY rapi.whitelist.label "Përjashtimet...">
 <!ENTITY menu.updateCmd.accessKey "o">
-<!ENTITY menu.file.url "Hap një pozicion…">
+<!ENTITY menu.file.url "Hap një pozicion...">
 <!ENTITY menu.downloadmgr "Shkarkimet e skedarëve">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY first_run.itunes.checkbox.import.label "Import music tracks and playlists from iTunes">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Kënga e Mëpasshme">
 <!ENTITY umsd.video.video_path_browse_msg "Zgjidh dosjen e njësisë në të cilën do të vendosen skedarët video.">
-<!ENTITY setupprogress.pleasewait "Të lutem prit…">
+<!ENTITY setupprogress.pleasewait "Të lutem prit...">
 <!ENTITY menu.help.homepage "&brandShortName; Website">
 <!ENTITY equalizer.preset.soft "Soft">
 <!ENTITY equalizer.preset.large_hall "Large Hall">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "riprodhuar së fundmi">
 <!ENTITY command.device.ejectdevice "Shkëpute">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-<!ENTITY first_run.connection.settings.button "Parametrat e lidhjes…">
+<!ENTITY first_run.connection.settings.button "Parametrat e lidhjes...">
 <!ENTITY import_library.prefs.title "iTunes">
 <!ENTITY hotkeys.action "Veprimi">
 <!ENTITY equalizer.preset.classical "Klasike">
@@ -334,7 +334,7 @@
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY device.management.tabs.music.label "Muzikë">
 <!ENTITY equalizer.preset.pop "Pop">
-<!ENTITY subscribeMediaFrameCmd.label "Abonohu tek kjo frame…">
+<!ENTITY subscribeMediaFrameCmd.label "Abonohu tek kjo frame...">
 <!ENTITY add_on_bundle_installer.error_box.label "Detajet">
 <!ENTITY smart.gb "GB">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Integrimi me web">
-<!ENTITY menu.equalizer "Equalizer…">
+<!ENTITY menu.equalizer "Equalizer...">
 <!ENTITY first_run.add_ons.description.line1 "Shtesat shtojnë funksionet e &brandShortName;-it, duke të të dhënë mundësinë që të përshtasësh përdorimin e riprodhuesit tënd të mediave. Parametrat e mëposhtme këshillohen.">
 <!ENTITY displaypane.name.servicepane "Zona e poshtme e shërbimit">
-<!ENTITY menu.clearprivatedata "Pastro të dhënat private…">
+<!ENTITY menu.clearprivatedata "Pastro të dhënat private...">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Gjej">
 <!ENTITY first_run.add_ons.description.line2 "Shtesat mund të integrohen me programe dhe shërbime të tjera, bëjnë njësitë e jashtme të përputhshme, ndryshojnë pamjen e programit dhe të tjera! Mund të shkarkosh të tjera tek faqja e Shtesave e &brandShortName;-it.">
-<!ENTITY menu.updateCmd.label "Kontrollo përditësimet…">
+<!ENTITY menu.updateCmd.label "Kontrollo përditësimet...">
 <!ENTITY device.firmware.wizard.check.error.description "There was an error while checking for new firmware. Please verify your network connection and try again.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Zona e poshtme e përmbajtes">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Abonohu">
 <!ENTITY tooltip.servicepane.show "Trego Zonën e Shërbimit">
 <!ENTITY tooltip.control.stop "Ndal">
-<!ENTITY menu.file.remote "Abonim i ri…">
-<!ENTITY menu.file.podcast "New Podcast…">
+<!ENTITY menu.file.remote "Abonim i ri...">
+<!ENTITY menu.file.podcast "New Podcast...">
 <!ENTITY feedback.dialog.sentence2 "Nqse nuk të intereson, nuk do të të pyesim më. Të falenderojmë për konsideracionin dhe e çmojmë faktin që po përdor &brandShortName;!">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "E paprogramuar. (Shiko Gabimin 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Kapaciteti">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.browse "Choose folder...">
 <!ENTITY displaypane.default.link.post "to browse add-ons.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Hap një skedar…">
+<!ENTITY menu.file.open "Hap një skedar...">
 <!ENTITY command.device.devicesync "Sinkronizo">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "P">
@@ -491,13 +491,13 @@
 <!ENTITY device.info.serial_number.label "Numri Serial">
 <!ENTITY device.info.product.label "Product">
 <!ENTITY smart.minutes "minuta">
-<!ENTITY menu.help.topics "Temat e Ndihmës…">
-<!ENTITY menu.file.playlist "Importo një Listë Riprodhimi…">
+<!ENTITY menu.help.topics "Temat e Ndihmës...">
+<!ENTITY menu.file.playlist "Importo një Listë Riprodhimi...">
 <!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
 <!ENTITY device.tools.format_volume.button.label "Format">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Limiti është">
-<!ENTITY menu.file.library "Importo një Bibliotekë…">
+<!ENTITY menu.file.library "Importo një Bibliotekë...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY tooltip.control.curtrack "Gjej këngën e tanishme">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Export subscriptions">
 <!ENTITY mediacore.error.title "Gabim i Mediacore">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Shko Tek…">
+<!ENTITY menu.control.jumpto "Shko Tek...">
 <!ENTITY menu.tools "Veglat">
 <!ENTITY device.settings.music.transcoding.label "Music Conversion">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
@@ -537,7 +537,7 @@
 <!ENTITY command.device.lookup "Lookup CD Information">
 <!ENTITY tabs.listAllTabs "Lista e të gjitha skedave">
 <!ENTITY rapi.prefpane.access.caption "Web Integration Permissions">
-<!ENTITY menu.file.scan "Importo media…">
+<!ENTITY menu.file.scan "Importo media...">
 <!ENTITY equalizer.band1.label "64">
 <!ENTITY import_media.prefs.title "Importuesi i Mediave">
 <!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
@@ -602,7 +602,7 @@
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY smart.least_recent "riprodhuar së hershmi">
 <!ENTITY menu.tools.getartwork.accesskey "G">
-<!ENTITY menu.help.about "Mbi &brandShortName;-in…">
+<!ENTITY menu.help.about "Mbi &brandShortName;-in...">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY menu.file.closetab.accesskey "C">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "All photos">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Downloading new firmware…">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Preferencat">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Mirësevjen tek &brandShortName;">
 <!ENTITY feedback.dialog.title "Ndihmo për një &brandShortName; më të mirë!">
 <!ENTITY window.yes "Po">
-<!ENTITY subscribeMediaPageCmd.label "Abonohu tek kjo faqe…">
+<!ENTITY subscribeMediaPageCmd.label "Abonohu tek kjo faqe...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Anulo">
 <!ENTITY watchfolder.folderlist "Vëzhgo këto dosje për skedarë multimedialë të rinj:">

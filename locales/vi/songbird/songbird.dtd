@@ -8,7 +8,7 @@
 <!ENTITY tooltip.hide "Ẩn">
 <!ENTITY tooltip.browser.subscription "Đăng kí vào trang này">
 <!ENTITY smart.playlistcondition.library "Thư viện">
-<!ENTITY menu.help.bugz "Báo cáo lỗi…">
+<!ENTITY menu.help.bugz "Báo cáo lỗi...">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Xem xét sự thay đổi của thư mục này">
 <!ENTITY equalizer.band3.label "250">
 <!ENTITY videowindow.actualsize "Kích Thước Thật">
@@ -129,7 +129,7 @@
 <!ENTITY first_run.import_media.radio.dont_import.label "Đừng nhập thiết bị">
 <!ENTITY feedback.dialog.yes "Có">
 <!ENTITY about.buttons.credits "Công trạng">
-<!ENTITY device.firmware.wizard.check.progress.title "Đang kiểm tra cập nhật cho firmware…">
+<!ENTITY device.firmware.wizard.check.progress.title "Đang kiểm tra cập nhật cho firmware...">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY cdrip.lookup.info_not_found.descr "Bạn có thể thêm tên ca sĩ và anbum tại đây. Bạn có thể thay đổi thông tin trong danh sách Sao CD">
 <!ENTITY umsd.music.music_path_browse_msg "Lựa chọn thư mục chứa các file nhạc cho thiết bị.">
@@ -141,7 +141,7 @@
 <!ENTITY tooltip.servicepane.newnode "Danh sách nhạc mới">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Mở khung này bằng trình duyệt Web mặc định">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.new "Danh sách nhạc mới…">
+<!ENTITY menu.file.new "Danh sách nhạc mới...">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY menu.edit.copy.accesskey "C">
 <!ENTITY watch_folder.prefs.watch_folder_label "Thư mục:">
@@ -152,7 +152,7 @@
 <!ENTITY menu.control.prev "Bài hát trước">
 <!ENTITY device.firmware.wizard.support.description "Cái tài liệu hỗ trợ như FAQs và mẹo xử lý vấn đề có thể được tìm thấy tại">
 <!ENTITY window.apply "Áp dụng">
-<!ENTITY menu.file.smart "Danh sách nhạc thông minh mới…">
+<!ENTITY menu.file.smart "Danh sách nhạc thông minh mới...">
 <!ENTITY menu.edit.cut.key "X">
 <!ENTITY device.error.dialog.link "Xem chi tiết lỗi">
 <!ENTITY device.firmware.wizard.install.title "Đang cài đặt firmware">
@@ -170,13 +170,13 @@
 <!ENTITY equalizer.title "Equalizer">
 <!ENTITY import_library.import_command "Nhập Thư Viện">
 <!ENTITY cdrip.mediaview.view_tracks_button "Xem các bản nhạc">
-<!ENTITY window.browse "Duyệt…">
+<!ENTITY window.browse "Duyệt...">
 <!ENTITY device.tools.restore_device.title "Khôi phục thiết bị">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Sắp xếp danh sách trình tìm kiếm (fetcher) bạn muốn dùng trước lên trên đầu.">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Để có thêm thông tin về codec bị thiếu, hãy xem">
 <!ENTITY displaypane.default.image.post "menu hoặc ghé thăm">
 <!ENTITY smart.songs "bài hát">
-<!ENTITY menu.tools.getartwork "Lấy Hình Bìa Album…">
+<!ENTITY menu.tools.getartwork "Lấy Hình Bìa Album...">
 <!ENTITY window.cancel "Hủy bỏ">
 <!ENTITY smart.genre "thể loại">
 <!ENTITY menu.file.playlist.accesskey "I">
@@ -199,7 +199,7 @@
 <!ENTITY menu.file.library.accesskey "P">
 <!ENTITY locationbar.key "L">
 <!ENTITY watchfolder.title "Theo dõi (các) thư mục">
-<!ENTITY rapi.whitelist.label "Ngoại lệ…">
+<!ENTITY rapi.whitelist.label "Ngoại lệ...">
 <!ENTITY menu.updateCmd.accessKey "U">
 <!ENTITY menu.file.url "Mở từ URL">
 <!ENTITY menu.downloadmgr "Tải tập tin">
@@ -272,7 +272,7 @@
 <!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
 <!ENTITY menu.control.next "Bài hát tiếp theo">
 <!ENTITY umsd.video.video_path_browse_msg "Lựa chọn thư mục chứa các file video cho thiết bị.">
-<!ENTITY setupprogress.pleasewait "Xin hãy đợi…">
+<!ENTITY setupprogress.pleasewait "Xin hãy đợi...">
 <!ENTITY menu.help.homepage "Website &brandShortName;">
 <!ENTITY equalizer.preset.soft "Nhẹ">
 <!ENTITY equalizer.preset.large_hall "Sảnh lớn">
@@ -281,7 +281,7 @@
 <!ENTITY smart.most_recent "gần đây nhất">
 <!ENTITY command.device.ejectdevice "Ngắt kết nối">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Không thông báo cho tôi về tập tin video không được hỗ trợ trong lần nhập tới">
-<!ENTITY first_run.connection.settings.button "Đang thiết lập kết nối…">
+<!ENTITY first_run.connection.settings.button "Đang thiết lập kết nối...">
 <!ENTITY import_library.prefs.title "Trình nhập iTune">
 <!ENTITY hotkeys.action "Hành động">
 <!ENTITY equalizer.preset.classical "Cổ điển">
@@ -408,15 +408,15 @@
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY rapi.prefpane.title "Tích hợp Web (Web Integration)">
-<!ENTITY menu.equalizer "Equalizer…">
+<!ENTITY menu.equalizer "Equalizer...">
 <!ENTITY first_run.add_ons.description.line1 "Phần bổ sung mở rộng chức năng của &brandShortName;, cho phép bạn tùy biến trải nghiệm âm nhạc. Các tùy chọn bên dưới rất được khuyến khích.">
 <!ENTITY displaypane.name.servicepane "Ô dịch vụ đáy">
-<!ENTITY menu.clearprivatedata "Xóa thông tin cá nhân…">
+<!ENTITY menu.clearprivatedata "Xóa thông tin cá nhân...">
 <!ENTITY window.ok "OK">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY menu.edit.find "Tìm kiếm">
 <!ENTITY first_run.add_ons.description.line2 "Phần mở rộng có thể tích hợp với những ứng dụng và dịch vụ khác, hỗ trợ kết nối với thiết bị ngoài, thay đổi giao diện chương trình và hơn thế nữa! Bạn có thể tải về tại &brandShortName; trang Phần mở rộng.">
-<!ENTITY menu.updateCmd.label "Cập nhật…">
+<!ENTITY menu.updateCmd.label "Cập nhật...">
 <!ENTITY device.firmware.wizard.check.error.description "Có lỗi trong khi kiểm tra firmware mới. Vui lòng kiểm tra kết nối mạng của bạn và thử lại lần nữa.">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY displaypane.name.browser "Ô nội dung đáy">
@@ -432,8 +432,8 @@
 <!ENTITY feed.subscribe.label "Đang kí">
 <!ENTITY tooltip.servicepane.show "Hiện Bảng dịch vụ">
 <!ENTITY tooltip.control.stop "Dừng hoàn toàn">
-<!ENTITY menu.file.remote "Đăng kí mới…">
-<!ENTITY menu.file.podcast "Podcast mới…">
+<!ENTITY menu.file.remote "Đăng kí mới...">
+<!ENTITY menu.file.podcast "Podcast mới...">
 <!ENTITY feedback.dialog.sentence2 "Nếu bạn không hào hứng, chúng tôi sẽ không làm phiền lại. Cảm ơn đã xem xét và chúng tôi rất cảm kích khi bạn sử dụng &brandShortName;! ">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!ENTITY fetch_album_art.dialog.message "Hiện chưa được vận hành. (Xem lỗi 14281)">
@@ -473,10 +473,10 @@
 <!ENTITY device.info.capacity.label "Dung lượng">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
-<!ENTITY device.sync.images.browse "Chọn thư mục…">
+<!ENTITY device.sync.images.browse "Chọn thư mục...">
 <!ENTITY displaypane.default.link.post "để duyệt tiện ích.">
 <!ENTITY menu.control.play.accesskey "P">
-<!ENTITY menu.file.open "Mở tập tin…">
+<!ENTITY menu.file.open "Mở tập tin...">
 <!ENTITY command.device.devicesync "Đồng bộ">
 <!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.clearprivatedata.accesskey "X">
@@ -497,7 +497,7 @@
 <!ENTITY device.tools.format_volume.button.label "Định dạng">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY smart.limit "Giới hạn đến">
-<!ENTITY menu.file.library "Nhập thư viện…">
+<!ENTITY menu.file.library "Nhập thư viện...">
 <!ENTITY command.device.formatdevice.accesskey "F">
 <!ENTITY wizard.button.next.accesskey "T">
 <!ENTITY tooltip.control.curtrack "Tìm bài hát hiện tại">
@@ -529,7 +529,7 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Xuất các bản đăng ký">
 <!ENTITY mediacore.error.title "Lỗi Mediacore">
 <!ENTITY prefs.homepage.url.accesskey "">
-<!ENTITY menu.control.jumpto "Chuyển tới…">
+<!ENTITY menu.control.jumpto "Chuyển tới...">
 <!ENTITY menu.tools "Công cụ">
 <!ENTITY device.settings.music.transcoding.label "Đang chuyển mã nhạc">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Cài đặt lại">
@@ -631,7 +631,7 @@
 <!ENTITY device.sync.images.all.label "Tất cả các ảnh">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Dữ liệu gain ưa thích:">
 <!ENTITY menu.edit.find.key "F">
-<!ENTITY device.firmware.wizard.download.title "Đang tải xuống firmware mới…">
+<!ENTITY device.firmware.wizard.download.title "Đang tải xuống firmware mới...">
 <!ENTITY cdrip.prefpane.format "Định dạng">
 <!ENTITY smart.mb "MB">
 <!ENTITY menu.linux.preferences "Sở thích">
@@ -652,7 +652,7 @@
 <!ENTITY first_run.welcome.header.label "Chào mừng đến với &brandShortName;">
 <!ENTITY feedback.dialog.title "Giúp &brandShortName; tốt hơn!">
 <!ENTITY window.yes "Có">
-<!ENTITY subscribeMediaPageCmd.label "Đăng kí trang này…">
+<!ENTITY subscribeMediaPageCmd.label "Đăng kí trang này...">
 <!ENTITY menu.file.new.key "N">
 <!ENTITY command.device.cancel "Hủy bỏ">
 <!ENTITY watchfolder.folderlist "Theo dõi thư mục này để tìm các file giải trí mới:">

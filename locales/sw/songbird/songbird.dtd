@@ -17,7 +17,7 @@
 <!ENTITY trackeditor.next.key "N">
 <!ENTITY first_run.DLNA.point "To turn Media Sharing on or off, open the dialog by clicking on the Media Sharing icon (circled) in the &brandShortName; statusbar.">
 <!ENTITY menu.control.repa "Repeat All">
-<!ENTITY menu.file.scan "Import Media…">
+<!ENTITY menu.file.scan "Import Media...">
 <!ENTITY menu.edit.undo.accesskey "U">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
 <!ENTITY command.device.ignoredevice.accesskey "I">
@@ -25,7 +25,7 @@
 <!ENTITY albumartpreferences.prefpane.priorities.down "Chini">
 <!ENTITY command.device.ejectdevice "Toa">
 <!ENTITY smart.to "to">
-<!ENTITY menu.file.playlist "Import a Playlist…">
+<!ENTITY menu.file.playlist "Import a Playlist...">
 <!ENTITY menu.edit.find.key "F">
 <!ENTITY device.capacity.music.label "Muziki">
 <!ENTITY export_smartplaylists_itunes_checkbox "Export music smart playlists">
@@ -85,7 +85,7 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Kuvuna CD kukiisha cheza sauti ya tahadhari">
 <!ENTITY device.sync.auto_sync.label "Sync">
 <!ENTITY smart.limit "Limit to">
-<!ENTITY menu.clearprivatedata "Clear Private Data…">
+<!ENTITY menu.clearprivatedata "Clear Private Data...">
 <!ENTITY menu.viewpagesource.key "U">
 <!ENTITY menu.tools.getartwork "Pata picha ya Albamu">
 <!ENTITY device.error.dialog.link "Angalia Taarifa Ya Kina Ya Makosa">
@@ -130,7 +130,7 @@
 <!ENTITY equalizer.preset.full_bass_treble "Sauti nzito na nyembamba kabisa">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY device.info.battery.label "Betri">
-<!ENTITY menu.file.url "Open Location…">
+<!ENTITY menu.file.url "Open Location...">
 <!ENTITY command.device.devicesync.accesskey "S">
 <!ENTITY menu.control.play.button "Cheza">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Maelezo ya Utoaji">
@@ -164,14 +164,14 @@
 <!ENTITY smart.following "of the following conditions:">
 <!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
 <!ENTITY menu.help.topics "Help Topics">
-<!ENTITY menu.file.smart "New Smart Playlist…">
-<!ENTITY menu.file.remote "New Subscription…">
+<!ENTITY menu.file.smart "New Smart Playlist...">
+<!ENTITY menu.file.remote "New Subscription...">
 <!ENTITY device.unsupported_media.dialog.title "Incompatible Files Detected">
 <!ENTITY import_library.prefs.path_group_caption "iTunes Music Library Location">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
 <!ENTITY menu.control.repx "Repeat None">
 <!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page…">
+<!ENTITY subscribeMediaPageCmd.label "Subscribe To This Page...">
 <!ENTITY menu.help "Help">
 <!ENTITY menu.file.newtab "New Tab">
 <!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
@@ -190,7 +190,7 @@
 <!ENTITY smart.gb "GB">
 <!ENTITY menu.videotofront "Video to Front">
 <!ENTITY menu.switchplayercontrols "Player Controls">
-<!ENTITY menu.file.library "Import a Library…">
+<!ENTITY menu.file.library "Import a Library...">
 <!ENTITY displaypane.name.browser "Content Pane Bottom">
 <!ENTITY device.sync.sync_selected.label "Sync selected playlists:">
 <!ENTITY window.browser.titledefault "">
@@ -213,7 +213,7 @@
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;&apos;s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
 <!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Hamna orodha ya Nyimbo&gt;">
-<!ENTITY device.firmware.wizard.download.title "Downloading new firmware…">
+<!ENTITY device.firmware.wizard.download.title "Downloading new firmware...">
 <!ENTITY openImageCmdInDefaultBrowser.label "Open Image In Default Web Browser">
 <!ENTITY menu.mac.exit.modifiers "accel">
 <!ENTITY menu.errorconsole "Error Console">
@@ -279,7 +279,7 @@
 <!ENTITY first_run.feedback.metrics.description "Metrics are completely anonymous and no personal information is collected.">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Andika Picha Ya Albamu Kwenye Meta Data">
 <!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY menu.help.bugz "Report a Bug…">
+<!ENTITY menu.help.bugz "Report a Bug...">
 <!ENTITY mediapage.next.key "S">
 <!ENTITY command.device.lookup "Tafuta Maelezo ya CD">
 <!ENTITY first_run.itunes.checkbox.export.label "Export new music tracks and playlists to iTunes">
@@ -308,7 +308,7 @@
 <!ENTITY umsd.music.music_path_desc "When copying music files to the device, place them within the following directory:">
 <!ENTITY menu.edit.redo.key "Y">
 <!ENTITY equalizer.preset.dance "Dance">
-<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.browse "Choose folder...">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
 <!ENTITY mediacore.error.preface "&brandShortName; has encountered the following playback error(s):">
@@ -353,7 +353,7 @@
 <!ENTITY command.device.canceldevicedelete "Ahirisha Kufuta">
 <!ENTITY playback.prefpane.audio_output.buffer "Output Buffer:">
 <!ENTITY menu.view "View">
-<!ENTITY menu.file.podcast "New Podcast…">
+<!ENTITY menu.file.podcast "New Podcast...">
 <!ENTITY command.device.canceldevicesync.accesskey "C">
 <!ENTITY menu.edit.cut "Kata">
 <!ENTITY device.sync.images.all.label "All photos">
@@ -398,7 +398,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.info.icon.device "Generic device icon">
 <!ENTITY menu.edit.copy "Nakili">
 <!ENTITY sanitize.keycode "VK_DELETE">
-<!ENTITY menu.updateCmd.label "Check for Updates…">
+<!ENTITY menu.updateCmd.label "Check for Updates...">
 <!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY menu.file.closetab.key "W">
 <!ENTITY device.tools.product_registration.title "Usajili wa Bidhaa">
@@ -433,7 +433,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.file.open.accesskey "O">
 <!ENTITY import_library.dialog.title "Import a library">
 <!ENTITY menu.control.prev.accesskey "R">
-<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware…">
+<!ENTITY device.firmware.wizard.check.progress.title "Checking for updated firmware...">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY cdrip.mediaview.cd_rip_settings_label "Vipimo vya Kuvuna CD">
 <!ENTITY window.save "Save">
@@ -457,7 +457,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY tabs.closeTab "Close tab">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10.">
 <!ENTITY tooltip.close "Close">
-<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame…">
+<!ENTITY subscribeMediaFrameCmd.label "Subscribe To This Frame...">
 <!ENTITY menu.tools.reveal.accesskey "F">
 <!ENTITY menu.file.mini.key "M">
 <!ENTITY menu.edit.copy.accesskey "C">
@@ -491,14 +491,14 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY device.sync.sync_all.label "Sync all media and playlists">
 <!ENTITY locationbar.key "L">
 <!ENTITY smart.most_recent "most recently played">
-<!ENTITY menu.file.new "New Playlist…">
+<!ENTITY menu.file.new "New Playlist...">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY device.settings.music.transcoding.format.label "Encoding format">
-<!ENTITY menu.control.jumpto "Jump To…">
+<!ENTITY menu.control.jumpto "Jump To...">
 <!ENTITY window.browser.titlepreface "">
 <!ENTITY trackeditor.prev.key "P">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
-<!ENTITY menu.equalizer "Equalizer…">
+<!ENTITY menu.equalizer "Equalizer...">
 <!ENTITY menu.edit.paste.accesskey "P">
 <!ENTITY device.repair.menuitem.default "Repair my device">
 <!ENTITY menu.tools.reveal.modifiers "accel,shift">
@@ -548,7 +548,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY bookmarkPage.key "D">
 <!ENTITY equalizer.preset.large_hall "Ukumbi Mkubwa">
 <!ENTITY device.info.capacity.label "Ujazo">
-<!ENTITY device.firmware.wizard.install.title "Installing firmware…">
+<!ENTITY device.firmware.wizard.install.title "Installing firmware...">
 <!ENTITY device.management.tabs.video.label "Video">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY videowindow.fullscreen.key "F">
@@ -569,7 +569,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY menu.edit.delete.accesskey "D">
 <!ENTITY device.info.friendly_name.label "Jina">
 <!ENTITY tooltip.browser.subscription "Subscribe to this page">
-<!ENTITY rapi.whitelist.label "Exceptions…">
+<!ENTITY rapi.whitelist.label "Exceptions...">
 <!ENTITY rapi.library_write_disable.label "Block websites from adding/editing media and playlists in my Library and devices">
 <!ENTITY openPageCmdInDefaultBrowser.label "Open Page In Default Web Browser">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Open Frame In Default Web Browser">
@@ -603,7 +603,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY subscribe.destinationfolder "Select destination folder:">
 <!ENTITY device.firmware.wizard.check.page.title "Check for Updated Firmware">
 <!ENTITY equalizer.preset.reggae "Reggae">
-<!ENTITY window.browse "Browse…">
+<!ENTITY window.browse "Browse...">
 <!ENTITY umsd.prefpane "USB">
 <!ENTITY tooltip.servicepane.newnode "New Playlist">
 <!ENTITY tooltip.minimize "Minimize">
@@ -613,7 +613,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY watch_folder.prefs.watch_folder_label "Folder:">
 <!ENTITY menu.help.bugz.accesskey "B">
 <!ENTITY smart.album "album">
-<!ENTITY setupprogress.pleasewait "Please wait…">
+<!ENTITY setupprogress.pleasewait "Please wait...">
 <!ENTITY rapi.prefpane.title "Web Integration">
 <!ENTITY menu.file.exit.accesskey "X">
 <!ENTITY menu.file.accesskey "F">
@@ -662,7 +662,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY command.device.canceldevicecopy "Ahirisha Kunakili">
 <!ENTITY device.management.tabs.tools.label "Zana">
 <!ENTITY device.tools.format_device.title "Format Device">
-<!ENTITY menu.file.open "Open File…">
+<!ENTITY menu.file.open "Open File...">
 <!ENTITY watch_folder.prefs.description "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
 <!ENTITY subscribe.days "Day(s)">
 <!ENTITY smart.playlistcondition.library "Maktaba">
@@ -684,7 +684,7 @@ Some hotkey combinations must include modifier keys to minimize unwanted interfe
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Orodha mpya ya Nyimbo">
 <!ENTITY about.credits.footer.linkText "Wachangiaji">
 <!ENTITY export_tracks_itunes_checkbox "Peleka nyimbo kwenye iTunes">
-<!ENTITY tooltip.browser.mediapages "Switch Media Views…">
+<!ENTITY tooltip.browser.mediapages "Switch Media Views...">
 <!ENTITY equalizer.title "Equalizer">
 <!ENTITY add_on_bundle_installer.error_box.label "Maelezo ya kina">
 <!ENTITY device.firmware.wizard.repair.time.description "This operation should take less than 5 minutes.">
